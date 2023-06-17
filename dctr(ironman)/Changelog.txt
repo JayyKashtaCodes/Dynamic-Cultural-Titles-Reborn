@@ -1,0 +1,27 @@
+Goal: Any generic languages is no longer a generic language
+
+NOTE!
+I will not mention everything that is done, as that is shown in the localization file itself. 
+I will however show here what area has been the focus of each update.
+
+V.0.6
+	Bugfixes
+	Ethiopian culture inspired by "Ethiopian Localisation" mod.
+V.0.5
+	Certain Historical nicknames have been changed to its roots
+V.0.4
+	BIG PATCH - Added very many titles to many cultures!
+	Made Arabic changes inspired by "No More Sultans" mod.
+	Made Russian changes inspired by "Russian Titles" mod, as well as from feedback. Their Tribal forms are still weird & unaccurate I think.
+V.0.3
+	Vlach/Romanian culture requested & suggested by xRobzah
+	Court titles translated for German, French, Spanish & Italian.
+	Translation for several Arabic titles is added
+V.0.2
+	Slavic Tribal Focus Update
+V.0.1
+	Central Germanic Focus update
+V.0.0
+	Title names for each Language or Language group
+	Holy war names for Norse language
+	Some Mercenaries have their name from their origins.

@@ -1,0 +1,632 @@
+###########################################################
+################### West Slavic ###########################
+###########################################################
+############## West Slavic is Polish ######################
+
+polish;Polski;;;;;;;;;;;;;x
+k_poland;Polska;;;;;;;;;;;;;x
+k_bohemia;Czech;;;;;;;;;;;;;x
+e_wendish_empire;Zachód-Slowianska;;;;;;;;;;;;;x
+e_wendish_empire_adj;Zachód Slowianska;;;;;;;;;;;;;x
+
+kingdom_of_west_slavic;Království;;;;;;;;;;;;;x
+
+emperor_west_slavic;Cesarz;;;;;;;;;;;;;x
+emperor_female_west_slavic;Cesarzowa;;;;;;;;;;;;;x
+king_west_slavic;Król;;;;;;;;;;;;;x
+king_female_west_slavic;Królowa;;;;;;;;;;;;;x
+title_prince_west_slavic;Ksiaze;;;;;;;;;;;;;x
+title_prince_female_west_slavic;Ksiezniczka;;;;;;;;;;;;;x
+duke_west_slavic;Ksiaze;;;;;;;;;;;;;x
+duke_female_west_slavic;Ksiezna;;;;;;;;;;;;;x
+count_west_slavic;Hrabia;;;;;;;;;;;;;x
+count_female_west_slavic;Hrabina;;;;;;;;;;;;;x
+baron_west_slavic;Kasztelan;;;;;;;;;;;;;x
+baron_female_west_slavic;Kasztelanka;;;;;;;;;;;;;x
+city_baron_west_slavic;Burmistrz;;;;;;;;;;;;;x
+
+empire_of_west_slavic;Cesarstwo;;;;;;;;;;;;;x
+kingdom_of_west_slavic;Królestwo;;;;;;;;;;;;;x
+duchy_of_west_slavic;Ksiestwo;;;;;;;;;;;;;x
+county_of_west_slavic;Hrabstwo;;;;;;;;;;;;;x
+barony_of_west_slavic;Kasztelania;;;;;;;;;;;;;x
+city_barony_of_west_slavic;Miasto;;;;;;;;;;;;;x
+
+tribal_king_west_slavic;Król;;;;;;;;;;;;;x
+tribal_king_female_west_slavic;Królowa;;;;;;;;;;;;;x
+tribal_duke_west_slavic;Wysoki Wódz;;;;;;;;;;;;;x
+tribal_count_west_slavic;Wódz;;;;;;;;;;;;;x
+
+job_chancellor_west_slavic;Kanclerz;;;;;;;;;;;;;x
+job_marshal_west_slavic;Marszalek;;;;;;;;;;;;;x
+job_treasurer_west_slavic;Namiestnik;;;;;;;;;;;;;x
+job_spymaster_west_slavic;Mistrz szpiegów;;;;;;;;;;;;;x
+
+POPE_west_slavic;Papiez;;;;;;;;;;;;;x
+
+
+###########################################
+############## Bohemian ###################
+###########################################
+
+emperor_bohemian;Císar;;;;;;;;;;;;;x
+emperor_female_bohemian;Císarovna;;;;;;;;;;;;;x
+king_bohemian;Král;;;;;;;;;;;;;x
+king_female_bohemian;Královna;;;;;;;;;;;;;x
+duke_bohemian;Vévoda;;;;;;;;;;;;;x
+duke_female_bohemian;Vévodkyne;;;;;;;;;;;;;x
+count_bohemian;Hrabe;;;;;;;;;;;;;x
+count_female_bohemian;Hrabenka;;;;;;;;;;;;;x
+baron_bohemian;Baron;;;;;;;;;;;;;x
+baron_female_bohemian;Baronka;;;;;;;;;;;;;x
+
+tribal_count_bohemian;Vudce;;;;;;;;;;;;;x
+
+POPE_bohemian;Papež;;;;;;;;;;;;;x
+
+###########################################################
+################### East Slavic ###########################
+###########################################################
+############### East Slavic is Russian ####################
+
+e_russia;Russkoye Tsarstvo;;;;;;;;;;;;;x
+create_russian_empire_desc;Holding the Tsardom of Rus is not enough – some are starting to think that 'the Empire of Russia' has a better ring to it...;Détenir l'empire des Rus' ne suffit pas – certains commencent à penser que « l'Empire de Russie » est mieux...;"Es reicht nicht aus, das Reich der Rus zu halten. Einige beginnen zu glauben, dass ""Russland"" einen besseren Klang hat ...";;"Mantener el Imperio de la Rus no parece suficiente y algunos empiezan a pensar que ""Imperio de Rusia"" sonaría mejor…";;;;;;;;;;;;;x
+russian;Russkiy;;;;;;;;;;;;;x
+
+empire_east_slavic;Tsardom;;;;;;;;;;;;;x
+empire_of_east_slavic;Tsardom;;;;;;;;;;;;;x
+kingdom_east_slavic;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+kingdom_of_east_slavic;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+duchy_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
+duchy_of_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
+county_east_slavic;Grafstvo;;;;;;;;;;;;;x
+county_of_east_slavic;Grafstvo;;;;;;;;;;;;;x
+baron_east_slavic;Votchinnik;;;;;;;;;;;;;x
+baron_female_east_slavic;Votchinnitsa;;;;;;;;;;;;;x
+barony_east_slavic;Votchina;;;;;;;;;;;;;x
+barony_of_east_slavic;Votchina;;;;;;;;;;;;;x
+
+council_east_slavic;Duma;;;;;;;;;;;;;x
+job_chancellor_east_slavic;Kantsler;;;;;;;;;;;;;x
+job_marshal_east_slavic;Druzhinnik;;;;;;;;;;;;;x
+job_treasurer_east_slavic;Kaznachey;;;;;;;;;;;;;x
+job_spymaster_east_slavic;Master Shpionov;;;;;;;;;;;;;x
+
+RETINUE_OF_east_slavic;Druzhina of $CHARACTER$;;;;;;;;;;;;;x
+
+emperor_east_slavic;Tsar';;;;;;;;;;;;;x
+emperor_female_east_slavic;Tsaritsa;;;;;;;;;;;;;x
+king_east_slavic;Velikiy Knyaz';;;;;;;;;;;;;x
+king_female_east_slavic;Velikaya Knyaginya;;;;;;;;;;;;;x
+duke_east_slavic;Knyaz';;;;;;;;;;;;;x
+duke_female_east_slavic;Knyaginya;;;;;;;;;;;;;x
+count_east_slavic;Udel'niy Knyaz';;;;;;;;;;;;;x
+count_female_east_slavic;Udel'naya Knyaginya;;;;;;;;;;;;;x
+baron_east_slavic;Votchinnik;;;;;;;;;;;;;x
+baron_female_east_slavic;Votchinnitsa;;;;;;;;;;;;;x
+
+emperor_title_prince_east_slavic;Tsarevich;;;;;;;;;;;;;x
+emperor_title_prince_female_east_slavic;Tsarevna;;;;;;;;;;;;;x
+king_title_prince_east_slavic;Knyazhich;;;;;;;;;;;;;x
+king_title_prince_female_east_slavic;Knyazhna;;;;;;;;;;;;;x
+duke_title_prince_east_slavic;Knyazhich;;;;;;;;;;;;;x
+duke_title_prince_female_east_slavic;Knyazhna;;;;;;;;;;;;;x
+count_title_prince_east_slavic;Knyazhich;;;;;;;;;;;;;x
+count_title_prince_female_east_slavic;Knyazhna;;;;;;;;;;;;;x
+title_prince_east_slavic;Prints;;;;;;;;;;;;;x
+title_prince_female_east_slavic;Printsessa;;;;;;;;;;;;;x
+
+vice_royalty_king_east_slavic;Namestnik;;;;;;;;;;;;;x
+vice_royalty_king_female_east_slavic;Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_kingdom_east_slavic;Namestnichestvo;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_east_slavic;Namestnichestvo;;;;;;;;;;;;;x
+
+vice_royalty_duke_east_slavic;Knyaz Namestniks;;;;;;;;;;;;;x
+vice_royalty_duke_female_east_slavic;Knyaginya Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_duchy_east_slavic;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+vice_royalty_duchy_of_east_slavic;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+
+family_palace_baron_east_slavic;Boyarin;;;;;;;;;;;;;x
+family_palace_baron_female_east_slavic;Boyarynya;;;;;;;;;;;;;x
+
+city_king_east_slavic;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
+city_king_female_east_slavic;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
+city_kingdom_east_slavic;Veliky;;;;;;;;;;;;;x
+city_kingdom_of_east_slavic;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+
+city_duke_east_slavic;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duke_female_east_slavic;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duchy_east_slavic;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duchy_of_east_slavic;Gorodskoy Respublika;;;;;;;;;;;;;x
+
+city_count_east_slavic;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_count_female_east_slavic;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_county_east_slavic;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_county_of_east_slavic;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+
+city_east_slavic;Gorod;;;;;;;;;;;;;x
+city_of_east_slavic;Gorod;;;;;;;;;;;;;x
+city_baron_east_slavic;Gorodskoy Golova;;;;;;;;;;;;;x
+city_baron_female_east_slavic;Gorodskoy Golova;;;;;;;;;;;;;x
+city_barony_east_slavic;Gorodskoy;;;;;;;;;;;;;x
+city_barony_of_east_slavic;Gorodskoy;;;;;;;;;;;;;x
+
+tribal_king_east_slavic;Knyaz';;;;;;;;;;;;;x
+tribal_king_female_east_slavic;Knyaginya;;;;;;;;;;;;;x
+tribal_duke_east_slavic;Ataman;;;;;;;;;;;;;x
+tribal_duke_female_east_slavic;Gertsoginya;;;;;;;;;;;;;x
+tribal_count_east_slavic;Glavnyy;;;;;;;;;;;;;x
+tribal_count_female_east_slavic;Grafinya;;;;;;;;;;;;;x
+
+tribal_kingdom_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_east_slavic;Uyezd;;;;;;;;;;;;;x
+tribal_county_east_slavic;Volost;;;;;;;;;;;;;x
+
+tribal_kingdom_of_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_of_east_slavic;Uyezd;;;;;;;;;;;;;x
+tribal_county_of_east_slavic;Volost;;;;;;;;;;;;;x
+
+
+POPE_east_slavic;Papa;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_east_slavic;Vselenskiy Patriarkh;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_east_slavic;Anatol' Patriarkh;;;;;;;;;;;;;x
+COPTIC_POPE_east_slavic;Papa Aleksandreas;;;;;;;;;;;;;x
+
+#######################################################################################
+####################### East Slav - Russian ###########################################
+#######################################################################################
+
+empire_russian;Tsardom;;;;;;;;;;;;;x
+empire_of_russian;Tsardom;;;;;;;;;;;;;x
+kingdom_russian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+kingdom_of_russian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+duchy_russian;Knyazhestvo;;;;;;;;;;;;;x
+duchy_of_russian;Knyazhestvo;;;;;;;;;;;;;x
+county_russian;Grafstvo;;;;;;;;;;;;;x
+county_of_russian;Grafstvo;;;;;;;;;;;;;x
+baron_russian;Votchinnik;;;;;;;;;;;;;x
+baron_female_russian;Votchinnitsa;;;;;;;;;;;;;x
+barony_russian;Votchina;;;;;;;;;;;;;x
+barony_of_russian;Votchina;;;;;;;;;;;;;x
+
+council_russian;Duma;;;;;;;;;;;;;x
+job_chancellor_russian;Kantsler;;;;;;;;;;;;;x
+job_marshal_russian;Druzhinnik;;;;;;;;;;;;;x
+job_treasurer_russian;Kaznachey;;;;;;;;;;;;;x
+job_spymaster_russian;Master Shpionov;;;;;;;;;;;;;x
+
+RETINUE_OF_russian;Druzhina of $CHARACTER$;;;;;;;;;;;;;x
+
+emperor_russian;Tsar';;;;;;;;;;;;;x
+emperor_female_russian;Tsaritsa;;;;;;;;;;;;;x
+king_russian;Velikiy Knyaz';;;;;;;;;;;;;x
+king_female_russian;Velikaya Knyaginya;;;;;;;;;;;;;x
+duke_russian;Knyaz';;;;;;;;;;;;;x
+duke_female_russian;Knyaginya;;;;;;;;;;;;;x
+count_russian;Udel'niy Knyaz';;;;;;;;;;;;;x
+count_female_russian;Udel'naya Knyaginya;;;;;;;;;;;;;x
+baron_russian;Votchinnik;;;;;;;;;;;;;x
+baron_female_russian;Votchinnitsa;;;;;;;;;;;;;x
+
+emperor_title_prince_russian;Tsarevich;;;;;;;;;;;;;x
+emperor_title_prince_female_russian;Tsarevna;;;;;;;;;;;;;x
+king_title_prince_russian;Knyazhich;;;;;;;;;;;;;x
+king_title_prince_female_russian;Knyazhna;;;;;;;;;;;;;x
+duke_title_prince_russian;Knyazhich;;;;;;;;;;;;;x
+duke_title_prince_female_russian;Knyazhna;;;;;;;;;;;;;x
+count_title_prince_russian;Knyazhich;;;;;;;;;;;;;x
+count_title_prince_female_russian;Knyazhna;;;;;;;;;;;;;x
+title_prince_russian;Prints;;;;;;;;;;;;;x
+title_prince_female_russian;Printsessa;;;;;;;;;;;;;x
+
+vice_royalty_king_russian;Namestnik;;;;;;;;;;;;;x
+vice_royalty_king_female_russian;Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_kingdom_russian;Namestnichestvo;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_russian;Namestnichestvo;;;;;;;;;;;;;x
+
+vice_royalty_duke_russian;Knyaz Namestniks;;;;;;;;;;;;;x
+vice_royalty_duke_female_russian;Knyaginya Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_duchy_russian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+vice_royalty_duchy_of_russian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+
+family_palace_baron_russian;Boyarin;;;;;;;;;;;;;x
+family_palace_baron_female_russian;Boyarynya;;;;;;;;;;;;;x
+
+city_king_russian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
+city_king_female_russian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
+city_kingdom_russian;Veliky;;;;;;;;;;;;;x
+city_kingdom_of_russian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+
+city_duke_russian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duke_female_russian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duchy_russian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duchy_of_russian;Gorodskoy Respublika;;;;;;;;;;;;;x
+
+city_count_russian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_count_female_russian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_county_russian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_county_of_russian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+
+city_russian;Gorod;;;;;;;;;;;;;x
+city_of_russian;Gorod;;;;;;;;;;;;;x
+city_baron_russian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_baron_female_russian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_barony_russian;Gorodskoy;;;;;;;;;;;;;x
+city_barony_of_russian;Gorodskoy;;;;;;;;;;;;;x
+
+tribal_king_russian;Knyaz';;;;;;;;;;;;;x
+tribal_king_female_russian;Knyaginya;;;;;;;;;;;;;x
+tribal_duke_russian;Ataman;;;;;;;;;;;;;x
+tribal_duke_female_russian;Gertsoginya;;;;;;;;;;;;;x
+tribal_count_russian;Glavnyy;;;;;;;;;;;;;x
+tribal_count_female_russian;Grafinya;;;;;;;;;;;;;x
+
+tribal_kingdom_russian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_russian;Uyezd;;;;;;;;;;;;;x
+tribal_county_russian;Volost;;;;;;;;;;;;;x
+
+tribal_kingdom_of_russian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_of_russian;Uyezd;;;;;;;;;;;;;x
+tribal_county_of_russian;Volost;;;;;;;;;;;;;x
+
+
+POPE_russian;Papa;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_russian;Vselenskiy Patriarkh;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_russian;Anatol' Patriarkh;;;;;;;;;;;;;x
+COPTIC_POPE_russian;Papa Aleksandreas;;;;;;;;;;;;;x
+
+
+#######################################################################################
+####################### East Slav - Ilmenian ##########################################
+#######################################################################################
+
+
+empire_ilmenian;Tsardom;;;;;;;;;;;;;x
+empire_of_ilmenian;Tsardom;;;;;;;;;;;;;x
+kingdom_ilmenian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+kingdom_of_ilmenian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+duchy_ilmenian;Knyazhestvo;;;;;;;;;;;;;x
+duchy_of_ilmenian;Knyazhestvo;;;;;;;;;;;;;x
+county_ilmenian;Grafstvo;;;;;;;;;;;;;x
+county_of_ilmenian;Grafstvo;;;;;;;;;;;;;x
+baron_ilmenian;Votchinnik;;;;;;;;;;;;;x
+baron_female_ilmenian;Votchinnitsa;;;;;;;;;;;;;x
+barony_ilmenian;Votchina;;;;;;;;;;;;;x
+barony_of_ilmenian;Votchina;;;;;;;;;;;;;x
+
+council_ilmenian;Duma;;;;;;;;;;;;;x
+job_chancellor_ilmenian;Kantsler;;;;;;;;;;;;;x
+job_marshal_ilmenian;Druzhinnik;;;;;;;;;;;;;x
+job_treasurer_ilmenian;Kaznachey;;;;;;;;;;;;;x
+job_spymaster_ilmenian;Master Shpionov;;;;;;;;;;;;;x
+
+RETINUE_OF_ilmenian;Druzhina of $CHARACTER$;;;;;;;;;;;;;x
+
+emperor_ilmenian;Tsar';;;;;;;;;;;;;x
+emperor_female_ilmenian;Tsaritsa;;;;;;;;;;;;;x
+king_ilmenian;Velikiy Knyaz';;;;;;;;;;;;;x
+king_female_ilmenian;Velikaya Knyaginya;;;;;;;;;;;;;x
+duke_ilmenian;Knyaz';;;;;;;;;;;;;x
+duke_female_ilmenian;Knyaginya;;;;;;;;;;;;;x
+count_ilmenian;Udel'niy Knyaz';;;;;;;;;;;;;x
+count_female_ilmenian;Udel'naya Knyaginya;;;;;;;;;;;;;x
+baron_ilmenian;Votchinnik;;;;;;;;;;;;;x
+baron_female_ilmenian;Votchinnitsa;;;;;;;;;;;;;x
+
+emperor_title_prince_ilmenian;Tsarevich;;;;;;;;;;;;;x
+emperor_title_prince_female_ilmenian;Tsarevna;;;;;;;;;;;;;x
+king_title_prince_ilmenian;Knyazhich;;;;;;;;;;;;;x
+king_title_prince_female_ilmenian;Knyazhna;;;;;;;;;;;;;x
+duke_title_prince_ilmenian;Knyazhich;;;;;;;;;;;;;x
+duke_title_prince_female_ilmenian;Knyazhna;;;;;;;;;;;;;x
+count_title_prince_ilmenian;Knyazhich;;;;;;;;;;;;;x
+count_title_prince_female_ilmenian;Knyazhna;;;;;;;;;;;;;x
+title_prince_ilmenian;Prints;;;;;;;;;;;;;x
+title_prince_female_ilmenian;Printsessa;;;;;;;;;;;;;x
+
+vice_royalty_king_ilmenian;Namestnik;;;;;;;;;;;;;x
+vice_royalty_king_female_ilmenian;Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_kingdom_ilmenian;Namestnichestvo;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_ilmenian;Namestnichestvo;;;;;;;;;;;;;x
+
+vice_royalty_duke_ilmenian;Knyaz Namestniks;;;;;;;;;;;;;x
+vice_royalty_duke_female_ilmenian;Knyaginya Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_duchy_ilmenian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+vice_royalty_duchy_of_ilmenian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+
+family_palace_baron_ilmenian;Boyarin;;;;;;;;;;;;;x
+family_palace_baron_female_ilmenian;Boyarynya;;;;;;;;;;;;;x
+
+city_king_ilmenian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
+city_king_female_ilmenian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
+city_kingdom_ilmenian;Veliky;;;;;;;;;;;;;x
+city_kingdom_of_ilmenian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+
+city_duke_ilmenian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duke_female_ilmenian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duchy_ilmenian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duchy_of_ilmenian;Gorodskoy Respublika;;;;;;;;;;;;;x
+
+city_count_ilmenian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_count_female_ilmenian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_county_ilmenian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_county_of_ilmenian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+
+city_ilmenian;Gorod;;;;;;;;;;;;;x
+city_of_ilmenian;Gorod;;;;;;;;;;;;;x
+city_baron_ilmenian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_baron_female_ilmenian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_barony_ilmenian;Gorodskoy;;;;;;;;;;;;;x
+city_barony_of_ilmenian;Gorodskoy;;;;;;;;;;;;;x
+
+tribal_king_ilmenian;Knyaz';;;;;;;;;;;;;x
+tribal_king_female_ilmenian;Knyaginya;;;;;;;;;;;;;x
+tribal_duke_ilmenian;Ataman;;;;;;;;;;;;;x
+tribal_duke_female_ilmenian;Gertsoginya;;;;;;;;;;;;;x
+tribal_count_ilmenian;Glavnyy;;;;;;;;;;;;;x
+tribal_count_female_ilmenian;Grafinya;;;;;;;;;;;;;x
+
+tribal_kingdom_ilmenian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_ilmenian;Uyezd;;;;;;;;;;;;;x
+tribal_county_ilmenian;Volost;;;;;;;;;;;;;x
+
+tribal_kingdom_of_ilmenian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_of_ilmenian;Uyezd;;;;;;;;;;;;;x
+tribal_county_of_ilmenian;Volost;;;;;;;;;;;;;x
+
+
+POPE_ilmenian;Papa;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_ilmenian;Vselenskiy Patriarkh;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_ilmenian;Anatol' Patriarkh;;;;;;;;;;;;;x
+COPTIC_POPE_ilmenian;Papa Aleksandreas;;;;;;;;;;;;;x
+
+
+#######################################################################################
+####################### East Slav - Severian ##########################################
+#######################################################################################
+
+
+empire_severian;Tsardom;;;;;;;;;;;;;x
+empire_of_severian;Tsardom;;;;;;;;;;;;;x
+kingdom_severian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+kingdom_of_severian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+duchy_severian;Knyazhestvo;;;;;;;;;;;;;x
+duchy_of_severian;Knyazhestvo;;;;;;;;;;;;;x
+county_severian;Grafstvo;;;;;;;;;;;;;x
+county_of_severian;Grafstvo;;;;;;;;;;;;;x
+baron_severian;Votchinnik;;;;;;;;;;;;;x
+baron_female_severian;Votchinnitsa;;;;;;;;;;;;;x
+barony_severian;Votchina;;;;;;;;;;;;;x
+barony_of_severian;Votchina;;;;;;;;;;;;;x
+
+council_severian;Duma;;;;;;;;;;;;;x
+job_chancellor_severian;Kantsler;;;;;;;;;;;;;x
+job_marshal_severian;Druzhinnik;;;;;;;;;;;;;x
+job_treasurer_severian;Kaznachey;;;;;;;;;;;;;x
+job_spymaster_severian;Master Shpionov;;;;;;;;;;;;;x
+
+RETINUE_OF_severian;Druzhina of $CHARACTER$;;;;;;;;;;;;;x
+
+emperor_severian;Tsar';;;;;;;;;;;;;x
+emperor_female_severian;Tsaritsa;;;;;;;;;;;;;x
+king_severian;Velikiy Knyaz';;;;;;;;;;;;;x
+king_female_severian;Velikaya Knyaginya;;;;;;;;;;;;;x
+duke_severian;Knyaz';;;;;;;;;;;;;x
+duke_female_severian;Knyaginya;;;;;;;;;;;;;x
+count_severian;Udel'niy Knyaz';;;;;;;;;;;;;x
+count_female_severian;Udel'naya Knyaginya;;;;;;;;;;;;;x
+baron_severian;Votchinnik;;;;;;;;;;;;;x
+baron_female_severian;Votchinnitsa;;;;;;;;;;;;;x
+
+emperor_title_prince_severian;Tsarevich;;;;;;;;;;;;;x
+emperor_title_prince_female_severian;Tsarevna;;;;;;;;;;;;;x
+king_title_prince_severian;Knyazhich;;;;;;;;;;;;;x
+king_title_prince_female_severian;Knyazhna;;;;;;;;;;;;;x
+duke_title_prince_severian;Knyazhich;;;;;;;;;;;;;x
+duke_title_prince_female_severian;Knyazhna;;;;;;;;;;;;;x
+count_title_prince_severian;Knyazhich;;;;;;;;;;;;;x
+count_title_prince_female_severian;Knyazhna;;;;;;;;;;;;;x
+title_prince_severian;Prints;;;;;;;;;;;;;x
+title_prince_female_severian;Printsessa;;;;;;;;;;;;;x
+
+vice_royalty_king_severian;Namestnik;;;;;;;;;;;;;x
+vice_royalty_king_female_severian;Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_kingdom_severian;Namestnichestvo;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_severian;Namestnichestvo;;;;;;;;;;;;;x
+
+vice_royalty_duke_severian;Knyaz Namestniks;;;;;;;;;;;;;x
+vice_royalty_duke_female_severian;Knyaginya Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_duchy_severian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+vice_royalty_duchy_of_severian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+
+family_palace_baron_severian;Boyarin;;;;;;;;;;;;;x
+family_palace_baron_female_severian;Boyarynya;;;;;;;;;;;;;x
+
+city_king_severian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
+city_king_female_severian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
+city_kingdom_severian;Veliky;;;;;;;;;;;;;x
+city_kingdom_of_severian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+
+city_duke_severian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duke_female_severian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duchy_severian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duchy_of_severian;Gorodskoy Respublika;;;;;;;;;;;;;x
+
+city_count_severian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_count_female_severian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_county_severian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_county_of_severian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+
+city_severian;Gorod;;;;;;;;;;;;;x
+city_of_severian;Gorod;;;;;;;;;;;;;x
+city_baron_severian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_baron_female_severian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_barony_severian;Gorodskoy;;;;;;;;;;;;;x
+city_barony_of_severian;Gorodskoy;;;;;;;;;;;;;x
+
+tribal_king_severian;Knyaz';;;;;;;;;;;;;x
+tribal_king_female_severian;Knyaginya;;;;;;;;;;;;;x
+tribal_duke_severian;Ataman;;;;;;;;;;;;;x
+tribal_duke_female_severian;Gertsoginya;;;;;;;;;;;;;x
+tribal_count_severian;Glavnyy;;;;;;;;;;;;;x
+tribal_count_female_severian;Grafinya;;;;;;;;;;;;;x
+
+tribal_kingdom_severian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_severian;Uyezd;;;;;;;;;;;;;x
+tribal_county_severian;Volost;;;;;;;;;;;;;x
+
+tribal_kingdom_of_severian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_of_severian;Uyezd;;;;;;;;;;;;;x
+tribal_county_of_severian;Volost;;;;;;;;;;;;;x
+
+
+POPE_severian;Papa;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_severian;Vselenskiy Patriarkh;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_severian;Anatol' Patriarkh;;;;;;;;;;;;;x
+COPTIC_POPE_severian;Papa Aleksandreas;;;;;;;;;;;;;x
+
+
+#######################################################################################
+####################### East Slav - Volhynian #########################################
+#######################################################################################
+
+
+empire_volhynian;Tsardom;;;;;;;;;;;;;x
+empire_of_volhynian;Tsardom;;;;;;;;;;;;;x
+kingdom_volhynian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+kingdom_of_volhynian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
+duchy_volhynian;Knyazhestvo;;;;;;;;;;;;;x
+duchy_of_volhynian;Knyazhestvo;;;;;;;;;;;;;x
+county_volhynian;Grafstvo;;;;;;;;;;;;;x
+county_of_volhynian;Grafstvo;;;;;;;;;;;;;x
+baron_volhynian;Votchinnik;;;;;;;;;;;;;x
+baron_female_volhynian;Votchinnitsa;;;;;;;;;;;;;x
+barony_volhynian;Votchina;;;;;;;;;;;;;x
+barony_of_volhynian;Votchina;;;;;;;;;;;;;x
+
+council_volhynian;Duma;;;;;;;;;;;;;x
+job_chancellor_volhynian;Kantsler;;;;;;;;;;;;;x
+job_marshal_volhynian;Druzhinnik;;;;;;;;;;;;;x
+job_treasurer_volhynian;Kaznachey;;;;;;;;;;;;;x
+job_spymaster_volhynian;Master Shpionov;;;;;;;;;;;;;x
+
+RETINUE_OF_volhynian;Druzhina of $CHARACTER$;;;;;;;;;;;;;x
+
+emperor_volhynian;Tsar';;;;;;;;;;;;;x
+emperor_female_volhynian;Tsaritsa;;;;;;;;;;;;;x
+king_volhynian;Velikiy Knyaz';;;;;;;;;;;;;x
+king_female_volhynian;Velikaya Knyaginya;;;;;;;;;;;;;x
+duke_volhynian;Knyaz';;;;;;;;;;;;;x
+duke_female_volhynian;Knyaginya;;;;;;;;;;;;;x
+count_volhynian;Udel'niy Knyaz';;;;;;;;;;;;;x
+count_female_volhynian;Udel'naya Knyaginya;;;;;;;;;;;;;x
+baron_volhynian;Votchinnik;;;;;;;;;;;;;x
+baron_female_volhynian;Votchinnitsa;;;;;;;;;;;;;x
+
+emperor_title_prince_volhynian;Tsarevich;;;;;;;;;;;;;x
+emperor_title_prince_female_volhynian;Tsarevna;;;;;;;;;;;;;x
+king_title_prince_volhynian;Knyazhich;;;;;;;;;;;;;x
+king_title_prince_female_volhynian;Knyazhna;;;;;;;;;;;;;x
+duke_title_prince_volhynian;Knyazhich;;;;;;;;;;;;;x
+duke_title_prince_female_volhynian;Knyazhna;;;;;;;;;;;;;x
+count_title_prince_volhynian;Knyazhich;;;;;;;;;;;;;x
+count_title_prince_female_volhynian;Knyazhna;;;;;;;;;;;;;x
+title_prince_volhynian;Prints;;;;;;;;;;;;;x
+title_prince_female_volhynian;Printsessa;;;;;;;;;;;;;x
+
+vice_royalty_king_volhynian;Namestnik;;;;;;;;;;;;;x
+vice_royalty_king_female_volhynian;Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_kingdom_volhynian;Namestnichestvo;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_volhynian;Namestnichestvo;;;;;;;;;;;;;x
+
+vice_royalty_duke_volhynian;Knyaz Namestniks;;;;;;;;;;;;;x
+vice_royalty_duke_female_volhynian;Knyaginya Namestnitsa;;;;;;;;;;;;;x
+vice_royalty_duchy_volhynian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+vice_royalty_duchy_of_volhynian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
+
+family_palace_baron_volhynian;Boyarin;;;;;;;;;;;;;x
+family_palace_baron_female_volhynian;Boyarynya;;;;;;;;;;;;;x
+
+city_king_volhynian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
+city_king_female_volhynian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
+city_kingdom_volhynian;Veliky;;;;;;;;;;;;;x
+city_kingdom_of_volhynian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+
+city_duke_volhynian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duke_female_volhynian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
+city_duchy_volhynian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duchy_of_volhynian;Gorodskoy Respublika;;;;;;;;;;;;;x
+
+city_count_volhynian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_count_female_volhynian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
+city_county_volhynian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_county_of_volhynian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+
+city_volhynian;Gorod;;;;;;;;;;;;;x
+city_of_volhynian;Gorod;;;;;;;;;;;;;x
+city_baron_volhynian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_baron_female_volhynian;Gorodskoy Golova;;;;;;;;;;;;;x
+city_barony_volhynian;Gorodskoy;;;;;;;;;;;;;x
+city_barony_of_volhynian;Gorodskoy;;;;;;;;;;;;;x
+
+tribal_king_volhynian;Knyaz';;;;;;;;;;;;;x
+tribal_king_female_volhynian;Knyaginya;;;;;;;;;;;;;x
+tribal_duke_volhynian;Ataman;;;;;;;;;;;;;x
+tribal_duke_female_volhynian;Gertsoginya;;;;;;;;;;;;;x
+tribal_count_volhynian;Glavnyy;;;;;;;;;;;;;x
+tribal_count_female_volhynian;Grafinya;;;;;;;;;;;;;x
+
+tribal_kingdom_volhynian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_volhynian;Uyezd;;;;;;;;;;;;;x
+tribal_county_volhynian;Volost;;;;;;;;;;;;;x
+
+tribal_kingdom_of_volhynian;Knyazhestvo;;;;;;;;;;;;;x
+tribal_duchy_of_volhynian;Uyezd;;;;;;;;;;;;;x
+tribal_county_of_volhynian;Volost;;;;;;;;;;;;;x
+
+
+POPE_volhynian;Papa;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_volhynian;Vselenskiy Patriarkh;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_volhynian;Anatol' Patriarkh;;;;;;;;;;;;;x
+COPTIC_POPE_volhynian;Papa Aleksandreas;;;;;;;;;;;;;x
+
+###########################################################
+################## South Slavic ###########################
+###########################################################
+######### South Slavic is everyone but Bulgarian ##########
+
+k_serbia;Srbija;;;;;;;;;;;;;x
+k_croatia;Hrvatska;;;;;;;;;;;;;x
+serbian;Srbin;;;;;;;;;;;;;x
+
+emperor_south_slavic;Tzar;;;;;;;;;;;;;x
+emperor_female_south_slavic;Tzaritza;;;;;;;;;;;;;x
+king_south_slavic;Kralj;;;;;;;;;;;;;x
+king_female_south_slavic;Kraljica;;;;;;;;;;;;;x
+title_prince_south_slavic;Princ;;;;;;;;;;;;;x
+title_prince_female_south_slavic;Princeza;;;;;;;;;;;;;x
+duke_south_slavic;Zupan;;;;;;;;;;;;;x
+count_south_slavic;Grof;;;;;;;;;;;;;x
+
+tribal_king_south_slavic;Knez;;;;;;;;;;;;;x
+tribal_king_female_south_slavic;Kneginja;;;;;;;;;;;;;x
+tribal_duke_south_slavic;Veliki Zupan;;;;;;;;;;;;;x
+tribal_duke_female_south_slavic;Kneginja;;;;;;;;;;;;;x
+tribal_count_south_slavic;Zupan;;;;;;;;;;;;;x
+
+POPE_south_slavic;Papa;;;;;;;;;;;;;x
+
+###########################################################
+################## Bulgarian ##############################
+###########################################################
+###########################################################
+
+e_bulgaria;Balgarija;;;;;;;;;;;;;x
+k_bulgaria;Balgarija;;;;;;;;;;;;;x
+bulgarian;Bulgarin;;;;;;;;;;;;;x
+
+king_bulgarian;Knyaz;;;;;;;;;;;;;x
+king_female_bulgarian;Knyaginya;;;;;;;;;;;;;x
+tribal_count_bulgarian;Vožd;;;;;;;;;;;;;x
+
+POPE_bulgarian;Papa;;;;;;;;;;;;;x

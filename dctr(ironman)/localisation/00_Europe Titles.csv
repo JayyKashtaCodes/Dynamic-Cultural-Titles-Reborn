@@ -1,0 +1,1355 @@
+#######################################################################################
+############# Everything until North Germanic is not yet Sorted!!! ####################
+#######################################################################################
+
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;;;;;;;;;;;;;x
+
+###########################################################
+################ North Germanic ###########################
+###########################################################
+
+north_germanic;Skandinavisk;;;;;;;;;;;;;x
+
+#######################################
+############# Norse ###################
+#######################################
+
+e_scandinavia;Norrœnland;;;;;;;;;;;;;x
+e_scandinavia_adj;Norrøn;;;;;;;;;;;;;x
+norse;Norrøna;;;;;;;;;;;;;x
+
+empire_norse;Ríki;;;;;;;;;;;;;x
+kingdom_norse;Ríki;;;;;;;;;;;;;x
+duchy_norse;Hertogadœmi;;;;;;;;;;;;;x
+county_norse;Jarldœmi;;;;;;;;;;;;;x
+barony_norse;Burhfæsten;;;;;;;;;;;;;x
+
+empire_of_norse;Ríki af;;;;;;;;;;;;;x
+kingdom_of_norse;Ríki af;;;;;;;;;;;;;x
+duchy_of_norse;Hertogadœmi af;;;;;;;;;;;;;x
+county_of_norse;Jarldœmi af;;;;;;;;;;;;;x
+barony_of_norse;Burhfæsten af;;;;;;;;;;;;;x
+
+
+emperor_title_prince_norse;Keisarisson;;;;;;;;;;;;;x
+emperor_title_prince_female_norse;Keisarissdóttir;;;;;;;;;;;;;x
+king_title_prince_norse;Konungsson;;;;;;;;;;;;;x
+king_title_prince_female_norse;Konungssdóttir;;;;;;;;;;;;;x
+duke_title_prince_norse;Hertogisson;;;;;;;;;;;;;x
+duke_title_prince_female_norse;Hertogissdóttir;;;;;;;;;;;;;x
+count_title_prince_norse;Jarlsson;;;;;;;;;;;;;x
+count_title_prince_female_norse;Jarlssdóttir;;;;;;;;;;;;;x
+baron_title_prince_norse;Herra;;;;;;;;;;;;;x
+baron_title_prince_female_norse;Fru;;;;;;;;;;;;;x
+title_prince_norse;Prinz;;;;;;;;;;;;;x
+title_prince_female_norse;Prinzessa;;;;;;;;;;;;;x
+
+
+emperor_norse;Keisari;;;;;;;;;;;;;x
+emperor_female_norse;Keisarinna;;;;;;;;;;;;;x
+king_norse;Konungr;;;;;;;;;;;;;x
+king_female_norse;Dróttning;;;;;;;;;;;;;x
+duke_norse;Hertogi;;;;;;;;;;;;;x
+duke_female_norse;Hertogin;;;;;;;;;;;;;x
+count_norse;Jarl;;;;;;;;;;;;;x
+count_female_norse;Jarlínni;;;;;;;;;;;;;x
+baron_norse;Þegn;;;;;;;;;;;;;x
+baron_female_norse;Þegn;;;;;;;;;;;;;x
+
+city_baron_norse;Borgameistari;;;;;;;;;;;;;x
+city_baron_female_norse;Borgameistari;;;;;;;;;;;;;x
+city_barony_norse;Borg;;;;;;;;;;;;;x
+city_barony_of_norse;Borg;;;;;;;;;;;;;x
+
+tribal_empire_norse;Ríki;;;;;;;;;;;;;x
+tribal_kingdom_norse;Ríki;;;;;;;;;;;;;x
+tribal_duchy_norse;Byggðasamlag;;;;;;;;;;;;;x
+tribal_county_norse;þorp;;;;;;;;;;;;;x
+
+tribal_empire_of_norse;Ríki af;;;;;;;;;;;;;x
+tribal_kingdom_of_norse;Ríki af;;;;;;;;;;;;;x
+tribal_duchy_of_norse;Byggðasamlag af;;;;;;;;;;;;;x
+tribal_county_of_norse;þorp af;;;;;;;;;;;;;x
+
+tribal_emperor_norse;Keisari;;;;;;;;;;;;;x
+tribal_emperor_female_norse;Keisarinna;;;;;;;;;;;;;x
+tribal_king_norse;Konungr;;;;;;;;;;;;;x
+tribal_king_female_norse;Dróttning;;;;;;;;;;;;;x
+tribal_duke_norse;Hertogi;;;;;;;;;;;;;x
+tribal_duke_female_norse;Hertogin;;;;;;;;;;;;;x
+tribal_count_norse;Hofðingi;;;;;;;;;;;;;x
+tribal_count_female_norse;Hofðingi;;;;;;;;;;;;;x
+
+tribal_emperor_title_prince_norse;Keisarisson;;;;;;;;;;;;;x
+tribal_emperor_title_prince_female_norse;Keisarissdóttir;;;;;;;;;;;;;x
+tribal_king_title_prince_norse;Konungsson;;;;;;;;;;;;;x
+tribal_king_title_prince_female_norse;Konungssdóttir;;;;;;;;;;;;;x
+tribal_duke_title_prince_norse;Hertogisson;;;;;;;;;;;;;x
+tribal_duke_title_prince_female_norse;Hertogissdóttir;;;;;;;;;;;;;x
+tribal_count_title_prince_norse;Herra;;;;;;;;;;;;;x
+tribal_count_title_prince_female_norse;Fru;;;;;;;;;;;;;x
+tribal_baron_title_prince_norse;Herra;;;;;;;;;;;;;x
+tribal_baron_title_prince_female_norse;Fru;;;;;;;;;;;;;x
+tribal_title_prince_norse;Prinz;;;;;;;;;;;;;x
+tribal_title_prince_female_norse;Prinzessa;;;;;;;;;;;;;x
+
+job_chancellor_norse;Kansler;;;;;;;;;;;;;x
+job_marshal_norse;Stallari;;;;;;;;;;;;;x
+job_treasurer_norse;Auðr;;;;;;;;;;;;;x
+job_spymaster_norse;Aðalsrád;;;;;;;;;;;;;x
+
+THE_SAGAS;The Heilagr Sagas;;;;;;;;;;;;;x
+GOD_ODIN;Óðinn;;;;;;;;;;;;;x
+GOD_THOR;Þórr;;;;;;;;;;;;;x
+GREAT_HOLY_WAR;Heilagr Krieg;;;;;;;;;;;;;x
+
+POPE_norse;Páfi;;;;;;;;;;;;;x
+
+###########################################
+############# Norwegian ###################
+###########################################
+
+norwegian;Norsk;;;;;;;;;;;;;x
+k_norway;Noreg;;;;;;;;;;;;;x
+
+
+kingdom_norwegian;Kongeriket;;;;;;;;;;;;;x
+kingdom_of_norwegian;Kongeriket av;;;;;;;;;;;;;x
+duchy_of_norwegian;Hertuget av;;;;;;;;;;;;;x
+county_of_norwegian;Greve av;;;;;;;;;;;;;x
+barony_of_norwegian;Lendmann av;;;;;;;;;;;;;x
+city_of_norwegian;Byen av;;;;;;;;;;;;;x
+
+emperor_norwegian;Keiser;;;;;;;;;;;;;x
+emperor_female_norwegian;Keiserinne;;;;;;;;;;;;;x
+king_norwegian;Kong;;;;;;;;;;;;;x
+king_female_norwegian;Dronning;;;;;;;;;;;;;x
+title_prince_norwegian;Prins;;;;;;;;;;;;;x
+title_prince_female_norwegian;Prinsesse;;;;;;;;;;;;;x
+duke_norwegian;Hertug;;;;;;;;;;;;;x
+duke_female_norwegian;Hertuginne;;;;;;;;;;;;;x
+count_norwegian;Grev;;;;;;;;;;;;;x
+count_female_norwegian;Grevinne;;;;;;;;;;;;;x
+baron_norwegian;Lendmann;;;;;;;;;;;;;x
+city_baron_norwegian;Ordfører;;;;;;;;;;;;;x
+
+tribal_duke_norwegian;Storhøvding;;;;;;;;;;;;;x
+tribal_count_norwegian;Høvding;;;;;;;;;;;;;x
+
+job_chancellor_norwegian;Kansler;;;;;;;;;;;;;x
+job_marshal_norwegian;Hærfører;;;;;;;;;;;;;x
+job_treasurer_norwegian;Kasserer;;;;;;;;;;;;;x
+job_spymaster_norwegian;Hemmelighetsholder;;;;;;;;;;;;;x
+
+POPE_norwegian;Pave;;;;;;;;;;;;;x
+
+###########################################
+############### Danish ####################
+###########################################
+
+danish;Dansk;;;;;;;;;;;;;x
+k_denmark;Danmark;;;;;;;;;;;;;x
+
+
+kingdom_danish;Kongeriget;;;;;;;;;;;;;x
+kingdom_of_danish;Kongeriget af;;;;;;;;;;;;;x
+duchy_of_danish;Hertuger af;;;;;;;;;;;;;x
+county_of_danish;Tælle af;;;;;;;;;;;;;x
+barony_of_danish;Lendmann af;;;;;;;;;;;;;x
+city_of_danish;Byen af;;;;;;;;;;;;;x
+
+emperor_danish;Kejser;;;;;;;;;;;;;x
+emperor_female_danish;Kejserinne;;;;;;;;;;;;;x
+king_danish;Kong;;;;;;;;;;;;;x
+king_female_danish;Dronning;;;;;;;;;;;;;x
+title_prince_danish;Prins;;;;;;;;;;;;;x
+title_prince_female_danish;Prinsesse;;;;;;;;;;;;;x
+duke_danish;Hertuger;;;;;;;;;;;;;x
+duke_female_danish;Hertuginde;;;;;;;;;;;;;x
+count_danish;Tælle;;;;;;;;;;;;;x
+count_female_danish;Tællinne;;;;;;;;;;;;;x
+baron_danish;Lendmann;;;;;;;;;;;;;x
+city_baron_danish;Borgmester;;;;;;;;;;;;;x
+
+tribal_duke_danish;Storhøvding;;;;;;;;;;;;;x
+tribal_count_danish;Høvding;;;;;;;;;;;;;x
+
+job_chancellor_danish;Kansler;;;;;;;;;;;;;x
+job_marshal_danish;Hærfører;;;;;;;;;;;;;x
+job_treasurer_danish;Kasserer;;;;;;;;;;;;;x
+job_spymaster_danish;Spion Herra;;;;;;;;;;;;;x
+
+POPE_danish;Pave;;;;;;;;;;;;;x
+
+###########################################
+############### Swedish ###################
+###########################################
+
+swedish;Svenska;;;;;;;;;;;;;x
+k_sweden;Sverige;;;;;;;;;;;;;x
+
+
+kingdom_swedish;Kungariket;;;;;;;;;;;;;x
+kingdom_of_swedish;Kungeriket af;;;;;;;;;;;;;x
+duchy_of_swedish;Hertig af;;;;;;;;;;;;;x
+county_of_swedish;Räkna af;;;;;;;;;;;;;x
+barony_of_swedish;Lendmann af;;;;;;;;;;;;;x
+city_of_swedish;Stad af;;;;;;;;;;;;;x
+
+emperor_swedish;Kejsare;;;;;;;;;;;;;x
+emperor_female_swedish;Kejsarinna;;;;;;;;;;;;;x
+king_swedish;Kung;;;;;;;;;;;;;x
+king_female_swedish;Drottning;;;;;;;;;;;;;x
+title_prince_swedish;Prins;;;;;;;;;;;;;x
+title_prince_female_swedish;Prinsessa;;;;;;;;;;;;;x
+
+duke_swedish;Hertig;;;;;;;;;;;;;x
+duke_female_swedish;Hertiginna;;;;;;;;;;;;;x
+count_swedish;Räkna;;;;;;;;;;;;;x
+count_female_swedish;Räkninna;;;;;;;;;;;;;x
+baron_swedish;Lendmann;;;;;;;;;;;;;x
+city_baron_swedish;Stadmester;;;;;;;;;;;;;x
+
+tribal_duke_swedish;Storhövding;;;;;;;;;;;;;x
+tribal_count_swedish;Hövding;;;;;;;;;;;;;x
+
+job_chancellor_swedish;Kansler;;;;;;;;;;;;;x
+job_marshal_swedish;Marskalk;;;;;;;;;;;;;x
+job_treasurer_swedish;Skattmästare;;;;;;;;;;;;;x
+job_spymaster_swedish;Spion Herre;;;;;;;;;;;;;x
+
+POPE_swedish;Påve;;;;;;;;;;;;;x
+
+###########################################################
+################ West Germanic	###########################
+###########################################################
+
+k_england;Ænglaland;;;;;;;;;;;;;x
+k_england_adj;Ænglish;;;;;;;;;;;;;x
+english;Englisc;;;;;;;;;;;;;x
+saxon;Ænglisc;;;;;;;;;;;;;x
+
+emperor_west_germanic;Bretwalda;;;;;;;;;;;;;x
+king_west_germanic;Cyning;;;;;;;;;;;;;x
+duke_west_germanic;Aldariman;;;;;;;;;;;;;x
+count_west_germanic;Walda;;;;;;;;;;;;;x
+
+tribal_king_west_germanic;Cyning;;;;;;;;;;;;;x
+tribal_duke_west_germanic;Aldariman;;;;;;;;;;;;;x
+
+job_marshal_west_germanic;Drohtin;;;;;;;;;;;;;x
+job_spymaster_west_germanic;Aþalrád;;;;;;;;;;;;;x
+job_spiritual_west_germanic;Godwine;;;;;;;;;;;;;x
+
+#######################################
+############ Frisian ##################
+#######################################
+
+empire_of_frisian;Rike;;;;;;;;;;;;;x
+kingdom_of_frisian;Keningrike;;;;;;;;;;;;;x
+duchy_of_frisian;Hertogadom;;;;;;;;;;;;;x
+county_of_frisian;Graafskip;;;;;;;;;;;;;x
+
+emperor_frisian;Kasar;;;;;;;;;;;;;x
+emperor_female_frisian;Kasarin;;;;;;;;;;;;;x
+king_frisian;Kining;;;;;;;;;;;;;x
+king_female_frisian;Kiningin;;;;;;;;;;;;;x
+title_prince_frisian;Etheling;;;;;;;;;;;;;x
+title_prince_female_frisian;Forstin;;;;;;;;;;;;;x
+duke_frisian;Hertog;;;;;;;;;;;;;x
+duke_female_frisian;Hertogin;;;;;;;;;;;;;x
+count_frisian;Erl;;;;;;;;;;;;;x
+count_female_frisian;Erlwif;;;;;;;;;;;;;x
+baron_frisian;Friher;;;;;;;;;;;;;x
+baron_female_frisian;Frifrowe;;;;;;;;;;;;;x
+
+tribal_duke_frisian;Grathavedling;;;;;;;;;;;;;x
+tribal_count_frisian;Havedling;;;;;;;;;;;;;x
+
+vice_royalty_king_frisian;Underkining;;;;;;;;;;;;;x
+vice_royalty_king_female_frisian;Underkiningin;;;;;;;;;;;;;x
+vice_royalty_duke_frisian;Minniro Underkining;;;;;;;;;;;;;x
+vice_royalty_duke_female_frisian;Minniro Underkiningin;;;;;;;;;;;;;x
+
+FYLKIR_frisian;Folker;;;;;;;;;;;;;x
+FYLKJA_frisian;Folkerin;;;;;;;;;;;;;x
+
+#######################################
+############# Dutch ###################
+#######################################
+
+empire_of_dutch;Rijk;;;;;;;;;;;;;x
+kingdom_of_dutch;Koninkrijk;;;;;;;;;;;;;x
+duchy_of_dutch;Hertogdom;;;;;;;;;;;;;x
+county_of_dutch;Graafschap;;;;;;;;;;;;;x
+
+emperor_dutch;Keizer;;;;;;;;;;;;;x
+emperor_female_dutch;Keizerin;;;;;;;;;;;;;x
+king_dutch;Koning;;;;;;;;;;;;;x
+king_female_dutch;Koningin;;;;;;;;;;;;;x
+title_prince_dutch;Vorst;;;;;;;;;;;;;x
+title_prince_female_dutch;Vorstin;;;;;;;;;;;;;x
+duke_dutch;Hertog;;;;;;;;;;;;;x
+duke_female_dutch;Hertogin;;;;;;;;;;;;;x
+count_dutch;Graaf;;;;;;;;;;;;;x
+count_female_dutch;Gravin;;;;;;;;;;;;;x
+baron_dutch;Vrijheer;;;;;;;;;;;;;x
+baron_female_dutch;Vrijvrouw;;;;;;;;;;;;;x
+
+tribal_duke_dutch;Groothoofdling;;;;;;;;;;;;;x
+tribal_count_dutch;Hoofdling;;;;;;;;;;;;;x
+tribal_baron;Dorpshoofd;;;;;;;;;;;;;x
+
+vice_royalty_king_dutch;Onderkoning;;;;;;;;;;;;;x
+vice_royalty_king_female_dutch;Onderkoningin;;;;;;;;;;;;;x
+vice_royalty_duke_dutch;Minder Onderkoning;;;;;;;;;;;;;x
+vice_royalty_duke_female_dutch;Minder Onderkoningin;;;;;;;;;;;;;x
+
+FYLKIR_dutch;Volker;;;;;;;;;;;;;x
+FYLKJA_dutch;Volkerin;;;;;;;;;;;;;x
+
+POPE_dutch;Paus;;;;;;;;;;;;;x
+
+family_palace_baron_dutch;Patriciër;;;;;;;;;;;;;x
+
+job_spymaster_dutch;Kanselier;;;;;;;;;;;;;x
+job_marshal_dutch;Maarschalk;;;;;;;;;;;;;x
+job_treasurer_dutch;Schatbewaarder;;;;;;;;;;;;;x
+job_chancellor_dutch;Spionnenmeester;;;;;;;;;;;;;x
+job_spiritual_dutch;Hofkapelaan;;;;;;;;;;;;;x
+
+#######################################
+########### Old Saxon #################
+#######################################
+
+empire_of_old_saxon;Riki;;;;;;;;;;;;;x
+kingdom_of_old_saxon;Kiningriki;;;;;;;;;;;;;x
+duchy_of_old_saxon;Hertogdom;;;;;;;;;;;;;x
+county_of_old_saxon;Erlskepi;;;;;;;;;;;;;x
+
+tribal_duke_old_saxon;Hoh Hobidling;;;;;;;;;;;;;x
+tribal_count_old_saxon;Hobidling;;;;;;;;;;;;;x
+
+vice_royalty_king_old_saxon;Undarkuning;;;;;;;;;;;;;x
+vice_royalty_king_female_old_saxon;Undarkuningin;;;;;;;;;;;;;x
+vice_royalty_duke_old_saxon;Minniro Undarkuning;;;;;;;;;;;;;x
+vice_royalty_duke_female_old_saxon;Minniro Undarkuningin;;;;;;;;;;;;;x
+
+FYLKIR_old_saxon;Folkar;;;;;;;;;;;;;x
+FYLKJA_old_saxon;Folkarin;;;;;;;;;;;;;x
+
+#######################################
+############# Saxon ###################
+#######################################
+## Old Aenglish Titles by Kaiserkatze #
+
+empire_of_saxon;Rice;;;;;;;;;;;;;x
+kingdom_of_saxon;Cyningrice of;;;;;;;;;;;;;x
+duchy_of_saxon;Scir of;;;;;;;;;;;;;x
+county_of_saxon;Boldgetæl of;;;;;;;;;;;;;x
+barony_of_saxon;Hundred of;;;;;;;;;;;;;x
+
+emperor_saxon;Casere;;;;;;;;;;;;;x
+emperor_female_saxon;Cwen;;;;;;;;;;;;;x
+king_saxon;Cyning;;;;;;;;;;;;;x
+king_female_saxon;Cwen;;;;;;;;;;;;;x
+title_prince_saxon;Æðeling;;;;;;;;;;;;;x
+title_prince_female_saxon;Cwen;;;;;;;;;;;;;x
+duke_saxon;Eorl;;;;;;;;;;;;;x
+duke_female_saxon;Siþwif;;;;;;;;;;;;;x
+count_saxon;Ealdorman;Ealdorman;;;;;;;;;;;;;x
+count_female_saxon;Ealdorfreo;;;;;;;;;;;;;x
+baron_saxon;Hundredman;;;;;;;;;;;;;x
+baron_female_saxon;Freo;;;;;;;;;;;;;x
+city_barony_of_saxon;Burg of;;;;;;;;;;;;;x
+city_baron_saxon;Burgealdor;;;;;;;;;;;;;x
+
+tribal_duke_saxon;Heaga Heafodling;;;;;;;;;;;;;x
+tribal_count_saxon;Heafodling;;;;;;;;;;;;;x
+
+vice_royalty_king_saxon;Undercyning;;;;;;;;;;;;;x
+vice_royalty_king_female_saxon;Undercwen;;;;;;;;;;;;;x
+vice_royalty_duke_saxon;Minniro Undercyning;;;;;;;;;;;;;x
+vice_royalty_duke_female_saxon;Minniro Undercwen;;;;;;;;;;;;;x
+
+FYLKIR_saxon;Folcor;;;;;;;;;;;;;x
+FYLKJA_saxon;Folcorwif;;;;;;;;;;;;;x
+
+#########################################
+############# English ###################
+#########################################
+# Middle Aenglish Titles by Kaiserkatze #
+
+empire_of_english;Ricke of;;;;;;;;;;;;;x
+kingdom_of_english;Kingdom of;;;;;;;;;;;;;x
+duchy_of_english;Duche of;;;;;;;;;;;;;x
+county_of_english;Counte of;;;;;;;;;;;;;x
+barony_of_english;Barone of;;;;;;;;;;;;;x
+
+emperor_english;Kaiser;;;;;;;;;;;;;x
+emperor_female_english;Emperice;;;;;;;;;;;;;x
+king_english;King;;;;;;;;;;;;;x
+king_female_english;Quene;;;;;;;;;;;;;x
+title_prince_english;Pryns;;;;;;;;;;;;;x
+title_prince_female_english;Prynsesse;;;;;;;;;;;;;x
+duke_english;Duk;;;;;;;;;;;;;x
+duke_female_english;Duchesse;;;;;;;;;;;;;x
+count_english;Erl;;;;;;;;;;;;;x
+count_female_english;Countesse;;;;;;;;;;;;;x
+baron_english;Baroun;;;;;;;;;;;;;x
+baron_female_english;Barounesse;;;;;;;;;;;;;x
+city_barony_of_english;Burgh of;;;;;;;;;;;;;x
+city_baron_english;Mayre;;;;;;;;;;;;;x
+
+###########################################################
+############### Central Germanic ##########################
+###########################################################
+############## Central Germanic is German #################
+
+german;Deutsche;;;;;;;;;;;;;x
+
+e_hre;Heiliges Römisches Reich;;;;;;;;;;;;;x
+empire_of_central_germanic;Reich;;;;;;;;;;;;;x
+kingdom_of_central_germanic;Königreich;;;;;;;;;;;;;x
+duchy_of_central_germanic;Herzogtum;;;;;;;;;;;;;x
+county_of_central_germanic;Grafschaft;;;;;;;;;;;;;x
+
+city_kingdom_of_central_germanic;Höchst Durchlauchte Republik von;;;;;;;;;;;;;x
+
+emperor_central_germanic;Kaiser;;;;;;;;;;;;;x
+emperor_female_central_germanic;Kaiserin;;;;;;;;;;;;;x
+king_central_germanic;Köning;;;;;;;;;;;;;x
+queen_central_germanic;Königin;;;;;;;;;;;;;x
+title_prince_central_germanic;Fürst;;;;;;;;;;;;;x
+title_prince_female_central_germanic;Fürstin;;;;;;;;;;;;;x
+duke_central_germanic;Herzog;;;;;;;;;;;;;x
+duke_female_central_germanic;Herzogin;;;;;;;;;;;;;x
+count_central_germanic;Graf;;;;;;;;;;;;;x
+count_female_central_germanic;Gräfin;;;;;;;;;;;;;x
+baron_central_germanic;Freiherr;;;;;;;;;;;;;x
+baron_female_central_germanic;Freifrau;;;;;;;;;;;;;x
+
+tribal_duke_central_germanic;Großhäuptling;;;;;;;;;;;;;x
+tribal_count_central_germanic;Häuptling;;;;;;;;;;;;;x
+
+vice_royalty_king_central_germanic;Vizekönig;;;;;;;;;;;;;x
+vice_royalty_king_female_central_germanic;Vizekönigin;;;;;;;;;;;;;x
+vice_royalty_duke_central_germanic;Minderer Vizekönig;;;;;;;;;;;;;x
+vice_royalty_duke_female_central_germanic;Minderer Vizekönigin;;;;;;;;;;;;;x
+
+job_chancellor_central_germanic;Kanzler;;;;;;;;;;;;;x
+job_marshal_central_germanic;Marschall;;;;;;;;;;;;;x
+job_treasurer_central_germanic;Schatzmeister;;;;;;;;;;;;;x
+job_spymaster_central_germanic;Spionagemeister;;;;;;;;;;;;;x
+
+FYLKIR_german;Volker;;;;;;;;;;;;;x
+FYLKJA_german;Volkerin;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_german;Ökumenischer Patriarch;;;;;;;;;;;;;x
+POPE_central_german;Papst;;;;;;;;;;;;;x
+
+family_palace_baron_german;Patrizier;;;;;;;;;;;;;x
+
+#######################################
+########### Old Frankish ##############
+#######################################
+
+empire_of_old_frankish;Riki;;;;;;;;;;;;;x
+kingdom_of_old_frankish;Kuningriki;;;;;;;;;;;;;x
+duchy_of_old_frankish;Heritogduom;;;;;;;;;;;;;x
+county_of_old_frankish;Gravskap;;;;;;;;;;;;;x
+
+emperor_old_frankish;Keisere;;;;;;;;;;;;;x
+emperor_female_old_frankish;Keiserin;;;;;;;;;;;;;x
+king_old_frankish;Kuning;;;;;;;;;;;;;x
+king_female_old_frankish;Kuningin;;;;;;;;;;;;;x
+title_prince_old_frankish;Furista;;;;;;;;;;;;;x
+title_prince_female_old_frankish;Furistin;;;;;;;;;;;;;x
+duke_old_frankish;Heritog;;;;;;;;;;;;;x
+duke_female_old_frankish;Heritogin;;;;;;;;;;;;;x
+baron_old_frankish;Baro;;;;;;;;;;;;;x
+baron_female_old_frankish;Baroin;;;;;;;;;;;;;x
+
+tribal_duke_old_frankish;Grothovitling;;;;;;;;;;;;;x
+tribal_count_old_frankish;Hovitling;;;;;;;;;;;;;x
+
+vice_royalty_king_old_frankish;Underkuning;;;;;;;;;;;;;x
+vice_royalty_king_female_old_frankish;Underkuningin;;;;;;;;;;;;;x
+vice_royalty_duke_old_frankish;Minniro Underkuning;;;;;;;;;;;;;x
+vice_royalty_duke_female_old_frankish;Minniro Underkuningin;;;;;;;;;;;;;x
+
+FYLKIR_old_frankish;Fulcer;;;;;;;;;;;;;x
+FYLKJA_old_frankish;Fulcerin;;;;;;;;;;;;;x
+
+#######################################
+############## Suebi ##################
+#######################################
+
+empire_of_suebi;Rihhi;;;;;;;;;;;;;x
+kingdom_of_suebi;kuningrihhi;;;;;;;;;;;;;x
+duchy_of_suebi;herizogtuom;;;;;;;;;;;;;x
+county_of_suebi;Grafiskaf;;;;;;;;;;;;;x
+
+emperor_suebi;Keisur;;;;;;;;;;;;;x
+emperor_female_suebi;Keisurin;;;;;;;;;;;;;x
+king_suebi;Kuning;;;;;;;;;;;;;x
+king_female_suebi;Kuningin;;;;;;;;;;;;;x
+title_prince_suebi;Adaling;;;;;;;;;;;;;x
+title_prince_female_suebi;Furistin;;;;;;;;;;;;;x
+duke_suebi;Herizogo;;;;;;;;;;;;;x
+duke_female_suebi;Herizogin;;;;;;;;;;;;;x
+count_suebi;Grafio;;;;;;;;;;;;;x
+count_female_suebi;Grafin;;;;;;;;;;;;;x
+baron_suebi;Friheriro;;;;;;;;;;;;;x
+baron_female_suebi;Frifrouwa;;;;;;;;;;;;;x
+
+tribal_duke_suebi;Grozhoubitling;;;;;;;;;;;;;x
+tribal_count_suebi;Houbitling;;;;;;;;;;;;;x
+
+vice_royalty_king_suebi;Untarkuning;;;;;;;;;;;;;x
+vice_royalty_king_female_suebi;Untarkuningin;;;;;;;;;;;;;x
+vice_royalty_duke_suebi;Minniro Untarkuning;;;;;;;;;;;;;x
+vice_royalty_duke_female_suebi;Minniro Untarkuningin;;;;;;;;;;;;;x
+
+#######################################
+############# Lombard #################
+#######################################
+
+lombard;Langobard;;;;;;;;;;;;;x
+
+emperor_lombard;Imperatùr;;;;;;;;;;;;;x
+emperor_female_lombard;Imperatùra;;;;;;;;;;;;;x
+king_lombard;Rège;;;;;;;;;;;;;x
+king_female_lombard;Regìna;;;;;;;;;;;;;x
+title_prince_lombard;Prénzep;;;;;;;;;;;;;x
+title_prince_female_lombard;Prenzipèsa;;;;;;;;;;;;;x
+duke_lombard;Duca;;;;;;;;;;;;;x
+duke_female_lombard;Ducèssa;;;;;;;;;;;;;x
+count_lombard;Cùnt;;;;;;;;;;;;;x
+count_female_lombard;Cuntèsa;;;;;;;;;;;;;x
+baron_lombard;Barùn;;;;;;;;;;;;;x
+baron_female_lombard;Barunèsa;;;;;;;;;;;;;x
+
+###########################################################
+##################### Latin	###############################
+###########################################################
+################### Latin is Roman ########################
+
+latin;Latinus;;;;;;;;;;;;;x
+
+empire_of_latin;Imperium;;;;;;;;;;;;;x
+kingdom_of_latin;Regnum;;;;;;;;;;;;;x
+duchy_of_latin;Ducatus;;;;;;;;;;;;;x
+county_of_latin;Comitatus;;;;;;;;;;;;;x
+city_latin;Urbs;;;;;;;;;;;;;x
+city_of_latin;Urbs;;;;;;;;;;;;;x
+
+emperor_latin;Imperator;;;;;;;;;;;;;x
+emperor_female_latin;Imperatrix;;;;;;;;;;;;;x
+king_latin;Rex;;;;;;;;;;;;;x
+king_female_latin;Regina;;;;;;;;;;;;;x
+title_prince_latin;Princeps;;;;;;;;;;;;;x
+title_prince_female_latin;Principissa;;;;;;;;;;;;;x
+title_queen_mother_latin;Regina Mater;;;;;;;;;;;;;x
+duke_latin;Dux;;;;;;;;;;;;;x
+duke_female_latin;Ducissa;;;;;;;;;;;;;x
+count_latin;Comes;;;;;;;;;;;;;x
+count_female_latin;Comitissa;;;;;;;;;;;;;x
+baron_latin;Baro;;;;;;;;;;;;;x
+baron_female_latin;Baronissa;;;;;;;;;;;;;x
+
+tribal_count_latin;Caput;;;;;;;;;;;;;x
+
+city_emperor_latin;Magnus Princeps;;;;;;;;;;;;;x
+city_empire_of_latin;Principalitas;;;;;;;;;;;;;x
+city_duke_latin;Dux;;;;;;;;;;;;;x
+city_king_latin;Serenissimus Dux;;;;;;;;;;;;;x
+city_count_latin;Praefectus;;;;;;;;;;;;;x
+city_duchy_of_latin;Res publica;;;;;;;;;;;;;x
+
+vice_royalty_duke_latin;Corrector;;;;;;;;;;;;;x
+vice_royalty_duke_female_latin;Correctrix;;;;;;;;;;;;;x
+vice_royalty_king_latin;Vicarius;;;;;;;;;;;;;x
+vice_royalty_king_female_latin;Vicaria;;;;;;;;;;;;;x
+vice_royalty_emperor_latin;Praefectus Praetorio;;;;;;;;;;;;;x
+vice_royalty_duchy_of_latin;Provincia;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_latin;Dioecesis;;;;;;;;;;;;;x
+vice_royalty_empire_of_latin;Praefectura Praetorio;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_latin;Patriarchae Oecumenico;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_latin;Patriarcha Orientalis;;;;;;;;;;;;;x
+COPTIC_POPE_latin;Papa Alexandriae;;;;;;;;;;;;;x
+POPE_latin;Papa;;;;;;;;;;;;;x
+
+city_king_latin;Serenissimo Doge;;;;;;;;;;;;;x
+city_kingdom_of_latin;Serenissima Respublica;;;;;;;;;;;;;x
+
+job_spymaster_latin;Speculator;;;;;;;;;;;;;x
+job_marshal_latin;Magister Militum;;;;;;;;;;;;;x
+job_treasurer_latin;Quaestor;;;;;;;;;;;;;x
+job_chancellor_latin;Magister Officiorum;;;;;;;;;;;;;x
+job_spiritual_latin;Aedituus;;;;;;;;;;;;;x
+
+title_master_of_the_horse_latin;Magister Equitum;;;;;;;;;;;;;x
+
+POPE_norman;Pape;;;;;;;;;;;;;x
+HOUSE_latin;Gens;;;;;;;;;;;;;x
+family_palace_baron_latin;Patricius;;;;;;;;;;;;;x
+
+#########################################
+############# Dalmatian #################
+#########################################
+
+emperor_dalmatian;Inperataur;;;;;;;;;;;;;x
+emperor_female_dalmatian;Inperatric;;;;;;;;;;;;;x
+king_dalmatian;Ra;;;;;;;;;;;;;x
+king_female_dalmatian;Regaina;;;;;;;;;;;;;x
+duke_dalmatian;Doik;;;;;;;;;;;;;x
+duke_female_dalmatian;Doikissa;;;;;;;;;;;;;x
+count_dalmatian;Kont;;;;;;;;;;;;;x
+count_female_dalmatian;Kontissa;;;;;;;;;;;;;x
+
+#########################################
+############## French ###################
+#########################################
+
+frankish;Français;;;;;;;;;;;;;x
+old_frankish;Franc;;;;;;;;;;;;;x
+
+empire_of_frankish;Royaume de;;;;;;;;;;;;;x
+kingdom_of_frankish;Royaume de;;;;;;;;;;;;;x
+duchy_of_frankish;Duché de;;;;;;;;;;;;;x
+county_of_frankish;Comitat de;;;;;;;;;;;;;x
+
+city_kingdom_of_frankish;République Sérénissime de;;;;;;;;;;;;;x
+
+emperor_frankish;Empereür;;;;;;;;;;;;;x
+emperor_frankish_female;Impératrice;;;;;;;;x
+king_frankish;Roi;;;;;;;;;;;;;x
+king_frankish_female;Reine;;;;;;;;;;;;;x
+title_prince;Prince;;;;;;;;;;;;;x
+title_prince_female;Princesse;;;;;;;;;;;;;x
+duke_frankish;Duc;;;;;;;;;;;;;x
+duke_frankish_female;Duchesse;;;;;;;;;;;;;x
+count_frankish;Comte;;;;;;;;;;;;;x
+count_frankish_female;Comtesse;;;;;;;;;;;;;x
+baron_female_frankish;Baronne;;;;;;;;;;;;;x
+
+tribal_count_frankish;Chef;;;;;;;;;;;;;x
+
+job_chancellor_frankish;Chancelier;;;;;;;;;;;;;x
+job_marshal_frankish;Maréchal;;;;;;;;;;;;;x
+job_treasurer_frankish;Trésorier;;;;;;;;;;;;;x
+job_spymaster_frankish;Maître espion;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_frankish;Patriarche œcuménique;;;;;;;;;;;;;x
+POPE_frankish;Pape;;;;;;;;;;;;;x
+family_palace_baron_frankish;Patricien;;;;;;;;;;;;;x
+
+#########################################
+############## Norman ###################
+#########################################
+
+emperor_norman;Empereor;;;;;;;;;;;;;x
+emperor_female_norman;Empereriz;;;;;;;;;;;;;x
+king_norman;Roy;;;;;;;;;;;;;x
+king_female_norman;Raine;;;;;;;;;;;;;x
+title_prince_female_norman;Princesse;;;;;;;;;;;;;x
+duke_norman;Duc;;;;;;;;;;;;;x
+duke_female_norman;Duchesse;;;;;;;;;;;;;x
+count_norman;Cuens;;;;;;;;;;;;;x
+count_female_norman;Cuntesse;;;;;;;;;;;;;x
+baron_female_norman;Baronne;;;;;;;;;;;;;x
+
+#########################################
+############# Occitan ###################
+#########################################
+
+empire_of_occitan;Empèri;;;;;;;;;;;;;x
+kingdom_of_occitan;Reialme;;;;;;;;;;;;;x
+duchy_of_occitan;Ducat de;;;;;;;;;;;;;x
+county_of_occitan;Comtat de;;;;;;;;;;;;;x
+
+city_kingdom_of_occitan;République Sérénissime de;;;;;;;;;;;;;x
+
+emperor_occitan;Emperaire;;;;;;;;;;;;;x
+emperor_female_occitan;Emperairitz;;;;;;;;;;;;;x
+king_occitan;Rei;;;;;;;;;;;;;x
+king_female_occitan;Reina;;;;;;;;;;;;;x
+duke_occitan;Duc;;;;;;;;;;;;;x
+duke_female_occitan;Duquessa;;;;;;;;;;;;;x
+count_occitan;Comte;;;;;;;;;;;;;x
+count_female_occitan;Comtessa;;;;;;;;;;;;;x
+baron_occitan;Baron;;;;;;;;;;;;;x
+baron_female_occitan;Baronessa;;;;;;;;;;;;;x
+
+tribal_count_occitan;Cap;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_occitan;Patriarcat Ecumènic;;;;;;;;;;;;;x
+
+#########################################
+############# Italian ###################
+#########################################
+
+italian;Italiano;;;;;;;;;;;;;x
+italian_female;Italiana;;;;;;;;;;;;;x
+
+empire_of_italian;Impero di;;;;;;;;;;;;;x
+kingdom_of_italian;Regno di;;;;;;;;;;;;;x
+duchy_of_italian;Ducato di;;;;;;;;;;;;;x
+county_of_italian;Contea di;;;;;;;;;;;;;x
+
+city_kingdom_of_italian;Serenissima Repubblica di;;;;;;;;;;;;;x
+
+emperor_italian;Imperatore;;;;;;;;;;;;;x
+emperor_italian_female;Imperatrice;;;;;;;;;;;;;x
+king_italian;Re;;;;;;;;;;;;;x
+king_italian_female;Regina;;;;;;;;;;;;;x
+title_prince_italian;Principe;;;;;;;;;;;;;x
+title_prince_italian_female;Principessa;;;;;;;;;;;;;x
+duke_italian;Duca;;;;;;;;;;;;;x
+duke_italian_female;Duchessa;;;;;;;;;;;;;x
+count_italian;Conte;;;;;;;;;;;;;x
+count_italian_female;Contessa;;;;;;;;;;;;;x
+baron_italian;Barone;;;;;;;;;;;;;x
+baron_female_italian;Baronessa;;;;;;;;;;;;;x
+
+tribal_count_italian;Capo;;;;;;;;;;;;;x
+
+job_chancellor_italian;Cancelliere;;;;;;;;;;;;;x
+job_marshal_italian;Maresciallo;;;;;;;;;;;;;x
+job_treasurer_italian;Tesoriere;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_italian;Patriarca Ecumenico;;;;;;;;;;;;;x
+COPTIC_POPE_italian;Papa Copta;;;;;;;;;;;;;x
+family_palace_baron_italian;Patrizio;;;;;;;;;;;;;x
+
+###########################################################
+################### Iberian ###############################
+###########################################################
+############## Iberian is Castillan #######################
+
+empire_iberian;Imperio;;;;;;;;;;;;;x
+empire_of_iberian;Imperio de;;;;;;;;;;;;;x
+kingdom_iberian;Reino;;;;;;;;;;;;;x
+kingdom_of_iberian;Reino de;;;;;;;;;;;;;x
+duchy_iberian;Ducado;;;;;;;;;;;;;x
+duchy_of_iberian;Ducado de;;;;;;;;;;;;;x
+county_iberian;Condado;;;;;;;;;;;;;x
+county_of_iberian;Condado de;;;;;;;;;;;;;x
+
+city_kingdom_of_iberian;Serenísima República de;;;;;;;;;;;;;x
+
+emperor_iberian;Emperador;;;;;;;;;;;;;x
+emperor_iberian_female;Emperatriz;;;;;;;;;;;;;x
+king_iberian;Rey;;;;;;;;;;;;;x
+king_iberia_female;Reina;;;;;;;;;;;;;x
+title_prince_iberian;Príncipe;;;;;;;;;;;;;x
+title_prince_iberian;Princesa;;;;;;;;;;;;;x
+duke_iberian;Duque;;;;;;;;;;;;;x
+duke_iberian_female;Duquesa;;;;;;;;;;;;;x
+count_iberian;Conde;;;;;;;;;;;;;x
+count_iberian_female;Condesa;;;;;;;;;;;;;x
+baron_iberian;Barón;;;;;;;;;;;;;x
+baron_female_iberian;Baronesa;;;;;;;;;;;;;x
+
+tribal_count_iberian;Cabo;;;;;;;;;;;;;x
+
+job_chancellor_iberian;Canciller;;;;;;;;;;;;;x
+job_marshal_iberian;Mariscal;;;;;;;;;;;;;x
+job_treasurer_iberian;Tesorero;;;;;;;;;;;;;x
+job_spymaster_iberian;Maestro de espías;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_iberian;Patriarca Ecuménico;;;;;;;;;;;;;x
+COPTIC_POPE_iberian;Papa Copto;;;;;;;;;;;;;x
+POPE_iberian;Papa;;;;;;;;;;;;;x
+family_palace_baron_iberian;Patricio;;;;;;;;;;;;;x
+
+###########################################
+############### Catalan ###################
+###########################################
+
+empire_of_catalan;Imperi;;;;;;;;;;;;;x
+kingdom_of_catalan;Regne;;;;;;;;;;;;;x
+duchy_of_catalan;Ducat de;;;;;;;;;;;;;x
+county_of_catalan;Comtat de;;;;;;;;;;;;;x
+
+city_kingdom_of_catalan;République Sérénissime de;;;;;;;;;;;;;x
+
+emperor_catalan;Emperador;;;;;;;;;;;;;x
+emperor_female_catalan;Emperadriu;;;;;;;;;;;;;x
+king_catalan;Rei;;;;;;;;;;;;;x
+king_female_catalan;Reina;;;;;;;;;;;;;x
+title_prince_catalan;Príncep;;;;;;;;;;;;;x
+duke_catalan;Duc;;;;;;;;;;;;;x
+duke_female_catalan;Duquessa;;;;;;;;;;;;;x
+count_catalan;Comte;;;;;;;;;;;;;x
+count_female_catalan;Comtessa;;;;;;;;;;;;;x
+baron_catalan;Baró;;;;;;;;;;;;;x
+
+tribal_count_catalan;Cap;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_catalan;Patriarcat Ecumènic;;;;;;;;;;;;;x
+family_palace_baron_catalan;Patrici;;;;;;;;;;;;;x
+
+###########################################
+############## Portugese ##################
+###########################################
+
+portuguese;Português;;;;;;;;;;;;;x
+k_portugal;Portugal;;;;;;;;;;;;;x
+
+empire_portuguese;Império;;;;;;;;;;;;;x
+empire_of_portugese;Império de;;;;;;;;;;;;;x
+barony_of_portuguese;Baronia de;;;;;;;;;;;;;x
+city_of_portuguese;Cidade de;;;;;;;;;;;;;x
+
+baron_portuguese;Barão;;;;;;;;;;;;;x
+city_baron_portuguese;Prefeito;;;;;;;;;;;;;x
+
+job_chancellor_portuguese;Chanceler;;;;;;;;;;;;;x
+job_marshal_portuguese;Marechal;;;;;;;;;;;;;x
+job_treasurer_portuguese;Mordomo;;;;;;;;;;;;;x
+job_spymaster_portuguese;Espião-mor;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_portuguese;Patriarca Ecuménico;;;;;;;;;;;;;x
+COPTIC_POPE_portuguese;Papa Copto;;;;;;;;;;;;;x
+family_palace_baron_portuguese;Patrício;;;;;;;;;;;;;x
+
+
+###########################################
+############### Basque ####################
+###########################################
+
+emperor_basque;Enperadore;;;;;;;;;;;;;x
+emperor_basque_female;Enperatriza;;;;;;;;;;;;;x
+king_basque;Errege;;;;;;;;;;;;;x
+king_basque_female;Erregina;;;;;;;;;;;;;x
+title_prince_basque;Printze;;;;;;;;;;;;;x
+title_prince_female_basque;Printzesa;;;;;;;;;;;;;x
+duke_basque;Dukeak;;;;;;;;;;;;;x
+duke_female_basque;Dukesa;;;;;;;;;;;;;x
+count_basque;Konde;;;;;;;;;;;;;x
+count_female_basque;Kondesa;;;;;;;;;;;;;x
+baron_basque;Baroi;;;;;;;;;;;;;x
+baron_female_basque;Baronessa;;;;;;;;;;;;;x
+
+job_chancellor_portuguese;Kantziler;;;;;;;;;;;;;x
+job_marshal_portuguese;Mariskalaren;;;;;;;;;;;;;x
+job_treasurer_portuguese;Diruzaina;;;;;;;;;;;;;x
+job_spymaster_portuguese;Espioi maisua;;;;;;;;;;;;;x
+
+###########################################
+########## Romanian / Vlach ###############
+###########################################
+
+empire_of_romanian;Imperiul;;;;;;;;;;;;;x
+kingdom_romanian;Regat;;;;;;;;;;;;;x
+kingdom_of_romanian;Regatul;;;;;;;;;;;;;x
+duchy_romanian;Principat;;;;;;;;;;;;;x
+duchy_of_romanian;Principatul;;;;;;;;;;;;;x
+county_romanian;Voievodat;;;;;;;;;;;;;x
+county_of_romanian;Voievodatul;;;;;;;;;;;;;x
+barony_romanian;Bandon;;;;;;;;;;;;;x
+barony_of_romanian;Bandon;;;;;;;;;;;;;x
+city_barony_of_romanian;Archonate;;;;;;;;;;;;;x
+
+emperor_romanian;Împarat;;;;;;;;;;;;;x
+emperor_female_romanian;Împarateasa;;;;;;;;;;;;;x
+king_romanian;Rege;;;;;;;;;;;;;x
+king_female_romanian;Regina;;;;;;;;;;;;;x
+title_prince_romanian;Print;;;;;;;;;;;;;x
+title_prince_female_romanian;Printesa;;;;;;;;;;;;;x
+duke_romanian;Domn;;;;;;;;;;;;;x
+duke_female_romanian;Doamna;;;;;;;;;;;;;x
+count_romanian;Boier;;;;;;;;;;;;;x
+count_female_romanian;Stapâna;;;;;;;;;;;;;x
+baron_romanian;Mosier;;;;;;;;;;;;;x
+baron_female_romanian;Mosiereasa;;;;;;;;;;;;;x
+
+job_chancellor_romanian;Logofat;;;;;;;;;;;;;x
+job_marshal_romanian;Spatar;;;;;;;;;;;;;x
+job_treasurer_romanian;Vistier;;;;;;;;;;;;;x
+job_spymaster_romanian;Vornic;;;;;;;;;;;;;x
+job_spiritual_romanian;Parinte;;;;;;;;;;;;;x
+
+###########################################################
+##################### Celtic ##############################
+###########################################################
+################# Celtic is everyone ######################
+
+k_ireland;Éire;;;;;;;;;;;;;x
+k_ireland_adj;Éireann;;;;;;;;;;;;;x
+k_scotland;Alba;;;;;;;;;;;;;x
+k_scotland_adj;Albann;;;;;;;;;;;;;x
+
+emperor_celtic;Ard-Rí;;;;;;;;;;;;;x
+king_celtic;Rí;;;;;;;;;;;;;x
+king_female_celtic;Banríon;;;;;;;;;;;;;x
+title_prince_celtic;Prionsa;;;;;;;;;;;;;x
+title_prince_female_celtic;Banphrionsa;;;;;;;;;;;;;x
+duke_celtic;Duw;;;;;;;;;;;;;x
+count_celtic;Comhaireamh;;;;;;;;;;;;;x
+
+tribal_count_celtic;Prif;;;;;;;;;;;;;x
+
+job_chancellor_celtic;Castellan;;;;;;;;;;;;;x
+
+king_irish;Rí;;;;;;;;;;;;;x
+king_female_irish;Rígan;;;;;;;;;;;;;x
+king_scottish;Rìgh;;;;;;;;;;;;;x
+king_female_scottish;Rìghinn;;;;;;;;;;;;;x
+king_breton;Ri;;;;;;;;;;;;;x
+king_female_breton;Rouanez;;;;;;;;;;;;;x
+
+###########################################################
+##################### Pictish/Scottish ##############################
+###########################################################
+###########################################################
+
+empire_pictish;Ìmpireachd;;;;;;;;;;;;;x
+kingdom_pictish;Rìoghachd;;;;;;;;;;;;;x
+duchy_pictish;Diùcachd;;;;;;;;;;;;;x
+county_pictish;Siorramachd;;;;;;;;;;;;;x
+barony_pictish;Barantachd;;;;;;;;;;;;;x
+
+empire_of_pictish;Ìmpireachd;;;;;;;;;;;;;x
+kingdom_of_pictish;Rìoghachd;;;;;;;;;;;;;x
+duchy_of_pictish;Diùcachd;;;;;;;;;;;;;x
+county_of_pictish;Siorramachd;;;;;;;;;;;;;x
+barony_of_pictish;Barantachd;;;;;;;;;;;;;x
+
+emperor_pictish;Ìmpire;;;;;;;;;;;;;x
+emperor_female_pictish;Ban-ìmpire;;;;;;;;;;;;;x
+king_pictish;Ri;;;;;;;;;;;;;x
+king_female_pictish;Rigen;;;;;;;;;;;;;x
+duke_pictish;Diùc;;;;;;;;;;;;;x
+duke_female_pictish;Ban-diùc;;;;;;;;;;;;;x
+count_pictish;Iarla;;;;;;;;;;;;;x
+count_female_pictish;Ban-iarla;;;;;;;;;;;;;x
+baron_pictish;Bharan;;;;;;;;;;;;;x
+baron_female_pictish;Ban-bharan;;;;;;;;;;;;;x
+
+job_chancellor_pictish;Seansalair;;;;;;;;;;;;;x
+job_marshal_pictish;Marasgal;;;;;;;;;;;;;x
+job_treasurer_pictish;Ionmhasair;;;;;;;;;;;;;x
+job_spymaster_pictish;Maighstir Spy;;;;;;;;;;;;;x
+
+
+empire_scottish;Ìmpireachd;;;;;;;;;;;;;x
+kingdom_scottish;Rìoghachd;;;;;;;;;;;;;x
+duchy_scottish;Diùcachd;;;;;;;;;;;;;x
+county_scottish;Siorramachd;;;;;;;;;;;;;x
+empire_of_scottish;Ìmpireachd;;;;;;;;;;;;;x
+kingdom_of_scottish;Rìoghachd;;;;;;;;;;;;;x
+duchy_of_scottish;Diùcachd;;;;;;;;;;;;;x
+county_of_scottish;Siorramachd;;;;;;;;;;;;;x
+
+emperor_scottish;Ìmpire;;;;;;;;;;;;;x
+emperor_female_scottish;Ban-ìmpire;;;;;;;;;;;;;x
+king_scottish;Rìgh;;;;;;;;;;;;;x
+king_female_scottish;Rìghinn;;;;;;;;;;;;;x
+duke_scottish;Diùc;;;;;;;;;;;;;x
+duke_female_scottish;Ban-diùc;;;;;;;;;;;;;x
+count_scottish;Iarla;;;;;;;;;;;;;x
+count_female_scottish;Ban-iarla;;;;;;;;;;;;;x
+baron_scottish;Bharan;;;;;;;;;;;;;x
+baron_female_scottish;Ban-bharan;;;;;;;;;;;;;x
+
+job_chancellor_scottish;Seansalair;;;;;;;;;;;;;x
+job_marshal_scottish;Marasgal;;;;;;;;;;;;;x
+job_treasurer_scottish;Ionmhasair;;;;;;;;;;;;;x
+job_spymaster_scottish;Maighstir Spy;;;;;;;;;;;;;x
+
+###########################################
+############### Welsh #####################
+###########################################
+
+empire_of_welsh;Ymerodraeth;;;;;;;;;;;;;x
+kingdom_of_welsh;Teyrnas;;;;;;;;;;;;;x
+duchy_of_welsh;Ddugiaeth;;;;;;;;;;;;;x
+
+emperor_welsh;Ymerawdwr;;;;;;;;;;;;;x
+emperor_female_welsh;Ymerodres;;;;;;;;;;;;;x
+king_welsh;Ri;;;;;;;;;;;;;x
+king_female_welsh;Manon;;;;;;;;;;;;;x
+title_prince_welsh;Tywysog;;;;;;;;;;;;;x
+title_prince_female_welsh;Tywysoges;;;;;;;;;;;;;x
+duke_welsh;Dug;;;;;;;;;;;;;x
+duke_female_welsh;Duges;;;;;;;;;;;;;x
+count_welsh;Hiarll;;;;;;;;;;;;;x
+count_female_welsh;Hiarlles;;;;;;;;;;;;;x
+baron_welsh;Barwn;;;;;;;;;;;;;x
+baron_female_welsh;Barwnes;;;;;;;;;;;;;x
+
+###########################################
+############### Breton ####################
+###########################################
+
+emperor_breton;Impalaer;;;;;;;;;;;;;x
+emperor_female_breton;Impalaer;;;;;;;;;;;;;x
+king_breton;Roue;;;;;;;;;;;;;x
+king_female_breton;Rouanez;;;;;;;;;;;;;x
+duke_breton;Dug;;;;;;;;;;;;;x
+duke_female_breton;Dugez;;;;;;;;;;;;;x
+count_breton;Kont;;;;;;;;;;;;;x
+count_female_breton;Kontez;;;;;;;;;;;;;x
+
+
+###########################################################
+################### Byzantine #############################
+###########################################################
+################ Byzantine is Greek #######################
+
+greek;Éllinas;;;;;;;;;;;;;x
+e_byzantium;Basileía Rhomaíon;;;;;;;;;;;;;x
+e_byzantium_adj;Rhomaíos;;;;;;;;;;;;;x
+kingdom_greek;Despotaton;;;;;;;;;;;;;x
+
+kingdom_of_byzantine;Despotate;;;;;;;;;;;;;x
+duchy_of_byzantine;Thema;;;;;;;;;;;;;x
+county_of_byzantine;Tourma;;;;;;;;;;;;;x
+barony_of_byzantine;Bandon;;;;;;;;;;;;;x
+city_barony_of_byzantine;Archonate;;;;;;;;;;;;;x
+
+duchy_byzantine;Thema;;;;;;;;;;;;;x
+county_byzantine;Tourma;;;;;;;;;;;;;x
+barony_byzantine;Bandon;;;;;;;;;;;;;x
+
+king_byzantine;Despotes;;;;;;;;;;;;;x
+king_female_byzantine;Despotissa;;;;;;;;;;;;;x
+title_prince_byzantine;Prínkipas;;;;;;;;;;;;;x
+title_prince_female_byzantine;Prinkípissa;;;;;;;;;;;;;x
+duke_byzantine;Doúx;;;;;;;;;;;;;x
+duke_female_byzantine;Doúkissa;;;;;;;;;;;;;x
+count_byzantine;Tourmarches;;;;;;;;;;;;;x
+count_female_byzantine;Tourmarchissa;;;;;;;;;;;;;x
+baron_byzantine;Kómes;;;;;;;;;;;;;x
+baron_female_byzantine;Kómissa;;;;;;;;;;;;;x
+city_baron_byzantine;Archon;;;;;;;;;;;;;x
+
+city_count_byzantine;Megas Archon;;;;;;;;;;;;;x
+city_county_byzantine;Metropolis;;;;;;;;;;;;;x
+city_county_of_byzantine;Metropolis of;;;;;;;;;;;;;x
+
+city_barony_byzantine;Polis;;;;;;;;;;;;;x
+city_baron_byzantine;Archon;;;;;;;;;;;;;x
+city_barony_of_byzantine;Polis of;;;;;;;;;;;;;x
+
+k_orthodox;Oikoumenikos Patriarchia;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_byzantine;Oikoumenikós Patriárches;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_byzantine;Anatole Patriárkhes;;;;;;;;;;;;;x
+COPTIC_POPE_byzantine;Pappas Alexandreías;;;;;;;;;;;;;x
+POPE_byzantine;Pappas;;;;;;;;;;;;;x
+
+family_palace_baron_greek;Patríkios;;;;;;;;;;;;;x
+title_despot;Despotes;;;;;;;;;;;;;x
+title_caesar;Kaisar;;;;;;;;;;;;;x
+RETTYPE_CUL_BYZ;Kataphraktoi;;;;;;;;;;;;;x;;
+
+king_armenian;Ark'a;;;;;;;;;;;;;x
+king_alan;Ark'a;;;;;;;;;;;;;x
+king_georgian;Ark'a;;;;;;;;;;;;;x
+
+###########################################
+############### Gothic ####################
+###########################################
+
+empire_of_crimean_gothic;Rike;;;;;;;;;;;;;x
+kingdom_of_crimean_gothic;Koningrike;;;;;;;;;;;;;x
+duchy_of_crimean_gothic;Haritogdom;;;;;;;;;;;;;x
+county_of_crimean_gothic;Gravskap;;;;;;;;;;;;;x
+
+emperor_crimean_gothic;Kesar;;;;;;;;;;;;;x
+emperor_female_crimean_gothic;Kesarini;;;;;;;;;;;;;x
+king_crimean_gothic;Theudan;;;;;;;;;;;;;x
+king_female_crimean_gothic;Theudano;;;;;;;;;;;;;x
+title_prince_crimean_gothic;Frymist;;;;;;;;;;;;;x
+title_prince_female_crimean_gothic;Frymisto;;;;;;;;;;;;;x
+duke_crimean_gothic;Heritoga;;;;;;;;;;;;;x
+duke_female_crimean_gothic;Heritogo;;;;;;;;;;;;;x
+count_crimean_gothic;Grifja;;;;;;;;;;;;;x
+count_female_crimean_gothic;Grifjo;;;;;;;;;;;;;x
+baron_crimean_gothic;Thegan;;;;;;;;;;;;;x
+baron_female_crimean_gothic;Thegno;;;;;;;;;;;;;x
+
+vice_royalty_emperor_crimean_gothic;Minniskesar;;;;;;;;;;;;;x
+vice_royalty_emperor_female_crimean_gothic;Minniskesarini;;;;;;;;;;;;;x
+vice_royalty_king_crimean_gothic;Minnistheudan;;;;;;;;;;;;;x
+vice_royalty_king_female_crimean_gothic;Minnistheudano;;;;;;;;;;;;;x
+vice_royalty_duke_crimean_gothic;Minnisheritoga;;;;;;;;;;;;;x
+vice_royalty_duke_female_crimean_gothic;Minnisheritogo;;;;;;;;;;;;;x
+
+tribal_duke_crimean_gothic;Hoha Hovodling;;;;;;;;;;;;;x
+tribal_duke_female_crimean_gothic;Hoh Hovodlingo;;;;;;;;;;;;;x
+tribal_count_crimean_gothic;Hovodling;;;;;;;;;;;;;x
+tribal_count_female_crimean_gothic;Hovodlingo;;;;;;;;;;;;;x
+
+###########################################
+############## Assyrian ###################
+###########################################
+
+emperor_assyrian;Šar Šarrani;;;;;;;;;;;;;x
+king_assyrian;Malka;;;;;;;;;;;;;x
+king_female_assyrian;Malkta;;;;;;;;;;;;;x
+duke_assyrian;Ptahša;;;;;;;;;;;;;x
+duke_female_assyrian;Ptahšta;;;;;;;;;;;;;x
+count_assyrian;Amir;;;;;;;;;;;;;x
+count_female_assyrian;Amira;;;;;;;;;;;;;x
+baron_assyrian;Gelyar;;;;;;;;;;;;;x
+baron_female_assyrian;Gelyara;;;;;;;;;;;;;x
+
+vice_royalty_king_assyrian;Petšagar;;;;;;;;;;;;;x
+vice_royalty_king_female_assyrian;Petšagara;;;;;;;;;;;;;x
+vice_royalty_duke_assyrian;Padayata;;;;;;;;;;;;;x
+vice_royalty_duke_female_assyrian;Padayata;;;;;;;;;;;;;x
+
+PATRIARCH_IN_THE_EAST_assyrian;Patriarko d-Madenho;;;;;;;;;;;;;x
+
+###########################################################
+################## Finno-Urgic ############################
+###########################################################
+
+kingdom_of_finno_ugric;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_finno_ugric;Herttuakunta;;;;;;;;;;;;;x
+county_of_finno_ugric;Kreivikunta;;;;;;;;;;;;;x
+
+kingdom_finno_ugric;Kuningaskunta;;;;;;;;;;;;;x
+duchy_finno_ugric;Herttuakunta;;;;;;;;;;;;;x
+county_finno_ugric;Kreivikunta;;;;;;;;;;;;;x
+
+POPE_finno_ugric;Paavi;;;;;;;;;;;;;x
+emperor_finno_ugric;Keisari;;;;;;;;;;;;;x
+emperor_female_finno_ugric;Keisarinna;;;;;;;;;;;;;x
+king_finno_ugric;Kuningas;;;;;;;;;;;;;x
+king_female_finno_ugric;Kuningatar;;;;;;;;;;;;;x
+title_prince_finno_ugric;Prinssi;;;;;;;;;;;;;x
+title_prince_female_finno_ugric;Prinsessa;;;;;;;;;;;;;x
+duke_finno_ugric;Herttua;;;;;;;;;;;;;x
+duke_female_finno_ugric;Herttuatar;;;;;;;;;;;;;x
+count_finno_ugric;Kreivi;;;;;;;;;;;;;x
+count_female_finno_ugric;Kreivitär;;;;;;;;;;;;;x
+baron_finno_ugric;Paroni;;;;;;;;;;;;;x
+baron_female_finno_ugric;Paronitar;;;;;;;;;;;;;x
+
+tribal_duke_finno_ugric;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_finno_ugric;Päällikkö;;;;;;;;;;;;;x
+
+job_chancellor_finno_ugric;Kansleri;;;;;;;;;;;;;x
+job_marshal_finno_ugric;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_finno_ugric;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_finno_ugric;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_finno_ugric;Hovikappalainen;;;;;;;;;;;;;x
+
+###########################################################
+################## Finnish ################################
+###########################################################
+k_finland;Finnland;;;;;;;;;;;;;x
+finnish;Suomalainen;;;;;;;;;;;;;x
+
+empire_finnish;Imperiumi;;;;;;;;;;;;;x
+empire_of_finnish;Imperiumi;;;;;;;;;;;;;x
+kingdom_finnish;Kuningaskunta;;;;;;;;;;;;;x
+kingdom_of_finnish;Kuningaskunta;;;;;;;;;;;;;x
+duchy_finnish;Herttuakunta;;;;;;;;;;;;;x
+duchy_of_finnish;Herttuakunta;;;;;;;;;;;;;x
+county_finnish;Lääni;;;;;;;;;;;;;x
+county_of_finnish;Lääni;;;;;;;;;;;;;x
+barony_finnish;Linna;;;;;;;;;;;;;x
+barony_of_finnish;Linna;;;;;;;;;;;;;x
+
+
+emperor_title_prince_finnish;Keisarin Prinssi;;;;;;;;;;;;;x
+emperor_title_prince_female_finnish;Keisarin Prinsessa;;;;;;;;;;;;;x
+king_title_prince_finnish;Prinssi;;;;;;;;;;;;;x
+king_title_prince_female_finnish;Prinsessa;;;;;;;;;;;;;x
+duke_title_prince_finnish;Herra;;;;;;;;;;;;;x
+duke_title_prince_female_finnish;Nainen;;;;;;;;;;;;;x
+count_title_prince_finnish;Herra;;;;;;;;;;;;;x
+count_title_prince_female_finnish;Nainen;;;;;;;;;;;;;x
+title_prince_finnish;Prinssi;;;;;;;;;;;;;x
+title_prince_female_finnish;Prinsessa;;;;;;;;;;;;;x
+
+
+emperor_finnish;Keisari;;;;;;;;;;;;;x
+emperor_female_finnish;Keisarinna;;;;;;;;;;;;;x
+king_finnish;Kuningas;;;;;;;;;;;;;x
+king_female_finnish;Kuningatar;;;;;;;;;;;;;x
+duke_finnish;Herttua;;;;;;;;;;;;;x
+duke_female_finnish;Herttuatar;;;;;;;;;;;;;x
+count_finnish;Kreivi;;;;;;;;;;;;;x
+count_female_finnish;Kreivitär;;;;;;;;;;;;;x
+baron_finnish;Paroni;;;;;;;;;;;;;x
+baron_female_finnish;Paronitar;;;;;;;;;;;;;x
+
+
+city_king_finnish;Suuri pormestari prinssi;;;;;;;;;;;;;x
+city_king_female_finnish;Suuri pormestari prinsessa;;;;;;;;;;;;;x
+city_kingdom_finnish;Suuri Tasavalta;;;;;;;;;;;;;x
+city_kingdom_of_finnish;Suuri Tasavalta;;;;;;;;;;;;;x
+
+city_duke_finnish;Pormestarien herra;;;;;;;;;;;;;x
+city_duke_female_finnish;Pormestarien herra;;;;;;;;;;;;;x
+city_duchy_finnish;Kaupungin tasavalta;;;;;;;;;;;;;x
+city_duchy_of_finnish;Kaupungin tasavalta;;;;;;;;;;;;;x
+
+city_count_finnish;Ylipormestari;;;;;;;;;;;;;x
+city_count_female_finnish;Ylipormestari;;;;;;;;;;;;;x
+city_county_finnish;Kaupungin lääni;;;;;;;;;;;;;x
+city_county_of_finnish;Kaupungin lääni;;;;;;;;;;;;;x
+
+city_baron_finnish;Pormestari;;;;;;;;;;;;;x
+city_baron_female_finnish;Pormestari;;;;;;;;;;;;;x
+city_barony_finnish;Kaupunki;;;;;;;;;;;;;x
+city_barony_of_finnish;Kaupunki;;;;;;;;;;;;;x
+
+job_chancellor_finnish;Liittokansleri;;;;;;;;;;;;;x
+job_marshal_finnish;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_finnish;Rahastonhoitaja;;;;;;;;;;;;;x
+job_spymaster_finnish;Vakoilija;;;;;;;;;;;;;x
+
+
+###########################################################
+################## Estonian ###############################
+###########################################################
+ugricbaltic;Eestlane;;;;;;;;;;;;;x
+k_estonia;Eesti;;;;;;;;;;;;;x
+d_esthonia;Eesti;;;;;;;;;;;;;x
+
+empire_ugricbaltic;Impeerium;;;;;;;;;;;;;x
+empire_of_ugricbaltic;Impeerium;;;;;;;;;;;;;x
+kingdom_ugricbaltic;Kuningriik;;;;;;;;;;;;;x
+kingdom_of_ugricbaltic;Kuningriik;;;;;;;;;;;;;x
+duchy_ugricbaltic;Hertsogiriik;;;;;;;;;;;;;x
+duchy_of_ugricbaltic;Hertsogiriik;;;;;;;;;;;;;x
+county_ugricbaltic;Maakond;;;;;;;;;;;;;x
+county_of_ugricbaltic;Maakond;;;;;;;;;;;;;x
+barony_ugricbaltic;Loss;;;;;;;;;;;;;x
+barony_of_ugricbaltic;Loss;;;;;;;;;;;;;x
+
+
+emperor_title_prince_ugricbaltic;Keiserlik Prints;;;;;;;;;;;;;x
+emperor_title_prince_female_ugricbaltic;Keiserlik Printsess;;;;;;;;;;;;;x
+king_title_prince_ugricbaltic;Vürst;;;;;;;;;;;;;x
+king_title_prince_female_ugricbaltic;Vürstinna;;;;;;;;;;;;;x
+duke_title_prince_ugricbaltic;Issand;;;;;;;;;;;;;x
+duke_title_prince_female_ugricbaltic;Daam;;;;;;;;;;;;;x
+count_title_prince_ugricbaltic;Issand;;;;;;;;;;;;;x
+count_title_prince_female_ugricbaltic;Daam;;;;;;;;;;;;;x
+title_prince_ugricbaltic;Prints;;;;;;;;;;;;;x
+title_prince_female_ugricbaltic;Printsess;;;;;;;;;;;;;x
+
+
+emperor_ugricbaltic;Keiser;;;;;;;;;;;;;x
+emperor_female_ugricbaltic;Keisrinna;;;;;;;;;;;;;x
+king_ugricbaltic;Kuningas;;;;;;;;;;;;;x
+king_female_ugricbaltic;Kuninganna;;;;;;;;;;;;;x
+duke_ugricbaltic;Hertsog;;;;;;;;;;;;;x
+duke_female_ugricbaltic;Hertsoginna;;;;;;;;;;;;;x
+count_ugricbaltic;Krahv;;;;;;;;;;;;;x
+count_female_ugricbaltic;Krahvinna;;;;;;;;;;;;;x
+baron_ugricbaltic;Parun;;;;;;;;;;;;;x
+baron_female_ugricbaltic;Paruness;;;;;;;;;;;;;x
+
+
+city_king_ugricbaltic;Printslinnapea;;;;;;;;;;;;;x
+city_king_female_ugricbaltic;Printsesslinnapea;;;;;;;;;;;;;x
+city_kingdom_ugricbaltic;Hansa Vabariik;;;;;;;;;;;;;x
+city_kingdom_of_ugricbaltic;Hansa Vabariik;;;;;;;;;;;;;x
+
+city_duke_ugricbaltic;Linnapeade Isand;;;;;;;;;;;;;x
+city_duke_female_ugricbaltic;Linnapeade Isand;;;;;;;;;;;;;x
+city_duchy_ugricbaltic;Linnavabariik;;;;;;;;;;;;;x
+city_duchy_of_ugricbaltic;Linnavabariik;;;;;;;;;;;;;x
+
+city_count_ugricbaltic;Linnapeaissand;;;;;;;;;;;;;x
+city_count_female_ugricbaltic;Linnapeaissand;;;;;;;;;;;;;x
+city_county_ugricbaltic;Linna Maakond;;;;;;;;;;;;;x
+city_county_of_ugricbaltic;Linna Maakond;;;;;;;;;;;;;x
+
+city_baron_ugricbaltic;Linnapea;;;;;;;;;;;;;x
+city_baron_female_ugricbaltic;Linnapea;;;;;;;;;;;;;x
+city_barony_ugricbaltic;Linn;;;;;;;;;;;;;x
+city_barony_of_ugricbaltic;Linn;;;;;;;;;;;;;x
+
+job_chancellor_ugricbaltic;Kantsler;;;;;;;;;;;;;x
+job_marshal_ugricbaltic;Marssal;;;;;;;;;;;;;x
+job_treasurer_ugricbaltic;Laekur;;;;;;;;;;;;;x
+job_spymaster_ugricbaltic;Spioonide Meister;;;;;;;;;;;;;x
+
+###########################################
+################ Sami #####################
+###########################################
+
+king_sami;Gonagas;;;;;;;;;;;;;x
+duke_sami;Gonagas;;;;;;;;;;;;;x
+count_sami;Gonagas;;;;;;;;;;;;;x
+
+tribal_count_sami;Gonagas;;;;;;;;;;;;;x
+
+###########################################################
+##################### Baltic ##############################
+###########################################################
+################# Baltic is Lithuanian ####################
+
+lithuanian;Latviešu;;;;;;;;;;;;;x
+k_lithuania;Latvija;;;;;;;;;;;;;x
+
+kingdom_baltic;Karaliste;;;;;;;;;;;;;x
+kingdom_of_baltic;Karaliste;;;;;;;;;;;;;x
+duchy_of_baltic;Hercogiste;;;;;;;;;;;;;x
+county_of_baltic;Grafiste;;;;;;;;;;;;;x
+barony_of_baltic;Baronija;;;;;;;;;;;;;x
+city_of_baltic;Pilseta;;;;;;;;;;;;;x
+
+emperor_baltic;Imperators;;;;;;;;;;;;;x
+emperor_female_baltic;Imperatore;;;;;;;;;;;;;x
+king_baltic;Karalis;;;;;;;;;;;;;x
+king_female_baltic;Keraliene;;;;;;;;;;;;;x
+title_prince_baltic;Princis;;;;;;;;;;;;;x
+title_prince_female_baltic;Princese;;;;;;;;;;;;;x
+duke_baltic;Hercogs;;;;;;;;;;;;;x
+duke_female_baltic;Hercogiene;;;;;;;;;;;;;x
+count_baltic;Grafs;;;;;;;;;;;;;x
+count_female_baltic;Grafiene;;;;;;;;;;;;;x
+baron_baltic;Barons;;;;;;;;;;;;;x
+baron__female_baltic;Baronese;;;;;;;;;;;;;x
+
+city_baron_baltic;Mers;;;;;;;;;;;;;x
+
+tribal_duke_baltic;Aukštasis Vyriausiasis;;;;;;;;;;;;;x
+tribal_count_baltic;Vyriausiasis;;;;;;;;;;;;;x
+
+job_chancellor_baltic;Kanclers;;;;;;;;;;;;;x
+job_marshal_baltic;Maršals;;;;;;;;;;;;;x
+job_treasurer_baltic;Parvaldnieks;;;;;;;;;;;;;x
+job_spymaster_baltic;Spiegu Meistars;;;;;;;;;;;;;x
+
+###########################################################
+##################### Others ##############################
+###########################################################
+
+e_carpathia;Kárpátia;;;;;;;;;;;;;x
+
+emperor_hungarian;Csaszar;;;;;;;;;;;;;x
+grand_duke_hungarian;Nagyfejedelem;;;;;;;;;;;;;x
+king_hungarian;Kiraly;;;;;;;;;;;;;x
+duke_hungarian;Herceg;;;;;;;;;;;;;x
+duke_female_hungarian;Hercegno;;;;;;;;;;;;;x
+count_hungarian;Ispán;;;;;;;;;;;;;x
+count_female_hungarian;Grófno;;;;;;;;;;;;;x
+
+POPE_hungarian;Pápa;;;;;;;;;;;;;x
+
+###########################################################
+################## Mercenaries ############################
+###########################################################
+
+d_white_company;Compagnia Bianca del Falco;;;;;;;;;;;;;x
+d_white_company_adj;Mercenary;;;;;;;;;;;;;x
+d_great_company;Groß Truppe;;;;;;;;;;;;;x
+d_great_company_adj;Mercenary;;;;;;;;;;;;;x
+d_varangian_guard;Tágma ton Varángon;;;;;;;;;;;;;x
+d_varangian_guard_adj;Varángon;;;;;;;;;;;;;x
+d_knights_hospitaler;Fraternitas Hospitalaria;;;;;;;;;;;;;x
+d_knights_hospitaler_adj;Hospitalaria;;;;;;;;;;;;;x
