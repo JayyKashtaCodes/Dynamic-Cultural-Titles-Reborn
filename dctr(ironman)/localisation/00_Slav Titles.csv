@@ -1,3 +1,7 @@
+
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;;;;;;;;;;;;;x
+
 ###########################################################
 ################### West Slavic ###########################
 ###########################################################
@@ -35,7 +39,19 @@ city_barony_of_west_slavic;Miasto;;;;;;;;;;;;;x
 tribal_king_west_slavic;Król;;;;;;;;;;;;;x
 tribal_king_female_west_slavic;Królowa;;;;;;;;;;;;;x
 tribal_duke_west_slavic;Wysoki Wódz;;;;;;;;;;;;;x
+tribal_duke_female_west_slavic;Wysoki Szefowa;;;;;;;;;;;;;x
 tribal_count_west_slavic;Wódz;;;;;;;;;;;;;x
+tribal_count_female_west_slavic;Szefowa;;;;;;;;;;;;;x
+
+tribal_kingdom_west_slavic;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_west_slavic;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_west_slavic;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_west_slavic;Plemie;;;;;;;;;;;;;x
+
+tribal_kingdom_of_west_slavic;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_of_west_slavic;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_of_west_slavic;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_of_west_slavic;Plemie;;;;;;;;;;;;;x
 
 job_chancellor_west_slavic;Kanclerz;;;;;;;;;;;;;x
 job_marshal_west_slavic;Marszalek;;;;;;;;;;;;;x
@@ -71,7 +87,7 @@ POPE_bohemian;Papež;;;;;;;;;;;;;x
 
 e_russia;Russkoye Tsarstvo;;;;;;;;;;;;;x
 create_russian_empire_desc;Holding the Tsardom of Rus is not enough – some are starting to think that 'the Empire of Russia' has a better ring to it...;Détenir l'empire des Rus' ne suffit pas – certains commencent à penser que « l'Empire de Russie » est mieux...;"Es reicht nicht aus, das Reich der Rus zu halten. Einige beginnen zu glauben, dass ""Russland"" einen besseren Klang hat ...";;"Mantener el Imperio de la Rus no parece suficiente y algunos empiezan a pensar que ""Imperio de Rusia"" sonaría mejor…";;;;;;;;;;;;;x
-russian;Russkiy;;;;;;;;;;;;;x
+russian;Rusi;;;;;;;;;;;;;x
 
 empire_east_slavic;Tsardom;;;;;;;;;;;;;x
 empire_of_east_slavic;Tsardom;;;;;;;;;;;;;x
