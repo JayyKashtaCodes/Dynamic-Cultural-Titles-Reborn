@@ -1,12 +1,33 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;ENGLISH;;;;;;;;;;;;;x
+
 ###########################################################
 ################## Slavic Pagan ###########################
 ###########################################################
 
 temple_baron_slavic_pagan;Zhrets;;;;;;;;;;;;;x
 temple_baron_female_slavic_pagan;Zhritsa;;;;;;;;;;;;;x
+
 temple_baron_slavic_pagan_reformed;Zhrets;;;;;;;;;;;;;x
 temple_baron_female_slavic_pagan_reformed;Zhritsa;;;;;;;;;;;;;x
 
+
+temple_county_slavic_pagan_reformed;Knâžestvo Xráma;;;;;;;;;;;;;x
+temple_county_slavic_pagan_reformed;Mesto Xráma;;;;;;;;;;;;;x
+temple_barony_slavic_pagan_reformed;Xramu;;;;;;;;;;;;;x
+
+temple_county_slavic_pagan;Knâžestvo Xráma;;;;;;;;;;;;;x
+temple_county_slavic_pagan;Mesto Xráma;;;;;;;;;;;;;x
+temple_barony_slavic_pagan;Xramu;;;;;;;;;;;;;x
+
+
+temple_county_of_slavic_pagan_reformed;Knâžestvo Xráma;;;;;;;;;;;;;x
+temple_county_of_slavic_pagan_reformed;Mesto Xráma;;;;;;;;;;;;;x
+temple_barony_of_slavic_pagan_reformed;Xramu;;;;;;;;;;;;;x
+
+temple_county_of_slavic_pagan;Knâžestvo Xráma;;;;;;;;;;;;;x
+temple_county_of_slavic_pagan;Mesto Xráma;;;;;;;;;;;;;x
+temple_barony_of_slavic_pagan;Xramu;;;;;;;;;;;;;x
 
 ###########################################################
 ################## Orthodox ###############################
@@ -33,7 +54,7 @@ temple_barony_of_orthodox;Eparchía tou;;;;;;;;;;;;;x
 job_spiritual_orthodox;Patriárchis;;;;;;;;;;;;;x
 
 ###########################################################
-################## Iconoclast ###############################
+################## Iconoclast #############################
 ###########################################################
 
 temple_emperor_iconoclast;Patriárchis;;;;;;;;;;;;;x
@@ -57,6 +78,78 @@ temple_barony_of_iconoclast;Eparchía tou;;;;;;;;;;;;;x
 job_spiritual_iconoclast;Patriárchis;;;;;;;;;;;;;x
 
 ###########################################################
+################## Paulician ##############################
+###########################################################
+
+temple_emperor_paulician;Patriárchis;;;;;;;;;;;;;x
+temple_king_paulician;Patriárchis;;;;;;;;;;;;;x
+temple_duke_paulician;Exarch;;;;;;;;;;;;;x
+temple_count_paulician;Mitropolítis;;;;;;;;;;;;;x
+temple_baron_paulician;Eparch;;;;;;;;;;;;;x
+
+temple_empire_paulician;Patriarchía;;;;;;;;;;;;;x
+temple_kingdom_paulician;Patriarchía;;;;;;;;;;;;;x
+temple_duchy_paulician;Exarchía;;;;;;;;;;;;;x
+temple_county_paulician;Mitrópolis;;;;;;;;;;;;;x
+temple_barony_paulician;Eparchía;;;;;;;;;;;;;x
+
+temple_empire_of_paulician;Patriarchía tou;;;;;;;;;;;;;x
+temple_kingdom_of_paulician;Patriarchía tou;;;;;;;;;;;;;x
+temple_duchy_of_paulician;Exarchía tou;;;;;;;;;;;;;x
+temple_county_of_paulician;Mitrópoli tou;;;;;;;;;;;;;x
+temple_barony_of_paulician;Eparchía tou;;;;;;;;;;;;;x
+
+job_spiritual_paulician;Patriárchis;;;;;;;;;;;;;x
+
+###########################################################
+################## Monothelite ############################
+###########################################################
+
+temple_emperor_monothelite;Patriárchis;;;;;;;;;;;;;x
+temple_king_monothelite;Patriárchis;;;;;;;;;;;;;x
+temple_duke_monothelite;Exarch;;;;;;;;;;;;;x
+temple_count_monothelite;Mitropolítis;;;;;;;;;;;;;x
+temple_baron_monothelite;Eparch;;;;;;;;;;;;;x
+
+temple_empire_monothelite;Patriarchía;;;;;;;;;;;;;x
+temple_kingdom_monothelite;Patriarchía;;;;;;;;;;;;;x
+temple_duchy_monothelite;Exarchía;;;;;;;;;;;;;x
+temple_county_monothelite;Mitrópolis;;;;;;;;;;;;;x
+temple_barony_monothelite;Eparchía;;;;;;;;;;;;;x
+
+temple_empire_of_monothelite;Patriarchía tou;;;;;;;;;;;;;x
+temple_kingdom_of_monothelite;Patriarchía tou;;;;;;;;;;;;;x
+temple_duchy_of_monothelite;Exarchía tou;;;;;;;;;;;;;x
+temple_county_of_monothelite;Mitrópoli tou;;;;;;;;;;;;;x
+temple_barony_of_monothelite;Eparchía tou;;;;;;;;;;;;;x
+
+job_spiritual_monothelite;Patriárchis;;;;;;;;;;;;;x
+
+###########################################################
+################## Iconoclast #############################
+###########################################################
+
+temple_emperor_bogomilist;Patriárchis;;;;;;;;;;;;;x
+temple_king_bogomilist;Patriárchis;;;;;;;;;;;;;x
+temple_duke_bogomilist;Exarch;;;;;;;;;;;;;x
+temple_count_bogomilist;Mitropolítis;;;;;;;;;;;;;x
+temple_baron_bogomilist;Eparch;;;;;;;;;;;;;x
+
+temple_empire_bogomilist;Patriarchía;;;;;;;;;;;;;x
+temple_kingdom_bogomilist;Patriarchía;;;;;;;;;;;;;x
+temple_duchy_bogomilist;Exarchía;;;;;;;;;;;;;x
+temple_county_bogomilist;Mitrópolis;;;;;;;;;;;;;x
+temple_barony_bogomilist;Eparchía;;;;;;;;;;;;;x
+
+temple_empire_of_bogomilist;Patriarchía tou;;;;;;;;;;;;;x
+temple_kingdom_of_bogomilist;Patriarchía tou;;;;;;;;;;;;;x
+temple_duchy_of_bogomilist;Exarchía tou;;;;;;;;;;;;;x
+temple_county_of_bogomilist;Mitrópoli tou;;;;;;;;;;;;;x
+temple_barony_of_bogomilist;Eparchía tou;;;;;;;;;;;;;x
+
+job_spiritual_bogomilist;Patriárchis;;;;;;;;;;;;;x
+
+###########################################################
 ################## Miaphysite #############################
 ###########################################################
 
@@ -67,7 +160,7 @@ temple_count_miaphysite;Lique Liqawint;;;;;;;;;;;;;x
 temple_baron_miaphysite;Lique Diaqon;;;;;;;;;;;;;x
 
 ###########################################################
-################## Catholic #############################
+################## Catholic ###############################
 ###########################################################
 
 k_papal_state;Status Ecclesiasticus;;;;;;;;;;;;;x
@@ -92,3 +185,103 @@ temple_county_of_catholic;Dioecesis;;;;;;;;;;;;;x
 temple_barony_of_catholic;Ecclesia;;;;;;;;;;;;;x
 
 job_spiritual_catholic;Primate;;;;;;;;;;;;;x
+
+###########################################################
+################## Cathar #################################
+###########################################################
+
+temple_emperor_cathar;Cardinalis;;;;;;;;;;;;;x
+temple_emperor_female_cathar;Cardinalis;;;;;;;;;;;;;x
+temple_duke_cathar;Archiepiscopus;;;;;;;;;;;;;x
+temple_duke_female_cathar;Archiepiscopus;;;;;;;;;;;;;x
+temple_count_cathar;Episcopus;;;;;;;;;;;;;x
+temple_count_female_cathar;Episcopus;;;;;;;;;;;;;x
+temple_baron_cathar;Rector;;;;;;;;;;;;;x
+temple_baron_female_cathar;Rector;;;;;;;;;;;;;x
+
+temple_empire_cathar;Patrimonium;;;;;;;;;;;;;x
+temple_duchy_cathar;Archidioecesis;;;;;;;;;;;;;x
+temple_county_cathar;Dioecesis;;;;;;;;;;;;;x
+temple_barony_cathar;Ecclesia;;;;;;;;;;;;;x
+
+temple_empire_of_cathar;Patriarchia;;;;;;;;;;;;;x
+temple_duchy_of_cathar;Archidioecesis;;;;;;;;;;;;;x
+temple_county_of_cathar;Dioecesis;;;;;;;;;;;;;x
+temple_barony_of_cathar;Ecclesia;;;;;;;;;;;;;x
+
+job_spiritual_cathar;Primate;;;;;;;;;;;;;x
+
+###########################################################
+################## Fraticelli #############################
+###########################################################
+
+temple_emperor_fraticelli;Cardinalis;;;;;;;;;;;;;x
+temple_emperor_female_fraticelli;Cardinalis;;;;;;;;;;;;;x
+temple_duke_fraticelli;Archiepiscopus;;;;;;;;;;;;;x
+temple_duke_female_fraticelli;Archiepiscopus;;;;;;;;;;;;;x
+temple_count_fraticelli;Episcopus;;;;;;;;;;;;;x
+temple_count_female_fraticelli;Episcopus;;;;;;;;;;;;;x
+temple_baron_fraticelli;Rector;;;;;;;;;;;;;x
+temple_baron_female_fraticelli;Rector;;;;;;;;;;;;;x
+
+temple_empire_fraticelli;Patrimonium;;;;;;;;;;;;;x
+temple_duchy_fraticelli;Archidioecesis;;;;;;;;;;;;;x
+temple_county_fraticelli;Dioecesis;;;;;;;;;;;;;x
+temple_barony_fraticelli;Ecclesia;;;;;;;;;;;;;x
+
+temple_empire_of_fraticelli;Patriarchia;;;;;;;;;;;;;x
+temple_duchy_of_fraticelli;Archidioecesis;;;;;;;;;;;;;x
+temple_county_of_fraticelli;Dioecesis;;;;;;;;;;;;;x
+temple_barony_of_fraticelli;Ecclesia;;;;;;;;;;;;;x
+
+job_spiritual_fraticelli;Primate;;;;;;;;;;;;;x
+
+###########################################################
+################## Waldensian #############################
+###########################################################
+
+temple_emperor_waldensian;Cardinalis;;;;;;;;;;;;;x
+temple_emperor_female_waldensian;Cardinalis;;;;;;;;;;;;;x
+temple_duke_waldensian;Archiepiscopus;;;;;;;;;;;;;x
+temple_duke_female_waldensian;Archiepiscopus;;;;;;;;;;;;;x
+temple_count_waldensian;Episcopus;;;;;;;;;;;;;x
+temple_count_female_waldensian;Episcopus;;;;;;;;;;;;;x
+temple_baron_waldensian;Rector;;;;;;;;;;;;;x
+temple_baron_female_waldensian;Rector;;;;;;;;;;;;;x
+
+temple_empire_waldensian;Patrimonium;;;;;;;;;;;;;x
+temple_duchy_waldensian;Archidioecesis;;;;;;;;;;;;;x
+temple_county_waldensian;Dioecesis;;;;;;;;;;;;;x
+temple_barony_waldensian;Ecclesia;;;;;;;;;;;;;x
+
+temple_empire_of_waldensian;Patriarchia;;;;;;;;;;;;;x
+temple_duchy_of_waldensian;Archidioecesis;;;;;;;;;;;;;x
+temple_county_of_waldensian;Dioecesis;;;;;;;;;;;;;x
+temple_barony_of_waldensian;Ecclesia;;;;;;;;;;;;;x
+
+job_spiritual_waldensian;Primate;;;;;;;;;;;;;x
+
+###########################################################
+################## Lollard ################################
+###########################################################
+
+temple_emperor_lollard;Cardinalis;;;;;;;;;;;;;x
+temple_emperor_female_lollard;Cardinalis;;;;;;;;;;;;;x
+temple_duke_lollard;Archiepiscopus;;;;;;;;;;;;;x
+temple_duke_female_lollard;Archiepiscopus;;;;;;;;;;;;;x
+temple_count_lollard;Episcopus;;;;;;;;;;;;;x
+temple_count_female_lollard;Episcopus;;;;;;;;;;;;;x
+temple_baron_lollard;Rector;;;;;;;;;;;;;x
+temple_baron_female_lollard;Rector;;;;;;;;;;;;;x
+
+temple_empire_lollard;Patrimonium;;;;;;;;;;;;;x
+temple_duchy_lollard;Archidioecesis;;;;;;;;;;;;;x
+temple_county_lollard;Dioecesis;;;;;;;;;;;;;x
+temple_barony_lollard;Ecclesia;;;;;;;;;;;;;x
+
+temple_empire_of_lollard;Patriarchia;;;;;;;;;;;;;x
+temple_duchy_of_lollard;Archidioecesis;;;;;;;;;;;;;x
+temple_county_of_lollard;Dioecesis;;;;;;;;;;;;;x
+temple_barony_of_lollard;Ecclesia;;;;;;;;;;;;;x
+
+job_spiritual_lollard;Primate;;;;;;;;;;;;;x
