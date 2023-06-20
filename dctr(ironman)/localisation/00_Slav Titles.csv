@@ -88,14 +88,12 @@ POPE_bohemian;Papež;;;;;;;;;;;;;x
 e_russian_empire;Rusi Imperiya;;;;;;;;;;;;;x
 e_russia;Rusi Tsarstvo;;;;;;;;;;;;;x
 k_ruthenia;Korolevstvo Rusi;;;;;;;;;;;;;x
-kievan_rus;Rusiskae Zemle;;;;;;;;;;;;;x
 k_rus;Rusi;;;;;;;;;;;;;x
-
 d_kiev;Kyjevu;;;;;;;;;;;;;x
 c_kiev;Kyjevu;;;;;;;;;;;;;x
-
 create_russian_empire_desc;Holding the Tsardom of Rus is not enough – some are starting to think that 'the Empire of Russia' has a better ring to it...;Détenir l'empire des Rus' ne suffit pas – certains commencent à penser que « l'Empire de Russie » est mieux...;"Es reicht nicht aus, das Reich der Rus zu halten. Einige beginnen zu glauben, dass ""Russland"" einen besseren Klang hat ...";;"Mantener el Imperio de la Rus no parece suficiente y algunos empiezan a pensar que ""Imperio de Rusia"" sonaría mejor…";;;;;;;;;;;;;x
 russian;Rusi;;;;;;;;;;;;;x
+
 
 empire_east_slavic;Tsardom;;;;;;;;;;;;;x
 empire_of_east_slavic;Tsardom;;;;;;;;;;;;;x
@@ -103,12 +101,13 @@ kingdom_east_slavic;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 kingdom_of_east_slavic;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 duchy_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
 duchy_of_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
-county_east_slavic;Grafstvo;;;;;;;;;;;;;x
-county_of_east_slavic;Grafstvo;;;;;;;;;;;;;x
+county_east_slavic;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
+county_of_east_slavic;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
 baron_east_slavic;Votchinnik;;;;;;;;;;;;;x
 baron_female_east_slavic;Votchinnitsa;;;;;;;;;;;;;x
 barony_east_slavic;Votchina;;;;;;;;;;;;;x
 barony_of_east_slavic;Votchina;;;;;;;;;;;;;x
+
 
 council_east_slavic;Duma;;;;;;;;;;;;;x
 job_chancellor_east_slavic;Kantsler;;;;;;;;;;;;;x
@@ -117,6 +116,7 @@ job_treasurer_east_slavic;Kaznachey;;;;;;;;;;;;;x
 job_spymaster_east_slavic;Master Shpionov;;;;;;;;;;;;;x
 
 RETINUE_OF_east_slavic;Druzhina of $CHARACTER$;;;;;;;;;;;;;x
+
 
 emperor_east_slavic;Tsar';;;;;;;;;;;;;x
 emperor_female_east_slavic;Tsaritsa;;;;;;;;;;;;;x
@@ -129,6 +129,7 @@ count_female_east_slavic;Udel'naya Knyaginya;;;;;;;;;;;;;x
 baron_east_slavic;Votchinnik;;;;;;;;;;;;;x
 baron_female_east_slavic;Votchinnitsa;;;;;;;;;;;;;x
 
+
 emperor_title_prince_east_slavic;Tsarevich;;;;;;;;;;;;;x
 emperor_title_prince_female_east_slavic;Tsarevna;;;;;;;;;;;;;x
 king_title_prince_east_slavic;Knyazhich;;;;;;;;;;;;;x
@@ -139,6 +140,7 @@ count_title_prince_east_slavic;Knyazhich;;;;;;;;;;;;;x
 count_title_prince_female_east_slavic;Knyazhna;;;;;;;;;;;;;x
 title_prince_east_slavic;Prints;;;;;;;;;;;;;x
 title_prince_female_east_slavic;Printsessa;;;;;;;;;;;;;x
+
 
 vice_royalty_king_east_slavic;Namestnik;;;;;;;;;;;;;x
 vice_royalty_king_female_east_slavic;Namestnitsa;;;;;;;;;;;;;x
@@ -153,27 +155,31 @@ vice_royalty_duchy_of_east_slavic;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
 family_palace_baron_east_slavic;Boyarin;;;;;;;;;;;;;x
 family_palace_baron_female_east_slavic;Boyarynya;;;;;;;;;;;;;x
 
-city_king_east_slavic;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
-city_king_female_east_slavic;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
-city_kingdom_east_slavic;Veliky;;;;;;;;;;;;;x
-city_kingdom_of_east_slavic;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+city_emperor_east_slavic;Imperatorskiy Posádnik;;;;;;;;;;;;;x
+city_emperor_female_east_slavic;Imperatorskaya Posádnaya;;;;;;;;;;;;;x
+city_empire_east_slavic;Respublika Imperiya;;;;;;;;;;;;;x
+city_empire_of_east_slavic;Respublika Imperiya;;;;;;;;;;;;;x
 
-city_duke_east_slavic;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duke_female_east_slavic;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duchy_east_slavic;Gorodskoy Respublika;;;;;;;;;;;;;x
-city_duchy_of_east_slavic;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_king_east_slavic;Knyaz' Posádnik;;;;;;;;;;;;;x
+city_king_female_east_slavic;Knyaginya Posádnaya;;;;;;;;;;;;;x
+city_kingdom_east_slavic;Velikaya Respúblika;;;;;;;;;;;;;x
+city_kingdom_of_east_slavic;Velikaya Respúblika;;;;;;;;;;;;;x
 
-city_count_east_slavic;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_count_female_east_slavic;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_county_east_slavic;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
-city_county_of_east_slavic;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_duke_east_slavic;Posádnik;;;;;;;;;;;;;x
+city_duke_female_east_slavic;Posádnaya;;;;;;;;;;;;;x
+city_duchy_east_slavic;Respúblika;;;;;;;;;;;;;x
+city_duchy_of_east_slavic;Respúblika;;;;;;;;;;;;;x
 
-city_east_slavic;Gorod;;;;;;;;;;;;;x
-city_of_east_slavic;Gorod;;;;;;;;;;;;;x
-city_baron_east_slavic;Gorodskoy Golova;;;;;;;;;;;;;x
-city_baron_female_east_slavic;Gorodskoy Golova;;;;;;;;;;;;;x
-city_barony_east_slavic;Gorodskoy;;;;;;;;;;;;;x
-city_barony_of_east_slavic;Gorodskoy;;;;;;;;;;;;;x
+city_count_east_slavic;Udel'niy Posádnik;;;;;;;;;;;;;x
+city_count_female_east_slavic;Udel'naya Posádnaya;;;;;;;;;;;;;x
+city_county_east_slavic;Udel'naya Respublika;;;;;;;;;;;;;x
+city_county_of_east_slavic;Udel'naya Respublika;;;;;;;;;;;;;x
+
+
+city_baron_east_slavic;Górodom Golova;;;;;;;;;;;;;x
+city_baron_female_east_slavic;Górodom Glava;;;;;;;;;;;;;x
+city_barony_east_slavic;Górodom;;;;;;;;;;;;;x
+city_barony_of_east_slavic;Górodom;;;;;;;;;;;;;x
 
 tribal_king_east_slavic;Knyaz';;;;;;;;;;;;;x
 tribal_king_female_east_slavic;Knyaginya;;;;;;;;;;;;;x
@@ -206,8 +212,8 @@ kingdom_russian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 kingdom_of_russian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 duchy_russian;Knyazhestvo;;;;;;;;;;;;;x
 duchy_of_russian;Knyazhestvo;;;;;;;;;;;;;x
-county_russian;Grafstvo;;;;;;;;;;;;;x
-county_of_russian;Grafstvo;;;;;;;;;;;;;x
+county_russian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
+county_of_russian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
 baron_russian;Votchinnik;;;;;;;;;;;;;x
 baron_female_russian;Votchinnitsa;;;;;;;;;;;;;x
 barony_russian;Votchina;;;;;;;;;;;;;x
@@ -256,27 +262,26 @@ vice_royalty_duchy_of_russian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
 family_palace_baron_russian;Boyarin;;;;;;;;;;;;;x
 family_palace_baron_female_russian;Boyarynya;;;;;;;;;;;;;x
 
-city_king_russian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
-city_king_female_russian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
-city_kingdom_russian;Veliky;;;;;;;;;;;;;x
-city_kingdom_of_russian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+city_king_russian;Knyaz' Posádnik;;;;;;;;;;;;;x
+city_king_female_russian;Knyaginya Posádnaya;;;;;;;;;;;;;x
+city_kingdom_russian;Velikaya Respúblika;;;;;;;;;;;;;x
+city_kingdom_of_russian;Velikaya Respúblika;;;;;;;;;;;;;x
 
-city_duke_russian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duke_female_russian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duchy_russian;Gorodskoy Respublika;;;;;;;;;;;;;x
-city_duchy_of_russian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duke_russian;Posádnik;;;;;;;;;;;;;x
+city_duke_female_russian;Posádnik;;;;;;;;;;;;;x
+city_duchy_russian;Respúblika;;;;;;;;;;;;;x
+city_duchy_of_russian;Respúblika;;;;;;;;;;;;;x
 
-city_count_russian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_count_female_russian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_county_russian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
-city_county_of_russian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_count_russian;Udel'niy Posádnik;;;;;;;;;;;;;x
+city_count_female_russian;Udel'naya Posádnaya;;;;;;;;;;;;;x
+city_county_russian;Udel'naya Respublika;;;;;;;;;;;;;x
+city_county_of_russian;Udel'naya Respublika;;;;;;;;;;;;;x
 
-city_russian;Gorod;;;;;;;;;;;;;x
-city_of_russian;Gorod;;;;;;;;;;;;;x
-city_baron_russian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_baron_female_russian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_barony_russian;Gorodskoy;;;;;;;;;;;;;x
-city_barony_of_russian;Gorodskoy;;;;;;;;;;;;;x
+
+city_baron_russian;Górodom Golova;;;;;;;;;;;;;x
+city_baron_female_russian;Górodom Glava;;;;;;;;;;;;;x
+city_barony_russian;Górodom;;;;;;;;;;;;;x
+city_barony_of_russian;Górodom;;;;;;;;;;;;;x
 
 tribal_king_russian;Knyaz';;;;;;;;;;;;;x
 tribal_king_female_russian;Knyaginya;;;;;;;;;;;;;x
@@ -311,8 +316,8 @@ kingdom_ilmenian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 kingdom_of_ilmenian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 duchy_ilmenian;Knyazhestvo;;;;;;;;;;;;;x
 duchy_of_ilmenian;Knyazhestvo;;;;;;;;;;;;;x
-county_ilmenian;Grafstvo;;;;;;;;;;;;;x
-county_of_ilmenian;Grafstvo;;;;;;;;;;;;;x
+county_ilmenian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
+county_of_ilmenian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
 baron_ilmenian;Votchinnik;;;;;;;;;;;;;x
 baron_female_ilmenian;Votchinnitsa;;;;;;;;;;;;;x
 barony_ilmenian;Votchina;;;;;;;;;;;;;x
@@ -361,27 +366,26 @@ vice_royalty_duchy_of_ilmenian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
 family_palace_baron_ilmenian;Boyarin;;;;;;;;;;;;;x
 family_palace_baron_female_ilmenian;Boyarynya;;;;;;;;;;;;;x
 
-city_king_ilmenian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
-city_king_female_ilmenian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
-city_kingdom_ilmenian;Veliky;;;;;;;;;;;;;x
-city_kingdom_of_ilmenian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+city_king_ilmenian;Knyaz' Posádnik;;;;;;;;;;;;;x
+city_king_female_ilmenian;Knyaginya Posádnaya;;;;;;;;;;;;;x
+city_kingdom_ilmenian;Velikaya Respúblika;;;;;;;;;;;;;x
+city_kingdom_of_ilmenian;Velikaya Respúblika;;;;;;;;;;;;;x
 
-city_duke_ilmenian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duke_female_ilmenian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duchy_ilmenian;Gorodskoy Respublika;;;;;;;;;;;;;x
-city_duchy_of_ilmenian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duke_ilmenian;Posádnik;;;;;;;;;;;;;x
+city_duke_female_ilmenian;Posádnik;;;;;;;;;;;;;x
+city_duchy_ilmenian;Respúblika;;;;;;;;;;;;;x
+city_duchy_of_ilmenian;Respúblika;;;;;;;;;;;;;x
 
-city_count_ilmenian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_count_female_ilmenian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_county_ilmenian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
-city_county_of_ilmenian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_count_ilmenian;Udel'niy Posádnik;;;;;;;;;;;;;x
+city_count_female_ilmenian;Udel'naya Posádnaya;;;;;;;;;;;;;x
+city_county_ilmenian;Udel'naya Respublika;;;;;;;;;;;;;x
+city_county_of_ilmenian;Udel'naya Respublika;;;;;;;;;;;;;x
 
-city_ilmenian;Gorod;;;;;;;;;;;;;x
-city_of_ilmenian;Gorod;;;;;;;;;;;;;x
-city_baron_ilmenian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_baron_female_ilmenian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_barony_ilmenian;Gorodskoy;;;;;;;;;;;;;x
-city_barony_of_ilmenian;Gorodskoy;;;;;;;;;;;;;x
+
+city_baron_ilmenian;Górodom Golova;;;;;;;;;;;;;x
+city_baron_female_ilmenian;Górodom Glava;;;;;;;;;;;;;x
+city_barony_ilmenian;Górodom;;;;;;;;;;;;;x
+city_barony_of_ilmenian;Górodom;;;;;;;;;;;;;x
 
 tribal_king_ilmenian;Knyaz';;;;;;;;;;;;;x
 tribal_king_female_ilmenian;Knyaginya;;;;;;;;;;;;;x
@@ -416,8 +420,8 @@ kingdom_severian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 kingdom_of_severian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 duchy_severian;Knyazhestvo;;;;;;;;;;;;;x
 duchy_of_severian;Knyazhestvo;;;;;;;;;;;;;x
-county_severian;Grafstvo;;;;;;;;;;;;;x
-county_of_severian;Grafstvo;;;;;;;;;;;;;x
+county_severian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
+county_of_severian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
 baron_severian;Votchinnik;;;;;;;;;;;;;x
 baron_female_severian;Votchinnitsa;;;;;;;;;;;;;x
 barony_severian;Votchina;;;;;;;;;;;;;x
@@ -466,27 +470,26 @@ vice_royalty_duchy_of_severian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
 family_palace_baron_severian;Boyarin;;;;;;;;;;;;;x
 family_palace_baron_female_severian;Boyarynya;;;;;;;;;;;;;x
 
-city_king_severian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
-city_king_female_severian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
-city_kingdom_severian;Veliky;;;;;;;;;;;;;x
-city_kingdom_of_severian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+city_king_severian;Knyaz' Posádnik;;;;;;;;;;;;;x
+city_king_female_severian;Knyaginya Posádnaya;;;;;;;;;;;;;x
+city_kingdom_severian;Velikaya Respúblika;;;;;;;;;;;;;x
+city_kingdom_of_severian;Velikaya Respúblika;;;;;;;;;;;;;x
 
-city_duke_severian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duke_female_severian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duchy_severian;Gorodskoy Respublika;;;;;;;;;;;;;x
-city_duchy_of_severian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duke_severian;Posádnik;;;;;;;;;;;;;x
+city_duke_female_severian;Posádnik;;;;;;;;;;;;;x
+city_duchy_severian;Respúblika;;;;;;;;;;;;;x
+city_duchy_of_severian;Respúblika;;;;;;;;;;;;;x
 
-city_count_severian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_count_female_severian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_county_severian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
-city_county_of_severian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_count_severian;Udel'niy Posádnik;;;;;;;;;;;;;x
+city_count_female_severian;Udel'naya Posádnaya;;;;;;;;;;;;;x
+city_county_severian;Udel'naya Respublika;;;;;;;;;;;;;x
+city_county_of_severian;Udel'naya Respublika;;;;;;;;;;;;;x
 
-city_severian;Gorod;;;;;;;;;;;;;x
-city_of_severian;Gorod;;;;;;;;;;;;;x
-city_baron_severian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_baron_female_severian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_barony_severian;Gorodskoy;;;;;;;;;;;;;x
-city_barony_of_severian;Gorodskoy;;;;;;;;;;;;;x
+
+city_baron_severian;Górodom Golova;;;;;;;;;;;;;x
+city_baron_female_severian;Górodom Glava;;;;;;;;;;;;;x
+city_barony_severian;Górodom;;;;;;;;;;;;;x
+city_barony_of_severian;Górodom;;;;;;;;;;;;;x
 
 tribal_king_severian;Knyaz';;;;;;;;;;;;;x
 tribal_king_female_severian;Knyaginya;;;;;;;;;;;;;x
@@ -521,8 +524,8 @@ kingdom_volhynian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 kingdom_of_volhynian;Velikoye Knyazhestvo;;;;;;;;;;;;;x
 duchy_volhynian;Knyazhestvo;;;;;;;;;;;;;x
 duchy_of_volhynian;Knyazhestvo;;;;;;;;;;;;;x
-county_volhynian;Grafstvo;;;;;;;;;;;;;x
-county_of_volhynian;Grafstvo;;;;;;;;;;;;;x
+county_volhynian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
+county_of_volhynian;Udel'noye Knyazhestvo;;;;;;;;;;;;;x
 baron_volhynian;Votchinnik;;;;;;;;;;;;;x
 baron_female_volhynian;Votchinnitsa;;;;;;;;;;;;;x
 barony_volhynian;Votchina;;;;;;;;;;;;;x
@@ -571,27 +574,26 @@ vice_royalty_duchy_of_volhynian;Namestnichestvo Knyazhestvo;;;;;;;;;;;;;x
 family_palace_baron_volhynian;Boyarin;;;;;;;;;;;;;x
 family_palace_baron_female_volhynian;Boyarynya;;;;;;;;;;;;;x
 
-city_king_volhynian;Knyaz' Gorodskoy Golova;;;;;;;;;;;;;x
-city_king_female_volhynian;Knyaginya Gorodskoy Golova;;;;;;;;;;;;;x
-city_kingdom_volhynian;Veliky;;;;;;;;;;;;;x
-city_kingdom_of_volhynian;Gosudar Gospodin Veliky;;;;;;;;;;;;;x
+city_king_volhynian;Knyaz' Posádnik;;;;;;;;;;;;;x
+city_king_female_volhynian;Knyaginya Posádnaya;;;;;;;;;;;;;x
+city_kingdom_volhynian;Velikaya Respúblika;;;;;;;;;;;;;x
+city_kingdom_of_volhynian;Velikaya Respúblika;;;;;;;;;;;;;x
 
-city_duke_volhynian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duke_female_volhynian;Velikaya Gorodskoy Golova;;;;;;;;;;;;;x
-city_duchy_volhynian;Gorodskoy Respublika;;;;;;;;;;;;;x
-city_duchy_of_volhynian;Gorodskoy Respublika;;;;;;;;;;;;;x
+city_duke_volhynian;Posádnik;;;;;;;;;;;;;x
+city_duke_female_volhynian;Posádnik;;;;;;;;;;;;;x
+city_duchy_volhynian;Respúblika;;;;;;;;;;;;;x
+city_duchy_of_volhynian;Respúblika;;;;;;;;;;;;;x
 
-city_count_volhynian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_count_female_volhynian;Gospod' Gorodskoy Golova;;;;;;;;;;;;;x
-city_county_volhynian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
-city_county_of_volhynian;Gorodskoy Knyazhestvo;;;;;;;;;;;;;x
+city_count_volhynian;Udel'niy Posádnik;;;;;;;;;;;;;x
+city_count_female_volhynian;Udel'naya Posádnaya;;;;;;;;;;;;;x
+city_county_volhynian;Udel'naya Respublika;;;;;;;;;;;;;x
+city_county_of_volhynian;Udel'naya Respublika;;;;;;;;;;;;;x
 
-city_volhynian;Gorod;;;;;;;;;;;;;x
-city_of_volhynian;Gorod;;;;;;;;;;;;;x
-city_baron_volhynian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_baron_female_volhynian;Gorodskoy Golova;;;;;;;;;;;;;x
-city_barony_volhynian;Gorodskoy;;;;;;;;;;;;;x
-city_barony_of_volhynian;Gorodskoy;;;;;;;;;;;;;x
+
+city_baron_volhynian;Górodom Golova;;;;;;;;;;;;;x
+city_baron_female_volhynian;Górodom Glava;;;;;;;;;;;;;x
+city_barony_volhynian;Górodom;;;;;;;;;;;;;x
+city_barony_of_volhynian;Górodom;;;;;;;;;;;;;x
 
 tribal_king_volhynian;Knyaz';;;;;;;;;;;;;x
 tribal_king_female_volhynian;Knyaginya;;;;;;;;;;;;;x
