@@ -5,29 +5,55 @@
 ################## Slavic Pagan ###########################
 ###########################################################
 
-temple_baron_slavic_pagan;Zhrets;;;;;;;;;;;;;x
-temple_baron_female_slavic_pagan;Zhritsa;;;;;;;;;;;;;x
-
+temple_king_slavic_pagan_reformed;Kõrl' Volkhv;;;;;;;;;;;;;x
+temple_duke_slavic_pagan_reformed;Knedz' Volkhv;;;;;;;;;;;;;x
+temple_count_slavic_pagan_reformed;Volkhv;;;;;;;;;;;;;x
 temple_baron_slavic_pagan_reformed;Zhrets;;;;;;;;;;;;;x
+
+temple_king_female_slavic_pagan_reformed;Korlica Vedunya;;;;;;;;;;;;;x
+temple_duke_female_slavic_pagan_reformed;Knegyni Vedunya;;;;;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed;Vedunya;;;;;;;;;;;;;x
 temple_baron_female_slavic_pagan_reformed;Zhritsa;;;;;;;;;;;;;x
 
 
-temple_county_slavic_pagan_reformed;Knâžestvo Xráma;;;;;;;;;;;;;x
-temple_county_slavic_pagan_reformed;Mesto Xráma;;;;;;;;;;;;;x
+temple_king_slavic_pagan;Kõrl' Volkhv;;;;;;;;;;;;;x
+temple_duke_slavic_pagan;Knedz' Volkhv;;;;;;;;;;;;;x
+temple_count_slavic_pagan;Volkhv;;;;;;;;;;;;;x
+temple_baron_slavic_pagan;Zhrets;;;;;;;;;;;;;x
+
+temple_king_female_slavic_pagan;Korlica Vedunya;;;;;;;;;;;;;x
+temple_duke_female_slavic_pagan;Knegyni Vedunya;;;;;;;;;;;;;x
+temple_count_female_slavic_pagan;Vedunya;;;;;;;;;;;;;x
+temple_baron_female_slavic_pagan;Zhritsa;;;;;;;;;;;;;x
+
+
+
+temple_kingdom_of_slavic_pagan_reformed;Korlevstvo Xrámam;;;;;;;;;;;;;x
+temple_duchy_of_slavic_pagan_reformed;Knedzestvo Xrámam;;;;;;;;;;;;;x
+temple_county_of_slavic_pagan_reformed;Mesto Xrámam;;;;;;;;;;;;;x
+temple_barony_of_slavic_pagan_reformed;Xrámam;;;;;;;;;;;;;x
+
+temple_kingdom_slavic_pagan_reformed;Korlevstvo Xramu;;;;;;;;;;;;;x
+temple_county_slavic_pagan_reformed;Knedzestvo Xramu;;;;;;;;;;;;;x
+temple_county_slavic_pagan_reformed;Mesto Xramu;;;;;;;;;;;;;x
 temple_barony_slavic_pagan_reformed;Xramu;;;;;;;;;;;;;x
 
-temple_county_slavic_pagan;Knâžestvo Xráma;;;;;;;;;;;;;x
-temple_county_slavic_pagan;Mesto Xráma;;;;;;;;;;;;;x
+
+temple_kingdom_of_slavic_pagan;Korlevstvo Xrámam;;;;;;;;;;;;;x
+temple_duchy_of_slavic_pagan;Knedzestvo Xrámam;;;;;;;;;;;;;x
+temple_county_of_slavic_pagan;Mesto Xrámam;;;;;;;;;;;;;x
+temple_barony_of_slavic_pagan;Xrámam;;;;;;;;;;;;;x
+
+temple_kingdom_slavic_pagan;Korlevstvo Xramu;;;;;;;;;;;;;x
+temple_county_slavic_pagan;Knedzestvo Xramu;;;;;;;;;;;;;x
+temple_county_slavic_pagan;Mesto Xramu;;;;;;;;;;;;;x
 temple_barony_slavic_pagan;Xramu;;;;;;;;;;;;;x
 
+job_spiritual_slavic_pagan;Volkhv;;;;;;;;;;;;;x
+job_spiritual_female_slavic_pagan;Vedunya;;;;;;;;;;;;;x
 
-temple_county_of_slavic_pagan_reformed;Knâžestvo Xráma;;;;;;;;;;;;;x
-temple_county_of_slavic_pagan_reformed;Mesto Xráma;;;;;;;;;;;;;x
-temple_barony_of_slavic_pagan_reformed;Xramu;;;;;;;;;;;;;x
-
-temple_county_of_slavic_pagan;Knâžestvo Xráma;;;;;;;;;;;;;x
-temple_county_of_slavic_pagan;Mesto Xráma;;;;;;;;;;;;;x
-temple_barony_of_slavic_pagan;Xramu;;;;;;;;;;;;;x
+job_spiritual_slavic_pagan_reformed;Volkhv;;;;;;;;;;;;;x
+job_spiritual_female_slavic_pagan_reformed;Vedunya;;;;;;;;;;;;;x
 
 ###########################################################
 ################## Orthodox ###############################
