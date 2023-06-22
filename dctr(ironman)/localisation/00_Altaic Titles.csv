@@ -9,6 +9,80 @@
 
 altaic;Altaylar;;;;;;;;;;;;;x
 
+empire_altaic;Xaqanliq;;;;;;;;;;;;;x
+empire_of_altaic;Xaqanliq;;;;;;;;;;;;;x
+kingdom_altaic;Xanliq;;;;;;;;;;;;;x
+kingdom_of_altaic;Xanliq;;;;;;;;;;;;;x
+duchy_altaic;XalÔfanat;;;;;;;;;;;;;x
+duchy_of_altaic;XalÔfanat;;;;;;;;;;;;;x
+county_altaic;Bey;;;;;;;;;;;;;x
+county_of_altaic;Bey;;;;;;;;;;;;;x
+barony_altaic;Qulip;;;;;;;;;;;;;x
+barony_of_altaic;Qulip;;;;;;;;;;;;;x
+
+
+emperor_altaic;Xagan;;;;;;;;;;;;;x
+emperor_female_altaic;Xagantun;;;;;;;;;;;;;x
+king_altaic;Xan;;;;;;;;;;;;;x
+king_female_altaic;X‚tun;;;;;;;;;;;;;x
+duke_altaic;XalÔfa;;;;;;;;;;;;;x
+duke_female_altaic;Begwm;;;;;;;;;;;;;x
+count_altaic;Beylik;;;;;;;;;;;;;x
+count_female_altaic;Begwm;;;;;;;;;;;;;x
+baron_altaic;Tudun;;;;;;;;;;;;;x
+baron_female_altaic;Begwm;;;;;;;;;;;;;x
+
+
+emperor_title_prince_altaic;Qaganzada;;;;;;;;;;;;;x
+emperor_title_prince_female_altaic;Qagansayim;;;;;;;;;;;;;x
+king_title_prince_altaic;Xanzada;;;;;;;;;;;;;x
+king_title_prince_female_altaic;Xansayim;;;;;;;;;;;;;x
+
+
+tribal_empire_altaic;Xaqanliq;;;;;;;;;;;;;x
+tribal_empire_of_altaic;Xaqanliq;;;;;;;;;;;;;x
+tribal_kingdom_altaic;Xanliq;;;;;;;;;;;;;x
+tribal_kingdom_of_altaic;Xanliq;;;;;;;;;;;;;x
+tribal_duchy_altaic;XalÔfanat;;;;;;;;;;;;;x
+tribal_duchy_of_altaic;XalÔfanat;;;;;;;;;;;;;x
+tribal_county_altaic;Bey;;;;;;;;;;;;;x
+tribal_county_of_altaic;Bey;;;;;;;;;;;;;x
+tribal_barony_altaic;Qulip;;;;;;;;;;;;;x
+tribal_barony_of_altaic;Qulip;;;;;;;;;;;;;x
+
+tribal_emperor_altaic;Xagan;;;;;;;;;;;;;x
+tribal_emperor_female_altaic;Xagantun;;;;;;;;;;;;;x
+tribal_king_altaic;Xan;;;;;;;;;;;;;x
+tribal_king_female_altaic;X‚tun;;;;;;;;;;;;;x
+tribal_duke_altaic;XalÔfa;;;;;;;;;;;;;x
+tribal_duke_female_altaic;Begwm;;;;;;;;;;;;;x
+tribal_count_altaic;Beylik;;;;;;;;;;;;;x
+tribal_count_female_altaic;Begwm;;;;;;;;;;;;;x
+tribal_baron_altaic;Tudun;;;;;;;;;;;;;x
+tribal_baron_female_altaic;Begwm;;;;;;;;;;;;;x
+
+
+nomad_empire_altaic;Xaqanliq;;;;;;;;;;;;;x
+nomad_empire_of_altaic;Xaqanliq;;;;;;;;;;;;;x
+nomad_kingdom_altaic;Xanliq;;;;;;;;;;;;;x
+nomad_kingdom_of_altaic;Xanliq;;;;;;;;;;;;;x
+nomad_duchy_altaic;XalÔfanat;;;;;;;;;;;;;x
+nomad_duchy_of_altaic;XalÔfanat;;;;;;;;;;;;;x
+nomad_county_altaic;Bey;;;;;;;;;;;;;x
+nomad_county_of_altaic;Bey;;;;;;;;;;;;;x
+nomad_barony_altaic;Qulip;;;;;;;;;;;;;x
+nomad_barony_of_altaic;Qulip;;;;;;;;;;;;;x
+
+nomad_emperor_altaic;Xagan;;;;;;;;;;;;;x
+nomad_emperor_female_altaic;Xagantun;;;;;;;;;;;;;x
+nomad_king_altaic;Xan;;;;;;;;;;;;;x
+nomad_king_female_altaic;X‚tun;;;;;;;;;;;;;x
+nomad_duke_altaic;XalÔfa;;;;;;;;;;;;;x
+nomad_duke_female_altaic;Begwm;;;;;;;;;;;;;x
+nomad_count_altaic;Beylik;;;;;;;;;;;;;x
+nomad_count_female_altaic;Begwm;;;;;;;;;;;;;x
+nomad_baron_altaic;Tudun;;;;;;;;;;;;;x
+nomad_baron_female_altaic;Begwm;;;;;;;;;;;;;x
 
 ###########################################################
 ################### Khazar ################################
@@ -17,42 +91,59 @@ altaic;Altaylar;;;;;;;;;;;;;x
 
 khazar;Xazar;;;;;;;;;;;;;x
 
-empire_khazar;X√¢q√¢nat;;;;;;;;;;;;;x
-empire_of_khazar;X√¢q√¢nat;;;;;;;;;;;;;x
-kingdom_khazar;Xandƒ±q;;;;;;;;;;;;;x
-kingdom_of_khazar;Xandƒ±q;;;;;;;;;;;;;x
-duchy_khazar;Xal√Øfanat;;;;;;;;;;;;;x
-duchy_of_khazar;Xal√Øfanat;;;;;;;;;;;;;x
+empire_khazar;Qaganat;;;;;;;;;;;;;x
+empire_of_khazar;Qaganat;;;;;;;;;;;;;x
+kingdom_khazar;Xandyq;;;;;;;;;;;;;x
+kingdom_of_khazar;Xandyq;;;;;;;;;;;;;x
+duchy_khazar;XalÔfanat;;;;;;;;;;;;;x
+duchy_of_khazar;XalÔfanat;;;;;;;;;;;;;x
 county_khazar;Bey;;;;;;;;;;;;;x
 county_of_khazar;Bey;;;;;;;;;;;;;x
-barony_khazar;Qulƒ±p;;;;;;;;;;;;;x
-barony_of_khazar;Qulƒ±p;;;;;;;;;;;;;x
+barony_khazar;Qulip;;;;;;;;;;;;;x
+barony_of_khazar;Qulip;;;;;;;;;;;;;x
 
-emperor_khazar;X√¢q√¢n;;;;;;;;;;;;;x
-emperor_female_khazar;Xatwn;;;;;;;;;;;;;x
+emperor_khazar;Qagan;;;;;;;;;;;;;x
+emperor_female_khazar;Qatwn;;;;;;;;;;;;;x
 king_khazar;Xan;;;;;;;;;;;;;x
 king_female_khazar;Xatwn;;;;;;;;;;;;;x
-duke_khazar;Xal√Øfa;;;;;;;;;;;;;x
+duke_khazar;XalÔfa;;;;;;;;;;;;;x
 duke_female_khazar;Begwm;;;;;;;;;;;;;x
 count_khazar;Beylik;;;;;;;;;;;;;x
 count_female_khazar;Begwm;;;;;;;;;;;;;x
 baron_khazar;Tudun;;;;;;;;;;;;;x
 baron_female_khazar;Begwm;;;;;;;;;;;;;x
 
-emperor_title_prince_khazar;X√¢q√¢nzada;;;;;;;;;;;;;x
-emperor_title_prince_female_khazar;X√¢q√¢n≈üayƒ±m;;;;;;;;;;;;;x
+emperor_title_prince_khazar;Qaganzada;;;;;;;;;;;;;x
+emperor_title_prince_female_khazar;Qagansayim;;;;;;;;;;;;;x
 king_title_prince_khazar;Xanzada;;;;;;;;;;;;;x
-king_title_prince_female_khazar;Xan≈üayƒ±m;;;;;;;;;;;;;x
+king_title_prince_female_khazar;Xansayim;;;;;;;;;;;;;x
 
 city_baron_khazar;Tudun;;;;;;;;;;;;;x
 city_baron_female_khazar;Begwm;;;;;;;;;;;;;x
 
+
+tribal_emperor_khazar;Qagan;;;;;;;;;;;;;x
+tribal_emperor_female_khazar;Qatwn;;;;;;;;;;;;;x
+tribal_king_khazar;Xan;;;;;;;;;;;;;x
+tribal_king_female_khazar;Xatwn;;;;;;;;;;;;;x
+tribal_duke_khazar;XalÔfa;;;;;;;;;;;;;x
+tribal_duke_female_khazar;Begwm;;;;;;;;;;;;;x
+tribal_count_khazar;Beylik;;;;;;;;;;;;;x
+tribal_count_female_khazar;Begwm;;;;;;;;;;;;;x
 tribal_baron_khazar;Tudun;;;;;;;;;;;;;x
 tribal_baron_female_khazar;Begwm;;;;;;;;;;;;;x
 
+nomad_emperor_khazar;Qagan;;;;;;;;;;;;;x
+nomad_emperor_female_khazar;Qatwn;;;;;;;;;;;;;x
+nomad_king_khazar;Xan;;;;;;;;;;;;;x
+nomad_king_female_khazar;Xatwn;;;;;;;;;;;;;x
+nomad_duke_khazar;XalÔfa;;;;;;;;;;;;;x
+nomad_duke_female_khazar;Begwm;;;;;;;;;;;;;x
+nomad_count_khazar;Beylik;;;;;;;;;;;;;x
+nomad_count_female_khazar;Begwm;;;;;;;;;;;;;x
 nomad_baron_khazar;Tudun;;;;;;;;;;;;;x
 nomad_baron_female_khazar;Begwm;;;;;;;;;;;;;x
 
-job_chancellor_east_slavic;K√ºnd√ºr;;;;;;;;;;;;;x
-job_marshal_east_slavic;X√¢q√¢n Bek;;;;;;;;;;;;;x
-job_treasurer_east_slavic;JƒÅwashƒ´ghar;;;;;;;;;;;;;x
+job_chancellor_east_slavic;K¸nd¸r;;;;;;;;;;;;;x
+job_marshal_east_slavic;Qagan Bek;;;;;;;;;;;;;x
+job_treasurer_east_slavic;Jawashighar;;;;;;;;;;;;;x

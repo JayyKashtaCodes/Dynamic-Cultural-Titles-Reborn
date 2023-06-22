@@ -9,7 +9,7 @@
 
 polish;Polski;;;;;;;;;;;;;x
 k_poland;Polska;;;;;;;;;;;;;x
-k_bohemia;Czech;;;;;;;;;;;;;x
+k_bohemia;Ceské;;;;;;;;;;;;;x
 e_wendish_empire;Zachód-Slowianska;;;;;;;;;;;;;x
 e_wendish_empire_adj;Zachód Slowianska;;;;;;;;;;;;;x
 
@@ -28,6 +28,13 @@ count_female_west_slavic;Hrabina;;;;;;;;;;;;;x
 baron_west_slavic;Kasztelan;;;;;;;;;;;;;x
 baron_female_west_slavic;Kasztelanka;;;;;;;;;;;;;x
 city_baron_west_slavic;Burmistrz;;;;;;;;;;;;;x
+
+empire_west_slavic;Cesarstwo;;;;;;;;;;;;;x
+kingdom_west_slavic;Królestwo;;;;;;;;;;;;;x
+duchy_west_slavic;Ksiestwo;;;;;;;;;;;;;x
+county_west_slavic;Hrabstwo;;;;;;;;;;;;;x
+barony_west_slavic;Kasztelania;;;;;;;;;;;;;x
+city_barony_west_slavic;Miasto;;;;;;;;;;;;;x
 
 empire_of_west_slavic;Cesarstwo;;;;;;;;;;;;;x
 kingdom_of_west_slavic;Królestwo;;;;;;;;;;;;;x
@@ -65,6 +72,8 @@ POPE_west_slavic;Papiez;;;;;;;;;;;;;x
 ############## Bohemian ###################
 ###########################################
 
+bohemian;Cešský;;;;;;;;;;;;;x
+
 emperor_bohemian;Císar;;;;;;;;;;;;;x
 emperor_female_bohemian;Císarovna;;;;;;;;;;;;;x
 king_bohemian;Král;;;;;;;;;;;;;x
@@ -75,10 +84,63 @@ count_bohemian;Hrabe;;;;;;;;;;;;;x
 count_female_bohemian;Hrabenka;;;;;;;;;;;;;x
 baron_bohemian;Baron;;;;;;;;;;;;;x
 baron_female_bohemian;Baronka;;;;;;;;;;;;;x
+city_baron_bohemian;Starosta;;;;;;;;;;;;;x
+city_baron_female_bohemian;Starostka;;;;;;;;;;;;;x
 
-tribal_count_bohemian;Vudce;;;;;;;;;;;;;x
+empire_bohemian;Ríše;;;;;;;;;;;;;x
+kingdom_bohemian;Království;;;;;;;;;;;;;x
+duchy_bohemian;Vévodství;;;;;;;;;;;;;x
+county_bohemian;Hrabství;;;;;;;;;;;;;x
+barony_bohemian;Baronství;;;;;;;;;;;;;x
+city_barony_bohemian;Mesto;;;;;;;;;;;;;x
+
+empire_of_bohemian;Ríše;;;;;;;;;;;;;x
+kingdom_of_bohemian;Království;;;;;;;;;;;;;x
+duchy_of_bohemian;Vévodství;;;;;;;;;;;;;x
+county_of_bohemian;Hrabství;;;;;;;;;;;;;x
+barony_of_bohemian;Baronství;;;;;;;;;;;;;x
+city_barony_of_bohemian;Mesto;;;;;;;;;;;;;x
+
+tribal_king_bohemian;Král;;;;;;;;;;;;;x
+tribal_king_female_bohemian;Královna;;;;;;;;;;;;;x
+tribal_duke_bohemian;Vysoký Nácelník;;;;;;;;;;;;;x
+tribal_duke_female_bohemian;Vysoká Nácelnice;;;;;;;;;;;;;x
+tribal_count_bohemian;Nácelník;;;;;;;;;;;;;x
+tribal_count_female_bohemian;Nácelnice;;;;;;;;;;;;;x
+
+tribal_kingdom_bohemian;Království;;;;;;;;;;;;;x
+tribal_duchy_bohemian;Vysoké Nácelnictví;;;;;;;;;;;;;x
+tribal_county_bohemian;Nácelnictví;;;;;;;;;;;;;x
+tribal_barony_bohemian;Kmen;;;;;;;;;;;;;x
+
+tribal_kingdom_of_bohemian;Království;;;;;;;;;;;;;x
+tribal_duchy_of_bohemian;Vysoké Nácelnictví;;;;;;;;;;;;;x
+tribal_county_of_bohemian;Nácelnictví;;;;;;;;;;;;;x
+tribal_barony_of_bohemian;Kmen;;;;;;;;;;;;;x
+
+job_chancellor_bohemian;Kanclér;;;;;;;;;;;;;x
+job_marshal_bohemian;Maršál;;;;;;;;;;;;;x
+job_treasurer_bohemian;Namiestnik;;;;;;;;;;;;;x
+job_spymaster_bohemian;Mistr Špionu;;;;;;;;;;;;;x
 
 POPE_bohemian;Papež;;;;;;;;;;;;;x
+
+###########################################################
+################### Slovien ###############################
+###########################################################
+
+slovieni;Slovénsko;;;;;;;;;;;;;x
+
+###########################################################
+################# Pomeranian ##############################
+###########################################################
+
+pommeranian;Pòmòrsczi;;;;;;;;;;;;;x
+k_pommerania;Pòmòrskô;;;;;;;;;;;;;x
+k_pommerania_adj;Pòmòrsczi;;;;;;;;;;;;;x
+d_pommerania;Pòmòrskô;;;;;;;;;;;;;x
+d_pommerania_adj;Pòmòrsczi;;;;;;;;;;;;;x
+
 
 ###########################################################
 ################### East Slavic ###########################
@@ -86,7 +148,9 @@ POPE_bohemian;Papež;;;;;;;;;;;;;x
 ############### East Slavic is Russian ####################
 
 e_russian_empire;Rusi Imperiya;;;;;;;;;;;;;x
+e_russian_empire_adj;Rusi;;;;;;;;;;;;;x
 e_russia;Rusi Tsarstvo;;;;;;;;;;;;;x
+e_russia_adj;Rusi;;;;;;;;;;;;;x
 d_kiev;Kyjevu;;;;;;;;;;;;;x
 c_kiev;Kyjevu;;;;;;;;;;;;;x
 create_russian_empire_desc;Holding the Tsardom of Rus is not enough – some are starting to think that 'the Empire of Russia' has a better ring to it...;Détenir l'empire des Rus' ne suffit pas – certains commencent à penser que « l'Empire de Russie » est mieux...;"Es reicht nicht aus, das Reich der Rus zu halten. Einige beginnen zu glauben, dass ""Russland"" einen besseren Klang hat ...";;"Mantener el Imperio de la Rus no parece suficiente y algunos empiezan a pensar que ""Imperio de Rusia"" sonaría mejor…";;;;;;;;;;;;;x
@@ -189,10 +253,12 @@ tribal_count_female_east_slavic;Grafinya;;;;;;;;;;;;;x
 tribal_kingdom_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
 tribal_duchy_east_slavic;Uyezd;;;;;;;;;;;;;x
 tribal_county_east_slavic;Volost;;;;;;;;;;;;;x
+tribal_barony_east_slavic;Pleme;;;;;;;;;;;;;x
 
 tribal_kingdom_of_east_slavic;Knyazhestvo;;;;;;;;;;;;;x
 tribal_duchy_of_east_slavic;Uyezd;;;;;;;;;;;;;x
-tribal_county_of_east_slavic;Volost;;;;;;;;;;;;;x
+tribal_barony_of_east_slavic;Volost;;;;;;;;;;;;;x
+tribal_barony_of_east_slavic;Pleme;;;;;;;;;;;;;x
 
 
 POPE_east_slavic;Papa;;;;;;;;;;;;;x

@@ -5,6 +5,9 @@
 ################## Slavic Pagan ###########################
 ###########################################################
 
+slavic_pagan_reformed;Vera;;;;;;;;;;;;;x
+slavic_pagan;Vera;;;;;;;;;;;;;x
+
 temple_king_slavic_pagan_reformed;Kõrl' Volkhv;;;;;;;;;;;;;x
 temple_duke_slavic_pagan_reformed;Knedz' Volkhv;;;;;;;;;;;;;x
 temple_count_slavic_pagan_reformed;Volkhv;;;;;;;;;;;;;x
@@ -54,6 +57,70 @@ job_spiritual_female_slavic_pagan;Vedunya;;;;;;;;;;;;;x
 
 job_spiritual_slavic_pagan_reformed;Volkhv;;;;;;;;;;;;;x
 job_spiritual_female_slavic_pagan_reformed;Vedunya;;;;;;;;;;;;;x
+
+
+###########################################################
+################## Norse Pagan ###########################
+###########################################################
+
+norse_pagan;Ásatrú;;;;;;;;;;;;;x
+norse_pagan_reformed;Ásatrú;;;;;;;;;;;;;x
+
+
+temple_king_norse_pagan_reformed;Dróttinn Goði;;;;;;;;;;;;;x
+temple_duke_norse_pagan_reformed;Hilmir Goði;;;;;;;;;;;;;x
+temple_count_norse_pagan_reformed;Hár Goði;;;;;;;;;;;;;x
+temple_baron_norse_pagan_reformed;Goði;;;;;;;;;;;;;x
+
+temple_king_female_norse_pagan_reformed;Dróttinn Gyðja;;;;;;;;;;;;;x
+temple_duke_female_norse_pagan_reformed;Hilmir Gyðja;;;;;;;;;;;;;x
+temple_count_female_norse_pagan_reformed;Hár Gyðja;;;;;;;;;;;;;x
+temple_baron_female_norse_pagan_reformed;Gyðja;;;;;;;;;;;;;x
+
+
+temple_king_norse_pagan;Dróttinn Guþi;;;;;;;;;;;;;x
+temple_duke_norse_pagan;Hilmir Guþi;;;;;;;;;;;;;x
+temple_count_norse_pagan;Hár Guþi;;;;;;;;;;;;;x
+temple_baron_norse_pagan;Guþi;;;;;;;;;;;;;x
+
+temple_king_female_norse_pagan;Dróttning Gyðja;;;;;;;;;;;;;x
+temple_duke_female_norse_pagan;Hilmir Gyðja;;;;;;;;;;;;;x
+temple_count_female_norse_pagan;Hár Gyðja;;;;;;;;;;;;;x
+temple_baron_female_norse_pagan;Gyðja;;;;;;;;;;;;;x
+
+
+temple_kingdom_of_norse_pagan_reformed;Heilagr Ríki af;;;;;;;;;;;;;x
+temple_duchy_of_norse_pagan_reformed;Heilagr Fyrstedømme af;;;;;;;;;;;;;x
+temple_county_of_norse_pagan_reformed;Hof af;;;;;;;;;;;;;x
+temple_barony_of_norse_pagan_reformed;Horg af;;;;;;;;;;;;;x
+
+temple_kingdom_norse_pagan_reformed;Heilagr Ríki;;;;;;;;;;;;;x
+temple_county_norse_pagan_reformed;Heilagr Fyrstedømme;;;;;;;;;;;;;x
+temple_county_norse_pagan_reformed;Hof;;;;;;;;;;;;;x
+temple_barony_norse_pagan_reformed;Horg;;;;;;;;;;;;;x
+
+
+temple_kingdom_of_norse_pagan;Heilagr Ríki af;;;;;;;;;;;;;x
+temple_duchy_of_norse_pagan;Heilagr Fyrstedømme af;;;;;;;;;;;;;x
+temple_county_of_norse_pagan;Véló af;;;;;;;;;;;;;x
+temple_barony_of_norse_pagan;Vé af;;;;;;;;;;;;;x
+
+temple_kingdom_norse_pagan;Heilagr Ríki;;;;;;;;;;;;;x
+temple_duchy_norse_pagan;Heilagr Fyrstedømme;;;;;;;;;;;;;x
+temple_county_norse_pagan;Véló;;;;;;;;;;;;;x
+temple_barony_norse_pagan;Vé;;;;;;;;;;;;;x
+
+job_spiritual_norse_pagan;Goði;;;;;;;;;;;;;x
+job_spiritual_female_norse_pagan;Gyðja;;;;;;;;;;;;;x
+
+job_spiritual_norse_pagan_reformed;Guþi;;;;;;;;;;;;;x
+job_spiritual_female_norse_pagan_reformed;Gyðja;;;;;;;;;;;;;x
+
+
+THE_SAGAS;The Heilagr Sagas;;;;;;;;;;;;;x
+
+GOD_ODIN;Óðinn;;;;;;;;;;;;;x
+GOD_THOR;Þórr;;;;;;;;;;;;;x
 
 ###########################################################
 ################## Orthodox ###############################
@@ -311,3 +378,106 @@ temple_county_of_lollard;Dioecesis;;;;;;;;;;;;;x
 temple_barony_of_lollard;Ecclesia;;;;;;;;;;;;;x
 
 job_spiritual_lollard;Primate;;;;;;;;;;;;;x
+
+
+
+###########################################################
+################## Judaism ################################
+###########################################################
+
+d_jewish;Bet haMiqdaš;;;;;;;;;;;;;x
+jewish_group;B'nai Yisrael;;;;;;;;;;;;;x
+council_jewish_group;Sanhedrin;;;;;;;;;;;;;x
+jewish;Yahadut;;;;;;;;;;;;;x
+RABBI;Ráv;;;;;;;;;;;;;x
+
+temple_emperor_jewish;Kohen Gadol;;;;;;;;;;;;;x
+temple_emperor_female_jewish;Kohen Gadol;;;;;;;;;;;;;x
+temple_king_jewish;Nasi';;;;;;;;;;;;;x
+temple_king_female_jewish;Nasi';;;;;;;;;;;;;x
+temple_duke_jewish;Rabban;;;;;;;;;;;;;x
+temple_duke_female_jewish;Rabban;;;;;;;;;;;;;x
+temple_count_jewish;Kohen;;;;;;;;;;;;;x
+temple_count_female_jewish;Kohen;;;;;;;;;;;;;x
+temple_baron_jewish;Ráv;;;;;;;;;;;;;x
+temple_baron_female_jewish;Rabá;;;;;;;;;;;;;x
+
+temple_empire_jewish;Hayemperyh Heqdevshh;;;;;;;;;;;;;x
+temple_kingdom_jewish;Malkevit Heqvedsh;;;;;;;;;;;;;x
+temple_duchy_jewish;Devkesvet Heqvedsh;;;;;;;;;;;;;x
+temple_county_jewish;Mahev'z Knesset;;;;;;;;;;;;;x
+temple_barony_jewish;Beit Knesset;;;;;;;;;;;;;x
+
+temple_empire_of_jewish;Hayemperyh Heqdevshh shel;;;;;;;;;;;;;x
+temple_kingdom_of_jewish;Malkevit Heqvedsh shel;;;;;;;;;;;;;x
+temple_duchy_of_jewish;Devkesvet Heqvedsh shel;;;;;;;;;;;;;x
+temple_county_of_jewish;Mahev'z Knesset shel;;;;;;;;;;;;;x
+temple_barony_of_jewish;Beit Knesset shel;;;;;;;;;;;;;x
+
+job_spiritual_jewish;Ráv Rashi;;;;;;;;;;;;;x
+job_spiritual_female_jewish;Rabá Rashi;;;;;;;;;;;;;x
+
+
+###########################################################
+################## Samaritan ##############################
+###########################################################
+
+samaritan;Šamerim;;;;;;;;;;;;;x
+
+temple_emperor_samaritan;Kohen Gadol;;;;;;;;;;;;;x
+temple_emperor_female_samaritan;Kohen Gadol;;;;;;;;;;;;;x
+temple_king_samaritan;Nasi';;;;;;;;;;;;;x
+temple_king_female_samaritan;Nasi';;;;;;;;;;;;;x
+temple_duke_samaritan;Rabban;;;;;;;;;;;;;x
+temple_duke_female_samaritan;Rabban;;;;;;;;;;;;;x
+temple_count_samaritan;Kohen;;;;;;;;;;;;;x
+temple_count_female_samaritan;Kohen;;;;;;;;;;;;;x
+temple_baron_samaritan;Ráv;;;;;;;;;;;;;x
+temple_baron_female_samaritan;Rabá;;;;;;;;;;;;;x
+
+temple_empire_samaritan;Hayemperyh Heqdevshh;;;;;;;;;;;;;x
+temple_kingdom_samaritan;Malkevit Heqvedsh;;;;;;;;;;;;;x
+temple_duchy_samaritan;Devkesvet Heqvedsh;;;;;;;;;;;;;x
+temple_county_samaritan;Mahev'z Knesset;;;;;;;;;;;;;x
+temple_barony_samaritan;Beit Knesset;;;;;;;;;;;;;x
+
+temple_empire_of_samaritan;Hayemperyh Heqdevshh shel;;;;;;;;;;;;;x
+temple_kingdom_of_samaritan;Malkevit Heqvedsh shel;;;;;;;;;;;;;x
+temple_duchy_of_samaritan;Devkesvet Heqvedsh shel;;;;;;;;;;;;;x
+temple_county_of_samaritan;Mahev'z Knesset shel;;;;;;;;;;;;;x
+temple_barony_of_samaritan;Beit Knesset shel;;;;;;;;;;;;;x
+
+job_spiritual_samaritan;Ráv Rashi;;;;;;;;;;;;;x
+job_spiritual_female_samaritan;Rabá Rashi;;;;;;;;;;;;;x
+
+###########################################################
+################## Karaite ################################
+###########################################################
+
+karaite;Yahadut Qara'it;;;;;;;;;;;;;x
+
+temple_emperor_karaite;Kohen Gadol;;;;;;;;;;;;;x
+temple_emperor_female_karaite;Kohen Gadol;;;;;;;;;;;;;x
+temple_king_karaite;Nasi';;;;;;;;;;;;;x
+temple_king_female_karaite;Nasi';;;;;;;;;;;;;x
+temple_duke_karaite;Rabban;;;;;;;;;;;;;x
+temple_duke_female_karaite;Rabban;;;;;;;;;;;;;x
+temple_count_karaite;Kohen;;;;;;;;;;;;;x
+temple_count_female_karaite;Kohen;;;;;;;;;;;;;x
+temple_baron_karaite;Ráv;;;;;;;;;;;;;x
+temple_baron_female_karaite;Rabá;;;;;;;;;;;;;x
+
+temple_empire_karaite;Hayemperyh Heqdevshh;;;;;;;;;;;;;x
+temple_kingdom_karaite;Malkevit Heqvedsh;;;;;;;;;;;;;x
+temple_duchy_karaite;Devkesvet Heqvedsh;;;;;;;;;;;;;x
+temple_county_karaite;Mahev'z Knesset;;;;;;;;;;;;;x
+temple_barony_karaite;Beit Knesset;;;;;;;;;;;;;x
+
+temple_empire_of_karaite;Hayemperyh Heqdevshh shel;;;;;;;;;;;;;x
+temple_kingdom_of_karaite;Malkevit Heqvedsh shel;;;;;;;;;;;;;x
+temple_duchy_of_karaite;Devkesvet Heqvedsh shel;;;;;;;;;;;;;x
+temple_county_of_karaite;Mahev'z Knesset shel;;;;;;;;;;;;;x
+temple_barony_of_karaite;Beit Knesset shel;;;;;;;;;;;;;x
+
+job_spiritual_karaite;Ráv Rashi;;;;;;;;;;;;;x
+job_spiritual_female_karaite;Rabá Rashi;;;;;;;;;;;;;x

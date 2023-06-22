@@ -33,13 +33,13 @@ barony_of_norse;Burhfæsten af;;;;;;;;;;;;;x
 
 
 emperor_title_prince_norse;Keisarisson;;;;;;;;;;;;;x
-emperor_title_prince_female_norse;Keisarissdóttir;;;;;;;;;;;;;x
+emperor_title_prince_female_norse;Keisarisdóttir;;;;;;;;;;;;;x
 king_title_prince_norse;Konungsson;;;;;;;;;;;;;x
-king_title_prince_female_norse;Konungssdóttir;;;;;;;;;;;;;x
+king_title_prince_female_norse;Konungsdóttir;;;;;;;;;;;;;x
 duke_title_prince_norse;Hertogisson;;;;;;;;;;;;;x
-duke_title_prince_female_norse;Hertogissdóttir;;;;;;;;;;;;;x
+duke_title_prince_female_norse;Hertogisdóttir;;;;;;;;;;;;;x			#Fixed by @Karl on steam
 count_title_prince_norse;Jarlsson;;;;;;;;;;;;;x
-count_title_prince_female_norse;Jarlssdóttir;;;;;;;;;;;;;x
+count_title_prince_female_norse;Jarlsdóttir;;;;;;;;;;;;;x
 baron_title_prince_norse;Herra;;;;;;;;;;;;;x
 baron_title_prince_female_norse;Fru;;;;;;;;;;;;;x
 title_prince_norse;Prinz;;;;;;;;;;;;;x
@@ -98,11 +98,6 @@ job_chancellor_norse;Kansler;;;;;;;;;;;;;x
 job_marshal_norse;Stallari;;;;;;;;;;;;;x
 job_treasurer_norse;Auðr;;;;;;;;;;;;;x
 job_spymaster_norse;Aðalsrád;;;;;;;;;;;;;x
-
-THE_SAGAS;The Heilagr Sagas;;;;;;;;;;;;;x
-GOD_ODIN;Óðinn;;;;;;;;;;;;;x
-GOD_THOR;Þórr;;;;;;;;;;;;;x
-GREAT_HOLY_WAR;Heilagr Krieg;;;;;;;;;;;;;x
 
 POPE_norse;Páfi;;;;;;;;;;;;;x
 
