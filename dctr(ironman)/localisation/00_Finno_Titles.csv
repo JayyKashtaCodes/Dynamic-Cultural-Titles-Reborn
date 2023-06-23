@@ -1,0 +1,683 @@
+
+###########################################################
+################## Finno-Ugric ############################
+###########################################################
+
+finno-ugric;Fenno-Ugric;;;;;;;;;;;;;x
+
+empire_of_finno-ugric;Imperiumi;;;;;;;;;;;;;x
+kingdom_of_finno-ugric;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_finno-ugric;Herttuakunta;;;;;;;;;;;;;x
+county_of_finno-ugric;Kreivikunta;;;;;;;;;;;;;x
+barony_of_finno-ugric;Linna;;;;;;;;;;;;;x
+
+empire_finno-ugric;Imperiumi;;;;;;;;;;;;;x
+kingdom_finno-ugric;Kuningaskunta;;;;;;;;;;;;;x
+duchy_finno-ugric;Herttuakunta;;;;;;;;;;;;;x
+county_finno-ugric;Kreivikunta;;;;;;;;;;;;;x
+barony_finno-ugric;Linna;;;;;;;;;;;;;x
+
+tribal_empire_finno-ugric;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_finno-ugric;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_finno-ugric;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_finno-ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_finno-ugric;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_finno-ugric;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_finno-ugric;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_finno-ugric;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_finno-ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_finno-ugric;Kylä;;;;;;;;;;;;;x
+
+emperor_finno-ugric;Keisari;;;;;;;;;;;;;x
+king_finno-ugric;Kuningas;;;;;;;;;;;;;x
+duke_finno-ugric;Herttua;;;;;;;;;;;;;x
+count_finno-ugric;Kreivi;;;;;;;;;;;;;x
+baron_finno-ugric;Paroni;;;;;;;;;;;;;x
+
+emperor_female_finno-ugric;Keisarinna;;;;;;;;;;;;;x
+king_female_finno-ugric;Kuningatar;;;;;;;;;;;;;x
+duke_female_finno-ugric;Herttuatar;;;;;;;;;;;;;x
+count_female_finno-ugric;Kreivitär;;;;;;;;;;;;;x
+baron_female_finno-ugric;Paronitar;;;;;;;;;;;;;x
+
+title_prince_finno-ugric;Prinssi;;;;;;;;;;;;;x
+title_prince_female_finno-ugric;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_finno-ugric;Kansleri;;;;;;;;;;;;;x
+job_marshal_finno-ugric;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_finno-ugric;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_finno-ugric;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_finno-ugric;Hovikappalainen;;;;;;;;;;;;;x
+
+tribal_emperor_finno-ugric;Keisari;;;;;;;;;;;;;x
+tribal_king_finno-ugric;Kuningas;;;;;;;;;;;;;x
+tribal_duke_finno-ugric;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_finno-ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_finno-ugric;Paroni;;;;;;;;;;;;;x
+
+tribal_emperor_female_finno-ugric;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_finno-ugric;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_finno-ugric;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_finno-ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_finno-ugric;Paronitar;;;;;;;;;;;;;x
+
+tribal_title_prince_finno-ugric;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_finno-ugric;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_finno-ugric;Kansleri;;;;;;;;;;;;;x
+job_marshal_finno-ugric;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_finno-ugric;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_finno-ugric;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_finno-ugric;Hovikappalainen;;;;;;;;;;;;;x
+
+###########################################################
+################## Finnish ################################
+###########################################################
+k_finland;Finnland;;;;;;;;;;;;;x
+finnish;Suomalainen;;;;;;;;;;;;;x
+
+empire_finnish;Imperiumi;;;;;;;;;;;;;x
+empire_of_finnish;Imperiumi;;;;;;;;;;;;;x
+kingdom_finnish;Kuningaskunta;;;;;;;;;;;;;x
+kingdom_of_finnish;Kuningaskunta;;;;;;;;;;;;;x
+duchy_finnish;Herttuakunta;;;;;;;;;;;;;x
+duchy_of_finnish;Herttuakunta;;;;;;;;;;;;;x
+county_finnish;Lääni;;;;;;;;;;;;;x
+county_of_finnish;Lääni;;;;;;;;;;;;;x
+barony_finnish;Linna;;;;;;;;;;;;;x
+barony_of_finnish;Linna;;;;;;;;;;;;;x
+
+tribal_empire_of_finnish;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_finnish;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_finnish;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_finnish;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_finnish;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_of_finnish;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_finnish;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_finnish;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_finnish;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_finnish;Kylä;;;;;;;;;;;;;x
+
+emperor_title_prince_finnish;Keisarin Prinssi;;;;;;;;;;;;;x
+emperor_title_prince_female_finnish;Keisarin Prinsessa;;;;;;;;;;;;;x
+king_title_prince_finnish;Prinssi;;;;;;;;;;;;;x
+king_title_prince_female_finnish;Prinsessa;;;;;;;;;;;;;x
+duke_title_prince_finnish;Herra;;;;;;;;;;;;;x
+duke_title_prince_female_finnish;Nainen;;;;;;;;;;;;;x
+count_title_prince_finnish;Herra;;;;;;;;;;;;;x
+count_title_prince_female_finnish;Nainen;;;;;;;;;;;;;x
+title_prince_finnish;Prinssi;;;;;;;;;;;;;x
+title_prince_female_finnish;Prinsessa;;;;;;;;;;;;;x
+
+
+emperor_finnish;Keisari;;;;;;;;;;;;;x
+emperor_female_finnish;Keisarinna;;;;;;;;;;;;;x
+king_finnish;Kuningas;;;;;;;;;;;;;x
+king_female_finnish;Kuningatar;;;;;;;;;;;;;x
+duke_finnish;Herttua;;;;;;;;;;;;;x
+duke_female_finnish;Herttuatar;;;;;;;;;;;;;x
+count_finnish;Kreivi;;;;;;;;;;;;;x
+count_female_finnish;Kreivitär;;;;;;;;;;;;;x
+baron_finnish;Paroni;;;;;;;;;;;;;x
+baron_female_finnish;Paronitar;;;;;;;;;;;;;x
+
+tribal_emperor_finnish;Keisari;;;;;;;;;;;;;x
+tribal_king_finnish;Kuningas;;;;;;;;;;;;;x
+tribal_duke_finnish;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_finnish;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_finnish;Paroni;;;;;;;;;;;;;x
+
+tribal_emperor_female_finnish;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_finnish;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_finnish;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_finnish;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_finnish;Paronitar;;;;;;;;;;;;;x
+
+tribal_title_prince_finnish;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_finnish;Prinsessa;;;;;;;;;;;;;x
+
+city_king_finnish;Suuri pormestari prinssi;;;;;;;;;;;;;x
+city_king_female_finnish;Suuri pormestari prinsessa;;;;;;;;;;;;;x
+city_kingdom_finnish;Suuri Tasavalta;;;;;;;;;;;;;x
+city_kingdom_of_finnish;Suuri Tasavalta;;;;;;;;;;;;;x
+
+city_duke_finnish;Pormestarien herra;;;;;;;;;;;;;x
+city_duke_female_finnish;Pormestarien herra;;;;;;;;;;;;;x
+city_duchy_finnish;Kaupungin tasavalta;;;;;;;;;;;;;x
+city_duchy_of_finnish;Kaupungin tasavalta;;;;;;;;;;;;;x
+
+city_count_finnish;Ylipormestari;;;;;;;;;;;;;x
+city_count_female_finnish;Ylipormestari;;;;;;;;;;;;;x
+city_county_finnish;Kaupungin lääni;;;;;;;;;;;;;x
+city_county_of_finnish;Kaupungin lääni;;;;;;;;;;;;;x
+
+city_baron_finnish;Pormestari;;;;;;;;;;;;;x
+city_baron_female_finnish;Pormestari;;;;;;;;;;;;;x
+city_barony_finnish;Kaupunki;;;;;;;;;;;;;x
+city_barony_of_finnish;Kaupunki;;;;;;;;;;;;;x
+
+job_chancellor_finnish;Liittokansleri;;;;;;;;;;;;;x
+job_marshal_finnish;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_finnish;Rahastonhoitaja;;;;;;;;;;;;;x
+job_spymaster_finnish;Vakoilija;;;;;;;;;;;;;x
+
+
+###########################################################
+################## Estonian ###############################
+###########################################################
+ugricbaltic;Eestlane;;;;;;;;;;;;;x
+k_estonia;Eesti;;;;;;;;;;;;;x
+d_esthonia;Eesti;;;;;;;;;;;;;x
+
+empire_ugricbaltic;Impeerium;;;;;;;;;;;;;x
+empire_of_ugricbaltic;Impeerium;;;;;;;;;;;;;x
+kingdom_ugricbaltic;Kuningriik;;;;;;;;;;;;;x
+kingdom_of_ugricbaltic;Kuningriik;;;;;;;;;;;;;x
+duchy_ugricbaltic;Hertsogiriik;;;;;;;;;;;;;x
+duchy_of_ugricbaltic;Hertsogiriik;;;;;;;;;;;;;x
+county_ugricbaltic;Maakond;;;;;;;;;;;;;x
+county_of_ugricbaltic;Maakond;;;;;;;;;;;;;x
+barony_ugricbaltic;Loss;;;;;;;;;;;;;x
+barony_of_ugricbaltic;Loss;;;;;;;;;;;;;x
+
+
+emperor_title_prince_ugricbaltic;Keiserlik Prints;;;;;;;;;;;;;x
+emperor_title_prince_female_ugricbaltic;Keiserlik Printsess;;;;;;;;;;;;;x
+king_title_prince_ugricbaltic;Vürst;;;;;;;;;;;;;x
+king_title_prince_female_ugricbaltic;Vürstinna;;;;;;;;;;;;;x
+duke_title_prince_ugricbaltic;Issand;;;;;;;;;;;;;x
+duke_title_prince_female_ugricbaltic;Daam;;;;;;;;;;;;;x
+count_title_prince_ugricbaltic;Issand;;;;;;;;;;;;;x
+count_title_prince_female_ugricbaltic;Daam;;;;;;;;;;;;;x
+title_prince_ugricbaltic;Prints;;;;;;;;;;;;;x
+title_prince_female_ugricbaltic;Printsess;;;;;;;;;;;;;x
+
+
+emperor_ugricbaltic;Keiser;;;;;;;;;;;;;x
+emperor_female_ugricbaltic;Keisrinna;;;;;;;;;;;;;x
+king_ugricbaltic;Kuningas;;;;;;;;;;;;;x
+king_female_ugricbaltic;Kuninganna;;;;;;;;;;;;;x
+duke_ugricbaltic;Hertsog;;;;;;;;;;;;;x
+duke_female_ugricbaltic;Hertsoginna;;;;;;;;;;;;;x
+count_ugricbaltic;Krahv;;;;;;;;;;;;;x
+count_female_ugricbaltic;Krahvinna;;;;;;;;;;;;;x
+baron_ugricbaltic;Parun;;;;;;;;;;;;;x
+baron_female_ugricbaltic;Paruness;;;;;;;;;;;;;x
+
+
+city_king_ugricbaltic;Printslinnapea;;;;;;;;;;;;;x
+city_king_female_ugricbaltic;Printsesslinnapea;;;;;;;;;;;;;x
+city_kingdom_ugricbaltic;Hansa Vabariik;;;;;;;;;;;;;x
+city_kingdom_of_ugricbaltic;Hansa Vabariik;;;;;;;;;;;;;x
+
+city_duke_ugricbaltic;Linnapeade Isand;;;;;;;;;;;;;x
+city_duke_female_ugricbaltic;Linnapeade Isand;;;;;;;;;;;;;x
+city_duchy_ugricbaltic;Linnavabariik;;;;;;;;;;;;;x
+city_duchy_of_ugricbaltic;Linnavabariik;;;;;;;;;;;;;x
+
+city_count_ugricbaltic;Linnapeaissand;;;;;;;;;;;;;x
+city_count_female_ugricbaltic;Linnapeaissand;;;;;;;;;;;;;x
+city_county_ugricbaltic;Linna Maakond;;;;;;;;;;;;;x
+city_county_of_ugricbaltic;Linna Maakond;;;;;;;;;;;;;x
+
+city_baron_ugricbaltic;Linnapea;;;;;;;;;;;;;x
+city_baron_female_ugricbaltic;Linnapea;;;;;;;;;;;;;x
+city_barony_ugricbaltic;Linn;;;;;;;;;;;;;x
+city_barony_of_ugricbaltic;Linn;;;;;;;;;;;;;x
+
+job_chancellor_ugricbaltic;Kantsler;;;;;;;;;;;;;x
+job_marshal_ugricbaltic;Marssal;;;;;;;;;;;;;x
+job_treasurer_ugricbaltic;Laekur;;;;;;;;;;;;;x
+job_spymaster_ugricbaltic;Spioonide Meister;;;;;;;;;;;;;x
+
+###########################################
+################ Sami #####################
+###########################################
+sami;Sámit;;;;;;;;;;;;;x
+
+king_sami;Gonagas;;;;;;;;;;;;;x
+duke_sami;Gonagas;;;;;;;;;;;;;x
+count_sami;Gonagas;;;;;;;;;;;;;x
+
+king_female_sami;Dronnet;;;;;;;;;;;;;x
+duke_female_sami;Dronnet;;;;;;;;;;;;;x
+count_female_sami;Dronnet;;;;;;;;;;;;;x
+
+tribal_king_sami;Gonagas;;;;;;;;;;;;;x
+tribal_duke_sami;Gonagas;;;;;;;;;;;;;x
+tribal_count_sami;Gonagas;;;;;;;;;;;;;x
+
+tribal_king_female_sami;Dronnet;;;;;;;;;;;;;x
+tribal_duke_female_sami;Dronnet;;;;;;;;;;;;;x
+tribal_count_female_sami;Dronnet;;;;;;;;;;;;;x
+
+title_prince_sami;Gonagasbárdni;;;;;;;;;;;;;x
+title_prince_female_sami;Gonagasnieida;;;;;;;;;;;;;x
+
+tribal_empire_of_sami;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_sami;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_sami;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_sami;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_sami;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_sami;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_sami;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_sami;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_sami_county_;Siida;;;;;;;;;;;;;x
+tribal_barony_sami;Kylä;;;;;;;;;;;;;x
+
+sami_county_;Siida;;;;;;;;;;;;;x
+
+###########################################################
+################## Komi ###################################
+###########################################################
+
+komi;Komijas;;;;;;;;;;;;;x
+
+empire_of_komi;Imperiumi;;;;;;;;;;;;;x
+kingdom_of_komi;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_komi;Herttuakunta;;;;;;;;;;;;;x
+county_of_komi;Kreivikunta;;;;;;;;;;;;;x
+
+empire_komi;Imperiumi;;;;;;;;;;;;;x
+kingdom_komi;Kuningaskunta;;;;;;;;;;;;;x
+duchy_komi;Herttuakunta;;;;;;;;;;;;;x
+county_komi;Kreivikunta;;;;;;;;;;;;;x
+
+barony_komi;Linna;;;;;;;;;;;;;x
+barony_of_komi;Linna;;;;;;;;;;;;;x
+
+tribal_empire_of_komi;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_komi;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_komi;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_komi;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_komi;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_komi;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_komi;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_komi;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_komi;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_komi;Kylä;;;;;;;;;;;;;x
+
+emperor_komi;Keisari;;;;;;;;;;;;;x
+king_komi;Kuningas;;;;;;;;;;;;;x
+duke_komi;Herttua;;;;;;;;;;;;;x
+count_komi;Kreivi;;;;;;;;;;;;;x
+baron_komi;Paroni;;;;;;;;;;;;;x
+
+emperor_female_komi;Keisarinna;;;;;;;;;;;;;x
+king_female_komi;Kuningatar;;;;;;;;;;;;;x
+duke_female_komi;Herttuatar;;;;;;;;;;;;;x
+count_female_komi;Kreivitär;;;;;;;;;;;;;x
+baron_female_komi;Paronitar;;;;;;;;;;;;;x
+
+title_prince_komi;Prinssi;;;;;;;;;;;;;x
+title_prince_female_komi;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_komi;Kansleri;;;;;;;;;;;;;x
+job_marshal_komi;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_komi;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_komi;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_komi;Hovikappalainen;;;;;;;;;;;;;x
+
+kingdom_of_komi;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_komi;Herttuakunta;;;;;;;;;;;;;x
+county_of_komi;Kreivikunta;;;;;;;;;;;;;x
+
+kingdom_komi;Kuningaskunta;;;;;;;;;;;;;x
+duchy_komi;Herttuakunta;;;;;;;;;;;;;x
+county_komi;Kreivikunta;;;;;;;;;;;;;x
+
+tribal_emperor_komi;Keisari;;;;;;;;;;;;;x
+tribal_king_komi;Kuningas;;;;;;;;;;;;;x
+tribal_duke_komi;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_komi;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_komi;Paroni;;;;;;;;;;;;;x
+
+tribal_emperor_female_komi;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_komi;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_komi;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_komi;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_komi;Paronitar;;;;;;;;;;;;;x
+
+tribal_title_prince_komi;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_komi;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_komi;Kansleri;;;;;;;;;;;;;x
+job_marshal_komi;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_komi;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_komi;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_komi;Hovikappalainen;;;;;;;;;;;;;x
+
+POPE_komi;Paavi;;;;;;;;;;;;;x
+
+###########################################################
+################## Khanty #################################
+###########################################################
+
+khanty;Ostyaki;;;;;;;;;;;;;x
+
+empire_of_khanty;Imperiumi;;;;;;;;;;;;;x
+kingdom_of_khanty;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_khanty;Herttuakunta;;;;;;;;;;;;;x
+county_of_khanty;Kreivikunta;;;;;;;;;;;;;x
+
+empire_khanty;Imperiumi;;;;;;;;;;;;;x
+kingdom_khanty;Kuningaskunta;;;;;;;;;;;;;x
+duchy_khanty;Herttuakunta;;;;;;;;;;;;;x
+county_khanty;Kreivikunta;;;;;;;;;;;;;x
+
+barony_khanty;Linna;;;;;;;;;;;;;x
+barony_of_khanty;Linna;;;;;;;;;;;;;x
+
+tribal_empire_of_khanty;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_khanty;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_khanty;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_khanty;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_khanty;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_khanty;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_khanty;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_khanty;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_khanty;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_khanty;Kylä;;;;;;;;;;;;;x
+
+emperor_khanty;Keisari;;;;;;;;;;;;;x
+king_khanty;Kuningas;;;;;;;;;;;;;x
+duke_khanty;Herttua;;;;;;;;;;;;;x
+count_khanty;Kreivi;;;;;;;;;;;;;x
+baron_khanty;Paroni;;;;;;;;;;;;;x
+
+emperor_female_khanty;Keisarinna;;;;;;;;;;;;;x
+king_female_khanty;Kuningatar;;;;;;;;;;;;;x
+duke_female_khanty;Herttuatar;;;;;;;;;;;;;x
+count_female_khanty;Kreivitär;;;;;;;;;;;;;x
+baron_female_khanty;Paronitar;;;;;;;;;;;;;x
+
+title_prince_khanty;Prinssi;;;;;;;;;;;;;x
+title_prince_female_khanty;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_khanty;Kansleri;;;;;;;;;;;;;x
+job_marshal_khanty;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_khanty;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_khanty;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_khanty;Hovikappalainen;;;;;;;;;;;;;x
+
+kingdom_of_khanty;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_khanty;Herttuakunta;;;;;;;;;;;;;x
+county_of_khanty;Kreivikunta;;;;;;;;;;;;;x
+
+kingdom_khanty;Kuningaskunta;;;;;;;;;;;;;x
+duchy_khanty;Herttuakunta;;;;;;;;;;;;;x
+county_khanty;Kreivikunta;;;;;;;;;;;;;x
+
+tribal_emperor_khanty;Keisari;;;;;;;;;;;;;x
+tribal_king_khanty;Kuningas;;;;;;;;;;;;;x
+tribal_duke_khanty;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_khanty;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_khanty;Paroni;;;;;;;;;;;;;x
+
+tribal_emperor_female_khanty;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_khanty;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_khanty;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_khanty;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_khanty;Paronitar;;;;;;;;;;;;;x
+
+tribal_title_prince_khanty;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_khanty;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_khanty;Kansleri;;;;;;;;;;;;;x
+job_marshal_khanty;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_khanty;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_khanty;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_khanty;Hovikappalainen;;;;;;;;;;;;;x
+
+###########################################################
+################## Nenets #################################
+###########################################################
+
+samoyed;Neney Neneche;;;;;;;;;;;;;x
+
+empire_of_samoyed;Imperiumi;;;;;;;;;;;;;x
+kingdom_of_samoyed;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_samoyed;Herttuakunta;;;;;;;;;;;;;x
+county_of_samoyed;Kreivikunta;;;;;;;;;;;;;x
+
+empire_samoyed;Imperiumi;;;;;;;;;;;;;x
+kingdom_samoyed;Kuningaskunta;;;;;;;;;;;;;x
+duchy_samoyed;Herttuakunta;;;;;;;;;;;;;x
+county_samoyed;Kreivikunta;;;;;;;;;;;;;x
+
+barony_samoyed;Linna;;;;;;;;;;;;;x
+barony_of_samoyed;Linna;;;;;;;;;;;;;x
+
+tribal_empire_of_samoyed;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_samoyed;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_samoyed;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_samoyed;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_samoyed;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_samoyed;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_samoyed;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_samoyed;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_samoyed;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_samoyed;Kylä;;;;;;;;;;;;;x
+
+
+
+emperor_samoyed;Keisari;;;;;;;;;;;;;x
+king_samoyed;Kuningas;;;;;;;;;;;;;x
+duke_samoyed;Herttua;;;;;;;;;;;;;x
+count_samoyed;Kreivi;;;;;;;;;;;;;x
+baron_samoyed;Paroni;;;;;;;;;;;;;x
+
+emperor_female_samoyed;Keisarinna;;;;;;;;;;;;;x
+king_female_samoyed;Kuningatar;;;;;;;;;;;;;x
+duke_female_samoyed;Herttuatar;;;;;;;;;;;;;x
+count_female_samoyed;Kreivitär;;;;;;;;;;;;;x
+baron_female_samoyed;Paronitar;;;;;;;;;;;;;x
+
+title_prince_samoyed;Prinssi;;;;;;;;;;;;;x
+title_prince_female_samoyed;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_samoyed;Kansleri;;;;;;;;;;;;;x
+job_marshal_samoyed;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_samoyed;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_samoyed;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_samoyed;Hovikappalainen;;;;;;;;;;;;;x
+
+kingdom_of_samoyed;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_samoyed;Herttuakunta;;;;;;;;;;;;;x
+county_of_samoyed;Kreivikunta;;;;;;;;;;;;;x
+
+kingdom_samoyed;Kuningaskunta;;;;;;;;;;;;;x
+duchy_samoyed;Herttuakunta;;;;;;;;;;;;;x
+county_samoyed;Kreivikunta;;;;;;;;;;;;;x
+
+tribal_emperor_samoyed;Keisari;;;;;;;;;;;;;x
+tribal_king_samoyed;Kuningas;;;;;;;;;;;;;x
+tribal_duke_samoyed;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_samoyed;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_samoyed;Paroni;;;;;;;;;;;;;x
+
+tribal_emperor_female_samoyed;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_samoyed;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_samoyed;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_samoyed;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_samoyed;Paronitar;;;;;;;;;;;;;x
+
+tribal_title_prince_samoyed;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_samoyed;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_samoyed;Kansleri;;;;;;;;;;;;;x
+job_marshal_samoyed;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_samoyed;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_samoyed;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_samoyed;Hovikappalainen;;;;;;;;;;;;;x
+
+###########################################################
+################## Mordvin ################################
+###########################################################
+
+mordvin;Mordva;;;;;;;;;;;;;x
+
+empire_of_mordvin;Imperiumi;;;;;;;;;;;;;x
+kingdom_of_mordvin;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_mordvin;Herttuakunta;;;;;;;;;;;;;x
+county_of_mordvin;Kreivikunta;;;;;;;;;;;;;x
+
+empire_mordvin;Imperiumi;;;;;;;;;;;;;x
+kingdom_mordvin;Kuningaskunta;;;;;;;;;;;;;x
+duchy_mordvin;Herttuakunta;;;;;;;;;;;;;x
+county_mordvin;Kreivikunta;;;;;;;;;;;;;x
+
+barony_mordvin;Linna;;;;;;;;;;;;;x
+barony_of_mordvin;Linna;;;;;;;;;;;;;x
+
+tribal_empire_of_mordvin;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_mordvin;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_mordvin;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_mordvin;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_mordvin;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_mordvin;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_mordvin;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_mordvin;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_mordvin;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_mordvin;Kylä;;;;;;;;;;;;;x
+
+
+emperor_mordvin;Keisari;;;;;;;;;;;;;x
+king_mordvin;Kuningas;;;;;;;;;;;;;x
+duke_mordvin;Herttua;;;;;;;;;;;;;x
+count_mordvin;Kreivi;;;;;;;;;;;;;x
+baron_mordvin;Paroni;;;;;;;;;;;;;x
+
+emperor_female_mordvin;Keisarinna;;;;;;;;;;;;;x
+king_female_mordvin;Kuningatar;;;;;;;;;;;;;x
+duke_female_mordvin;Herttuatar;;;;;;;;;;;;;x
+count_female_mordvin;Kreivitär;;;;;;;;;;;;;x
+baron_female_mordvin;Paronitar;;;;;;;;;;;;;x
+
+title_prince_mordvin;Prinssi;;;;;;;;;;;;;x
+title_prince_female_mordvin;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_mordvin;Kansleri;;;;;;;;;;;;;x
+job_marshal_mordvin;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_mordvin;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_mordvin;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_mordvin;Hovikappalainen;;;;;;;;;;;;;x
+
+kingdom_of_mordvin;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_mordvin;Herttuakunta;;;;;;;;;;;;;x
+county_of_mordvin;Kreivikunta;;;;;;;;;;;;;x
+
+kingdom_mordvin;Kuningaskunta;;;;;;;;;;;;;x
+duchy_mordvin;Herttuakunta;;;;;;;;;;;;;x
+county_mordvin;Kreivikunta;;;;;;;;;;;;;x
+
+tribal_emperor_mordvin;Keisari;;;;;;;;;;;;;x
+tribal_king_mordvin;Kuningas;;;;;;;;;;;;;x
+tribal_duke_mordvin;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_mordvin;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_mordvin;Paroni;;;;;;;;;;;;;x
+
+tribal_emperor_female_mordvin;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_mordvin;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_mordvin;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_mordvin;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_mordvin;Paronitar;;;;;;;;;;;;;x
+
+tribal_title_prince_mordvin;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_mordvin;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_mordvin;Kansleri;;;;;;;;;;;;;x
+job_marshal_mordvin;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_mordvin;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_mordvin;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_mordvin;Hovikappalainen;;;;;;;;;;;;;x
+
+###########################################################
+################## Meshchera ##############################
+###########################################################
+
+meshchera;Meshchyora;;;;;;;;;;;;;x
+
+empire_of_meshchera;Imperiumi;;;;;;;;;;;;;x
+kingdom_of_meshchera;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_meshchera;Herttuakunta;;;;;;;;;;;;;x
+county_of_meshchera;Kreivikunta;;;;;;;;;;;;;x
+
+empire_meshchera;Imperiumi;;;;;;;;;;;;;x
+kingdom_meshchera;Kuningaskunta;;;;;;;;;;;;;x
+duchy_meshchera;Herttuakunta;;;;;;;;;;;;;x
+county_meshchera;Kreivikunta;;;;;;;;;;;;;x
+
+barony_meshchera;Linna;;;;;;;;;;;;;x
+barony_of_meshchera;Linna;;;;;;;;;;;;;x
+
+tribal_empire_of_meshchera;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_meshchera;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_meshchera;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_meshchera;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_meshchera;Kylä;;;;;;;;;;;;;x
+
+tribal_empire_meshchera;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_meshchera;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_meshchera;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_meshchera;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_meshchera;Kylä;;;;;;;;;;;;;x
+
+
+
+emperor_meshchera;Keisari;;;;;;;;;;;;;x
+king_meshchera;Kuningas;;;;;;;;;;;;;x
+duke_meshchera;Herttua;;;;;;;;;;;;;x
+count_meshchera;Kreivi;;;;;;;;;;;;;x
+baron_meshchera;Paroni;;;;;;;;;;;;;x
+
+emperor_female_meshchera;Keisarinna;;;;;;;;;;;;;x
+king_female_meshchera;Kuningatar;;;;;;;;;;;;;x
+duke_female_meshchera;Herttuatar;;;;;;;;;;;;;x
+count_female_meshchera;Kreivitär;;;;;;;;;;;;;x
+baron_female_meshchera;Paronitar;;;;;;;;;;;;;x
+
+title_prince_meshchera;Prinssi;;;;;;;;;;;;;x
+title_prince_female_meshchera;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_meshchera;Kansleri;;;;;;;;;;;;;x
+job_marshal_meshchera;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_meshchera;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_meshchera;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_meshchera;Hovikappalainen;;;;;;;;;;;;;x
+
+kingdom_of_meshchera;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_meshchera;Herttuakunta;;;;;;;;;;;;;x
+county_of_meshchera;Kreivikunta;;;;;;;;;;;;;x
+
+kingdom_meshchera;Kuningaskunta;;;;;;;;;;;;;x
+duchy_meshchera;Herttuakunta;;;;;;;;;;;;;x
+county_meshchera;Kreivikunta;;;;;;;;;;;;;x
+
+tribal_emperor_meshchera;Keisari;;;;;;;;;;;;;x
+tribal_king_meshchera;Kuningas;;;;;;;;;;;;;x
+tribal_duke_meshchera;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_meshchera;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_meshchera;Paroni;;;;;;;;;;;;;x
+
+tribal_emperor_female_meshchera;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_meshchera;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_meshchera;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_meshchera;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_meshchera;Paronitar;;;;;;;;;;;;;x
+
+tribal_title_prince_meshchera;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_meshchera;Prinsessa;;;;;;;;;;;;;x
+
+job_chancellor_meshchera;Kansleri;;;;;;;;;;;;;x
+job_marshal_meshchera;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_meshchera;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_meshchera;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_meshchera;Hovikappalainen;;;;;;;;;;;;;x
