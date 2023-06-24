@@ -1,0 +1,186 @@
+###########################################################
+############### Central Germanic ##########################
+###########################################################
+
+e_hre;Heiliges Römisches Reich;;;;;;;;;;;;;x
+empire_of_central_germanic;Reich;;;;;;;;;;;;;x
+kingdom_of_central_germanic;Königreich;;;;;;;;;;;;;x
+duchy_of_central_germanic;Herzogtum;;;;;;;;;;;;;x
+county_of_central_germanic;Grafschaft;;;;;;;;;;;;;x
+
+city_kingdom_of_central_germanic;Höchst Durchlauchte Republik von;;;;;;;;;;;;;x
+
+empire_of_central_germanic;Reich;;;;;;;;;;;;;x
+kingdom_of_central_germanic;Königreich;;;;;;;;;;;;;x
+duchy_of_central_germanic;Herzogtum;;;;;;;;;;;;;x
+county_of_central_germanic;Grafschaft;;;;;;;;;;;;;x
+
+empire_central_germanic;Reich;;;;;;;;;;;;;x
+kingdom_central_germanic;Königreich;;;;;;;;;;;;;x
+duchy_central_germanic;Herzogtum;;;;;;;;;;;;;x
+county_central_germanic;Grafschaft;;;;;;;;;;;;;x
+
+city_kingdom_of_central_germanic;Höchst Durchlauchte Republik von;;;;;;;;;;;;;x
+
+emperor_central_germanic;Kaiser;;;;;;;;;;;;;x
+emperor_female_central_germanic;Kaiserin;;;;;;;;;;;;;x
+king_central_germanic;Köning;;;;;;;;;;;;;x
+queen_central_germanic;Königin;;;;;;;;;;;;;x
+title_prince_central_germanic;Fürst;;;;;;;;;;;;;x
+title_prince_female_central_germanic;Fürstin;;;;;;;;;;;;;x
+duke_central_germanic;Herzog;;;;;;;;;;;;;x
+duke_female_central_germanic;Herzogin;;;;;;;;;;;;;x
+count_central_germanic;Graf;;;;;;;;;;;;;x
+count_female_central_germanic;Gräfin;;;;;;;;;;;;;x
+baron_central_germanic;Freiherr;;;;;;;;;;;;;x
+baron_female_central_germanic;Freifrau;;;;;;;;;;;;;x
+
+tribal_emperor_central_germanic;Kaiserliche Häuptling;;;;;;;;;;;;;x
+tribal_king_central_germanic;König Häuptling;;;;;;;;;;;;;x
+tribal_duke_central_germanic;Oberhäuptling;;;;;;;;;;;;;x
+tribal_count_central_germanic;Chef;;;;;;;;;;;;;x
+
+tribal_emperor_female_central_germanic;Kaiserin Häuptling;;;;;;;;;;;;;x
+tribal_king_female_central_germanic;Königin Häuptling;;;;;;;;;;;;;x
+tribal_duke_female_central_germanic;Hohe Häuptling;;;;;;;;;;;;;x
+tribal_count_female_central_germanic;Chefin;;;;;;;;;;;;;x
+
+tribal_empire_of_central_germanic;Stammesreich;;;;;;;;;;;;;x
+tribal_kingdom_of_central_germanic;Stammeskönigreich;;;;;;;;;;;;;x
+tribal_duchy_of_central_germanic;Hohes Häuptlingstum;;;;;;;;;;;;;x
+tribal_county_of_central_germanic;Häuptlingstum;;;;;;;;;;;;;x
+
+tribal_empire_central_germanic;Stammesreich;;;;;;;;;;;;;x
+tribal_kingdom_central_germanic;Stammeskönigreich;;;;;;;;;;;;;x
+tribal_duchy_central_germanic;Hohes Häuptlingstum;;;;;;;;;;;;;x
+tribal_county_central_germanic;Häuptlingstum;;;;;;;;;;;;;x
+
+vice_royalty_king_central_germanic;Vizekönig;;;;;;;;;;;;;x
+vice_royalty_king_female_central_germanic;Vizekönigin;;;;;;;;;;;;;x
+vice_royalty_duke_central_germanic;Minderer Vizekönig;;;;;;;;;;;;;x
+vice_royalty_duke_female_central_germanic;Minderer Vizekönigin;;;;;;;;;;;;;x
+
+job_chancellor_central_germanic;Kanzler;;;;;;;;;;;;;x
+job_marshal_central_germanic;Marschall;;;;;;;;;;;;;x
+job_treasurer_central_germanic;Schatzmeister;;;;;;;;;;;;;x
+job_spymaster_central_germanic;Spionagemeister;;;;;;;;;;;;;x
+
+FYLKIR_german;Volker;;;;;;;;;;;;;x
+FYLKJA_german;Volkerin;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_german;Ökumenischer Patriarch;;;;;;;;;;;;;x
+POPE_central_german;Papst;;;;;;;;;;;;;x
+
+family_palace_baron_german;Patrizier;;;;;;;;;;;;;x
+
+###########################################################
+###################### German #############################
+###########################################################
+
+empire_of_german;Reich;;;;;;;;;;;;;x
+kingdom_of_german;Königreich;;;;;;;;;;;;;x
+duchy_of_german;Herzogtum;;;;;;;;;;;;;x
+county_of_german;Grafschaft;;;;;;;;;;;;;x
+
+empire_german;Reich;;;;;;;;;;;;;x
+kingdom_german;Königreich;;;;;;;;;;;;;x
+duchy_german;Herzogtum;;;;;;;;;;;;;x
+county_german;Grafschaft;;;;;;;;;;;;;x
+
+city_kingdom_of_german;Höchst Durchlauchte Republik von;;;;;;;;;;;;;x
+
+emperor_german;Kaiser;;;;;;;;;;;;;x
+emperor_female_german;Kaiserin;;;;;;;;;;;;;x
+king_german;Köning;;;;;;;;;;;;;x
+queen_german;Königin;;;;;;;;;;;;;x
+title_prince_german;Fürst;;;;;;;;;;;;;x
+title_prince_female_german;Fürstin;;;;;;;;;;;;;x
+duke_german;Herzog;;;;;;;;;;;;;x
+duke_female_german;Herzogin;;;;;;;;;;;;;x
+count_german;Graf;;;;;;;;;;;;;x
+count_female_german;Gräfin;;;;;;;;;;;;;x
+baron_german;Freiherr;;;;;;;;;;;;;x
+baron_female_german;Freifrau;;;;;;;;;;;;;x
+
+tribal_emperor_german;Kaiserliche Häuptling;;;;;;;;;;;;;x
+tribal_king_german;König Häuptling;;;;;;;;;;;;;x
+tribal_duke_german;Oberhäuptling;;;;;;;;;;;;;x
+tribal_count_german;Chef;;;;;;;;;;;;;x
+
+tribal_emperor_female_german;Kaiserin Häuptling;;;;;;;;;;;;;x
+tribal_king_female_german;Königin Häuptling;;;;;;;;;;;;;x
+tribal_duke_female_german;Hohe Häuptling;;;;;;;;;;;;;x
+tribal_count_female_german;Chefin;;;;;;;;;;;;;x
+
+tribal_empire_of_german;Stammesreich;;;;;;;;;;;;;x
+tribal_kingdom_of_german;Stammeskönigreich;;;;;;;;;;;;;x
+tribal_duchy_of_german;Hohes Häuptlingstum;;;;;;;;;;;;;x
+tribal_county_of_german;Häuptlingstum;;;;;;;;;;;;;x
+
+tribal_empire_german;Stammesreich;;;;;;;;;;;;;x
+tribal_kingdom_german;Stammeskönigreich;;;;;;;;;;;;;x
+tribal_duchy_german;Hohes Häuptlingstum;;;;;;;;;;;;;x
+tribal_county_german;Häuptlingstum;;;;;;;;;;;;;x
+
+vice_royalty_king_german;Vizekönig;;;;;;;;;;;;;x
+vice_royalty_king_female_german;Vizekönigin;;;;;;;;;;;;;x
+vice_royalty_duke_german;Minderer Vizekönig;;;;;;;;;;;;;x
+vice_royalty_duke_female_german;Minderer Vizekönigin;;;;;;;;;;;;;x
+
+job_chancellor_german;Kanzler;;;;;;;;;;;;;x
+job_marshal_german;Marschall;;;;;;;;;;;;;x
+job_treasurer_german;Schatzmeister;;;;;;;;;;;;;x
+job_spymaster_german;Spionagemeister;;;;;;;;;;;;;x
+
+FYLKIR_german;Volker;;;;;;;;;;;;;x
+FYLKJA_german;Volkerin;;;;;;;;;;;;;x
+ECUMENICAL_PATRIARCH_german;Ökumenischer Patriarch;;;;;;;;;;;;;x
+POPE_central_german;Papst;;;;;;;;;;;;;x
+
+family_palace_baron_german;Patrizier;;;;;;;;;;;;;x
+
+#######################################
+############# Lombard #################
+#######################################
+
+emperor_lombard;Imperatùr;;;;;;;;;;;;;x
+emperor_female_lombard;Imperatùra;;;;;;;;;;;;;x
+king_lombard;Rège;;;;;;;;;;;;;x
+king_female_lombard;Regìna;;;;;;;;;;;;;x
+title_prince_lombard;Prénzep;;;;;;;;;;;;;x
+title_prince_female_lombard;Prenzipèsa;;;;;;;;;;;;;x
+duke_lombard;Duca;;;;;;;;;;;;;x
+duke_female_lombard;Ducèssa;;;;;;;;;;;;;x
+count_lombard;Cùnt;;;;;;;;;;;;;x
+count_female_lombard;Cuntèsa;;;;;;;;;;;;;x
+baron_lombard;Barùn;;;;;;;;;;;;;x
+baron_female_lombard;Barunèsa;;;;;;;;;;;;;x
+
+#######################################
+############## Suebi ##################
+#######################################
+
+empire_of_suebi;Rihhi;;;;;;;;;;;;;x
+kingdom_of_suebi;kuningrihhi;;;;;;;;;;;;;x
+duchy_of_suebi;herizogtuom;;;;;;;;;;;;;x
+county_of_suebi;Grafiskaf;;;;;;;;;;;;;x
+
+emperor_suebi;Keisur;;;;;;;;;;;;;x
+emperor_female_suebi;Keisurin;;;;;;;;;;;;;x
+king_suebi;Kuning;;;;;;;;;;;;;x
+king_female_suebi;Kuningin;;;;;;;;;;;;;x
+title_prince_suebi;Adaling;;;;;;;;;;;;;x
+title_prince_female_suebi;Furistin;;;;;;;;;;;;;x
+duke_suebi;Herizogo;;;;;;;;;;;;;x
+duke_female_suebi;Herizogin;;;;;;;;;;;;;x
+count_suebi;Grafio;;;;;;;;;;;;;x
+count_female_suebi;Grafin;;;;;;;;;;;;;x
+baron_suebi;Friheriro;;;;;;;;;;;;;x
+baron_female_suebi;Frifrouwa;;;;;;;;;;;;;x
+
+tribal_duke_suebi;Grozhoubitling;;;;;;;;;;;;;x
+tribal_count_suebi;Houbitling;;;;;;;;;;;;;x
+
+vice_royalty_king_suebi;Untarkuning;;;;;;;;;;;;;x
+vice_royalty_king_female_suebi;Untarkuningin;;;;;;;;;;;;;x
+vice_royalty_duke_suebi;Minniro Untarkuning;;;;;;;;;;;;;x
+vice_royalty_duke_female_suebi;Minniro Untarkuningin;;;;;;;;;;;;;x

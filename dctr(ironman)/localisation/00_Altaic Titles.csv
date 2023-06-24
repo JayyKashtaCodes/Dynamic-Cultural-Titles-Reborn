@@ -4,8 +4,6 @@
 ###########################################################
 ###########################################################
 
-altaic;Altaylar;;;;;;;;;;;;;x
-
 empire_altaic;Xaqanliq;;;;;;;;;;;;;x
 empire_of_altaic;Xaqanliq;;;;;;;;;;;;;x
 kingdom_altaic;Xanliq;;;;;;;;;;;;;x
@@ -86,8 +84,6 @@ nomad_baron_female_altaic;Begwm;;;;;;;;;;;;;x
 ###########################################################
 ###########################################################
 
-khazar;Xazar;;;;;;;;;;;;;x
-
 empire_khazar;Qaganat;;;;;;;;;;;;;x
 empire_of_khazar;Qaganat;;;;;;;;;;;;;x
 kingdom_khazar;Xandyq;;;;;;;;;;;;;x
@@ -144,3 +140,32 @@ nomad_baron_female_khazar;Begwm;;;;;;;;;;;;;x
 job_chancellor_east_slavic;Kündür;;;;;;;;;;;;;x
 job_marshal_east_slavic;Qagan Bek;;;;;;;;;;;;;x
 job_treasurer_east_slavic;Jawashighar;;;;;;;;;;;;;x
+
+#########################################
+############## Turkiq ###################
+#########################################
+
+duke_turkish;Atabeg;;;;;;;;;x
+duchy_of_turkish;Atabeg;;;;;;;;;x
+duchy_turkish;Atabeg;;;;;;;;;x
+
+#########################################
+############## Khitan ###################
+#########################################
+
+emperor_khitan;Gurkhan;;;;;;;;;;;;;x
+duke_khitan;Dongjue;;;;;;;;;;;;;x
+count_khitan;Bojue;;;;;;;;;;;;;x
+count_female_khitan;Bojuefuren;;;;;;;;;;;;;x
+baron_khitan;Nanjue;;;;;;;;;;;;;x
+baron_female_khitan;Nanjuefruen;;;;;;;;;;;;;x
+
+#########################################
+############## Bolghar ##################
+#########################################
+
+duke_bolghar;Boila;;;;;;;;;;;;;x
+duke_female_bolghar;Khertsoginya;;;;;;;;;;;;;x
+count_bolghar;Kopan;;;;;;;;;;;;;x
+count_female_bolghar;Grafinya;;;;;;;;;;;;;x
+baron_bolghar;BagaÃ¯n;;;;;;;;;;;;;x

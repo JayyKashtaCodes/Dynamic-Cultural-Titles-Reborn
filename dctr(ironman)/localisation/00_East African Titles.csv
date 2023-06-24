@@ -1,0 +1,43 @@
+###########################################################
+################## East African ###########################
+###########################################################
+
+emperor_east_african;Negusa Nagast;;;;;;;;;;;;;x
+emperor_female_east_african;Negasta Nagastat;;;;;;;;;;;;;x
+king_east_african;Negus;;;;;;;;;;;;;x
+king_female_east_african;Negest;;;;;;;;;;;;;x
+duke_east_african;Ras;;;;;;;;;;;;;x
+count_east_african;Bitwoded;;;;;;;;;;;;;x
+baron_east_african;Dejazmach;;;;;;;;;;;;;x
+
+city_count_east_african;Negadras;;;;;;;;;;;;;x
+city_baron_east_african;Kantiba;;;;;;;;;;;;;x
+
+title_prince_east_african;Lij;;;;;;;;;;;;;x
+title_prince_female_east_african;Li'iliti;;;;;;;;;;;;;x
+title_regent_east_african;Enderase;;;;;;;;;;;;;x
+
+job_chancellor_east_african;Tsehafi Taezaz;;;;;;;;;;;;;x
+job_marshal_east_african;Dejazmach;;;;;;;;;;;;;x
+job_treasurer_east_african;Blattengeta;;;;;;;;;;;;;x
+job_spymaster_east_african;Lique Mekwas;;;;;;;;;;;;;x
+job_spiritual_east_african;Aqabe Se'at;;;;;;;;;;;;;x
+
+#########################################
+############### Somali ##################
+#########################################
+
+emperor_somali;Boqor;;;;;;;;;;;;;x
+emperor_female_somali;Boqorad;;;;;;;;;;;;;x
+king_somali;Suldaan;;;;;;;;;;;;;x
+king_female_somali;Suldaanad;;;;;;;;;;;;;x
+title_prince_somali;Amir;;;;;;;;;;;;;x
+title_prince_female_somali;Amirad;;;;;;;;;;;;;x
+duke_somali;Emir;;;;;;;;;;;;;x
+duke_female_somali;Emirad;;;;;;;;;;;;;x
+count_somali;Sheikh;;;;;;;;;;;;;x
+count_female_somali;Sheikhah;;;;;;;;;;;;;x
+baron_somali;Wali;;;;;;;;;;;;;x
+baron_female_somali;Waliyah;;;;;;;;;;;;;x
+
+vice_royalty_king_somali;Boqortiishe;;;;;;;;;;;;;x

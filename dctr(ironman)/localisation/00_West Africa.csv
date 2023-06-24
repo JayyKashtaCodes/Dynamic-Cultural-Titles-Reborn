@@ -1,0 +1,207 @@
+###########################################################
+################## West African ###########################
+###########################################################
+
+west_african_pagan_reformed;Voodoo;;;;;;;;;;;;;x
+west_african_pagan;Vodun;;;;;;;;;;;;;x
+
+emperor_west_african;Mansa;;;;;;;;;;;;;x
+king_west_african;Mansakewo;;;;;;;;;;;;;x
+duke_west_african;Kunto Kungo;;;;;;;;;;;;;x
+count_west_african;Kungo;;;;;;;;;;;;;x
+baron_west_african;Samatabaa;;;;;;;;;;;;;x
+
+emperor_female_west_african;Mansa;;;;;;;;;;;;;x
+king_female_west_african;Mansamusoo;;;;;;;;;;;;;x
+duke_female_west_african;Kunto Kungo;;;;;;;;;;;;;x
+count_female_west_african;Kungo;;;;;;;;;;;;;x
+baron_female_west_african;Samatabaa;;;;;;;;;;;;;x
+
+empire_of_west_african;Maraloo-Li ma;;;;;;;;;;;;;x
+kingdom_of_west_african;Mansabankoo ma;;;;;;;;;;;;;x
+duchy_of_west_african;Tundoo ma;;;;;;;;;;;;;x
+county_of_west_african;Kunda ma;;;;;;;;;;;;;x
+barony_of_west_african;Toloo ma;;;;;;;;;;;;;x
+
+empire_west_african;Maraloo-Li;;;;;;;;;;;;;x
+kingdom_west_african;Mansabankoo;;;;;;;;;;;;;x
+duchy_west_african;Tundoo;;;;;;;;;;;;;x
+county_west_african;Kunda;;;;;;;;;;;;;x
+barony_west_african;Toloo;;;;;;;;;;;;;x
+
+tribal_emperor_west_african;Mansa;;;;;;;;;;;;;x
+tribal_king_west_african;Mansakewo;;;;;;;;;;;;;x
+tribal_duke_west_african;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_west_african;Kungo;;;;;;;;;;;;;x
+tribal_baron_west_african;Samatabaa;;;;;;;;;;;;;x
+
+tribal_emperor_female_west_african;Mansa;;;;;;;;;;;;;x
+tribal_king_female_west_african;Mansamusoo;;;;;;;;;;;;;x
+tribal_duke_female_west_african;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_female_west_african;Kungo;;;;;;;;;;;;;x
+tribal_baron_female_west_african;Samatabaa;;;;;;;;;;;;;x
+
+tribal_empire_of_soninke;Maraloo-Li ma;;;;;;;;;;;;;x
+tribal_kingdom_of_soninke;Mansabankoo ma;;;;;;;;;;;;;x
+tribal_duchy_of_soninke;Tundoo ma;;;;;;;;;;;;;x
+tribal_county_of_soninke;Kunda ma;;;;;;;;;;;;;x
+
+tribal_empire_soninke;Maraloo-Li;;;;;;;;;;;;;x
+tribal_kingdom_soninke;Mansabankoo;;;;;;;;;;;;;x
+tribal_duchy_soninke;Tundoo;;;;;;;;;;;;;x
+tribal_county_soninke;Kunda;;;;;;;;;;;;;x
+
+
+###########################################################
+#################### Songhay ##############################
+###########################################################
+
+emperor_songhay;'Àskíyâ;;;;;;;;;;;;;x
+king_songhay;'Àmíír-û;;;;;;;;;;;;;x
+duke_songhay;Ban;;;;;;;;;;;;;x
+count_songhay;Han Alo;;;;;;;;;;;;;x
+baron_songhay;Woym;;;;;;;;;;;;;x
+
+emperor_songhay;Àskíyâ;;;;;;;;;;;;;x
+king_songhay;'Àsáld-û;;;;;;;;;;;;;x
+duke_songhay;Damakwa;;;;;;;;;;;;;x
+count_songhay;Woykwa;;;;;;;;;;;;;x
+baron_songhay;Woyay ru;;;;;;;;;;;;;x
+
+title_prince_songhay;Kòy-Háar-û;;;;;;;;;;;;;x
+title_prince_female_songhay;Kòy-wôy;;;;;;;;;;;;;x
+
+empire_of_songhay;Ni kwaa;;;;;;;;;;;;;x
+kingdom_of_songhay;De kwaa;;;;;;;;;;;;;x
+duchy_of_songhay;Damaga kwaa;;;;;;;;;;;;;x
+county_of_songhay;Kukkwaa;;;;;;;;;;;;;x
+barony_of_songhay;Woykukga kwaa;;;;;;;;;;;;;x
+
+empire_songhay;Ni;;;;;;;;;;;;;x
+kingdom_songhay;De;;;;;;;;;;;;;x
+duchy_songhay;Damaga;;;;;;;;;;;;;x
+county_songhay;Kuk;;;;;;;;;;;;;x
+barony_songhay;Woykukga;;;;;;;;;;;;;x
+
+
+tribal_emperor_songhay;Cckum;;;;;;;;;;;;;x
+tribal_king_songhay;Damakum;;;;;;;;;;;;;x
+tribal_duke_songhay;Zumkum;;;;;;;;;;;;;x
+tribal_count_songhay;Kum;;;;;;;;;;;;;x
+
+tribal_emperor_female_songhay;Ccda Ra Kwa;;;;;;;;;;;;;x
+tribal_king_female_songhay;Damada Ra Kwa;;;;;;;;;;;;;x
+tribal_duke_female_songhay;Zumda Ra Kwa;;;;;;;;;;;;;x
+tribal_count_female_songhay;Da Ra Kwa;;;;;;;;;;;;;x
+
+tribal_empire_of_songhay;Ccda Ra Yo kwaa;;;;;;;;;;;;;x
+tribal_kingdom_of_songhay;Damada Ra Yo kwaa;;;;;;;;;;;;;x
+tribal_duchy_of_songhay;Zumda Ra Yo kwaa;;;;;;;;;;;;;x
+tribal_county_of_songhay;Da Ra Yo kwaa;;;;;;;;;;;;;x
+
+tribal_empire_songhay;Ccda Ra Yo;;;;;;;;;;;;;x
+tribal_kingdom_songhay;Damada Ra Yo;;;;;;;;;;;;;x
+tribal_duchy_songhay;Zumda Ra Yo;;;;;;;;;;;;;x
+tribal_county_songhay;Da Ra Yo;;;;;;;;;;;;;x
+
+###########################################################
+#################### Mandé ################################
+###########################################################
+
+emperor_manden;Mansa;;;;;;;;;;;;;x
+king_manden;Mansakewo;;;;;;;;;;;;;x
+duke_manden;Kunto Kungo;;;;;;;;;;;;;x
+count_manden;Kungo;;;;;;;;;;;;;x
+baron_manden;Samatabaa;;;;;;;;;;;;;x
+
+emperor_female_manden;Mansa;;;;;;;;;;;;;x
+king_female_manden;Mansamusoo;;;;;;;;;;;;;x
+duke_female_manden;Kunto Kungo;;;;;;;;;;;;;x
+count_female_manden;Kungo;;;;;;;;;;;;;x
+baron_female_manden;Samatabaa;;;;;;;;;;;;;x
+
+empire_of_manden;Maraloo-Li ma;;;;;;;;;;;;;x
+kingdom_of_manden;Mansabankoo ma;;;;;;;;;;;;;x
+duchy_of_manden;Tundoo ma;;;;;;;;;;;;;x
+county_of_manden;Kunda ma;;;;;;;;;;;;;x
+barony_of_manden;Toloo ma;;;;;;;;;;;;;x
+
+empire_manden;Maraloo-Li;;;;;;;;;;;;;x
+kingdom_manden;Mansabankoo;;;;;;;;;;;;;x
+duchy_manden;Tundoo;;;;;;;;;;;;;x
+county_manden;Kunda;;;;;;;;;;;;;x
+barony_manden;Toloo;;;;;;;;;;;;;x
+
+tribal_emperor_manden;Mansa;;;;;;;;;;;;;x
+tribal_king_manden;Mansakewo;;;;;;;;;;;;;x
+tribal_duke_manden;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_manden;Kungo;;;;;;;;;;;;;x
+tribal_baron_manden;Samatabaa;;;;;;;;;;;;;x
+
+tribal_emperor_female_manden;Mansa;;;;;;;;;;;;;x
+tribal_king_female_manden;Mansamusoo;;;;;;;;;;;;;x
+tribal_duke_female_manden;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_female_manden;Kungo;;;;;;;;;;;;;x
+tribal_baron_female_manden;Samatabaa;;;;;;;;;;;;;x
+
+tribal_empire_of_manden;Maraloo-Li ma;;;;;;;;;;;;;x
+tribal_kingdom_of_manden;Mansabankoo ma;;;;;;;;;;;;;x
+tribal_duchy_of_manden;Tundoo ma;;;;;;;;;;;;;x
+tribal_county_of_manden;Kunda ma;;;;;;;;;;;;;x
+
+tribal_empire_manden;Maraloo-Li;;;;;;;;;;;;;x
+tribal_kingdom_manden;Mansabankoo;;;;;;;;;;;;;x
+tribal_duchy_manden;Tundoo;;;;;;;;;;;;;x
+tribal_county_manden;Kunda;;;;;;;;;;;;;x
+
+
+###########################################################
+#################### Soninke ##############################
+###########################################################
+
+emperor_soninke;Mansa;;;;;;;;;;;;;x
+king_soninke;Mansakewo;;;;;;;;;;;;;x
+duke_soninke;Kunto Kungo;;;;;;;;;;;;;x
+count_soninke;Kungo;;;;;;;;;;;;;x
+baron_soninke;Samatabaa;;;;;;;;;;;;;x
+
+emperor_female_soninke;Mansa;;;;;;;;;;;;;x
+king_female_soninke;Mansamusoo;;;;;;;;;;;;;x
+duke_female_soninke;Kunto Kungo;;;;;;;;;;;;;x
+count_female_soninke;Kungo;;;;;;;;;;;;;x
+baron_female_soninke;Samatabaa;;;;;;;;;;;;;x
+
+empire_of_soninke;Maraloo-Li ma;;;;;;;;;;;;;x
+kingdom_of_soninke;Mansabankoo ma;;;;;;;;;;;;;x
+duchy_of_soninke;Tundoo ma;;;;;;;;;;;;;x
+county_of_soninke;Kunda ma;;;;;;;;;;;;;x
+barony_of_soninke;Toloo ma;;;;;;;;;;;;;x
+
+empire_soninke;Maraloo-Li;;;;;;;;;;;;;x
+kingdom_soninke;Mansabankoo;;;;;;;;;;;;;x
+duchy_soninke;Tundoo;;;;;;;;;;;;;x
+county_soninke;Kunda;;;;;;;;;;;;;x
+barony_soninke;Toloo;;;;;;;;;;;;;x
+
+tribal_emperor_soninke;Mansa;;;;;;;;;;;;;x
+tribal_king_soninke;Mansakewo;;;;;;;;;;;;;x
+tribal_duke_soninke;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_soninke;Kungo;;;;;;;;;;;;;x
+tribal_baron_soninke;Samatabaa;;;;;;;;;;;;;x
+
+tribal_emperor_female_soninke;Mansa;;;;;;;;;;;;;x
+tribal_king_female_soninke;Mansamusoo;;;;;;;;;;;;;x
+tribal_duke_female_soninke;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_female_soninke;Kungo;;;;;;;;;;;;;x
+tribal_baron_female_soninke;Samatabaa;;;;;;;;;;;;;x
+
+tribal_empire_of_soninke;Maraloo-Li ma;;;;;;;;;;;;;x
+tribal_kingdom_of_soninke;Mansabankoo ma;;;;;;;;;;;;;x
+tribal_duchy_of_soninke;Tundoo ma;;;;;;;;;;;;;x
+tribal_county_of_soninke;Kunda ma;;;;;;;;;;;;;x
+
+tribal_empire_soninke;Maraloo-Li;;;;;;;;;;;;;x
+tribal_kingdom_soninke;Mansabankoo;;;;;;;;;;;;;x
+tribal_duchy_soninke;Tundoo;;;;;;;;;;;;;x
+tribal_county_soninke;Kunda;;;;;;;;;;;;;x
+

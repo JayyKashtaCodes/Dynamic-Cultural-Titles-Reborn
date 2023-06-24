@@ -3,137 +3,58 @@
 ##################### Others ##############################
 ###########################################################
 
-vice_royalty_king_ashkenazi;Unterkinig;;;;;;;;;;;;;x
-vice_royalty_king_female_ashkenazi;Unterkinigin;;;;;;;;;;;;;x
-vice_royalty_duke_ashkenazi;Minderer Unterkinig;;;;;;;;;;;;;x
-vice_royalty_duke_female_ashkenazi;Minderer Unterkinigin;;;;;;;;;;;;;x
+vice_royalty_king_ashkenazi;Unterkinig;;;;;;;;;;;;;;x
+vice_royalty_king_female_ashkenazi;Unterkinigin;;;;;;;;;;;;;;x
+vice_royalty_duke_ashkenazi;Minderer Unterkinig;;;;;;;;;;;;;;x
+vice_royalty_duke_female_ashkenazi;Minderer Unterkinigin;;;;;;;;;;;;;;x
 
 ###########################################################
 #################### Iranian ##############################
 ###########################################################
 
-e_persia;ä‚hanö‚hiye Eran;;;;;;;;;;;;x
+e_persia;ä‚hanö‚hiye Eran;;;;;;;;;;;;;x
 
-title_prince_iranian;Shahzada;;;;;;;;;x
-title_prince_female_iranian;Shahdokht;;;;;;;;;x
+title_prince_iranian;Shahzada;;;;;;;;;;;;;x
+title_prince_female_iranian;Shahdokht;;;;;;;;;;;;;x
 
-POPE_iranian;Peape;;;;;;;;;;;;;x
+POPE_iranian;Peape;;;;;;;;;;;;;;x
 
 ###########################################################
 #################### Arabic ###############################
 ###########################################################
 #### Delete this if playing from 11th Century or later ####
 
-arabic;Eurbaa;;;;;;;;;x
+e_arabia;Jaziruh alearab;;;;;;;;;;;;;x
+e_arabia_adj;Alearabia;;;;;;;;;;;;;x
 
-e_arabia;Jaziruh alearab;;;;;;;;;;;;x
-e_arabia_adj;Alearabia;;;;;;;;;;;;x
+emperor_arabic;Malik Al-Azim;;;;;;;;;;;;;x
+emperor_female_arabic;Malikat ul-Azimat;;;;;;;;;;;;;x
+king_arabic;Emir Al-Umara;;;;;;;;;;;;;x
+king_female_arabic;Emirat ul-Amirat;;;;;;;;;;;;;x
+title_prince_arabic;Amyr;;;;;;;;;;;;;x
+title_prince_female_arabic;'Amira;;;;;;;;;;;;;x
+count_arabic;Eud;;;;;;;;;;;;;x
+baron_arabic;Albarun;;;;;;;;;;;;;;x
 
-emperor_arabic;Malik Al-Azim;;;;;;;;;x
-emperor_female_arabic;Malikat ul-Azimat;;;;;;;;;x
-king_arabic;Emir Al-Umara;;;;;;;;;x
-king_female_arabic;Emirat ul-Amirat;;;;;;;;;x
-title_prince_arabic;Amyr;;;;;;;;;x
-title_prince_female_arabic;'Amira;;;;;;;;;x
-count_arabic;Eud;;;;;;;;;x
-baron_arabic;Albarun;;;;;;;;;;;;;x
+city_emperor_arabic;Ra'is Azim;;;;;;;;;;;;;;x
+city_king_arabic;Ra'is;;;;;;;;;;;;;;x
+city_duke_arabic;Wali-Emir;;;;;;;;;;;;;;x
+city_count_arabic;Wali;;;;;;;;;;;;;;x
+city_baron_arabic;Muhafiz;;;;;;;;;;;;;;x
 
-city_emperor_arabic;Ra'is Azim;;;;;;;;;;x
-city_king_arabic;Ra'is;;;;;;;;;;x
-city_duke_arabic;Wali-Emir;;;;;;;;;;x
-city_count_arabic;Wali;;;;;;;;;;x
-city_baron_arabic;Muhafiz;;;;;;;;;;x
+tribal_emperor_arabic;Malik Al-Azim;;;;;;;;;;;;;x
+tribal_emperor_female_arabic;Malikat ul-Azimat;;;;;;;;;;;;;x
+tribal_king_arabic;Malik;;;;;;;;;;;;;x
+tribal_king_female_arabic;Malikah;;;;;;;;;;;;;x
+tribal_duke_arabic;Emir;;;;;;;;;;;;;;x
+tribal_count_arabic;Sheikh;;;;;;;;;;;;;;x
 
-tribal_emperor_arabic;Malik Al-Azim;;;;;;;;;x
-tribal_emperor_female_arabic;Malikat ul-Azimat;;;;;;;;;x
-tribal_king_arabic;Malik;;;;;;;;;x
-tribal_king_female_arabic;Malikah;;;;;;;;;x
-tribal_duke_arabic;Emir;;;;;;;;;;x
-tribal_count_arabic;Sheikh;;;;;;;;;;x
+nomadic_emperor_arabic;Emir;;;;;;;;;;;;;x
+nomadic_king_arabic;Sheikh;;;;;;;;;;;;;x
 
-nomadic_emperor_arabic;Emir;;;;;;;;;x
-nomadic_king_arabic;Sheikh;;;;;;;;;x
+job_chancellor_arabic;Mustashar;;;;;;;;;;;;;;x
+job_marshal_arabic;Marishal;;;;;;;;;;;;;;x
+job_treasurer_arabic;'Amin sunduq;;;;;;;;;;;;;;x
+job_spymaster_arabic;Maswuwl altajasus;;;;;;;;;;;;;;x
 
-job_chancellor_arabic;Mustashar;;;;;;;;;;;;;x
-job_marshal_arabic;Marishal;;;;;;;;;;;;;x
-job_treasurer_arabic;'Amin sunduq;;;;;;;;;;;;;x
-job_spymaster_arabic;Maswuwl altajasus;;;;;;;;;;;;;x
-
-POPE_arabic;Baba;;;;;;;;;;;;;x
-
-###########################################################
-#################### Altaic ###############################
-###########################################################
-
-#########################################
-############## Turkiq ###################
-#########################################
-
-duke_turkish;Atabeg;;;;;;;;;x
-duchy_of_turkish;Atabeg;;;;;;;;;x
-duchy_turkish;Atabeg;;;;;;;;;x
-
-#########################################
-############## Khitan ###################
-#########################################
-
-emperor_khitan;Gurkhan;;;;;;;;;;;;;x
-duke_khitan;Dongjue;;;;;;;;;;;;;x
-count_khitan;Bojue;;;;;;;;;;;;;x
-count_female_khitan;Bojuefuren;;;;;;;;;;;;;x
-baron_khitan;Nanjue;;;;;;;;;;;;;x
-baron_female_khitan;Nanjuefruen;;;;;;;;;;;;;x
-
-#########################################
-############## Bolghar ##################
-#########################################
-
-duke_bolghar;Boila;;;;;;;;;;;;;x
-duke_female_bolghar;Khertsoginya;;;;;;;;;;;;;x
-count_bolghar;Kopan;;;;;;;;;;;;;x
-count_female_bolghar;Grafinya;;;;;;;;;;;;;x
-baron_bolghar;Baga√Øn;;;;;;;;;;;;;x
-
-###########################################################
-################## East African ###########################
-###########################################################
-
-emperor_east_african;Negusa Nagast;;;;;;;;;;;;;x
-emperor_female_east_african;Negasta Nagastat;;;;;;;;;;;;;x
-king_east_african;Negus;;;;;;;;;;;;;x
-king_female_east_african;Negest;;;;;;;;;;;;;x
-duke_east_african;Ras;;;;;;;;;;;;;x
-count_east_african;Bitwoded;;;;;;;;;;;;;x
-baron_east_african;Dejazmach;;;;;;;;;;;;;x
-
-city_count_east_african;Negadras;;;;;;;;;;;;;x
-city_baron_east_african;Kantiba;;;;;;;;;;;;;x
-
-title_prince_east_african;Lij;;;;;;;;;;;;;x
-title_prince_female_east_african;Li'iliti;;;;;;;;;;;;;x
-title_regent_east_african;Enderase;;;;;;;;;;;;;x
-
-job_chancellor_east_african;Tsehafi Taezaz;;;;;;;;;;;;;x
-job_marshal_east_african;Dejazmach;;;;;;;;;;;;;x
-job_treasurer_east_african;Blattengeta;;;;;;;;;;;;;x
-job_spymaster_east_african;Lique Mekwas;;;;;;;;;;;;;x
-job_spiritual_east_african;Aqabe Se'at;;;;;;;;;;;;;x
-
-#########################################
-############### Somali ##################
-#########################################
-
-emperor_somali;Boqor;;;;;;;;;;;;;x
-emperor_female_somali;Boqorad;;;;;;;;;;;;;x
-king_somali;Suldaan;;;;;;;;;;;;;x
-king_female_somali;Suldaanad;;;;;;;;;;;;;x
-title_prince_somali;Amir;;;;;;;;;;;;;x
-title_prince_female_somali;Amirad;;;;;;;;;;;;;x
-duke_somali;Emir;;;;;;;;;;;;;x
-duke_female_somali;Emirad;;;;;;;;;;;;;x
-count_somali;Sheikh;;;;;;;;;;;;;x
-count_female_somali;Sheikhah;;;;;;;;;;;;;x
-baron_somali;Wali;;;;;;;;;;;;;x
-baron_female_somali;Waliyah;;;;;;;;;;;;;x
-
-vice_royalty_king_somali;Boqortiishe;;;;;;;;;;;;;x
+POPE_arabic;Baba;;;;;;;;;;;;;;x

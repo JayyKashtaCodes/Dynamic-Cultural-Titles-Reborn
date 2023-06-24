@@ -1,0 +1,233 @@
+
+###########################################################
+################### West Slavic ###########################
+###########################################################
+############## West Slavic is Polish ######################
+
+k_poland;Polska;;;;;;;;;;;;;x
+k_bohemia;Ceské;;;;;;;;;;;;;x
+e_wendish_empire;Zachód-Slowianska;;;;;;;;;;;;;x
+e_wendish_empire_adj;Zachód Slowianska;;;;;;;;;;;;;x
+
+kingdom_of_west_slavic;Království;;;;;;;;;;;;;x
+
+emperor_west_slavic;Cesarz;;;;;;;;;;;;;x
+emperor_female_west_slavic;Cesarzowa;;;;;;;;;;;;;x
+king_west_slavic;Król;;;;;;;;;;;;;x
+king_female_west_slavic;Królowa;;;;;;;;;;;;;x
+title_prince_west_slavic;Ksiaze;;;;;;;;;;;;;x
+title_prince_female_west_slavic;Ksiezniczka;;;;;;;;;;;;;x
+duke_west_slavic;Ksiaze;;;;;;;;;;;;;x
+duke_female_west_slavic;Ksiezna;;;;;;;;;;;;;x
+count_west_slavic;Hrabia;;;;;;;;;;;;;x
+count_female_west_slavic;Hrabina;;;;;;;;;;;;;x
+baron_west_slavic;Kasztelan;;;;;;;;;;;;;x
+baron_female_west_slavic;Kasztelanka;;;;;;;;;;;;;x
+city_baron_west_slavic;Burmistrz;;;;;;;;;;;;;x
+
+empire_west_slavic;Cesarstwo;;;;;;;;;;;;;x
+kingdom_west_slavic;Królestwo;;;;;;;;;;;;;x
+duchy_west_slavic;Ksiestwo;;;;;;;;;;;;;x
+county_west_slavic;Hrabstwo;;;;;;;;;;;;;x
+barony_west_slavic;Kasztelania;;;;;;;;;;;;;x
+city_barony_west_slavic;Miasto;;;;;;;;;;;;;x
+
+empire_of_west_slavic;Cesarstwo;;;;;;;;;;;;;x
+kingdom_of_west_slavic;Królestwo;;;;;;;;;;;;;x
+duchy_of_west_slavic;Ksiestwo;;;;;;;;;;;;;x
+county_of_west_slavic;Hrabstwo;;;;;;;;;;;;;x
+barony_of_west_slavic;Kasztelania;;;;;;;;;;;;;x
+city_barony_of_west_slavic;Miasto;;;;;;;;;;;;;x
+
+tribal_king_west_slavic;Król;;;;;;;;;;;;;x
+tribal_king_female_west_slavic;Królowa;;;;;;;;;;;;;x
+tribal_duke_west_slavic;Wysoki Wódz;;;;;;;;;;;;;x
+tribal_duke_female_west_slavic;Wysoki Szefowa;;;;;;;;;;;;;x
+tribal_count_west_slavic;Wódz;;;;;;;;;;;;;x
+tribal_count_female_west_slavic;Szefowa;;;;;;;;;;;;;x
+
+tribal_kingdom_west_slavic;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_west_slavic;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_west_slavic;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_west_slavic;Plemie;;;;;;;;;;;;;x
+
+tribal_kingdom_of_west_slavic;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_of_west_slavic;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_of_west_slavic;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_of_west_slavic;Plemie;;;;;;;;;;;;;x
+
+job_chancellor_west_slavic;Kanclerz;;;;;;;;;;;;;x
+job_marshal_west_slavic;Marszalek;;;;;;;;;;;;;x
+job_treasurer_west_slavic;Namiestnik;;;;;;;;;;;;;x
+job_spymaster_west_slavic;Mistrz szpiegów;;;;;;;;;;;;;x
+
+POPE_west_slavic;Papiez;;;;;;;;;;;;;x
+
+
+###########################################
+############## Bohemian ###################
+###########################################
+
+emperor_bohemian;Císar;;;;;;;;;;;;;x
+emperor_female_bohemian;Císarovna;;;;;;;;;;;;;x
+king_bohemian;Král;;;;;;;;;;;;;x
+king_female_bohemian;Královna;;;;;;;;;;;;;x
+duke_bohemian;Vévoda;;;;;;;;;;;;;x
+duke_female_bohemian;Vévodkyne;;;;;;;;;;;;;x
+count_bohemian;Hrabe;;;;;;;;;;;;;x
+count_female_bohemian;Hrabenka;;;;;;;;;;;;;x
+baron_bohemian;Baron;;;;;;;;;;;;;x
+baron_female_bohemian;Baronka;;;;;;;;;;;;;x
+city_baron_bohemian;Starosta;;;;;;;;;;;;;x
+city_baron_female_bohemian;Starostka;;;;;;;;;;;;;x
+
+empire_bohemian;Ríše;;;;;;;;;;;;;x
+kingdom_bohemian;Království;;;;;;;;;;;;;x
+duchy_bohemian;Vévodství;;;;;;;;;;;;;x
+county_bohemian;Hrabství;;;;;;;;;;;;;x
+barony_bohemian;Baronství;;;;;;;;;;;;;x
+city_barony_bohemian;Mesto;;;;;;;;;;;;;x
+
+empire_of_bohemian;Ríše;;;;;;;;;;;;;x
+kingdom_of_bohemian;Království;;;;;;;;;;;;;x
+duchy_of_bohemian;Vévodství;;;;;;;;;;;;;x
+county_of_bohemian;Hrabství;;;;;;;;;;;;;x
+barony_of_bohemian;Baronství;;;;;;;;;;;;;x
+city_barony_of_bohemian;Mesto;;;;;;;;;;;;;x
+
+tribal_king_bohemian;Král;;;;;;;;;;;;;x
+tribal_king_female_bohemian;Královna;;;;;;;;;;;;;x
+tribal_duke_bohemian;Vysoký Nácelník;;;;;;;;;;;;;x
+tribal_duke_female_bohemian;Vysoká Nácelnice;;;;;;;;;;;;;x
+tribal_count_bohemian;Nácelník;;;;;;;;;;;;;x
+tribal_count_female_bohemian;Nácelnice;;;;;;;;;;;;;x
+
+tribal_kingdom_bohemian;Království;;;;;;;;;;;;;x
+tribal_duchy_bohemian;Vysoké Nácelnictví;;;;;;;;;;;;;x
+tribal_county_bohemian;Nácelnictví;;;;;;;;;;;;;x
+tribal_barony_bohemian;Kmen;;;;;;;;;;;;;x
+
+tribal_kingdom_of_bohemian;Království;;;;;;;;;;;;;x
+tribal_duchy_of_bohemian;Vysoké Nácelnictví;;;;;;;;;;;;;x
+tribal_county_of_bohemian;Nácelnictví;;;;;;;;;;;;;x
+tribal_barony_of_bohemian;Kmen;;;;;;;;;;;;;x
+
+job_chancellor_bohemian;Kanclér;;;;;;;;;;;;;x
+job_marshal_bohemian;Maršál;;;;;;;;;;;;;x
+job_treasurer_bohemian;Namiestnik;;;;;;;;;;;;;x
+job_spymaster_bohemian;Mistr Špionu;;;;;;;;;;;;;x
+
+POPE_bohemian;Papež;;;;;;;;;;;;;x
+
+###########################################################
+################### Slovien ###############################
+###########################################################
+
+emperor_slovieni;Cesarz;;;;;;;;;;;;;x
+emperor_female_slovieni;Cesarzowa;;;;;;;;;;;;;x
+king_slovieni;Król;;;;;;;;;;;;;x
+king_female_slovieni;Królowa;;;;;;;;;;;;;x
+title_prince_slovieni;Ksiaze;;;;;;;;;;;;;x
+title_prince_female_slovieni;Ksiezniczka;;;;;;;;;;;;;x
+duke_slovieni;Ksiaze;;;;;;;;;;;;;x
+duke_female_slovieni;Ksiezna;;;;;;;;;;;;;x
+count_slovieni;Hrabia;;;;;;;;;;;;;x
+count_female_slovieni;Hrabina;;;;;;;;;;;;;x
+baron_slovieni;Kasztelan;;;;;;;;;;;;;x
+baron_female_slovieni;Kasztelanka;;;;;;;;;;;;;x
+city_baron_slovieni;Burmistrz;;;;;;;;;;;;;x
+
+empire_slovieni;Cesarstwo;;;;;;;;;;;;;x
+kingdom_slovieni;Królestwo;;;;;;;;;;;;;x
+duchy_slovieni;Ksiestwo;;;;;;;;;;;;;x
+county_slovieni;Hrabstwo;;;;;;;;;;;;;x
+barony_slovieni;Kasztelania;;;;;;;;;;;;;x
+city_barony_slovieni;Miasto;;;;;;;;;;;;;x
+
+empire_of_slovieni;Cesarstwo;;;;;;;;;;;;;x
+kingdom_of_slovieni;Królestwo;;;;;;;;;;;;;x
+duchy_of_slovieni;Ksiestwo;;;;;;;;;;;;;x
+county_of_slovieni;Hrabstwo;;;;;;;;;;;;;x
+barony_of_slovieni;Kasztelania;;;;;;;;;;;;;x
+city_barony_of_slovieni;Miasto;;;;;;;;;;;;;x
+
+tribal_king_slovieni;Król;;;;;;;;;;;;;x
+tribal_king_female_slovieni;Królowa;;;;;;;;;;;;;x
+tribal_duke_slovieni;Wysoki Wódz;;;;;;;;;;;;;x
+tribal_duke_female_slovieni;Wysoki Szefowa;;;;;;;;;;;;;x
+tribal_count_slovieni;Wódz;;;;;;;;;;;;;x
+tribal_count_female_slovieni;Szefowa;;;;;;;;;;;;;x
+
+tribal_kingdom_slovieni;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_slovieni;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_slovieni;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_slovieni;Plemie;;;;;;;;;;;;;x
+
+tribal_kingdom_of_slovieni;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_of_slovieni;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_of_slovieni;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_of_slovieni;Plemie;;;;;;;;;;;;;x
+
+job_chancellor_slovieni;Kanclerz;;;;;;;;;;;;;x
+job_marshal_slovieni;Marszalek;;;;;;;;;;;;;x
+job_treasurer_slovieni;Namiestnik;;;;;;;;;;;;;x
+job_spymaster_slovieni;Mistrz szpiegów;;;;;;;;;;;;;x
+
+###########################################################
+################# Pomeranian ##############################
+###########################################################
+
+k_pommerania;Pòmòrskô;;;;;;;;;;;;;x
+k_pommerania_adj;Pòmòrsczi;;;;;;;;;;;;;x
+d_pommerania;Pòmòrskô;;;;;;;;;;;;;x
+d_pommerania_adj;Pòmòrsczi;;;;;;;;;;;;;x
+
+emperor_pommeranian;Cesarz;;;;;;;;;;;;;x
+emperor_female_pommeranian;Cesarzowa;;;;;;;;;;;;;x
+king_pommeranian;Król;;;;;;;;;;;;;x
+king_female_pommeranian;Królowa;;;;;;;;;;;;;x
+title_prince_pommeranian;Ksiaze;;;;;;;;;;;;;x
+title_prince_female_pommeranian;Ksiezniczka;;;;;;;;;;;;;x
+duke_pommeranian;Ksiaze;;;;;;;;;;;;;x
+duke_female_pommeranian;Ksiezna;;;;;;;;;;;;;x
+count_pommeranian;Hrabia;;;;;;;;;;;;;x
+count_female_pommeranian;Hrabina;;;;;;;;;;;;;x
+baron_pommeranian;Kasztelan;;;;;;;;;;;;;x
+baron_female_pommeranian;Kasztelanka;;;;;;;;;;;;;x
+city_baron_pommeranian;Burmistrz;;;;;;;;;;;;;x
+
+empire_pommeranian;Cesarstwo;;;;;;;;;;;;;x
+kingdom_pommeranian;Królestwo;;;;;;;;;;;;;x
+duchy_pommeranian;Ksiestwo;;;;;;;;;;;;;x
+county_pommeranian;Hrabstwo;;;;;;;;;;;;;x
+barony_pommeranian;Kasztelania;;;;;;;;;;;;;x
+city_barony_pommeranian;Miasto;;;;;;;;;;;;;x
+
+empire_of_pommeranian;Cesarstwo;;;;;;;;;;;;;x
+kingdom_of_pommeranian;Królestwo;;;;;;;;;;;;;x
+duchy_of_pommeranian;Ksiestwo;;;;;;;;;;;;;x
+county_of_pommeranian;Hrabstwo;;;;;;;;;;;;;x
+barony_of_pommeranian;Kasztelania;;;;;;;;;;;;;x
+city_barony_of_pommeranian;Miasto;;;;;;;;;;;;;x
+
+tribal_king_pommeranian;Król;;;;;;;;;;;;;x
+tribal_king_female_pommeranian;Królowa;;;;;;;;;;;;;x
+tribal_duke_pommeranian;Wysoki Wódz;;;;;;;;;;;;;x
+tribal_duke_female_pommeranian;Wysoki Szefowa;;;;;;;;;;;;;x
+tribal_count_pommeranian;Wódz;;;;;;;;;;;;;x
+tribal_count_female_pommeranian;Szefowa;;;;;;;;;;;;;x
+
+tribal_kingdom_pommeranian;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_pommeranian;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_pommeranian;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_pommeranian;Plemie;;;;;;;;;;;;;x
+
+tribal_kingdom_of_pommeranian;Królestwo;;;;;;;;;;;;;x
+tribal_duchy_of_pommeranian;Wysoki Wódzostwo;;;;;;;;;;;;;x
+tribal_county_of_pommeranian;Wódzostwo;;;;;;;;;;;;;x
+tribal_barony_of_pommeranian;Plemie;;;;;;;;;;;;;x
+
+job_chancellor_pommeranian;Kanclerz;;;;;;;;;;;;;x
+job_marshal_pommeranian;Marszalek;;;;;;;;;;;;;x
+job_treasurer_pommeranian;Namiestnik;;;;;;;;;;;;;x
+job_spymaster_pommeranian;Mistrz szpiegów;;;;;;;;;;;;;x

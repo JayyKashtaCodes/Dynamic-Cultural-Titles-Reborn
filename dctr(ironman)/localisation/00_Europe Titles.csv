@@ -7,15 +7,12 @@
 ################ North Germanic ###########################
 ###########################################################
 
-north_germanic;Skandinavisk;;;;;;;;;;;;;x
-
 #######################################
 ############# Norse ###################
 #######################################
 
 e_scandinavia;Norrœnland;;;;;;;;;;;;;x
 e_scandinavia_adj;Norrøn;;;;;;;;;;;;;x
-norse;Norrøna;;;;;;;;;;;;;x
 
 empire_norse;Ríki;;;;;;;;;;;;;x
 kingdom_norse;Ríki;;;;;;;;;;;;;x
@@ -103,7 +100,6 @@ POPE_norse;Páfi;;;;;;;;;;;;;x
 ############# Norwegian ###################
 ###########################################
 
-norwegian;Norsk;;;;;;;;;;;;;x
 k_norway;Noreg;;;;;;;;;;;;;x
 
 
@@ -141,7 +137,6 @@ POPE_norwegian;Pave;;;;;;;;;;;;;x
 ############### Danish ####################
 ###########################################
 
-danish;Dansk;;;;;;;;;;;;;x
 k_denmark;Danmark;;;;;;;;;;;;;x
 
 
@@ -179,7 +174,6 @@ POPE_danish;Pave;;;;;;;;;;;;;x
 ############### Swedish ###################
 ###########################################
 
-swedish;Svenska;;;;;;;;;;;;;x
 k_sweden;Sverige;;;;;;;;;;;;;x
 
 
@@ -220,8 +214,6 @@ POPE_swedish;Påve;;;;;;;;;;;;;x
 
 k_england;Ænglaland;;;;;;;;;;;;;x
 k_england_adj;Ænglish;;;;;;;;;;;;;x
-english;Englisc;;;;;;;;;;;;;x
-saxon;Ænglisc;;;;;;;;;;;;;x
 
 emperor_west_germanic;Bretwalda;;;;;;;;;;;;;x
 king_west_germanic;Cyning;;;;;;;;;;;;;x
@@ -396,139 +388,9 @@ city_barony_of_english;Burgh of;;;;;;;;;;;;;x
 city_baron_english;Mayre;;;;;;;;;;;;;x
 
 ###########################################################
-############### Central Germanic ##########################
-###########################################################
-############## Central Germanic is German #################
-
-german;Deutsche;;;;;;;;;;;;;x
-
-e_hre;Heiliges Römisches Reich;;;;;;;;;;;;;x
-empire_of_central_germanic;Reich;;;;;;;;;;;;;x
-kingdom_of_central_germanic;Königreich;;;;;;;;;;;;;x
-duchy_of_central_germanic;Herzogtum;;;;;;;;;;;;;x
-county_of_central_germanic;Grafschaft;;;;;;;;;;;;;x
-
-city_kingdom_of_central_germanic;Höchst Durchlauchte Republik von;;;;;;;;;;;;;x
-
-emperor_central_germanic;Kaiser;;;;;;;;;;;;;x
-emperor_female_central_germanic;Kaiserin;;;;;;;;;;;;;x
-king_central_germanic;Köning;;;;;;;;;;;;;x
-queen_central_germanic;Königin;;;;;;;;;;;;;x
-title_prince_central_germanic;Fürst;;;;;;;;;;;;;x
-title_prince_female_central_germanic;Fürstin;;;;;;;;;;;;;x
-duke_central_germanic;Herzog;;;;;;;;;;;;;x
-duke_female_central_germanic;Herzogin;;;;;;;;;;;;;x
-count_central_germanic;Graf;;;;;;;;;;;;;x
-count_female_central_germanic;Gräfin;;;;;;;;;;;;;x
-baron_central_germanic;Freiherr;;;;;;;;;;;;;x
-baron_female_central_germanic;Freifrau;;;;;;;;;;;;;x
-
-tribal_duke_central_germanic;Großhäuptling;;;;;;;;;;;;;x
-tribal_count_central_germanic;Häuptling;;;;;;;;;;;;;x
-
-vice_royalty_king_central_germanic;Vizekönig;;;;;;;;;;;;;x
-vice_royalty_king_female_central_germanic;Vizekönigin;;;;;;;;;;;;;x
-vice_royalty_duke_central_germanic;Minderer Vizekönig;;;;;;;;;;;;;x
-vice_royalty_duke_female_central_germanic;Minderer Vizekönigin;;;;;;;;;;;;;x
-
-job_chancellor_central_germanic;Kanzler;;;;;;;;;;;;;x
-job_marshal_central_germanic;Marschall;;;;;;;;;;;;;x
-job_treasurer_central_germanic;Schatzmeister;;;;;;;;;;;;;x
-job_spymaster_central_germanic;Spionagemeister;;;;;;;;;;;;;x
-
-FYLKIR_german;Volker;;;;;;;;;;;;;x
-FYLKJA_german;Volkerin;;;;;;;;;;;;;x
-ECUMENICAL_PATRIARCH_german;Ökumenischer Patriarch;;;;;;;;;;;;;x
-POPE_central_german;Papst;;;;;;;;;;;;;x
-
-family_palace_baron_german;Patrizier;;;;;;;;;;;;;x
-
-#######################################
-########### Old Frankish ##############
-#######################################
-
-empire_of_old_frankish;Riki;;;;;;;;;;;;;x
-kingdom_of_old_frankish;Kuningriki;;;;;;;;;;;;;x
-duchy_of_old_frankish;Heritogduom;;;;;;;;;;;;;x
-county_of_old_frankish;Gravskap;;;;;;;;;;;;;x
-
-emperor_old_frankish;Keisere;;;;;;;;;;;;;x
-emperor_female_old_frankish;Keiserin;;;;;;;;;;;;;x
-king_old_frankish;Kuning;;;;;;;;;;;;;x
-king_female_old_frankish;Kuningin;;;;;;;;;;;;;x
-title_prince_old_frankish;Furista;;;;;;;;;;;;;x
-title_prince_female_old_frankish;Furistin;;;;;;;;;;;;;x
-duke_old_frankish;Heritog;;;;;;;;;;;;;x
-duke_female_old_frankish;Heritogin;;;;;;;;;;;;;x
-baron_old_frankish;Baro;;;;;;;;;;;;;x
-baron_female_old_frankish;Baroin;;;;;;;;;;;;;x
-
-tribal_duke_old_frankish;Grothovitling;;;;;;;;;;;;;x
-tribal_count_old_frankish;Hovitling;;;;;;;;;;;;;x
-
-vice_royalty_king_old_frankish;Underkuning;;;;;;;;;;;;;x
-vice_royalty_king_female_old_frankish;Underkuningin;;;;;;;;;;;;;x
-vice_royalty_duke_old_frankish;Minniro Underkuning;;;;;;;;;;;;;x
-vice_royalty_duke_female_old_frankish;Minniro Underkuningin;;;;;;;;;;;;;x
-
-FYLKIR_old_frankish;Fulcer;;;;;;;;;;;;;x
-FYLKJA_old_frankish;Fulcerin;;;;;;;;;;;;;x
-
-#######################################
-############## Suebi ##################
-#######################################
-
-empire_of_suebi;Rihhi;;;;;;;;;;;;;x
-kingdom_of_suebi;kuningrihhi;;;;;;;;;;;;;x
-duchy_of_suebi;herizogtuom;;;;;;;;;;;;;x
-county_of_suebi;Grafiskaf;;;;;;;;;;;;;x
-
-emperor_suebi;Keisur;;;;;;;;;;;;;x
-emperor_female_suebi;Keisurin;;;;;;;;;;;;;x
-king_suebi;Kuning;;;;;;;;;;;;;x
-king_female_suebi;Kuningin;;;;;;;;;;;;;x
-title_prince_suebi;Adaling;;;;;;;;;;;;;x
-title_prince_female_suebi;Furistin;;;;;;;;;;;;;x
-duke_suebi;Herizogo;;;;;;;;;;;;;x
-duke_female_suebi;Herizogin;;;;;;;;;;;;;x
-count_suebi;Grafio;;;;;;;;;;;;;x
-count_female_suebi;Grafin;;;;;;;;;;;;;x
-baron_suebi;Friheriro;;;;;;;;;;;;;x
-baron_female_suebi;Frifrouwa;;;;;;;;;;;;;x
-
-tribal_duke_suebi;Grozhoubitling;;;;;;;;;;;;;x
-tribal_count_suebi;Houbitling;;;;;;;;;;;;;x
-
-vice_royalty_king_suebi;Untarkuning;;;;;;;;;;;;;x
-vice_royalty_king_female_suebi;Untarkuningin;;;;;;;;;;;;;x
-vice_royalty_duke_suebi;Minniro Untarkuning;;;;;;;;;;;;;x
-vice_royalty_duke_female_suebi;Minniro Untarkuningin;;;;;;;;;;;;;x
-
-#######################################
-############# Lombard #################
-#######################################
-
-lombard;Langobard;;;;;;;;;;;;;x
-
-emperor_lombard;Imperatùr;;;;;;;;;;;;;x
-emperor_female_lombard;Imperatùra;;;;;;;;;;;;;x
-king_lombard;Rège;;;;;;;;;;;;;x
-king_female_lombard;Regìna;;;;;;;;;;;;;x
-title_prince_lombard;Prénzep;;;;;;;;;;;;;x
-title_prince_female_lombard;Prenzipèsa;;;;;;;;;;;;;x
-duke_lombard;Duca;;;;;;;;;;;;;x
-duke_female_lombard;Ducèssa;;;;;;;;;;;;;x
-count_lombard;Cùnt;;;;;;;;;;;;;x
-count_female_lombard;Cuntèsa;;;;;;;;;;;;;x
-baron_lombard;Barùn;;;;;;;;;;;;;x
-baron_female_lombard;Barunèsa;;;;;;;;;;;;;x
-
-###########################################################
 ##################### Latin	###############################
 ###########################################################
 ################### Latin is Roman ########################
-
-latin;Latinus;;;;;;;;;;;;;x
 
 empire_of_latin;Imperium;;;;;;;;;;;;;x
 kingdom_of_latin;Regnum;;;;;;;;;;;;;x
@@ -602,90 +464,11 @@ duke_female_dalmatian;Doikissa;;;;;;;;;;;;;x
 count_dalmatian;Kont;;;;;;;;;;;;;x
 count_female_dalmatian;Kontissa;;;;;;;;;;;;;x
 
-#########################################
-############## French ###################
-#########################################
 
-frankish;Français;;;;;;;;;;;;;x
-old_frankish;Franc;;;;;;;;;;;;;x
-
-empire_of_frankish;Royaume de;;;;;;;;;;;;;x
-kingdom_of_frankish;Royaume de;;;;;;;;;;;;;x
-duchy_of_frankish;Duché de;;;;;;;;;;;;;x
-county_of_frankish;Comitat de;;;;;;;;;;;;;x
-
-city_kingdom_of_frankish;République Sérénissime de;;;;;;;;;;;;;x
-
-emperor_frankish;Empereür;;;;;;;;;;;;;x
-emperor_frankish_female;Impératrice;;;;;;;;x
-king_frankish;Roi;;;;;;;;;;;;;x
-king_frankish_female;Reine;;;;;;;;;;;;;x
-title_prince;Prince;;;;;;;;;;;;;x
-title_prince_female;Princesse;;;;;;;;;;;;;x
-duke_frankish;Duc;;;;;;;;;;;;;x
-duke_frankish_female;Duchesse;;;;;;;;;;;;;x
-count_frankish;Comte;;;;;;;;;;;;;x
-count_frankish_female;Comtesse;;;;;;;;;;;;;x
-baron_female_frankish;Baronne;;;;;;;;;;;;;x
-
-tribal_count_frankish;Chef;;;;;;;;;;;;;x
-
-job_chancellor_frankish;Chancelier;;;;;;;;;;;;;x
-job_marshal_frankish;Maréchal;;;;;;;;;;;;;x
-job_treasurer_frankish;Trésorier;;;;;;;;;;;;;x
-job_spymaster_frankish;Maître espion;;;;;;;;;;;;;x
-
-ECUMENICAL_PATRIARCH_frankish;Patriarche œcuménique;;;;;;;;;;;;;x
-POPE_frankish;Pape;;;;;;;;;;;;;x
-family_palace_baron_frankish;Patricien;;;;;;;;;;;;;x
-
-#########################################
-############## Norman ###################
-#########################################
-
-emperor_norman;Empereor;;;;;;;;;;;;;x
-emperor_female_norman;Empereriz;;;;;;;;;;;;;x
-king_norman;Roy;;;;;;;;;;;;;x
-king_female_norman;Raine;;;;;;;;;;;;;x
-title_prince_female_norman;Princesse;;;;;;;;;;;;;x
-duke_norman;Duc;;;;;;;;;;;;;x
-duke_female_norman;Duchesse;;;;;;;;;;;;;x
-count_norman;Cuens;;;;;;;;;;;;;x
-count_female_norman;Cuntesse;;;;;;;;;;;;;x
-baron_female_norman;Baronne;;;;;;;;;;;;;x
-
-#########################################
-############# Occitan ###################
-#########################################
-
-empire_of_occitan;Empèri;;;;;;;;;;;;;x
-kingdom_of_occitan;Reialme;;;;;;;;;;;;;x
-duchy_of_occitan;Ducat de;;;;;;;;;;;;;x
-county_of_occitan;Comtat de;;;;;;;;;;;;;x
-
-city_kingdom_of_occitan;République Sérénissime de;;;;;;;;;;;;;x
-
-emperor_occitan;Emperaire;;;;;;;;;;;;;x
-emperor_female_occitan;Emperairitz;;;;;;;;;;;;;x
-king_occitan;Rei;;;;;;;;;;;;;x
-king_female_occitan;Reina;;;;;;;;;;;;;x
-duke_occitan;Duc;;;;;;;;;;;;;x
-duke_female_occitan;Duquessa;;;;;;;;;;;;;x
-count_occitan;Comte;;;;;;;;;;;;;x
-count_female_occitan;Comtessa;;;;;;;;;;;;;x
-baron_occitan;Baron;;;;;;;;;;;;;x
-baron_female_occitan;Baronessa;;;;;;;;;;;;;x
-
-tribal_count_occitan;Cap;;;;;;;;;;;;;x
-
-ECUMENICAL_PATRIARCH_occitan;Patriarcat Ecumènic;;;;;;;;;;;;;x
 
 #########################################
 ############# Italian ###################
 #########################################
-
-italian;Italiano;;;;;;;;;;;;;x
-italian_female;Italiana;;;;;;;;;;;;;x
 
 empire_of_italian;Impero di;;;;;;;;;;;;;x
 kingdom_of_italian;Regno di;;;;;;;;;;;;;x
@@ -789,7 +572,6 @@ family_palace_baron_catalan;Patrici;;;;;;;;;;;;;x
 ############## Portugese ##################
 ###########################################
 
-portuguese;Português;;;;;;;;;;;;;x
 k_portugal;Portugal;;;;;;;;;;;;;x
 
 empire_portuguese;Império;;;;;;;;;;;;;x
@@ -994,7 +776,6 @@ count_female_breton;Kontez;;;;;;;;;;;;;x
 ###########################################################
 ################ Byzantine is Greek #######################
 
-greek;Éllinas;;;;;;;;;;;;;x
 e_byzantium;Basileía Rhomaíon;;;;;;;;;;;;;x
 e_byzantium_adj;Rhomaíos;;;;;;;;;;;;;x
 kingdom_greek;Despotaton;;;;;;;;;;;;;x
@@ -1105,7 +886,6 @@ PATRIARCH_IN_THE_EAST_assyrian;Patriarko d-Madenho;;;;;;;;;;;;;x
 ###########################################################
 ################# Baltic is Lithuanian ####################
 
-lithuanian;Latviešu;;;;;;;;;;;;;x
 k_lithuania;Latvija;;;;;;;;;;;;;x
 
 kingdom_baltic;Karaliste;;;;;;;;;;;;;x

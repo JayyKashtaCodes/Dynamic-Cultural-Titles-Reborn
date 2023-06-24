@@ -1,0 +1,39 @@
+
+###########################################################
+################## South Slavic ###########################
+###########################################################
+######### South Slavic is everyone but Bulgarian ##########
+
+k_serbia;Srbija;;;;;;;;;;;;;x
+k_croatia;Hrvatska;;;;;;;;;;;;;x
+
+emperor_south_slavic;Tzar;;;;;;;;;;;;;x
+emperor_female_south_slavic;Tzaritza;;;;;;;;;;;;;x
+king_south_slavic;Kralj;;;;;;;;;;;;;x
+king_female_south_slavic;Kraljica;;;;;;;;;;;;;x
+title_prince_south_slavic;Princ;;;;;;;;;;;;;x
+title_prince_female_south_slavic;Princeza;;;;;;;;;;;;;x
+duke_south_slavic;Zupan;;;;;;;;;;;;;x
+count_south_slavic;Grof;;;;;;;;;;;;;x
+
+tribal_king_south_slavic;Knez;;;;;;;;;;;;;x
+tribal_king_female_south_slavic;Kneginja;;;;;;;;;;;;;x
+tribal_duke_south_slavic;Veliki Zupan;;;;;;;;;;;;;x
+tribal_duke_female_south_slavic;Kneginja;;;;;;;;;;;;;x
+tribal_count_south_slavic;Zupan;;;;;;;;;;;;;x
+
+POPE_south_slavic;Papa;;;;;;;;;;;;;x
+
+###########################################################
+################## Bulgarian ##############################
+###########################################################
+###########################################################
+
+e_bulgaria;Balgarija;;;;;;;;;;;;;x
+k_bulgaria;Balgarija;;;;;;;;;;;;;x
+
+king_bulgarian;Knyaz;;;;;;;;;;;;;x
+king_female_bulgarian;Knyaginya;;;;;;;;;;;;;x
+tribal_count_bulgarian;Vožd;;;;;;;;;;;;;x
+
+POPE_bulgarian;Papa;;;;;;;;;;;;;x

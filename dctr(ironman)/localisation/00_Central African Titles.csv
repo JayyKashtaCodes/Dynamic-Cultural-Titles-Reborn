@@ -1,0 +1,139 @@
+
+###########################################################
+#################### Hausa ################################
+###########################################################
+
+emperor_hausa;Sarki;;;;;;;;;;;;;x
+king_hausa;Sarki;;;;;;;;;;;;;x
+duke_hausa;Babban Shugaba;;;;;;;;;;;;;x
+count_hausa;Shugaba;;;;;;;;;;;;;x
+
+emperor_female_hausa;Sarki;;;;;;;;;;;;;x
+king_female_hausa;Sarki;;;;;;;;;;;;;x
+duke_female_hausa;Babban Sarauniya;;;;;;;;;;;;;x
+count_female_hausa;Sarauniya;;;;;;;;;;;;;x
+
+empire_of_hausa;Daular;;;;;;;;;;;;;x
+kingdom_of_hausa;Masarautar;;;;;;;;;;;;;x
+duchy_of_hausa;Hukumar Yanki;;;;;;;;;;;;;x
+county_of_hausa;Karamar Hukumar;;;;;;;;;;;;;x
+barony_of_hausa;Sansani;;;;;;;;;;;;;x
+
+empire_hausa;Daular;;;;;;;;;;;;;x
+kingdom_hausa;Mulki;;;;;;;;;;;;;x
+duchy_hausa;Hukumar Yanki;;;;;;;;;;;;;x
+county_hausa;Karamar Hukuma;;;;;;;;;;;;;x
+barony_hausa;Sansani;;;;;;;;;;;;;x
+
+tribal_emperor_hausa;Sarki;;;;;;;;;;;;;x
+tribal_king_hausa;Sarki;;;;;;;;;;;;;x
+tribal_duke_hausa;Babban Shugaba;;;;;;;;;;;;;x
+tribal_count_hausa;Shugaba;;;;;;;;;;;;;x
+
+tribal_emperor_female_hausa;Sarki;;;;;;;;;;;;;x
+tribal_king_female_hausa;Sarki;;;;;;;;;;;;;x
+tribal_duke_female_hausa;Babban Sarauniya;;;;;;;;;;;;;x
+tribal_count_female_hausa;Sarauniya;;;;;;;;;;;;;x
+
+tribal_empire_of_hausa;Girman Sarauta;;;;;;;;;;;;;x
+tribal_kingdom_of_hausa;Sarkin Sarakuna;;;;;;;;;;;;;x
+tribal_duchy_of_hausa;Babban Sarki;;;;;;;;;;;;;x
+tribal_county_of_hausa;Shugabanci;;;;;;;;;;;;;x
+
+tribal_empire_hausa;Girman Sarauta;;;;;;;;;;;;;x
+tribal_kingdom_hausa;Sarkin Sarakuna;;;;;;;;;;;;;x
+tribal_duchy_hausa;Babban Sarki;;;;;;;;;;;;;x
+tribal_county_hausa;Shugabanci;;;;;;;;;;;;;x
+
+###########################################################
+#################### Kanuri ###############################
+###########################################################
+
+emperor_kanuri;Sarki;;;;;;;;;;;;;x
+king_kanuri;Sarki;;;;;;;;;;;;;x
+duke_kanuri;Babban Shugaba;;;;;;;;;;;;;x
+count_kanuri;Shugaba;;;;;;;;;;;;;x
+
+emperor_female_kanuri;Sarki;;;;;;;;;;;;;x
+king_female_kanuri;Sarki;;;;;;;;;;;;;x
+duke_female_kanuri;Babban Sarauniya;;;;;;;;;;;;;x
+count_female_kanuri;Sarauniya;;;;;;;;;;;;;x
+
+empire_of_kanuri;Daular;;;;;;;;;;;;;x
+kingdom_of_kanuri;Masarautar;;;;;;;;;;;;;x
+duchy_of_kanuri;Hukumar Yanki;;;;;;;;;;;;;x
+county_of_kanuri;Karamar Hukumar;;;;;;;;;;;;;x
+barony_of_kanuri;Sansani;;;;;;;;;;;;;x
+
+empire_kanuri;Daular;;;;;;;;;;;;;x
+kingdom_kanuri;Mulki;;;;;;;;;;;;;x
+duchy_kanuri;Hukumar Yanki;;;;;;;;;;;;;x
+county_kanuri;Karamar Hukuma;;;;;;;;;;;;;x
+barony_kanuri;Sansani;;;;;;;;;;;;;x
+
+tribal_emperor_kanuri;Sarki;;;;;;;;;;;;;x
+tribal_king_kanuri;Sarki;;;;;;;;;;;;;x
+tribal_duke_kanuri;Babban Shugaba;;;;;;;;;;;;;x
+tribal_count_kanuri;Shugaba;;;;;;;;;;;;;x
+
+tribal_emperor_female_kanuri;Sarki;;;;;;;;;;;;;x
+tribal_king_female_kanuri;Sarki;;;;;;;;;;;;;x
+tribal_duke_female_kanuri;Babban Sarauniya;;;;;;;;;;;;;x
+tribal_count_female_kanuri;Sarauniya;;;;;;;;;;;;;x
+
+tribal_empire_of_kanuri;Girman Sarauta;;;;;;;;;;;;;x
+tribal_kingdom_of_kanuri;Sarkin Sarakuna;;;;;;;;;;;;;x
+tribal_duchy_of_kanuri;Babban Sarki;;;;;;;;;;;;;x
+tribal_county_of_kanuri;Shugabanci;;;;;;;;;;;;;x
+
+tribal_empire_kanuri;Girman Sarauta;;;;;;;;;;;;;x
+tribal_kingdom_kanuri;Sarkin Sarakuna;;;;;;;;;;;;;x
+tribal_duchy_kanuri;Babban Sarki;;;;;;;;;;;;;x
+tribal_county_kanuri;Shugabanci;;;;;;;;;;;;;x
+
+###########################################################
+#################### Zaghawa ##############################
+###########################################################
+
+emperor_zaghawa;Sarki;;;;;;;;;;;;;x
+king_zaghawa;Sarki;;;;;;;;;;;;;x
+duke_zaghawa;Babban Shugaba;;;;;;;;;;;;;x
+count_zaghawa;Shugaba;;;;;;;;;;;;;x
+
+emperor_female_zaghawa;Sarki;;;;;;;;;;;;;x
+king_female_zaghawa;Sarki;;;;;;;;;;;;;x
+duke_female_zaghawa;Babban Sarauniya;;;;;;;;;;;;;x
+count_female_zaghawa;Sarauniya;;;;;;;;;;;;;x
+
+empire_of_zaghawa;Daular;;;;;;;;;;;;;x
+kingdom_of_zaghawa;Masarautar;;;;;;;;;;;;;x
+duchy_of_zaghawa;Hukumar Yanki;;;;;;;;;;;;;x
+county_of_zaghawa;Karamar Hukumar;;;;;;;;;;;;;x
+barony_of_zaghawa;Sansani;;;;;;;;;;;;;x
+
+empire_zaghawa;Daular;;;;;;;;;;;;;x
+kingdom_zaghawa;Mulki;;;;;;;;;;;;;x
+duchy_zaghawa;Hukumar Yanki;;;;;;;;;;;;;x
+county_zaghawa;Karamar Hukuma;;;;;;;;;;;;;x
+barony_zaghawa;Sansani;;;;;;;;;;;;;x
+
+tribal_emperor_zaghawa;Sarki;;;;;;;;;;;;;x
+tribal_king_zaghawa;Sarki;;;;;;;;;;;;;x
+tribal_duke_zaghawa;Babban Shugaba;;;;;;;;;;;;;x
+tribal_count_zaghawa;Shugaba;;;;;;;;;;;;;x
+
+tribal_emperor_female_zaghawa;Sarki;;;;;;;;;;;;;x
+tribal_king_female_zaghawa;Sarki;;;;;;;;;;;;;x
+tribal_duke_female_zaghawa;Babban Sarauniya;;;;;;;;;;;;;x
+tribal_count_female_zaghawa;Sarauniya;;;;;;;;;;;;;x
+
+tribal_empire_of_zaghawa;Girman Sarauta;;;;;;;;;;;;;x
+tribal_kingdom_of_zaghawa;Sarkin Sarakuna;;;;;;;;;;;;;x
+tribal_duchy_of_zaghawa;Babban Sarki;;;;;;;;;;;;;x
+tribal_county_of_zaghawa;Shugabanci;;;;;;;;;;;;;x
+
+tribal_empire_zaghawa;Girman Sarauta;;;;;;;;;;;;;x
+tribal_kingdom_zaghawa;Sarkin Sarakuna;;;;;;;;;;;;;x
+tribal_duchy_zaghawa;Babban Sarki;;;;;;;;;;;;;x
+tribal_county_zaghawa;Shugabanci;;;;;;;;;;;;;x
+

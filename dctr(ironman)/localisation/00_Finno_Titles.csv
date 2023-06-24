@@ -3,79 +3,79 @@
 ################## Finno-Ugric ############################
 ###########################################################
 
-finno-ugric;Fenno-Ugric;;;;;;;;;;;;;x
 
-empire_of_finno-ugric;Imperiumi;;;;;;;;;;;;;x
-kingdom_of_finno-ugric;Kuningaskunta;;;;;;;;;;;;;x
-duchy_of_finno-ugric;Herttuakunta;;;;;;;;;;;;;x
-county_of_finno-ugric;Kreivikunta;;;;;;;;;;;;;x
-barony_of_finno-ugric;Linna;;;;;;;;;;;;;x
+empire_of_finno_ugric;Imperiumi;;;;;;;;;;;;;x
+kingdom_of_finno_ugric;Kuningaskunta;;;;;;;;;;;;;x
+duchy_of_finno_ugric;Herttuakunta;;;;;;;;;;;;;x
+county_of_finno_ugric;Kreivikunta;;;;;;;;;;;;;x
+barony_of_finno_ugric;Linna;;;;;;;;;;;;;x
 
-empire_finno-ugric;Imperiumi;;;;;;;;;;;;;x
-kingdom_finno-ugric;Kuningaskunta;;;;;;;;;;;;;x
-duchy_finno-ugric;Herttuakunta;;;;;;;;;;;;;x
-county_finno-ugric;Kreivikunta;;;;;;;;;;;;;x
-barony_finno-ugric;Linna;;;;;;;;;;;;;x
+empire_finno_ugric;Imperiumi;;;;;;;;;;;;;x
+kingdom_finno_ugric;Kuningaskunta;;;;;;;;;;;;;x
+duchy_finno_ugric;Herttuakunta;;;;;;;;;;;;;x
+county_finno_ugric;Kreivikunta;;;;;;;;;;;;;x
+barony_finno_ugric;Linna;;;;;;;;;;;;;x
 
-tribal_empire_finno-ugric;Imperiumi Päällikkö;;;;;;;;;;;;;x
-tribal_kingdom_of_finno-ugric;Suuri Päällikkö;;;;;;;;;;;;;x
-tribal_duchy_of_finno-ugric;Korkea Päällikkö;;;;;;;;;;;;;x
-tribal_county_of_finno-ugric;Päällikkö;;;;;;;;;;;;;x
-tribal_barony_of_finno-ugric;Kylä;;;;;;;;;;;;;x
+tribal_empire_finno_ugric;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_of_finno_ugric;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_of_finno_ugric;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_of_finno_ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_of_finno_ugric;Kylä;;;;;;;;;;;;;x
 
-tribal_empire_finno-ugric;Imperiumi Päällikkö;;;;;;;;;;;;;x
-tribal_kingdom_finno-ugric;Suuri Päällikkö;;;;;;;;;;;;;x
-tribal_duchy_finno-ugric;Korkea Päällikkö;;;;;;;;;;;;;x
-tribal_county_finno-ugric;Päällikkö;;;;;;;;;;;;;x
-tribal_barony_finno-ugric;Kylä;;;;;;;;;;;;;x
+tribal_empire_finno_ugric;Imperiumi Päällikkö;;;;;;;;;;;;;x
+tribal_kingdom_finno_ugric;Suuri Päällikkö;;;;;;;;;;;;;x
+tribal_duchy_finno_ugric;Korkea Päällikkö;;;;;;;;;;;;;x
+tribal_county_finno_ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_barony_finno_ugric;Kylä;;;;;;;;;;;;;x
 
-emperor_finno-ugric;Keisari;;;;;;;;;;;;;x
-king_finno-ugric;Kuningas;;;;;;;;;;;;;x
-duke_finno-ugric;Herttua;;;;;;;;;;;;;x
-count_finno-ugric;Kreivi;;;;;;;;;;;;;x
-baron_finno-ugric;Paroni;;;;;;;;;;;;;x
+emperor_finno_ugric;Keisari;;;;;;;;;;;;;x
+king_finno_ugric;Kuningas;;;;;;;;;;;;;x
+duke_finno_ugric;Herttua;;;;;;;;;;;;;x
+count_finno_ugric;Kreivi;;;;;;;;;;;;;x
+baron_finno_ugric;Paroni;;;;;;;;;;;;;x
 
-emperor_female_finno-ugric;Keisarinna;;;;;;;;;;;;;x
-king_female_finno-ugric;Kuningatar;;;;;;;;;;;;;x
-duke_female_finno-ugric;Herttuatar;;;;;;;;;;;;;x
-count_female_finno-ugric;Kreivitär;;;;;;;;;;;;;x
-baron_female_finno-ugric;Paronitar;;;;;;;;;;;;;x
+emperor_female_finno_ugric;Keisarinna;;;;;;;;;;;;;x
+king_female_finno_ugric;Kuningatar;;;;;;;;;;;;;x
+duke_female_finno_ugric;Herttuatar;;;;;;;;;;;;;x
+count_female_finno_ugric;Kreivitär;;;;;;;;;;;;;x
+baron_female_finno_ugric;Paronitar;;;;;;;;;;;;;x
 
-title_prince_finno-ugric;Prinssi;;;;;;;;;;;;;x
-title_prince_female_finno-ugric;Prinsessa;;;;;;;;;;;;;x
+title_prince_finno_ugric;Prinssi;;;;;;;;;;;;;x
+title_prince_female_finno_ugric;Prinsessa;;;;;;;;;;;;;x
 
-job_chancellor_finno-ugric;Kansleri;;;;;;;;;;;;;x
-job_marshal_finno-ugric;Marsalkka;;;;;;;;;;;;;x
-job_treasurer_finno-ugric;Taloudenhoitaja;;;;;;;;;;;;;x
-job_spymaster_finno-ugric;Vakoojamestari;;;;;;;;;;;;;x
-job_spiritual_finno-ugric;Hovikappalainen;;;;;;;;;;;;;x
+job_chancellor_finno_ugric;Kansleri;;;;;;;;;;;;;x
+job_marshal_finno_ugric;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_finno_ugric;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_finno_ugric;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_finno_ugric;Hovikappalainen;;;;;;;;;;;;;x
 
-tribal_emperor_finno-ugric;Keisari;;;;;;;;;;;;;x
-tribal_king_finno-ugric;Kuningas;;;;;;;;;;;;;x
-tribal_duke_finno-ugric;Ylipäällikkö;;;;;;;;;;;;;x
-tribal_count_finno-ugric;Päällikkö;;;;;;;;;;;;;x
-tribal_baron_finno-ugric;Paroni;;;;;;;;;;;;;x
+tribal_emperor_finno_ugric;Keisari;;;;;;;;;;;;;x
+tribal_king_finno_ugric;Kuningas;;;;;;;;;;;;;x
+tribal_duke_finno_ugric;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_finno_ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_finno_ugric;Paroni;;;;;;;;;;;;;x
 
-tribal_emperor_female_finno-ugric;Keisarinna;;;;;;;;;;;;;x
-tribal_king_female_finno-ugric;Kuningatar;;;;;;;;;;;;;x
-tribal_duke_female_finno-ugric;Ylipäällikkö;;;;;;;;;;;;;x
-tribal_count_female_finno-ugric;Päällikkö;;;;;;;;;;;;;x
-tribal_baron_female_finno-ugric;Paronitar;;;;;;;;;;;;;x
+tribal_emperor_female_finno_ugric;Keisarinna;;;;;;;;;;;;;x
+tribal_king_female_finno_ugric;Kuningatar;;;;;;;;;;;;;x
+tribal_duke_female_finno_ugric;Ylipäällikkö;;;;;;;;;;;;;x
+tribal_count_female_finno_ugric;Päällikkö;;;;;;;;;;;;;x
+tribal_baron_female_finno_ugric;Paronitar;;;;;;;;;;;;;x
 
-tribal_title_prince_finno-ugric;Prinssi;;;;;;;;;;;;;x
-tribal_title_prince_female_finno-ugric;Prinsessa;;;;;;;;;;;;;x
+tribal_title_prince_finno_ugric;Prinssi;;;;;;;;;;;;;x
+tribal_title_prince_female_finno_ugric;Prinsessa;;;;;;;;;;;;;x
 
-job_chancellor_finno-ugric;Kansleri;;;;;;;;;;;;;x
-job_marshal_finno-ugric;Marsalkka;;;;;;;;;;;;;x
-job_treasurer_finno-ugric;Taloudenhoitaja;;;;;;;;;;;;;x
-job_spymaster_finno-ugric;Vakoojamestari;;;;;;;;;;;;;x
-job_spiritual_finno-ugric;Hovikappalainen;;;;;;;;;;;;;x
+job_chancellor_finno_ugric;Kansleri;;;;;;;;;;;;;x
+job_marshal_finno_ugric;Marsalkka;;;;;;;;;;;;;x
+job_treasurer_finno_ugric;Taloudenhoitaja;;;;;;;;;;;;;x
+job_spymaster_finno_ugric;Vakoojamestari;;;;;;;;;;;;;x
+job_spiritual_finno_ugric;Hovikappalainen;;;;;;;;;;;;;x
 
 ###########################################################
 ################## Finnish ################################
 ###########################################################
+
 k_finland;Finnland;;;;;;;;;;;;;x
-finnish;Suomalainen;;;;;;;;;;;;;x
+
 
 empire_finnish;Imperiumi;;;;;;;;;;;;;x
 empire_of_finnish;Imperiumi;;;;;;;;;;;;;x
@@ -167,7 +167,7 @@ job_spymaster_finnish;Vakoilija;;;;;;;;;;;;;x
 ###########################################################
 ################## Estonian ###############################
 ###########################################################
-ugricbaltic;Eestlane;;;;;;;;;;;;;x
+
 k_estonia;Eesti;;;;;;;;;;;;;x
 d_esthonia;Eesti;;;;;;;;;;;;;x
 
@@ -235,7 +235,6 @@ job_spymaster_ugricbaltic;Spioonide Meister;;;;;;;;;;;;;x
 ###########################################
 ################ Sami #####################
 ###########################################
-sami;Sámit;;;;;;;;;;;;;x
 
 king_sami;Gonagas;;;;;;;;;;;;;x
 duke_sami;Gonagas;;;;;;;;;;;;;x
@@ -273,8 +272,6 @@ sami_county_;Siida;;;;;;;;;;;;;x
 ###########################################################
 ################## Komi ###################################
 ###########################################################
-
-komi;Komijas;;;;;;;;;;;;;x
 
 empire_of_komi;Imperiumi;;;;;;;;;;;;;x
 kingdom_of_komi;Kuningaskunta;;;;;;;;;;;;;x
@@ -357,8 +354,6 @@ POPE_komi;Paavi;;;;;;;;;;;;;x
 ################## Khanty #################################
 ###########################################################
 
-khanty;Ostyaki;;;;;;;;;;;;;x
-
 empire_of_khanty;Imperiumi;;;;;;;;;;;;;x
 kingdom_of_khanty;Kuningaskunta;;;;;;;;;;;;;x
 duchy_of_khanty;Herttuakunta;;;;;;;;;;;;;x
@@ -437,8 +432,6 @@ job_spiritual_khanty;Hovikappalainen;;;;;;;;;;;;;x
 ###########################################################
 ################## Nenets #################################
 ###########################################################
-
-samoyed;Neney Neneche;;;;;;;;;;;;;x
 
 empire_of_samoyed;Imperiumi;;;;;;;;;;;;;x
 kingdom_of_samoyed;Kuningaskunta;;;;;;;;;;;;;x
@@ -521,8 +514,6 @@ job_spiritual_samoyed;Hovikappalainen;;;;;;;;;;;;;x
 ################## Mordvin ################################
 ###########################################################
 
-mordvin;Mordva;;;;;;;;;;;;;x
-
 empire_of_mordvin;Imperiumi;;;;;;;;;;;;;x
 kingdom_of_mordvin;Kuningaskunta;;;;;;;;;;;;;x
 duchy_of_mordvin;Herttuakunta;;;;;;;;;;;;;x
@@ -602,8 +593,6 @@ job_spiritual_mordvin;Hovikappalainen;;;;;;;;;;;;;x
 ###########################################################
 ################## Meshchera ##############################
 ###########################################################
-
-meshchera;Meshchyora;;;;;;;;;;;;;x
 
 empire_of_meshchera;Imperiumi;;;;;;;;;;;;;x
 kingdom_of_meshchera;Kuningaskunta;;;;;;;;;;;;;x
