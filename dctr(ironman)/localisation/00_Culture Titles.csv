@@ -80,6 +80,9 @@ bohemian;Cešský;;;;;;;;;;;;;x
 polish;Polski;;;;;;;;;;;;;x
 polish_adj;Polski;;;;;;;;;;;;;x
 
+slovieni;Slovénsko;;;;;;;;;;;;;x
+slovieni_adj;Slovénsko;;;;;;;;;;;;;x
+
 
 ###########################################################
 #################### East Europe ##########################
@@ -114,9 +117,6 @@ portuguese_adj;Português;;;;;;;;;;;;;x
 
 greek;Éllinas;;;;;;;;;;;;;x
 greek_adj;Éllinas;;;;;;;;;;;;;x
-
-slovieni;Slovénsko;;;;;;;;;;;;;x
-slovieni;Slovénsko;;;;;;;;;;;;;x
 
 serbian;Srbin;;;;;;;;;;;;;x
 serbian_adj;Srbin;;;;;;;;;;;;;x
@@ -156,6 +156,8 @@ songhay;Songhai;;;;;;;;;;;;;x
 ###########################################################
 ################ Central Africa ###########################
 ###########################################################
+
+central_african;Afirka ta Tsakiya;;;;;;;;;;;;;x
 
 zaghawa;Beri;;;;;;;;;;;;;x
 zaghawa_adj;Beri;;;;;;;;;;;;;x
