@@ -1,0 +1,960 @@
+###########################################################
+##################### Latin	###############################
+###########################################################
+################### Latin is Roman ########################
+
+empire_of_latin;Imperium;;;;;;;;;;;;;x
+kingdom_of_latin;Regnum;;;;;;;;;;;;;x
+duchy_of_latin;Ducatus;;;;;;;;;;;;;x
+county_of_latin;Comitatus;;;;;;;;;;;;;x
+city_latin;Urbs;;;;;;;;;;;;;x
+city_of_latin;Urbs;;;;;;;;;;;;;x
+
+emperor_latin;Imperator;;;;;;;;;;;;;x
+emperor_female_latin;Imperatrix;;;;;;;;;;;;;x
+king_latin;Rex;;;;;;;;;;;;;x
+king_female_latin;Regina;;;;;;;;;;;;;x
+title_prince_latin;Princeps;;;;;;;;;;;;;x
+title_prince_female_latin;Principissa;;;;;;;;;;;;;x
+title_queen_mother_latin;Regina Mater;;;;;;;;;;;;;x
+duke_latin;Dux;;;;;;;;;;;;;x
+duke_female_latin;Ducissa;;;;;;;;;;;;;x
+count_latin;Comes;;;;;;;;;;;;;x
+count_female_latin;Comitissa;;;;;;;;;;;;;x
+baron_latin;Baro;;;;;;;;;;;;;x
+baron_female_latin;Baronissa;;;;;;;;;;;;;x
+
+tribal_count_latin;Caput;;;;;;;;;;;;;x
+
+city_emperor_latin;Magnus Princeps;;;;;;;;;;;;;x
+city_empire_of_latin;Principalitas;;;;;;;;;;;;;x
+city_duke_latin;Dux;;;;;;;;;;;;;x
+city_king_latin;Serenissimus Dux;;;;;;;;;;;;;x
+city_count_latin;Praefectus;;;;;;;;;;;;;x
+city_duchy_of_latin;Res publica;;;;;;;;;;;;;x
+
+vice_royalty_duke_latin;Corrector;;;;;;;;;;;;;x
+vice_royalty_duke_female_latin;Correctrix;;;;;;;;;;;;;x
+vice_royalty_king_latin;Vicarius;;;;;;;;;;;;;x
+vice_royalty_king_female_latin;Vicaria;;;;;;;;;;;;;x
+vice_royalty_emperor_latin;Praefectus Praetorio;;;;;;;;;;;;;x
+vice_royalty_duchy_of_latin;Provincia;;;;;;;;;;;;;x
+vice_royalty_kingdom_of_latin;Dioecesis;;;;;;;;;;;;;x
+vice_royalty_empire_of_latin;Praefectura Praetorio;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_latin;Patriarchae Oecumenico;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_latin;Patriarcha Orientalis;;;;;;;;;;;;;x
+COPTIC_POPE_latin;Papa Alexandriae;;;;;;;;;;;;;x
+POPE_latin;Papa;;;;;;;;;;;;;x
+
+city_king_latin;Serenissimo Doge;;;;;;;;;;;;;x
+city_kingdom_of_latin;Serenissima Respublica;;;;;;;;;;;;;x
+
+job_spymaster_latin;Speculator;;;;;;;;;;;;;x
+job_marshal_latin;Magister Militum;;;;;;;;;;;;;x
+job_treasurer_latin;Quaestor;;;;;;;;;;;;;x
+job_chancellor_latin;Magister Officiorum;;;;;;;;;;;;;x
+job_spiritual_latin;Aedituus;;;;;;;;;;;;;x
+
+title_master_of_the_horse_latin;Magister Equitum;;;;;;;;;;;;;x
+
+POPE_norman;Pape;;;;;;;;;;;;;x
+HOUSE_latin;Gens;;;;;;;;;;;;;x
+family_palace_baron_latin;Patricius;;;;;;;;;;;;;x
+
+#########################################
+############# Dalmatian #################
+#########################################
+
+city_baron_dalmatian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+city_baron_female_dalmatian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+city_barony_dalmatian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+city_barony_of_dalmatian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+city_count_dalmatian;Podestà;Podestà;Podestà;;Podestà;;;;;;;;;x
+city_count_female_dalmatian;Podestà;Podestà;Podestà;;Podestà;;;;;;;;;x
+city_county_dalmatian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+city_county_of_dalmatian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+city_duchy_dalmatian;Repubblica;Repubblica;Repubblica;;Repubblica;;;;;;;;;x
+city_duchy_of_dalmatian;Repubblica di;Repubblica di;Repubblica di;;Repubblica di;;;;;;;;;x
+city_duke_dalmatian;Rettaur;Rettaur;Rettaur;;Rettaur;;;;;;;;;x
+city_duke_female_dalmatian;Rettaur;Rettaur;Rettaur;;Rettaur;;;;;;;;;x
+city_emperor_dalmatian;Rettaur;Rettaur;Rettaur;;Rettaur;;;;;;;;;x
+city_emperor_female_dalmatian;Rettaur;Rettaur;Rettaur;;Rettaur;;;;;;;;;x
+city_empire_dalmatian;Serenissima Repubblica;Serenissima Repubblica;Serenissima Repubblica;;Serenissima Repubblica;;;;;;;;;x
+city_empire_of_dalmatian;Serenissima Repubblica di;Serenissima Repubblica di;Serenissima Repubblica di;;Serenissima Repubblica di;;;;;;;;;x
+city_king_dalmatian;Rettaur;Rettaur;Rettaur;;Rettaur;;;;;;;;;x
+city_king_female_dalmatian;Rettaur;Rettaur;Rettaur;;Rettaur;;;;;;;;;x
+city_kingdom_dalmatian;Serenissima Repubblica;Serenissima Repubblica;Serenissima Repubblica;;Serenissima Repubblica;;;;;;;;;x
+city_kingdom_of_dalmatian;Serenissima Repubblica di;Serenissima Repubblica di;Serenissima Repubblica di;;Serenissima Repubblica di;;;;;;;;;x
+
+COPTIC_POPE_dalmatian;Papa Copta;Papa Copta;Papa Copta;;Papa Copta;;;;;;;;;x
+
+emperor_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+emperor_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+emperor_title_ruler_consort_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+emperor_title_ruler_consort_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+empire_dalmatian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+empire_of_dalmatian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+
+king_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+king_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+king_title_ruler_consort_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+king_title_ruler_consort_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+kingdom_dalmatian;Raigno;Raigno;Raigno;;Raigno;;;;;;;;;x
+kingdom_of_dalmatian;Raigno di;Raigno di;Raigno di;;Raigno di;;;;;;;;;x
+
+duchy_dalmatian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+duchy_of_dalmatian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+duke_dalmatian;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+duke_female_dalmatian;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x # $Not sure
+duke_title_ruler_consort_dalmatian;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+duke_title_ruler_consort_female_dalmatian;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x # $Not sure
+
+count_dalmatian;Cúmt;Cúmt;Cúmt;;Cúmt;;;;;;;;;x
+count_female_dalmatian;Cúmtissa;Cúmtissa;Cúmtissa;;Cúmtissa;;;;;;;;;x # $Not sure
+count_title_ruler_consort_dalmatian;Cúmt;Cúmt;Cúmt;;Cúmt;;;;;;;;;x
+count_title_ruler_consort_female_dalmatian;Cúmtissa;Cúmtissa;Cúmtissa;;Cúmtissa;;;;;;;;;x # $Not sure
+county_dalmatian;Contea;Contea;Contea;;Contea;;;;;;;;;x
+county_of_dalmatian;Contea di;Contea di;Contea di;;Contea di;;;;;;;;;x
+
+baron_dalmatian;Baron;Baron;Baron;;Baron;;;;;;;;;x
+baron_female_dalmatian;Baronica;Baronica;Baronica;;Baronica;;;;;;;;;x
+baron_title_ruler_consort_dalmatian;Baron;Baron;Baron;;Baron;;;;;;;;;x
+baron_title_ruler_consort_female_dalmatian;Baronica;Baronica;Baronica;;Baronica;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_dalmatian;Patriarca Ecumenico;Patriarca Ecumenico;Patriarca Ecumenico;;Patriarca Ecumenico;;;;;;;;;x
+
+family_palace_baron_dalmatian;Patrizio;Patrizio;Patrizio;;Patrizio;;;;;;;;;x
+
+imperial_baron_dalmatian;Baron;Baron;Baron;;Baron;;;;;;;;;x
+imperial_baron_female_dalmatian;Baronica;Baronica;Baronica;;Baronica;;;;;;;;;x
+imperial_city_baron_dalmatian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+imperial_city_baron_female_dalmatian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+imperial_city_barony_dalmatian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+imperial_city_barony_of_dalmatian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+imperial_count_dalmatian;Cúmt;Cúmt;Cúmt;;Cúmt;;;;;;;;;x
+imperial_count_female_dalmatian;Cúmtissa;Cúmtissa;Cúmtissa;;Cúmtissa;;;;;;;;;x # $Not sure
+imperial_county_dalmatian;Contea;Contea;Contea;;Contea;;;;;;;;;x
+imperial_county_of_dalmatian;Contea di;Contea di;Contea di;;Contea di;;;;;;;;;x
+imperial_duchy_dalmatian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+imperial_duchy_of_dalmatian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_duke_dalmatian;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+imperial_duke_female_dalmatian;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x # $Not sure
+imperial_emperor_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+imperial_emperor_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+imperial_empire_dalmatian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+imperial_empire_of_dalmatian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+imperial_job_chancellor_dalmatian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+imperial_job_marshal_dalmatian;Maresciallo;Maresciallo;Maresciallo;;Maresciallo;;;;;;;;;x
+imperial_job_spiritual_christian_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+imperial_job_spiritual_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+imperial_job_treasurer_dalmatian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+imperial_king_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+imperial_king_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+imperial_king_title_ruler_consort_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+imperial_king_title_ruler_consort_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+imperial_kingdom_dalmatian;Raigno;Raigno;Raigno;;Raigno;;;;;;;;;x
+imperial_kingdom_of_dalmatian;Raigno di;Raigno di;Raigno di;;Raigno di;;;;;;;;;x
+imperial_title_prince_dalmatian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+imperial_title_prince_female_dalmatian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+imperial_tribal_duchy_dalmatian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_tribal_duchy_of_dalmatian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_vice_royalty_duchy_dalmatian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+imperial_vice_royalty_duchy_of_dalmatian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_vice_royalty_duke_dalmatian;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+imperial_vice_royalty_duke_female_dalmatian;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x # $Not sure
+imperial_vice_royalty_king_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+imperial_vice_royalty_king_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+imperial_vice_royalty_kingdom_dalmatian;Raigno;Raigno;Raigno;;Raigno;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_dalmatian;Raigno di;Raigno di;Raigno di;;Raigno di;;;;;;;;;x
+
+job_chancellor_dalmatian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+job_chancellor_female_dalmatian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+job_marshal_dalmatian;Maresciallo;Maresciallo;Maresciallo;;Maresciallo;;;;;;;;;x
+job_spiritual_christian_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_spiritual_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_spiritual_orthodox_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_treasurer_dalmatian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+job_treasurer_female_dalmatian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+
+nomadic_emperor_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+nomadic_emperor_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+nomadic_empire_dalmatian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+nomadic_empire_of_dalmatian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+nomadic_king_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+nomadic_king_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+nomadic_king_title_ruler_consort_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+
+PATRIARCH_CAP_dalmatian;Patriarca;Patriarca;Patriarca;;Patriarca;;;;;;;;;x
+POPE_dalmatian;Papa;Papa;Papa;;Papa;;;;;;;;;x
+
+temple_baron_christian_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_christian_female_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_slavic_pagan_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_slavic_pagan_reformed_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_orthodox_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_orthodox_female_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_pagan_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_pagan_female_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_slavic_pagan_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_slavic_pagan_reformed_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_barony_christian_dalmatian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_dalmatian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_of_christian_dalmatian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_dalmatian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_pagan_group_dalmatian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_slavic_pagan_dalmatian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_slavic_pagan_reformed_dalmatian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_pagan_group_dalmatian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_slavic_pagan_dalmatian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_slavic_pagan_reformed_dalmatian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_count_christian_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_christian_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_pagan_group_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_slavic_pagan_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_pagan_group_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_slavic_pagan_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_slavic_pagan_reformed_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_county_dalmatian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_county_of_dalmatian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+
+temple_king_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+temple_king_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+
+title_prince_baron_dalmatian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+title_prince_baron_female_dalmatian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+title_prince_dalmatian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+title_prince_female_dalmatian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+
+tribal_baron_dalmatian;Baron;Baron;Baron;;Baron;;;;;;;;;x
+tribal_baron_female_dalmatian;Baronica;Baronica;Baronica;;Baronica;;;;;;;;;x
+tribal_city_barony_dalmatian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+tribal_city_barony_of_dalmatian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+tribal_city_county_dalmatian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+tribal_city_county_of_dalmatian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+tribal_count_dalmatian;Capo;Capo;Capo;;Capo;;;;;;;;;x
+tribal_count_female_dalmatian;Capo;Capo;Capo;;Capo;;;;;;;;;x
+tribal_duchy_dalmatian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+tribal_duchy_of_dalmatian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+tribal_duke_title_ruler_consort_dalmatian;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_dalmatian;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x # $Not sure
+tribal_emperor_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+tribal_emperor_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+tribal_emperor_title_ruler_consort_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+tribal_empire_dalmatian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+tribal_empire_of_dalmatian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+tribal_job_chancellor_dalmatian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+tribal_job_marshal_dalmatian;Maresciallo;Maresciallo;Maresciallo;;Maresciallo;;;;;;;;;x
+tribal_job_spiritual_christian_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_spiritual_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_spiritual_orthodox_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_treasurer_dalmatian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+tribal_king_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+tribal_king_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+tribal_king_title_ruler_consort_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+tribal_king_title_ruler_consort_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+tribal_kingdom_dalmatian;Raigno;Raigno;Raigno;;Raigno;;;;;;;;;x
+tribal_kingdom_of_dalmatian;Raigno di;Raigno di;Raigno di;;Raigno di;;;;;;;;;x
+tribal_temple_baron_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_temple_baron_female_dalmatian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+
+vice_royalty_baron_dalmatian;Baron;Baron;Baron;;Baron;;;;;;;;;x
+vice_royalty_baron_female_dalmatian;Baronica;Baronica;Baronica;;Baronica;;;;;;;;;x
+vice_royalty_count_dalmatian;Cúmt;Cúmt;Cúmt;;Cúmt;;;;;;;;;x
+vice_royalty_count_female_dalmatian;Cúmtissa;Cúmtissa;Cúmtissa;;Cúmtissa;;;;;;;;;x # $Not sure
+vice_royalty_county_dalmatian;Contea;Contea;Contea;;Contea;;;;;;;;;x
+vice_royalty_duchy_dalmatian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+vice_royalty_duchy_of_dalmatian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+vice_royalty_duke_dalmatian;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+vice_royalty_duke_female_dalmatian;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x # $Not sure
+vice_royalty_emperor_dalmatian;Imperatáur;Imperatáur;Imperatáur;;Imperatáur;;;;;;;;;x
+vice_royalty_emperor_female_dalmatian;Imperatric;Imperatric;Imperatric;;Imperatric;;;;;;;;;x
+vice_royalty_empire_dalmatian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+vice_royalty_empire_of_dalmatian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+vice_royalty_king_dalmatian;Ra;Ra;Ra;;Ra;;;;;;;;;x
+vice_royalty_king_female_dalmatian;Regaina;Regaina;Regaina;;Regaina;;;;;;;;;x
+vice_royalty_kingdom_dalmatian;Raigno;Raigno;Raigno;;Raigno;;;;;;;;;x
+vice_royalty_kingdom_of_dalmatian;Raigno di;Raigno di;Raigno di;;Raigno di;;;;;;;;;x
+
+#########################################
+############# Italian ###################
+#########################################
+
+empire_of_italian;Impero di;;;;;;;;;;;;;x
+kingdom_of_italian;Regno di;;;;;;;;;;;;;x
+duchy_of_italian;Ducato di;;;;;;;;;;;;;x
+county_of_italian;Contea di;;;;;;;;;;;;;x
+
+city_baron_female_italian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+city_baron_italian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+city_barony_italian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+city_barony_of_italian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+city_count_female_italian;Podestà;Podestà;Podestà;;Podestà;;;;;;;;;x
+city_count_italian;Podestà;Podestà;Podestà;;Podestà;;;;;;;;;x
+city_county_italian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+city_county_of_italian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+city_duchy_italian;Repubblica;Repubblica;Repubblica;;Repubblica;;;;;;;;;x
+city_duchy_of_italian;Repubblica di;Repubblica di;Repubblica di;;Repubblica di;;;;;;;;;x
+city_empire_italian;Serenissima Repubblica;Serenissima Repubblica;Serenissima Repubblica;;Serenissima Repubblica;;;;;;;;;x
+city_empire_of_italian;Serenissima Repubblica di;Serenissima Repubblica di;Serenissima Repubblica di;;Serenissima Repubblica di;;;;;;;;;x
+city_kingdom_italian;Serenissima Repubblica;Serenissima Repubblica;Serenissima Repubblica;;Serenissima Repubblica;;;;;;;;;x
+city_kingdom_of_italian;Serenissima Repubblica di;Serenissima Repubblica di;Serenissima Repubblica di;;Serenissima Repubblica di;;;;;;;;;x
+
+COPTIC_POPE_italian;Papa Copta;Papa Copta;Papa Copta;;Papa Copta;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_italian;Patriarca Ecumenico;Patriarca Ecumenico;Patriarca Ecumenico;;Patriarca Ecumenico;;;;;;;;;x
+
+emperor_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+emperor_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+emperor_title_ruler_consort_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+emperor_title_ruler_consort_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+empire_italian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+empire_of_italian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+
+king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+king_italian;Re;Re;Re;;Re;;;;;;;;;x
+king_title_ruler_consort_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+king_title_ruler_consort_italian;Re;Re;Re;;Re;;;;;;;;;x
+kingdom_italian;Regno;Regno;Regno;;Regno;;;;;;;;;x
+kingdom_of_italian;Regno di;Regno di;Regno di;;Regno di;;;;;;;;;x
+
+duchy_italian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+duchy_of_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+duke_female_italian;Duchessa;Duchessa;Duchessa;;Duchessa;;;;;;;;;x
+duke_italian;Duca;Duca;Duca;;Duca;;;;;;;;;x
+duke_title_ruler_consort_female_italian;Duchessa;Duchessa;Duchessa;;Duchessa;;;;;;;;;x
+duke_title_ruler_consort_italian;Duca;Duca;Duca;;Duca;;;;;;;;;x
+
+count_female_italian;Contessa;Contessa;Contessa;;Contessa;;;;;;;;;x
+count_italian;Conte;Conte;Conte;;Conte;;;;;;;;;x
+count_title_ruler_consort_female_italian;Contessa;Contessa;Contessa;;Contessa;;;;;;;;;x
+count_title_ruler_consort_italian;Conte;Conte;Conte;;Conte;;;;;;;;;x
+county_italian;Contea;Contea;Contea;;Contea;;;;;;;;;x
+county_of_italian;Contea di;Contea di;Contea di;;Contea di;;;;;;;;;x
+
+baron_female_italian;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+baron_italian;Barone;Barone;Barone;;Barone;;;;;;;;;x
+baron_title_ruler_consort_female_italian;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+baron_title_ruler_consort_italian;Barone;Barone;Barone;;Barone;;;;;;;;;x
+
+family_palace_baron_italian;Patrizio;Patrizio;Patrizio;;Patrizio;;;;;;;;;x
+
+imperial_baron_female_italian;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+imperial_baron_italian;Barone;Barone;Barone;;Barone;;;;;;;;;x
+imperial_city_baron_female_italian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+imperial_city_baron_italian;Sindaco;Sindaco;Sindaco;;Sindaco;;;;;;;;;x
+imperial_city_barony_italian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+imperial_city_barony_of_italian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+imperial_count_female_italian;Contessa;Contessa;Contessa;;Contessa;;;;;;;;;x
+imperial_count_italian;Conte;Conte;Conte;;Conte;;;;;;;;;x
+imperial_county_italian;Contea;Contea;Contea;;Contea;;;;;;;;;x
+imperial_county_of_italian;Contea di;Contea di;Contea di;;Contea di;;;;;;;;;x
+imperial_duchy_italian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+imperial_duchy_of_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_duke_female_italian;Duchessa;Duchessa;Duchessa;;Duchessa;;;;;;;;;x
+imperial_duke_italian;Duca;Duca;Duca;;Duca;;;;;;;;;x
+imperial_emperor_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+imperial_emperor_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+imperial_empire_italian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+imperial_empire_of_italian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+imperial_job_chancellor_italian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+imperial_job_marshal_italian;Maresciallo;Maresciallo;Maresciallo;;Maresciallo;;;;;;;;;x
+imperial_job_spiritual_christian_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+imperial_job_spiritual_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+imperial_job_treasurer_italian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+imperial_king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+imperial_king_italian;Re;Re;Re;;Re;;;;;;;;;x
+imperial_king_title_ruler_consort_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+imperial_king_title_ruler_consort_italian;Re;Re;Re;;Re;;;;;;;;;x
+imperial_kingdom_italian;Regno;Regno;Regno;;Regno;;;;;;;;;x
+imperial_kingdom_of_italian;Regno di;Regno di;Regno di;;Regno di;;;;;;;;;x
+imperial_title_prince_female_italian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+imperial_title_prince_italian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+imperial_tribal_duchy_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_tribal_duchy_of_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_vice_royalty_duchy_italian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+imperial_vice_royalty_duchy_of_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+imperial_vice_royalty_duke_female_italian;Duchessa;Duchessa;Duchessa;;Duchessa;;;;;;;;;x
+imperial_vice_royalty_duke_italian;Duca;Duca;Duca;;Duca;;;;;;;;;x
+imperial_vice_royalty_king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+imperial_vice_royalty_king_italian;Re;Re;Re;;Re;;;;;;;;;x
+imperial_vice_royalty_kingdom_italian;Regno;Regno;Regno;;Regno;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_italian;Regno di;Regno di;Regno di;;Regno di;;;;;;;;;x
+
+job_chancellor_female_italian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+job_chancellor_italian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+job_marshal_italian;Maresciallo;Maresciallo;Maresciallo;;Maresciallo;;;;;;;;;x
+job_spiritual_christian_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_spiritual_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_spiritual_orthodox_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_treasurer_female_italian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+job_treasurer_italian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+
+nomadic_emperor_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+nomadic_emperor_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+nomadic_empire_italian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+nomadic_empire_of_italian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+nomadic_king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+nomadic_king_italian;Re;Re;Re;;Re;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+nomadic_king_title_ruler_consort_italian;Re;Re;Re;;Re;;;;;;;;;x
+
+PATRIARCH_CAP_italian;Patriarca;Patriarca;Patriarca;;Patriarca;;;;;;;;;x
+POPE_italian;Papa;Papa;Papa;;Papa;;;;;;;;;x
+
+temple_baron_christian_female_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_christian_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_slavic_pagan_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_slavic_pagan_reformed_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_orthodox_female_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_orthodox_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_pagan_female_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_pagan_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_slavic_pagan_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_slavic_pagan_reformed_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_barony_christian_italian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_italian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_of_christian_italian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_italian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_pagan_group_italian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_slavic_pagan_italian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_slavic_pagan_reformed_italian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_pagan_group_italian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_slavic_pagan_italian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_slavic_pagan_reformed_italian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_count_christian_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_christian_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_pagan_group_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_slavic_pagan_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_pagan_group_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_slavic_pagan_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_slavic_pagan_reformed_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_county_italian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_county_of_italian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+temple_king_italian;Re;Re;Re;;Re;;;;;;;;;x
+
+title_prince_baron_female_italian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+title_prince_baron_italian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+title_prince_female_italian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+title_prince_italian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+
+tribal_baron_female_italian;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+tribal_baron_italian;Barone;Barone;Barone;;Barone;;;;;;;;;x
+tribal_city_barony_italian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+tribal_city_barony_of_italian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+tribal_city_county_italian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+tribal_city_county_of_italian;Comune di;Comune di;Comune di;;Comune di;;;;;;;;;x
+tribal_count_female_italian;Capo;Capo;Capo;;Capo;;;;;;;;;x
+tribal_count_italian;Capo;Capo;Capo;;Capo;;;;;;;;;x
+tribal_duchy_italian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+tribal_duchy_of_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_italian;Duchessa;Duchessa;Duchessa;;Duchessa;;;;;;;;;x
+tribal_duke_title_ruler_consort_italian;Duca;Duca;Duca;;Duca;;;;;;;;;x
+tribal_emperor_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+tribal_emperor_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+tribal_emperor_title_ruler_consort_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+tribal_empire_italian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+tribal_empire_of_italian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+tribal_job_chancellor_italian;Cancelliere;Cancelliere;Cancelliere;;Cancelliere;;;;;;;;;x
+tribal_job_marshal_italian;Maresciallo;Maresciallo;Maresciallo;;Maresciallo;;;;;;;;;x
+tribal_job_spiritual_christian_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_spiritual_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_spiritual_orthodox_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_treasurer_italian;Tesoriere;Tesoriere;Tesoriere;;Tesoriere;;;;;;;;;x
+tribal_king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+tribal_king_italian;Re;Re;Re;;Re;;;;;;;;;x
+tribal_king_title_ruler_consort_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+tribal_king_title_ruler_consort_italian;Re;Re;Re;;Re;;;;;;;;;x
+tribal_kingdom_italian;Regno;Regno;Regno;;Regno;;;;;;;;;x
+tribal_kingdom_of_italian;Regno di;Regno di;Regno di;;Regno di;;;;;;;;;x
+tribal_temple_baron_female_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_temple_baron_italian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+
+vice_royalty_baron_female_italian;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+vice_royalty_baron_italian;Barone;Barone;Barone;;Barone;;;;;;;;;x
+vice_royalty_count_female_italian;Contessa;Contessa;Contessa;;Contessa;;;;;;;;;x
+vice_royalty_count_italian;Conte;Conte;Conte;;Conte;;;;;;;;;x
+vice_royalty_county_italian;Contea;Contea;Contea;;Contea;;;;;;;;;x
+vice_royalty_duchy_italian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+vice_royalty_duchy_of_italian;Ducato di;Ducato di;Ducato di;;Ducato di;;;;;;;;;x
+vice_royalty_duke_female_italian;Duchessa;Duchessa;Duchessa;;Duchessa;;;;;;;;;x
+vice_royalty_duke_italian;Duca;Duca;Duca;;Duca;;;;;;;;;x
+vice_royalty_emperor_female_italian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+vice_royalty_emperor_italian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+vice_royalty_empire_italian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+vice_royalty_empire_of_italian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+vice_royalty_king_female_italian;Regina;Regina;Regina;;Regina;;;;;;;;;x
+vice_royalty_king_italian;Re;Re;Re;;Re;;;;;;;;;x
+vice_royalty_kingdom_italian;Regno;Regno;Regno;;Regno;;;;;;;;;x
+vice_royalty_kingdom_of_italian;Regno di;Regno di;Regno di;;Regno di;;;;;;;;;x
+
+#########################################
+############# Roman #####################
+#########################################
+
+city_barony_of_roman;Urbs;Urbs;Urbs;;Urbs;;;;;;;;;x
+city_barony_roman;Urbs;Urbs;Urbs;;Urbs;;;;;;;;;x
+city_county_of_roman;Civitas;Civitas;Civitas;;Civitas;;;;;;;;;x
+city_county_roman;Civitas;Civitas;Civitas;;Civitas;;;;;;;;;x
+city_duchy_of_roman;Res Publica;Res Publica;Res Publica;;Res Publica;;;;;;;;;x
+city_duchy_roman;Res Publica;Res Publica;Res Publica;;Res Publica;;;;;;;;;x
+city_emperor_female_roman;Magnus Princeps;Magnus Princeps;Magnus Princeps;;Magnus Princeps;;;;;;;;;x
+city_emperor_roman;Magnus Princeps;Magnus Princeps;Magnus Princeps;;Magnus Princeps;;;;;;;;;x
+city_empire_of_roman;Principalitas;Principalitas;Principalitas;;Principalitas;;;;;;;;;x
+city_empire_roman;Principalitas;Principalitas;Principalitas;;Principalitas;;;;;;;;;x
+city_king_female_roman;Serenissimus Dux;Serenissimus Dux;Serenissimus Dux;;Serenissimus Dux;;;;;;;;;x
+city_king_roman;Serenissimus Dux;Serenissimus Dux;Serenissimus Dux;;Serenissimus Dux;;;;;;;;;x
+city_kingdom_of_roman;Serenissima Res Publica;Serenissima Res Publica;Serenissima Res Publica;;Serenissima Res Publica;;;;;;;;;x
+city_kingdom_roman;Serenissima Res Publica;Serenissima Res Publica;Serenissima Res Publica;;Serenissima Res Publica;;;;;;;;;x
+
+COPTIC_POPE_roman;Papa Alexandriae;Papa Alexandriae;Papa Alexandriae;;Papa Alexandriae;;;;;;;;;x
+
+emperor_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+emperor_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+emperor_title_ruler_consort_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+emperor_title_ruler_consort_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+empire_of_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+empire_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+
+king_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+king_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+king_title_ruler_consort_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+king_title_ruler_consort_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+kingdom_of_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+kingdom_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+
+duchy_of_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+duchy_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+duke_female_roman;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x
+duke_roman;Dux;Dux;Dux;;Dux;;;;;;;;;x
+duke_title_ruler_consort_female_roman;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x
+duke_title_ruler_consort_roman;Dux;Dux;Dux;;Dux;;;;;;;;;x
+
+count_female_roman;Comitissa;Comitissa;Comitissa;;Comitissa;;;;;;;;;x
+count_roman;Comes;Comes;Comes;;Comes;;;;;;;;;x
+count_title_ruler_consort_female_roman;Comitissa;Comitissa;Comitissa;;Comitissa;;;;;;;;;x
+count_title_ruler_consort_roman;Comes;Comes;Comes;;Comes;;;;;;;;;x
+county_of_roman;Comitatus;Comitatus;Comitatus;;Comitatus;;;;;;;;;x
+county_roman;Comitatus;Comitatus;Comitatus;;Comitatus;;;;;;;;;x
+
+baron_female_roman;Baronissa;Baronissa;Baronissa;;Baronissa;;;;;;;;;x
+baron_roman;Baro;Baro;Baro;;Baro;;;;;;;;;x
+baron_title_ruler_consort_female_roman;Baronissa;Baronissa;Baronissa;;Baronissa;;;;;;;;;x
+baron_title_ruler_consort_roman;Baro;Baro;Baro;;Baro;;;;;;;;;x
+barony_of_roman;Baronia de;Baronia de;Baronia de;;Baronia de;;;;;;;;;x
+barony_roman;Castrum;Castrum;Castrum;;Castrum;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_roman;Patriarchae Oecumenico;Patriarchae Oecumenico;Patriarchae Oecumenico;;Patriarchae Oecumenico;;;;;;;;;x
+
+family_palace_baron_female_roman;Mater Familias;Mater Familias;Mater Familias;;Mater Familias;;;;;;;;;x
+family_palace_baron_roman;Pater Familias;Pater Familias;Pater Familias;;Pater Familias;;;;;;;;;x
+
+HOUSE_roman;Gens;Gens;Gens;;Gens;;;;;;;;;x
+
+imperial_baron_female_roman;Baronissa;Baronissa;Baronissa;;Baronissa;;;;;;;;;x
+imperial_baron_roman;Baro;Baro;Baro;;Baro;;;;;;;;;x
+imperial_barony_of_roman;Baronia de;Baronia de;Baronia de;;Baronia de;;;;;;;;;x
+imperial_barony_roman;Castrum;Castrum;Castrum;;Castrum;;;;;;;;;x
+imperial_city_barony_of_roman;Urbs;Urbs;Urbs;;Urbs;;;;;;;;;x
+imperial_city_barony_roman;Urbs;Urbs;Urbs;;Urbs;;;;;;;;;x
+imperial_city_county_of_roman;Civitas;Civitas;Civitas;;Civitas;;;;;;;;;x
+imperial_city_county_roman;Civitas;Civitas;Civitas;;Civitas;;;;;;;;;x
+imperial_count_female_roman;Praefectus;Praefectus;Praefectus;;Praefectus;;;;;;;;;x
+imperial_count_roman;Praefectus;Praefectus;Praefectus;;Praefectus;;;;;;;;;x
+imperial_county_of_roman;Praefecturare;Praefecturare;Praefecturare;;Praefecturare;;;;;;;;;x
+imperial_county_roman;Praefecturare;Praefecturare;Praefecturare;;Praefecturare;;;;;;;;;x
+imperial_duchy_of_roman;Provinciae;Provinciae;Provinciae;;Provinciae;;;;;;;;;x
+imperial_duchy_roman;Provinciae;Provinciae;Provinciae;;Provinciae;;;;;;;;;x
+imperial_duke_female_roman;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x
+imperial_duke_roman;Dux;Dux;Dux;;Dux;;;;;;;;;x
+imperial_emperor_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+imperial_emperor_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+imperial_empire_of_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+imperial_empire_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+imperial_job_chancellor_roman;Praetor;Praetor;Praetor;;Praetor;;;;;;;;;x
+imperial_job_marshal_roman;Tribunus Militum;Tribunus Militum;Tribunus Militum;;Tribunus Militum;;;;;;;;;x
+imperial_job_spiritual_christian_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+imperial_job_spiritual_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+imperial_job_spymaster_roman;Frumentarius;Frumentarius;Frumentarius;;Frumentarius;;;;;;;;;x
+imperial_job_treasurer_roman;Praefectus Militaris;Praefectus Militaris;Praefectus Militaris;;Praefectus Militaris;;;;;;;;;x
+imperial_king_female_roman;Vicaria;Vicaria;Vicaria;;Vicaria;;;;;;;;;x
+imperial_king_roman;Vicarius;Vicarius;Vicarius;;Vicarius;;;;;;;;;x
+imperial_king_title_ruler_consort_female_roman;Vicaria;Vicaria;Vicaria;;Vicaria;;;;;;;;;x
+imperial_king_title_ruler_consort_roman;Vicarius;Vicarius;Vicarius;;Vicarius;;;;;;;;;x
+imperial_kingdom_of_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+imperial_kingdom_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+imperial_title_appointed_regent_roman;Regent Constituit;Regent Constituit;Regent Constituit;;Regent Constituit;;;;;;;;;x
+imperial_title_court_physician_roman;Vulnerarius;Vulnerarius;Vulnerarius;;Vulnerarius;;;;;;;;;x
+imperial_title_master_of_horse_roman;Magister Equitum;Magister Equitum;Magister Equitum;;Magister Equitum;;;;;;;;;x
+imperial_title_prince_female_roman;Principissa;Principissa;Principissa;;Principissa;;;;;;;;;x
+imperial_title_prince_roman;Princeps;Princeps;Princeps;;Princeps;;;;;;;;;x
+imperial_title_queen_mother_roman;Regina Mater;Regina Mater;Regina Mater;;Regina Mater;;;;;;;;;x
+imperial_tribal_duchy_of_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+imperial_tribal_duchy_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+imperial_vice_royalty_duchy_of_roman;Provinciae;Provinciae;Provinciae;;Provinciae;;;;;;;;;x
+imperial_vice_royalty_duchy_roman;Provinciae;Provinciae;Provinciae;;Provinciae;;;;;;;;;x
+imperial_vice_royalty_duke_female_roman;Gubernator;Gubernator;Gubernator;;Gubernator;;;;;;;;;x
+imperial_vice_royalty_duke_roman;Gubernator;Gubernator;Gubernator;;Gubernator;;;;;;;;;x
+imperial_vice_royalty_king_female_roman;Vicaria;Vicaria;Vicaria;;Vicaria;;;;;;;;;x
+imperial_vice_royalty_king_roman;Vicarius;Vicarius;Vicarius;;Vicarius;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+imperial_vice_royalty_kingdom_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+
+job_chancellor_female_roman;Praetor;Praetor;Praetor;;Praetor;;;;;;;;;x
+job_chancellor_roman;Praetor;Praetor;Praetor;;Praetor;;;;;;;;;x
+job_marshal_roman;Tribunus Militum;Tribunus Militum;Tribunus Militum;;Tribunus Militum;;;;;;;;;x
+job_spiritual_christian_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+job_spiritual_orthodox_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+job_spiritual_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+job_spymaster_roman;Frumentarius;Frumentarius;Frumentarius;;Frumentarius;;;;;;;;;x
+job_treasurer_female_roman;Praefectus Militaris;Praefectus Militaris;Praefectus Militaris;;Praefectus Militaris;;;;;;;;;x
+job_treasurer_roman;Praefectus Militaris;Praefectus Militaris;Praefectus Militaris;;Praefectus Militaris;;;;;;;;;x
+
+nomadic_emperor_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+nomadic_emperor_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+nomadic_empire_of_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+nomadic_empire_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+nomadic_king_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+nomadic_king_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+nomadic_king_title_ruler_consort_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+
+PATRIARCH_CAP_roman;Patriarchae;Patriarchae;Patriarchae;;Patriarchae;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_roman;Patriarcha Orientalis;Patriarcha Orientalis;Patriarcha Orientalis;;Patriarcha Orientalis;;;;;;;;;x
+POPE_roman;Papa;Papa;Papa;;Papa;;;;;;;;;x
+
+temple_baron_christian_female_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_christian_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_female_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_female_slavic_pagan_reformed_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_female_slavic_pagan_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_orthodox_female_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_orthodox_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_pagan_female_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_pagan_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_slavic_pagan_reformed_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_baron_slavic_pagan_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_christian_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_female_christian_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_female_pagan_group_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_female_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_female_slavic_pagan_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_pagan_group_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_slavic_pagan_reformed_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_count_slavic_pagan_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+temple_king_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+temple_king_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+
+tribal_baron_female_roman;Baronissa;Baronissa;Baronissa;;Baronissa;;;;;;;;;x
+tribal_baron_roman;Baro;Baro;Baro;;Baro;;;;;;;;;x
+tribal_count_roman;Caput;Caput;Caput;;Caput;;;;;;;;;x
+tribal_count_female_roman;Caput;Caput;Caput;;Caput;;;;;;;;;x
+tribal_city_barony_of_roman;Vicus;Vicus;Vicus;;Vicus;;;;;;;;;x
+tribal_city_barony_roman;Vicus;Vicus;Vicus;;Vicus;;;;;;;;;x
+tribal_city_county_of_roman;Civitas;Civitas;Civitas;;Civitas;;;;;;;;;x
+tribal_city_county_roman;Civitas;Civitas;Civitas;;Civitas;;;;;;;;;x
+tribal_duchy_of_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+tribal_duchy_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_roman;Ducissa;Ducissa;Ducissa;;Ducissa;;;;;;;;;x
+tribal_duke_title_ruler_consort_roman;Dux;Dux;Dux;;Dux;;;;;;;;;x
+tribal_emperor_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+tribal_emperor_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+tribal_emperor_title_ruler_consort_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+tribal_empire_of_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+tribal_empire_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+tribal_job_chancellor_roman;Praetor;Praetor;Praetor;;Praetor;;;;;;;;;x
+tribal_job_marshal_roman;Tribunus Militum;Tribunus Militum;Tribunus Militum;;Tribunus Militum;;;;;;;;;x
+tribal_job_spiritual_christian_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+tribal_job_spiritual_orthodox_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+tribal_job_spiritual_roman;Pontifex Maximus;Pontifex Maximus;Pontifex Maximus;;Pontifex Maximus;;;;;;;;;x
+tribal_job_spymaster_roman;Frumentarius;Frumentarius;Frumentarius;;Frumentarius;;;;;;;;;x
+tribal_job_treasurer_roman;Praefectus Militaris;Praefectus Militaris;Praefectus Militaris;;Praefectus Militaris;;;;;;;;;x
+tribal_king_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+tribal_king_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+tribal_king_title_ruler_consort_female_roman;Regina;Regina;Regina;;Regina;;;;;;;;;x
+tribal_king_title_ruler_consort_roman;Rex;Rex;Rex;;Rex;;;;;;;;;x
+tribal_kingdom_of_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+tribal_kingdom_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+tribal_temple_baron_female_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+tribal_temple_baron_roman;Episcopus;Episcopus;Episcopus;;Episcopus;;;;;;;;;x
+tribal_title_court_physician_roman;Vulnerarius;Vulnerarius;Vulnerarius;;Vulnerarius;;;;;;;;;x
+tribal_title_master_of_horse_roman;Magister Equitum;Magister Equitum;Magister Equitum;;Magister Equitum;;;;;;;;;x
+
+vice_royalty_baron_female_roman;Baronissa;Baronissa;Baronissa;;Baronissa;;;;;;;;;x
+vice_royalty_baron_roman;Baro;Baro;Baro;;Baro;;;;;;;;;x
+vice_royalty_barony_roman;Castrum;Castrum;Castrum;;Castrum;;;;;;;;;x
+vice_royalty_count_female_roman;Comitissa;Comitissa;Comitissa;;Comitissa;;;;;;;;;x
+vice_royalty_count_roman;Comes;Comes;Comes;;Comes;;;;;;;;;x
+vice_royalty_county_roman;Comitatus;Comitatus;Comitatus;;Comitatus;;;;;;;;;x
+vice_royalty_duchy_of_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+vice_royalty_duchy_roman;Ducatus;Ducatus;Ducatus;;Ducatus;;;;;;;;;x
+vice_royalty_duke_female_roman;Produx;Produx;Produx;;Produx;;;;;;;;;x
+vice_royalty_duke_roman;Produx;Produx;Produx;;Produx;;;;;;;;;x
+vice_royalty_emperor_female_roman;Imperatrix;Imperatrix;Imperatrix;;Imperatrix;;;;;;;;;x
+vice_royalty_emperor_roman;Imperator;Imperator;Imperator;;Imperator;;;;;;;;;x
+vice_royalty_empire_of_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+vice_royalty_empire_roman;Imperium;Imperium;Imperium;;Imperium;;;;;;;;;x
+vice_royalty_king_female_roman;Prorex;Prorex;Prorex;;Prorex;;;;;;;;;x
+vice_royalty_king_roman;Prorex;Prorex;Prorex;;Prorex;;;;;;;;;x
+vice_royalty_kingdom_of_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+vice_royalty_kingdom_roman;Regnum;Regnum;Regnum;;Regnum;;;;;;;;;x
+
+title_appointed_regent_roman;Regent Constituit;Regent Constituit;Regent Constituit;;Regent Constituit;;;;;;;;;x
+title_commander_female_roman;Induperator;Induperator;Induperator;;Induperator;;;;;;;;;x
+title_commander_roman;Induperator;Induperator;Induperator;;Induperator;;;;;;;;;x
+title_court_physician_roman;Vulnerarius;Vulnerarius;Vulnerarius;;Vulnerarius;;;;;;;;;x
+title_master_of_the_horse_roman;Magister Equitum;Magister Equitum;Magister Equitum;;Magister Equitum;;;;;;;;;x
+title_prince_baron_female_roman;Principissa;Principissa;Principissa;;Principissa;;;;;;;;;x
+title_prince_baron_roman;Princeps;Princeps;Princeps;;Princeps;;;;;;;;;x
+title_prince_female_roman;Principissa;Principissa;Principissa;;Principissa;;;;;;;;;x
+title_prince_roman;Princeps;Princeps;Princeps;;Princeps;;;;;;;;;x
+title_queen_mother_roman;Regina Mater;Regina Mater;Regina Mater;;Regina Mater;;;;;;;;;x
+title_regent_roman;Interrex;Interrex;Interrex;;Interrex;;;;;;;;;x
+
+#########################################
+############# Sardinian #################
+#########################################
+
+city_baron_female_sardinian;Maiore;Maiore;Maiore;;Maiore;;;;;;;;;x
+city_baron_sardinian;Maiore;Maiore;Maiore;;Maiore;;;;;;;;;x
+city_barony_of_sardinian;Comune de;Comune de;Comune de;;Comune de;;;;;;;;;x
+city_barony_sardinian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+city_count_female_sardinian;Potestate;Potestate;Potestate;;Potestate;;;;;;;;;x
+city_count_sardinian;Potestate;Potestate;Potestate;;Potestate;;;;;;;;;x
+city_county_of_sardinian;Potestaria de;Potestaria de;Potestaria de;;Potestaria de;;;;;;;;;x
+city_county_sardinian;Potestaria;Potestaria;Potestaria;;Potestaria;;;;;;;;;x
+city_duchy_of_sardinian;Repubblica de;Repubblica de;Repubblica de;;Repubblica de;;;;;;;;;x
+city_duchy_sardinian;Repubblica;Repubblica;Repubblica;;Repubblica;;;;;;;;;x
+city_duke_female_sardinian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+city_duke_sardinian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+city_emperor_female_sardinian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+city_emperor_sardinian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+city_empire_of_sardinian;Serenissima Repubblica di;Serenissima Repubblica di;Serenissima Repubblica di;;Serenissima Repubblica di;;;;;;;;;x
+city_empire_sardinian;Serenissima Repubblica;Serenissima Repubblica;Serenissima Repubblica;;Serenissima Repubblica;;;;;;;;;x
+city_king_female_sardinian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+city_king_sardinian;Doge;Doge;Doge;;Doge;;;;;;;;;x
+city_kingdom_of_sardinian;Serenissima Repubblica di;Serenissima Repubblica di;Serenissima Repubblica di;;Serenissima Repubblica di;;;;;;;;;x
+city_kingdom_sardinian;Serenissima Repubblica;Serenissima Repubblica;Serenissima Repubblica;;Serenissima Repubblica;;;;;;;;;x
+
+COPTIC_POPE_sardinian;Papa Copta;Papa Copta;Papa Copta;;Papa Copta;;;;;;;;;x
+
+emperor_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+emperor_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+emperor_title_ruler_consort_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+emperor_title_ruler_consort_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+empire_of_sardinian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+empire_sardinian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+
+king_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+king_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+king_title_ruler_consort_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+king_title_ruler_consort_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+kingdom_of_sardinian;Rennu de;Rennu de;Rennu de;;Rennu de;;;;;;;;;x
+kingdom_sardinian;Rennu;Rennu;Rennu;;Rennu;;;;;;;;;x
+
+duchy_of_sardinian;Ducato de;Ducato de;Ducato de;;Ducato de;;;;;;;;;x
+duchy_sardinian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+duke_female_sardinian;Iudicissa;Iudicissa;Iudicissa;;Iudicissa;;;;;;;;;x
+duke_sardinian;Iudice;Iudice;Iudice;;Iudice;;;;;;;;;x
+duke_title_ruler_consort_female_sardinian;Iudicissa;Iudicissa;Iudicissa;;Iudicissa;;;;;;;;;x
+duke_title_ruler_consort_sardinian;Iudice;Iudice;Iudice;;Iudice;;;;;;;;;x
+
+count_female_sardinian;Curatessa;Curatessa;Curatessa;;Curatessa;;;;;;;;;x
+count_sardinian;Curatore;Curatore;Curatore;;Curatore;;;;;;;;;x
+count_title_ruler_consort_female_sardinian;Curatessa;Curatessa;Curatessa;;Curatessa;;;;;;;;;x
+count_title_ruler_consort_sardinian;Curatore;Curatore;Curatore;;Curatore;;;;;;;;;x
+county_of_sardinian;Curatoria de;Curatoria de;Curatoria de;;Curatoria de;;;;;;;;;x
+county_sardinian;Curatoria;Curatoria;Curatoria;;Curatoria;;;;;;;;;x
+
+baron_female_sardinian;Donna;Donna;Donna;;Donna;;;;;;;;;x
+baron_sardinian;Donnu;Donnu;Donnu;;Donnu;;;;;;;;;x
+baron_title_ruler_consort_female_sardinian;Donna;Donna;Donna;;Donna;;;;;;;;;x
+baron_title_ruler_consort_sardinian;Donnu;Donnu;Donnu;;Donnu;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_sardinian;Patriarca Ecumenico;Patriarca Ecumenico;Patriarca Ecumenico;;Patriarca Ecumenico;;;;;;;;;x
+
+family_palace_baron_sardinian;Patriciu;Patriciu;Patriciu;;Patriciu;;;;;;;;;x
+
+imperial_baron_female_sardinian;Donna;Donna;Donna;;Donna;;;;;;;;;x
+imperial_baron_sardinian;Donnu;Donnu;Donnu;;Donnu;;;;;;;;;x
+imperial_city_baron_female_sardinian;Maiore;Maiore;Maiore;;Maiore;;;;;;;;;x
+imperial_city_baron_sardinian;Maiore;Maiore;Maiore;;Maiore;;;;;;;;;x
+imperial_city_barony_of_sardinian;Comune de;Comune de;Comune de;;Comune de;;;;;;;;;x
+imperial_city_barony_sardinian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+imperial_city_county_of_sardinian;Potestaria de;Potestaria de;Potestaria de;;Potestaria de;;;;;;;;;x
+imperial_city_county_sardinian;Potestaria;Potestaria;Potestaria;;Potestaria;;;;;;;;;x
+imperial_count_female_sardinian;Curatessa;Curatessa;Curatessa;;Curatessa;;;;;;;;;x
+imperial_count_sardinian;Curatore;Curatore;Curatore;;Curatore;;;;;;;;;x
+imperial_county_of_sardinian;Curatoria de;Curatoria de;Curatoria de;;Curatoria de;;;;;;;;;x
+imperial_county_sardinian;Curatoria;Curatoria;Curatoria;;Curatoria;;;;;;;;;x
+imperial_duchy_of_sardinian;Ducato de;Ducato de;Ducato de;;Ducato de;;;;;;;;;x
+imperial_duchy_sardinian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+imperial_duke_female_sardinian;Iudicissa;Iudicissa;Iudicissa;;Iudicissa;;;;;;;;;x
+imperial_duke_sardinian;Iudice;Iudice;Iudice;;Iudice;;;;;;;;;x
+imperial_emperor_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+imperial_emperor_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+imperial_empire_of_sardinian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+imperial_empire_sardinian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+imperial_job_chancellor_sardinian;Cancelleri;Cancelleri;Cancelleri;;Cancelleri;;;;;;;;;x
+imperial_job_marshal_sardinian;Maniscalcu;Maniscalcu;Maniscalcu;;Maniscalcu;;;;;;;;;x
+imperial_job_spiritual_christian_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+imperial_job_spiritual_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+imperial_job_treasurer_sardinian;Canarilingu;Canarilingu;Canarilingu;;Canarilingu;;;;;;;;;x
+imperial_king_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_king_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+imperial_king_title_ruler_consort_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_king_title_ruler_consort_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+imperial_kingdom_of_sardinian;Rennu de;Rennu de;Rennu de;;Rennu de;;;;;;;;;x
+imperial_kingdom_sardinian;Rennu;Rennu;Rennu;;Rennu;;;;;;;;;x
+imperial_title_prince_female_sardinian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+imperial_title_prince_sardinian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+imperial_tribal_duchy_of_sardinian;Ducato de;Ducato de;Ducato de;;Ducato de;;;;;;;;;x
+imperial_tribal_duchy_sardinian;Ducato de;Ducato de;Ducato de;;Ducato de;;;;;;;;;x
+imperial_vice_royalty_duchy_of_sardinian;Ducato de;Ducato de;Ducato de;;Ducato de;;;;;;;;;x
+imperial_vice_royalty_duchy_sardinian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+imperial_vice_royalty_duke_female_sardinian;Iudicissa;Iudicissa;Iudicissa;;Iudicissa;;;;;;;;;x
+imperial_vice_royalty_duke_sardinian;Iudice;Iudice;Iudice;;Iudice;;;;;;;;;x
+imperial_vice_royalty_king_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_vice_royalty_king_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_sardinian;Rennu de;Rennu de;Rennu de;;Rennu de;;;;;;;;;x
+imperial_vice_royalty_kingdom_sardinian;Rennu;Rennu;Rennu;;Rennu;;;;;;;;;x
+
+job_chancellor_female_sardinian;Cancelleri;Cancelleri;Cancelleri;;Cancelleri;;;;;;;;;x
+job_chancellor_sardinian;Cancelleri;Cancelleri;Cancelleri;;Cancelleri;;;;;;;;;x
+job_marshal_sardinian;Maniscalcu;Maniscalcu;Maniscalcu;;Maniscalcu;;;;;;;;;x
+job_spiritual_christian_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_spiritual_orthodox_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_spiritual_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+job_treasurer_female_sardinian;Canarilingu;Canarilingu;Canarilingu;;Canarilingu;;;;;;;;;x
+job_treasurer_sardinian;Canarilingu;Canarilingu;Canarilingu;;Canarilingu;;;;;;;;;x
+
+nomadic_emperor_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+nomadic_emperor_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+nomadic_empire_of_sardinian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+nomadic_empire_sardinian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+nomadic_king_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+nomadic_king_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+nomadic_king_title_ruler_consort_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+
+PATRIARCH_CAP_sardinian;Patriarca;Patriarca;Patriarca;;Patriarca;;;;;;;;;x
+POPE_sardinian;Papa;Papa;Papa;;Papa;;;;;;;;;x
+
+temple_baron_christian_female_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_christian_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_slavic_pagan_reformed_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_female_slavic_pagan_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_orthodox_female_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_orthodox_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_pagan_female_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_pagan_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_slavic_pagan_reformed_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_baron_slavic_pagan_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_barony_christian_sardinian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_of_christian_sardinian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_pagan_group_sardinian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_sardinian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_slavic_pagan_reformed_sardinian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_of_slavic_pagan_sardinian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_barony_pagan_group_sardinian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_sardinian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_slavic_pagan_reformed_sardinian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_barony_slavic_pagan_sardinian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_count_christian_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_christian_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_pagan_group_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_female_slavic_pagan_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_pagan_group_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_slavic_pagan_reformed_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_count_slavic_pagan_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+temple_county_of_sardinian;Diocesi di;Diocesi di;Diocesi di;;Diocesi di;;;;;;;;;x
+temple_county_sardinian;Diocesi;Diocesi;Diocesi;;Diocesi;;;;;;;;;x
+temple_king_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+temple_king_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+
+title_prince_baron_female_sardinian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+title_prince_baron_sardinian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+title_prince_female_sardinian;Principessa;Principessa;Principessa;;Principessa;;;;;;;;;x
+title_prince_sardinian;Principe;Principe;Principe;;Principe;;;;;;;;;x
+
+tribal_baron_female_sardinian;Donna;Donna;Donna;;Donna;;;;;;;;;x
+tribal_baron_sardinian;Donnu;Donnu;Donnu;;Donnu;;;;;;;;;x
+tribal_city_barony_of_sardinian;Comune de;Comune de;Comune de;;Comune de;;;;;;;;;x
+tribal_city_barony_sardinian;Comune;Comune;Comune;;Comune;;;;;;;;;x
+tribal_city_county_of_sardinian;Potestaria de;Potestaria de;Potestaria de;;Potestaria de;;;;;;;;;x
+tribal_city_county_sardinian;Potestaria;Potestaria;Potestaria;;Potestaria;;;;;;;;;x
+tribal_count_female_sardinian;Capo;Capo;Capo;;Capo;;;;;;;;;x
+tribal_count_sardinian;Capo;Capo;Capo;;Capo;;;;;;;;;x
+tribal_duchy_of_sardinian;Ducato de;Ducato de;Ducato de;;Ducato de;;;;;;;;;x
+tribal_duchy_sardinian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_sardinian;Iudicissa;Iudicissa;Iudicissa;;Iudicissa;;;;;;;;;x
+tribal_duke_title_ruler_consort_sardinian;Iudice;Iudice;Iudice;;Iudice;;;;;;;;;x
+tribal_emperor_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+tribal_emperor_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+tribal_emperor_title_ruler_consort_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+tribal_empire_of_sardinian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+tribal_empire_sardinian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+tribal_job_chancellor_sardinian;Cancelleri;Cancelleri;Cancelleri;;Cancelleri;;;;;;;;;x
+tribal_job_marshal_sardinian;Maniscalcu;Maniscalcu;Maniscalcu;;Maniscalcu;;;;;;;;;x
+tribal_job_spiritual_christian_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_spiritual_orthodox_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_spiritual_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_job_treasurer_sardinian;Canarilingu;Canarilingu;Canarilingu;;Canarilingu;;;;;;;;;x
+tribal_king_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+tribal_king_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+tribal_king_title_ruler_consort_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+tribal_king_title_ruler_consort_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+tribal_kingdom_of_sardinian;Rennu de;Rennu de;Rennu de;;Rennu de;;;;;;;;;x
+tribal_kingdom_sardinian;Rennu;Rennu;Rennu;;Rennu;;;;;;;;;x
+tribal_temple_baron_female_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+tribal_temple_baron_sardinian;Vescovo;Vescovo;Vescovo;;Vescovo;;;;;;;;;x
+
+vice_royalty_baron_female_sardinian;Donna;Donna;Donna;;Donna;;;;;;;;;x
+vice_royalty_baron_sardinian;Donnu;Donnu;Donnu;;Donnu;;;;;;;;;x
+vice_royalty_count_female_sardinian;Curatessa;Curatessa;Curatessa;;Curatessa;;;;;;;;;x
+vice_royalty_count_sardinian;Curatore;Curatore;Curatore;;Curatore;;;;;;;;;x
+vice_royalty_county_sardinian;Curatoria;Curatoria;Curatoria;;Curatoria;;;;;;;;;x
+vice_royalty_duchy_of_sardinian;Ducato de;Ducato de;Ducato de;;Ducato de;;;;;;;;;x
+vice_royalty_duchy_sardinian;Ducato;Ducato;Ducato;;Ducato;;;;;;;;;x
+vice_royalty_duke_female_sardinian;Iudicissa;Iudicissa;Iudicissa;;Iudicissa;;;;;;;;;x
+vice_royalty_duke_sardinian;Iudice;Iudice;Iudice;;Iudice;;;;;;;;;x
+vice_royalty_emperor_female_sardinian;Imperatrice;Imperatrice;Imperatrice;;Imperatrice;;;;;;;;;x
+vice_royalty_emperor_sardinian;Imperatore;Imperatore;Imperatore;;Imperatore;;;;;;;;;x
+vice_royalty_empire_of_sardinian;Impero di;Impero di;Impero di;;Impero di;;;;;;;;;x
+vice_royalty_empire_sardinian;Impero;Impero;Impero;;Impero;;;;;;;;;x
+vice_royalty_king_female_sardinian;Reina;Reina;Reina;;Reina;;;;;;;;;x
+vice_royalty_king_sardinian;Re;Re;Re;;Re;;;;;;;;;x
+vice_royalty_kingdom_of_sardinian;Rennu de;Rennu de;Rennu de;;Rennu de;;;;;;;;;x
+vice_royalty_kingdom_sardinian;Rennu;Rennu;Rennu;;Rennu;;;;;;;;;x

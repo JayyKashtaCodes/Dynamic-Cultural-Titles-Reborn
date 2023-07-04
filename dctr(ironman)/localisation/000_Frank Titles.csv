@@ -1,0 +1,559 @@
+
+#######################################
+########### Old Frankish ##############
+#######################################
+
+empire_of_old_frankish;Riki;;;;;;;;;;;;;x
+kingdom_of_old_frankish;Kuningriki;;;;;;;;;;;;;x
+duchy_of_old_frankish;Heritogduom;;;;;;;;;;;;;x
+county_of_old_frankish;Gravskap;;;;;;;;;;;;;x
+
+emperor_old_frankish;Keisere;;;;;;;;;;;;;x
+emperor_female_old_frankish;Keiserin;;;;;;;;;;;;;x
+king_old_frankish;Kuning;;;;;;;;;;;;;x
+king_female_old_frankish;Kuningin;;;;;;;;;;;;;x
+title_prince_old_frankish;Furista;;;;;;;;;;;;;x
+title_prince_female_old_frankish;Furistin;;;;;;;;;;;;;x
+duke_old_frankish;Heritog;;;;;;;;;;;;;x
+duke_female_old_frankish;Heritogin;;;;;;;;;;;;;x
+baron_old_frankish;Baro;;;;;;;;;;;;;x
+baron_female_old_frankish;Baroin;;;;;;;;;;;;;x
+
+tribal_emperor_old_frankish;Kaiserliche Hovitling;;;;;;;;;;;;;x
+tribal_king_old_frankish;König Hovitling;;;;;;;;;;;;;x
+tribal_duke_old_frankish;Grothovitling;;;;;;;;;;;;;x
+tribal_count_old_frankish;Hovitling;;;;;;;;;;;;;x
+
+tribal_emperor_female_old_frankish;Kaiserin Hovitling;;;;;;;;;;;;;x
+tribal_king_female_old_frankish;Königin Hovitling;;;;;;;;;;;;;x
+tribal_duke_female_old_frankish;Grothovitling;;;;;;;;;;;;;x
+tribal_count_female_old_frankish;Hovitling;;;;;;;;;;;;;x
+
+tribal_empire_of_old_frankish;Stammesreich;;;;;;;;;;;;;x
+tribal_kingdom_of_old_frankish;Stammeskönigreich;;;;;;;;;;;;;x
+tribal_duchy_of_old_frankish;Hohes Häuptlingstum;;;;;;;;;;;;;x
+tribal_county_of_old_frankish;Häuptlingstum;;;;;;;;;;;;;x
+
+tribal_empire_old_frankish;Stammesreich;;;;;;;;;;;;;x
+tribal_kingdom_old_frankish;Stammeskönigreich;;;;;;;;;;;;;x
+tribal_duchy_old_frankish;Hohes Häuptlingstum;;;;;;;;;;;;;x
+tribal_county_old_frankish;Häuptlingstum;;;;;;;;;;;;;x
+
+vice_royalty_king_old_frankish;Underkuning;;;;;;;;;;;;;x
+vice_royalty_king_female_old_frankish;Underkuningin;;;;;;;;;;;;;x
+vice_royalty_duke_old_frankish;Minniro Underkuning;;;;;;;;;;;;;x
+vice_royalty_duke_female_old_frankish;Minniro Underkuningin;;;;;;;;;;;;;x
+
+FYLKIR_old_frankish;Fulcer;;;;;;;;;;;;;x
+FYLKJA_old_frankish;Fulcerin;;;;;;;;;;;;;x
+
+#########################################
+############## French ###################
+#########################################
+
+empire_of_frankish;l’Empire;;;;;;;;;;;;;x
+kingdom_of_frankish;Royaume de;;;;;;;;;;;;;x
+duchy_of_frankish;Duché de;;;;;;;;;;;;;x
+county_of_frankish;Comitat de;;;;;;;;;;;;;x
+
+empire_frankish;l’Empire;;;;;;;;;;;;;x
+kingdom_frankish;Royaume;;;;;;;;;;;;;x
+duchy_frankish;Duché;;;;;;;;;;;;;x
+county_frankish;Comitat;;;;;;;;;;;;;x
+
+tribal_empire_of_frankish;Chefferie Impériale de;;;;;;;;;;;;;x
+tribal_kingdom_of_frankish;Chefferie Royale de;;;;;;;;;;;;;x
+tribal_duchy_of_frankish;Haute Chefferie de;;;;;;;;;;;;;x
+tribal_county_of_frankish;Chefferie de;;;;;;;;;;;;;x
+
+tribal_empire_frankish;Chefferie Impériale;;;;;;;;;;;;;x
+tribal_kingdom_frankish;Chefferie Royale;;;;;;;;;;;;;x
+tribal_duchy_frankish;Haute Chefferie;;;;;;;;;;;;;x
+tribal_county_frankish;Chefferie;;;;;;;;;;;;;x
+
+city_kingdom_of_frankish;République Sérénissime de;;;;;;;;;;;;;x
+
+emperor_frankish;Empereür;;;;;;;;;;;;;x
+emperor_frankish_female;Impératrice;;;;;;;;x
+king_frankish;Roi;;;;;;;;;;;;;x
+king_frankish_female;Reine;;;;;;;;;;;;;x
+title_prince;Prince;;;;;;;;;;;;;x
+title_prince_female;Princesse;;;;;;;;;;;;;x
+duke_frankish;Duc;;;;;;;;;;;;;x
+duke_frankish_female;Duchesse;;;;;;;;;;;;;x
+count_frankish;Comte;;;;;;;;;;;;;x
+count_frankish_female;Comtesse;;;;;;;;;;;;;x
+baron_female_frankish;Baronne;;;;;;;;;;;;;x
+
+tribal_emperor_frankish;Chef Impérial;;;;;;;;;;;;;x
+tribal_king_frankish;Roi Chef;;;;;;;;;;;;;x
+tribal_duke_frankish;Grand Chef;;;;;;;;;;;;;x
+tribal_count_frankish;Chef;;;;;;;;;;;;;x
+
+tribal_emperor_female_frankish;Impératrice Cheffe;;;;;;;;;;;;;x
+tribal_king_female_frankish;Reine Cheffe;;;;;;;;;;;;;x
+tribal_duke_female_frankish;Grand Cheffe;;;;;;;;;;;;;x
+tribal_count_female_frankish;Cheffe;;;;;;;;;;;;;x
+
+job_chancellor_frankish;Chancelier;;;;;;;;;;;;;x
+job_marshal_frankish;Maréchal;;;;;;;;;;;;;x
+job_treasurer_frankish;Trésorier;;;;;;;;;;;;;x
+job_spymaster_frankish;Maître espion;;;;;;;;;;;;;x
+
+title_cupbearer_frankish;Échanson;Échanson;Échanson;;Échanson;;;;;;;;;x
+title_high_almoner_frankish;Grand Aumonier;Grand Aumonier;Grand Aumonier;;Grand Aumonier;;;;;;;;;x
+title_master_of_the_horse_frankish;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+title_master_of_the_hunt_frankish;Grand Veneur;Grand Veneur;Grand Veneur;;Grand Veneur;;;;;;;;;x
+title_prince_baron_female_frankish;Princesse;Princesse;Princesse;;Princesse;;;;;;;;;x
+title_prince_baron_frankish;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_prince_female_frankish;Princesse;Princesse;Princesse;;Princesse;;;;;;;;;x
+title_prince_frankish;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_queen_mother_frankish;Reine Mère;Reine Mère;Reine Mère;;Reine Mère;;;;;;;;;x
+title_regent_frankish;Régent;Régent;Régent;;Régent;;;;;;;;;x
+title_seneschal_frankish;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_frankish;Patriarche œcuménique;;;;;;;;;;;;;x
+POPE_frankish;Pape;;;;;;;;;;;;;x
+family_palace_baron_frankish;Patricien;;;;;;;;;;;;;x
+
+#########################################
+############## Norman ###################
+#########################################
+
+city_baron_female_norman;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_baron_norman;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_barony_norman;Bailie;Bailie;Bailie;;Bailie;;;;;;;;;x
+city_barony_of_norman;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+city_count_female_norman;Baillif;Baillif;Baillif;;Baillif;;;;;;;;;x
+city_count_norman;Baillif;Baillif;Baillif;;Baillif;;;;;;;;;x
+city_county_norman;Bailie;Bailie;Bailie;;Bailie;;;;;;;;;x
+city_county_of_norman;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+city_empire_of_norman;République Sérénissime de;République Sérénissime de;République Sérénissime de;;République Sérénissime de;;;;;;;;;x
+city_kingdom_of_norman;République Sérénissime de;République Sérénissime de;République Sérénissime de;;République Sérénissime de;;;;;;;;;x
+
+COPTIC_POPE_norman;Pape;Pape;Pape;;Pape;;;;;;;;;x
+
+emperor_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+emperor_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+emperor_title_queen_mother_norman;Empererriz Veuve;Empererriz Veuve;Empererriz Veuve;;Empererriz Veuve;;;;;;;;;x
+emperor_title_ruler_consort_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+emperor_title_ruler_consort_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+empire_norman;Empere;Empere;Empere;;Empere;;;;;;;;;x
+empire_of_norman;Empere de;Empere de;Empere de;;Empere de;;;;;;;;;x
+
+king_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+king_title_ruler_consort_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+king_title_ruler_consort_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+kingdom_norman;Roialme;Roialme;Roialme;;Roialme;;;;;;;;;x
+kingdom_of_norman;Roialme de;Roialme de;Roialme de;;Roialme de;;;;;;;;;x
+
+duchy_norman;Duchié;Duchié;Duchié;;Duchié;;;;;;;;;x
+duchy_of_norman;Duchié de;Duchié de;Duchié de;;Duchié de;;;;;;;;;x
+duke_female_norman;Ducesse;Ducesse;Ducesse;;Ducesse;;;;;;;;;x
+duke_norman;Duc;Duc;Duc;;Duc;;;;;;;;;x
+duke_title_ruler_consort_female_norman;Ducesse;Ducesse;Ducesse;;Ducesse;;;;;;;;;x
+duke_title_ruler_consort_norman;Duc;Duc;Duc;;Duc;;;;;;;;;x
+
+count_female_norman;Countesse;Countesse;Countesse;;Countesse;;;;;;;;;x
+count_norman;Counte;Counte;Counte;;Counte;;;;;;;;;x
+count_title_ruler_consort_female_norman;Countesse;Countesse;Countesse;;Countesse;;;;;;;;;x
+count_title_ruler_consort_norman;Counte;Counte;Counte;;Counte;;;;;;;;;x
+county_norman;Counté;Counté;Counté;;Counté;;;;;;;;;x
+county_of_norman;Counté de;Counté de;Counté de;;Counté de;;;;;;;;;x
+
+baron_female_norman;Chatelaine;Chatelaine;Chatelaine;;Chatelaine;;;;;;;;;x
+baron_norman;Chatelain;Chatelain;Chatelain;;Chatelain;;;;;;;;;x
+baron_title_ruler_consort_female_norman;Chatelaine;Chatelaine;Chatelaine;;Chatelaine;;;;;;;;;x
+baron_title_ruler_consort_norman;Chatelain;Chatelain;Chatelain;;Chatelain;;;;;;;;;x
+barony_norman;Chatellenie;Chatellenie;Chatellenie;;Chatellenie;;;;;;;;;x
+barony_of_norman;Chatellenie de;Chatellenie de;Chatellenie de;;Chatellenie de;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_norman;Patriarche Œcuménique;Patriarche Œcuménique;Patriarche Œcuménique;;Patriarche Œcuménique;;;;;;;;;x
+
+family_palace_baron_norman;Patricien;Patricien;Patricien;;Patricien;;;;;;;;;x
+
+imperial_baron_female_norman;Chatelaine;Chatelaine;Chatelaine;;Chatelaine;;;;;;;;;x
+imperial_baron_norman;Chatelain;Chatelain;Chatelain;;Chatelain;;;;;;;;;x
+imperial_barony_norman;Chatellenie;Chatellenie;Chatellenie;;Chatellenie;;;;;;;;;x
+imperial_barony_of_norman;Chatellenie de;Chatellenie de;Chatellenie de;;Chatellenie de;;;;;;;;;x
+imperial_city_baron_female_norman;Provost;Provost;Provost;;Provost;;;;;;;;;x
+imperial_city_baron_norman;Provost;Provost;Provost;;Provost;;;;;;;;;x
+imperial_city_barony_norman;Bailie;Bailie;Bailie;;Bailie;;;;;;;;;x
+imperial_city_barony_of_norman;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+imperial_city_county_of_norman;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+imperial_count_female_norman;Countesse;Countesse;Countesse;;Countesse;;;;;;;;;x
+imperial_count_norman;Counte;Counte;Counte;;Counte;;;;;;;;;x
+imperial_county_norman;Counté;Counté;Counté;;Counté;;;;;;;;;x
+imperial_county_of_norman;Counté de;Counté de;Counté de;;Counté de;;;;;;;;;x
+imperial_duchy_norman;Duchié;Duchié;Duchié;;Duchié;;;;;;;;;x
+imperial_duchy_of_norman;Duchié de;Duchié de;Duchié de;;Duchié de;;;;;;;;;x
+imperial_duke_female_norman;Ducesse;Ducesse;Ducesse;;Ducesse;;;;;;;;;x
+imperial_duke_norman;Duc;Duc;Duc;;Duc;;;;;;;;;x
+imperial_emperor_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+imperial_emperor_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+imperial_empire_norman;Empere;Empere;Empere;;Empere;;;;;;;;;x
+imperial_empire_of_norman;Empere de;Empere de;Empere de;;Empere de;;;;;;;;;x
+imperial_job_chancellor_norman;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+imperial_job_marshal_norman;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+imperial_job_spymaster_norman;Maître Espion;Maître Espion;Maître Espion;;Maître Espion;;;;;;;;;x
+imperial_job_treasurer_norman;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+imperial_king_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+imperial_king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+imperial_king_title_ruler_consort_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+imperial_king_title_ruler_consort_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+imperial_kingdom_norman;Roialme;Roialme;Roialme;;Roialme;;;;;;;;;x
+imperial_kingdom_of_norman;Roialme de;Roialme de;Roialme de;;Roialme de;;;;;;;;;x
+imperial_title_cupbearer_norman;Échanson;Échanson;Échanson;;Échanson;;;;;;;;;x
+imperial_title_master_of_horse_norman;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+imperial_title_prince_female_norman;Princesse;Princesse;Princesse;;Princesse;;;;;;;;;x
+imperial_title_prince_norman;Prince;Prince;Prince;;Prince;;;;;;;;;x
+imperial_title_queen_mother_norman;Roigne Mère;Roigne Mère;Roigne Mère;;Roigne Mère;;;;;;;;;x # $Not sure how the second word should be, copied from french
+imperial_title_seneschal_norman;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+imperial_tribal_duchy_norman;Duchié de;Duchié de;Duchié de;;Duchié de;;;;;;;;;x
+imperial_tribal_duchy_of_norman;Duchié de;Duchié de;Duchié de;;Duchié de;;;;;;;;;x
+imperial_vice_royalty_duchy_norman;Duchié;Duchié;Duchié;;Duchié;;;;;;;;;x
+imperial_vice_royalty_duchy_of_norman;Duchié de;Duchié de;Duchié de;;Duchié de;;;;;;;;;x
+imperial_vice_royalty_duke_female_norman;Ducesse;Ducesse;Ducesse;;Ducesse;;;;;;;;;x
+imperial_vice_royalty_duke_norman;Duc;Duc;Duc;;Duc;;;;;;;;;x
+imperial_vice_royalty_king_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+imperial_vice_royalty_king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+imperial_vice_royalty_kingdom_norman;Roialme;Roialme;Roialme;;Roialme;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_norman;Roialme de;Roialme de;Roialme de;;Roialme de;;;;;;;;;x
+
+job_chancellor_female_norman;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+job_chancellor_norman;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+job_marshal_norman;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+job_spymaster_norman;Maître Espion;Maître Espion;Maître Espion;;Maître Espion;;;;;;;;;x
+job_treasurer_female_norman;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+job_treasurer_norman;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+
+nomadic_emperor_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+nomadic_emperor_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+nomadic_empire_norman;Empere;Empere;Empere;;Empere;;;;;;;;;x
+nomadic_empire_of_norman;Empere de;Empere de;Empere de;;Empere de;;;;;;;;;x
+nomadic_king_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+nomadic_king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+nomadic_king_title_ruler_consort_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+
+PATRIARCH_CAP_norman;Patriarche;Patriarche;Patriarche;;Patriarche;;;;;;;;;x
+POPE_norman;Pape;Pape;Pape;;Pape;;;;;;;;;x
+
+temple_barony_of_christian_norman;Évesquie de;Évesquie de;Évesquie de;;Évesquie de;;;;;;;;;x
+temple_count_christian_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_christian_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_pagan_group_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_slavic_pagan_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_pagan_group_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_slavic_pagan_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_slavic_pagan_reformed_norman;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_county_norman;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_county_of_norman;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_of_pagan_group_norman;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_of_slavic_pagan_norman;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_of_slavic_pagan_reformed_norman;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_pagan_group_norman;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_county_slavic_pagan_norman;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_county_slavic_pagan_reformed_norman;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_duchy_of_christian_norman;Prince-Archevesquie de;Prince-Archevesquie de;Prince-Archevesquie de;;Prince-Archevesquie de;;;;;;;;;x
+temple_duke_christian_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_christian_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_pagan_group_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_slavic_pagan_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_slavic_pagan_reformed_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_pagan_group_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_slavic_pagan_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_slavic_pagan_reformed_norman;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_king_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+temple_king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+
+title_cupbearer_norman;Échanson;Échanson;Échanson;;Échanson;;;;;;;;;x
+title_high_almoner_norman;Grand Aumonier;Grand Aumonier;Grand Aumonier;;Grand Aumonier;;;;;;;;;x
+title_master_of_the_horse_norman;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+title_master_of_the_hunt_norman;Grand Veneur;Grand Veneur;Grand Veneur;;Grand Veneur;;;;;;;;;x
+title_prince_baron_female_norman;Princesse;Princesse;Princesse;;Princesse;;;;;;;;;x
+title_prince_baron_norman;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_prince_female_norman;Princesse;Princesse;Princesse;;Princesse;;;;;;;;;x
+title_prince_norman;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_queen_mother_norman;Roigne Mère;Roigne Mère;Roigne Mère;;Roigne Mère;;;;;;;;;x # $Not sure how the second word should be, copied from french
+title_regent_norman;Régent;Régent;Régent;;Régent;;;;;;;;;x
+title_seneschal_norman;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+
+tribal_count_norman;Chef;Chef;Chef;;Chef;;;;;;;;;x
+tribal_count_female_norman;Chef;Chef;Chef;;Chef;;;;;;;;;x
+tribal_baron_female_norman;Chatelaine;Chatelaine;Chatelaine;;Chatelaine;;;;;;;;;x
+tribal_baron_norman;Chatelain;Chatelain;Chatelain;;Chatelain;;;;;;;;;x
+tribal_city_barony_norman;Bailie;Bailie;Bailie;;Bailie;;;;;;;;;x
+tribal_city_barony_of_norman;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+tribal_city_county_norman;Bailie;Bailie;Bailie;;Bailie;;;;;;;;;x
+tribal_city_county_of_norman;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+tribal_duchy_norman;Duchié;Duchié;Duchié;;Duchié;;;;;;;;;x
+tribal_duchy_of_norman;Duchié de;Duchié de;Duchié de;;Duchié de;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_norman;Ducesse;Ducesse;Ducesse;;Ducesse;;;;;;;;;x
+tribal_duke_title_ruler_consort_norman;Duc;Duc;Duc;;Duc;;;;;;;;;x
+tribal_emperor_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+tribal_emperor_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+tribal_emperor_title_ruler_consort_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+tribal_empire_norman;Empere;Empere;Empere;;Empere;;;;;;;;;x
+tribal_empire_of_norman;Empere de;Empere de;Empere de;;Empere de;;;;;;;;;x
+tribal_job_chancellor_norman;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+tribal_job_marshal_norman;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+tribal_job_spymaster_norman;Maître Espion;Maître Espion;Maître Espion;;Maître Espion;;;;;;;;;x
+tribal_job_treasurer_norman;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+tribal_king_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+tribal_king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+tribal_king_title_ruler_consort_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+tribal_king_title_ruler_consort_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+tribal_kingdom_norman;Roialme;Roialme;Roialme;;Roialme;;;;;;;;;x
+tribal_kingdom_of_norman;Roialme de;Roialme de;Roialme de;;Roialme de;;;;;;;;;x
+tribal_title_master_of_horse_norman;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+tribal_title_seneschal_norman;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+
+vice_royalty_baron_female_norman;Chatelaine;Chatelaine;Chatelaine;;Chatelaine;;;;;;;;;x
+vice_royalty_baron_norman;Chatelain;Chatelain;Chatelain;;Chatelain;;;;;;;;;x
+vice_royalty_barony_norman;Chatellenie;Chatellenie;Chatellenie;;Chatellenie;;;;;;;;;x
+vice_royalty_count_female_norman;Countesse;Countesse;Countesse;;Countesse;;;;;;;;;x
+vice_royalty_count_norman;Counte;Counte;Counte;;Counte;;;;;;;;;x
+vice_royalty_county_norman;Counté;Counté;Counté;;Counté;;;;;;;;;x
+vice_royalty_duchy_norman;Duchié;Duchié;Duchié;;Duchié;;;;;;;;;x
+vice_royalty_duchy_of_norman;Duchié de;Duchié de;Duchié de;;Duchié de;;;;;;;;;x
+vice_royalty_duke_female_norman;Ducesse;Ducesse;Ducesse;;Ducesse;;;;;;;;;x
+vice_royalty_duke_norman;Duc;Duc;Duc;;Duc;;;;;;;;;x
+vice_royalty_emperor_female_norman;Empereis;Empereis;Empereis;;Empereis;;;;;;;;;x
+vice_royalty_emperor_norman;Emperur;Emperur;Emperur;;Emperur;;;;;;;;;x
+vice_royalty_empire_norman;Empere;Empere;Empere;;Empere;;;;;;;;;x
+vice_royalty_empire_of_norman;Empere de;Empere de;Empere de;;Empere de;;;;;;;;;x
+vice_royalty_king_female_norman;Roigne;Roigne;Roigne;;Roigne;;;;;;;;;x
+vice_royalty_king_norman;Roi;Roi;Roi;;Roi;;;;;;;;;x
+vice_royalty_kingdom_norman;Roialme;Roialme;Roialme;;Roialme;;;;;;;;;x
+vice_royalty_kingdom_of_norman;Roialme de;Roialme de;Roialme de;;Roialme de;;;;;;;;;x
+
+#########################################
+############# Occitan ###################
+#########################################
+
+city_baron_female_occitan;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_baron_occitan;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_barony_occitan;Provoste;Provoste;Provoste;;Provoste;;;;;;;;;x
+city_barony_of_occitan;Provoste de;Provoste de;Provoste de;;Provoste de;;;;;;;;;x
+city_count_female_occitan;Baillif;Baillif;Baillif;;Baillif;;;;;;;;;x
+city_count_occitan;Baillif;Baillif;Baillif;;Baillif;;;;;;;;;x
+city_county_occitan;Provoste;Provoste;Provoste;;Provoste;;;;;;;;;x
+city_county_of_occitan;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+city_empire_of_occitan;République Sérénissime de;République Sérénissime de;République Sérénissime de;;République Sérénissime de;;;;;;;;;x
+city_kingdom_of_occitan;République Sérénissime de;République Sérénissime de;République Sérénissime de;;République Sérénissime de;;;;;;;;;x
+
+COPTIC_POPE_occitan;Pape;Pape;Pape;;Pape;;;;;;;;;x
+
+emperor_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+emperor_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+emperor_title_queen_mother_occitan;Empererriz Veuve;Empererriz Veuve;Empererriz Veuve;;Empererriz Veuve;;;;;;;;;x
+emperor_title_ruler_consort_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+emperor_title_ruler_consort_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+empire_occitan;Empire;Empire;Empire;;Empire;;;;;;;;;x
+empire_of_occitan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+
+king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+king_title_ruler_consort_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+king_title_ruler_consort_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+kingdom_occitan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+kingdom_of_occitan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+
+duchy_occitan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+duchy_of_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+duke_female_occitan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+duke_occitan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+duke_title_ruler_consort_female_occitan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+duke_title_ruler_consort_occitan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+
+count_female_occitan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+count_occitan;Comte;Comte;Comte;;Comte;;;;;;;;;x
+count_title_ruler_consort_female_occitan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+count_title_ruler_consort_occitan;Comte;Comte;Comte;;Comte;;;;;;;;;x
+county_occitan;Comtat;Comtat;Comtat;;Comtat;;;;;;;;;x
+county_of_occitan;Comtat de;Comtat de;Comtat de;;Comtat de;;;;;;;;;x
+
+baron_female_occitan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+baron_occitan;Baron;Baron;Baron;;Baron;;;;;;;;;x
+baron_title_ruler_consort_female_occitan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+baron_title_ruler_consort_occitan;Baron;Baron;Baron;;Baron;;;;;;;;;x
+barony_occitan;Baronia;Baronia;Baronia;;Baronia;;;;;;;;;x
+barony_of_occitan;Baronia de;Baronia de;Baronia de;;Baronia de;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_occitan;Patriarcat Ecumènic;Patriarcat Ecumènic;Patriarcat Ecumènic;;Patriarcat Ecumènic;;;;;;;;;x
+
+family_palace_baron_occitan;Patricien;Patricien;Patricien;;Patricien;;;;;;;;;x
+
+imperial_baron_female_occitan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+imperial_baron_occitan;Baron;Baron;Baron;;Baron;;;;;;;;;x
+imperial_barony_occitan;Baronia;Baronia;Baronia;;Baronia;;;;;;;;;x
+imperial_barony_of_occitan;Baronia de;Baronia de;Baronia de;;Baronia de;;;;;;;;;x
+imperial_city_baron_female_occitan;Provost;Provost;Provost;;Provost;;;;;;;;;x
+imperial_city_baron_occitan;Provost;Provost;Provost;;Provost;;;;;;;;;x
+imperial_city_barony_occitan;Provoste;Provoste;Provoste;;Provoste;;;;;;;;;x
+imperial_city_barony_of_occitan;Provoste de;Provoste de;Provoste de;;Provoste de;;;;;;;;;x
+imperial_city_county_of_occitan;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+imperial_count_female_occitan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+imperial_count_occitan;Comte;Comte;Comte;;Comte;;;;;;;;;x
+imperial_county_occitan;Comtat;Comtat;Comtat;;Comtat;;;;;;;;;x
+imperial_county_of_occitan;Comtat de;Comtat de;Comtat de;;Comtat de;;;;;;;;;x
+imperial_duchy_occitan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+imperial_duchy_of_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_duke_female_occitan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+imperial_duke_occitan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+imperial_emperor_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+imperial_emperor_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+imperial_empire_occitan;Empire;Empire;Empire;;Empire;;;;;;;;;x
+imperial_empire_of_occitan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+imperial_job_chancellor_occitan;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+imperial_job_marshal_occitan;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+imperial_job_spymaster_occitan;Maître Espion;Maître Espion;Maître Espion;;Maître Espion;;;;;;;;;x
+imperial_job_treasurer_occitan;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+imperial_king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+imperial_king_title_ruler_consort_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_king_title_ruler_consort_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+imperial_kingdom_occitan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+imperial_kingdom_of_occitan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+imperial_title_cupbearer_occitan;Échanson;Échanson;Échanson;;Échanson;;;;;;;;;x
+imperial_title_master_of_horse_occitan;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+imperial_title_prince_female_occitan;Princessa;Princessa;Princessa;;Princessa;;;;;;;;;x
+imperial_title_prince_occitan;Prince;Prince;Prince;;Prince;;;;;;;;;x
+imperial_title_queen_mother_occitan;Reine Mère;Reine Mère;Reine Mère;;Reine Mère;;;;;;;;;x
+imperial_title_seneschal_occitan;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+imperial_tribal_duchy_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_tribal_duchy_of_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_vice_royalty_duchy_occitan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+imperial_vice_royalty_duchy_of_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_vice_royalty_duke_female_occitan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+imperial_vice_royalty_duke_occitan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+imperial_vice_royalty_king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_vice_royalty_king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+imperial_vice_royalty_kingdom_occitan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_occitan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+
+job_chancellor_female_occitan;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+job_chancellor_occitan;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+job_marshal_occitan;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+job_spymaster_occitan;Maître Espion;Maître Espion;Maître Espion;;Maître Espion;;;;;;;;;x
+job_treasurer_female_occitan;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+job_treasurer_occitan;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+
+nomadic_emperor_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+nomadic_emperor_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+nomadic_empire_occitan;Empire;Empire;Empire;;Empire;;;;;;;;;x
+nomadic_empire_of_occitan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+nomadic_king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+nomadic_king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+nomadic_king_title_ruler_consort_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+
+PATRIARCH_CAP_occitan;Patriarcat;Patriarcat;Patriarcat;;Patriarcat;;;;;;;;;x
+POPE_occitan;Pape;Pape;Pape;;Pape;;;;;;;;;x
+
+temple_barony_of_christian_occitan;Évesquie de;Évesquie de;Évesquie de;;Évesquie de;;;;;;;;;x
+temple_count_christian_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_christian_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_pagan_group_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_slavic_pagan_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_pagan_group_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_slavic_pagan_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_count_slavic_pagan_reformed_occitan;Prince-Évesque;Prince-Évesque;Prince-Évesque;;Prince-Évesque;;;;;;;;;x
+temple_county_occitan;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_county_of_occitan;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_of_pagan_group_occitan;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_of_slavic_pagan_occitan;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_of_slavic_pagan_reformed_occitan;Prince-Évesquie de;Prince-Évesquie de;Prince-Évesquie de;;Prince-Évesquie de;;;;;;;;;x
+temple_county_pagan_group_occitan;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_county_slavic_pagan_occitan;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_county_slavic_pagan_reformed_occitan;Prince-Évesquie;Prince-Évesquie;Prince-Évesquie;;Prince-Évesquie;;;;;;;;;x
+temple_duchy_of_christian_occitan;Prince-Archevesquie de;Prince-Archevesquie de;Prince-Archevesquie de;;Prince-Archevesquie de;;;;;;;;;x
+temple_duke_christian_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_christian_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_pagan_group_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_slavic_pagan_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_female_slavic_pagan_reformed_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_pagan_group_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_slavic_pagan_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_duke_slavic_pagan_reformed_occitan;Prince-Archevesque;Prince-Archevesque;Prince-Archevesque;;Prince-Archevesque;;;;;;;;;x
+temple_king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+temple_king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+
+title_cupbearer_occitan;Échanson;Échanson;Échanson;;Échanson;;;;;;;;;x
+title_high_almoner_occitan;Grand Aumonier;Grand Aumonier;Grand Aumonier;;Grand Aumonier;;;;;;;;;x
+title_master_of_the_horse_occitan;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+title_master_of_the_hunt_occitan;Grand Veneur;Grand Veneur;Grand Veneur;;Grand Veneur;;;;;;;;;x
+title_prince_baron_female_occitan;Princessa;Princessa;Princessa;;Princessa;;;;;;;;;x
+title_prince_baron_occitan;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_prince_female_occitan;Princessa;Princessa;Princessa;;Princessa;;;;;;;;;x
+title_prince_occitan;Prince;Prince;Prince;;Prince;;;;;;;;;x
+title_queen_mother_occitan;Reine Mère;Reine Mère;Reine Mère;;Reine Mère;;;;;;;;;x
+title_regent_occitan;Régent;Régent;Régent;;Régent;;;;;;;;;x
+title_seneschal_occitan;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+
+tribal_baron_female_occitan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+tribal_baron_occitan;Baron;Baron;Baron;;Baron;;;;;;;;;x
+tribal_count_occitan;Cap;Cap;Cap;;Cap;;;;;;;;;x
+tribal_count_female_occitan;Cap;Cap;Cap;;Cap;;;;;;;;;x
+tribal_city_barony_occitan;Provoste;Provoste;Provoste;;Provoste;;;;;;;;;x
+tribal_city_barony_of_occitan;Provoste de;Provoste de;Provoste de;;Provoste de;;;;;;;;;x
+tribal_city_county_occitan;Provoste;Provoste;Provoste;;Provoste;;;;;;;;;x
+tribal_city_county_of_occitan;Bailliage de;Bailliage de;Bailliage de;;Bailliage de;;;;;;;;;x
+tribal_duchy_occitan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+tribal_duchy_of_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_occitan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+tribal_duke_title_ruler_consort_occitan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+tribal_emperor_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+tribal_emperor_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+tribal_emperor_title_ruler_consort_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+tribal_empire_occitan;Empire;Empire;Empire;;Empire;;;;;;;;;x
+tribal_empire_of_occitan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+tribal_job_chancellor_occitan;Chancelier;Chancelier;Chancelier;;Chancelier;;;;;;;;;x
+tribal_job_marshal_occitan;Connétable;Connétable;Connétable;;Connétable;;;;;;;;;x
+tribal_job_spymaster_occitan;Maître Espion;Maître Espion;Maître Espion;;Maître Espion;;;;;;;;;x
+tribal_job_treasurer_occitan;Sénéchal;Sénéchal;Sénéchal;;Sénéchal;;;;;;;;;x
+tribal_king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+tribal_king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+tribal_king_title_ruler_consort_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+tribal_king_title_ruler_consort_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+tribal_kingdom_occitan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+tribal_kingdom_of_occitan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+tribal_title_master_of_horse_occitan;Grand Écuyer;Grand Écuyer;Grand Écuyer;;Grand Écuyer;;;;;;;;;x
+tribal_title_seneschal_occitan;Grand Chambellan;Grand Chambellan;Grand Chambellan;;Grand Chambellan;;;;;;;;;x
+
+vice_royalty_baron_female_occitan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+vice_royalty_baron_occitan;Baron;Baron;Baron;;Baron;;;;;;;;;x
+vice_royalty_barony_occitan;Baronia;Baronia;Baronia;;Baronia;;;;;;;;;x
+vice_royalty_count_female_occitan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+vice_royalty_count_occitan;Comte;Comte;Comte;;Comte;;;;;;;;;x
+vice_royalty_county_occitan;Comtat;Comtat;Comtat;;Comtat;;;;;;;;;x
+vice_royalty_duchy_occitan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+vice_royalty_duchy_of_occitan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+vice_royalty_duke_female_occitan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+vice_royalty_duke_occitan;Duc;Duc;Duc;;Duc;;;;;;;;;x
+vice_royalty_emperor_female_occitan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+vice_royalty_emperor_occitan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+vice_royalty_empire_occitan;Empire;Empire;Empire;;Empire;;;;;;;;;x
+vice_royalty_empire_of_occitan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+vice_royalty_king_female_occitan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+vice_royalty_king_occitan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+vice_royalty_kingdom_occitan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+vice_royalty_kingdom_of_occitan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x

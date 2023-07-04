@@ -1,0 +1,20 @@
+
+
+##########################################################
+################### Pagan Uni ############################
+##########################################################
+
+pRector;Modrost";;;;;;;;;
+
+d_university_pagan;Velik' Akadémija;;;;;;x
+
+d_university_pagan_adj;Imperátorskij;;;;;;;;;;; 
+
+send_to_pagan;Send to Velik' Akadémija;;Auf die velik' Akadémija;;;;;;;x 
+send_to_pagan_desc;Send your child to Velik' Akadémija\nNOTE: this will break any betrothals they may have;;Dein Sprössling soll die velik' Akadémija.\nAchtung: Ein bestehenendes Verlöbnis wird dadurch gelöst.;;;;x
+
+deny_pagan;Deny Access to Velik' Akadémija;;Verriegele die Pforten der Halle der Erkenntnis;;;;;;;x
+deny_pagan_desc;Deny Access to Velik' Akadémija;;Der Besuch der Halle der Erkenntnis ist Fremden untersagt.;;;;x
+
+remove_pagan;Remove Ban from Velik' Akadémija;;Öffne die Pforte der Halle der Erkenntnis;;;;;;;x
+remove_pagan_desc;Remove Ban Velik' Akadémija;;Der Besuch der Halle der Weisheit ist Fremden gestattet.;;;;x

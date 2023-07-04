@@ -1,0 +1,837 @@
+
+###########################################################
+##################### Celtic ##############################
+###########################################################
+################# Celtic is everyone ######################
+
+
+emperor_celtic;Ard-Rí;;;;;;;;;;;;;x
+king_celtic;Rí;;;;;;;;;;;;;x
+king_female_celtic;Banríon;;;;;;;;;;;;;x
+title_prince_celtic;Prionsa;;;;;;;;;;;;;x
+title_prince_female_celtic;Banphrionsa;;;;;;;;;;;;;x
+duke_celtic;Duw;;;;;;;;;;;;;x
+count_celtic;Comhaireamh;;;;;;;;;;;;;x
+
+tribal_count_celtic;Prif;;;;;;;;;;;;;x
+
+job_chancellor_celtic;Castellan;;;;;;;;;;;;;x
+
+king_breton;Ri;;;;;;;;;;;;;x
+king_female_breton;Rouanez;;;;;;;;;;;;;x
+
+###########################################
+############### Irish #####################
+###########################################
+
+city_baron_female_irish;Báille;Báille;Báille;;Báille;;;;;;;;;x # $I think it's ok but not sure
+city_baron_irish;Báille;Báille;Báille;;Báille;;;;;;;;;x
+city_barony_irish;Bhaile Mòr;Bhaile Mòr;Bhaile Mòr;;Bhaile Mòr;;;;;;;;;x
+city_barony_of_irish;Bhaile Mòr of;Bhaile Mòr of;Bhaile Mòr of;;Bhaile Mòr of;;;;;;;;;x
+city_count_female_irish;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_count_irish;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_county_irish;Siorrachd;Siorrachd;Siorrachd;;Siorrachd;;;;;;;;;x
+city_county_of_irish;Siorrachd of;Siorrachd of;Siorrachd of;;Siorrachd of;;;;;;;;;x
+
+emperor_female_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+emperor_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+emperor_title_ruler_consort_female_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+emperor_title_ruler_consort_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+
+king_female_irish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+king_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+king_title_ruler_consort_female_irish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+king_title_ruler_consort_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+kingdom_irish;Ardrígdacht;Ardrígdacht;Ardrígdacht;;Ardrígdacht;;;;;;;;;x
+kingdom_of_irish;Ardrígdacht of;Ardrígdacht of;Ardrígdacht of;;Ardrígdacht of;;;;;;;;;x
+
+duchy_irish;Rígdacht;Rígdacht;Rígdacht;;Rígdacht;;;;;;;;;x
+duchy_of_irish;Rígdacht of;Rígdacht of;Rígdacht of;;Rígdacht of;;;;;;;;;x
+duke_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+duke_irish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+duke_title_ruler_consort_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+duke_title_ruler_consort_irish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+
+count_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+count_irish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+count_title_ruler_consort_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+count_title_ruler_consort_irish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+county_irish;Cóicid;Cóicid;Cóicid;;Cóicid;;;;;;;;;x
+county_of_irish;Cóicid of;Cóicid of;Cóicid of;;Cóicid of;;;;;;;;;x
+
+baron_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+baron_irish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+baron_title_ruler_consort_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+baron_title_ruler_consort_irish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+barony_irish;Túath;Túath;Túath;;Túath;;;;;;;;;x
+barony_of_irish;Túath of;Túath of;Túath of;;Túath of;;;;;;;;;x
+
+imperial_baron_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_baron_irish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+imperial_barony_irish;Túath;Túath;Túath;;Túath;;;;;;;;;x
+imperial_barony_of_irish;Túath of;Túath of;Túath of;;Túath of;;;;;;;;;x
+imperial_city_baron_female_irish;Báille;Báille;Báille;;Báille;;;;;;;;;x # $I think it's ok but not sure
+imperial_city_baron_irish;Báille;Báille;Báille;;Báille;;;;;;;;;x
+imperial_city_barony_irish;Bhaile Mòr;Bhaile Mòr;Bhaile Mòr;;Bhaile Mòr;;;;;;;;;x
+imperial_city_barony_of_irish;Bhaile Mòr of;Bhaile Mòr of;Bhaile Mòr of;;Bhaile Mòr of;;;;;;;;;x
+imperial_city_county_irish;Siorrachd;Siorrachd;Siorrachd;;Siorrachd;;;;;;;;;x
+imperial_city_county_of_irish;Siorrachd of;Siorrachd of;Siorrachd of;;Siorrachd of;;;;;;;;;x
+imperial_count_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_count_irish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+imperial_county_irish;Cóicid;Cóicid;Cóicid;;Cóicid;;;;;;;;;x
+imperial_county_of_irish;Cóicid of;Cóicid of;Cóicid of;;Cóicid of;;;;;;;;;x
+imperial_duchy_irish;Rígdacht;Rígdacht;Rígdacht;;Rígdacht;;;;;;;;;x
+imperial_duchy_of_irish;Rígdacht of;Rígdacht of;Rígdacht of;;Rígdacht of;;;;;;;;;x
+imperial_duke_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_duke_irish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+imperial_emperor_female_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+imperial_emperor_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+imperial_job_chancellor_irish;Great Chamberlain;Great Chamberlain;Great Chamberlain;;Great Chamberlain;;;;;;;;;x
+imperial_job_marshal_irish;Marischal;Marischal;Marischal;;Marischal;;;;;;;;;x
+imperial_job_treasurer_irish;Great Steward;Great Steward;Great Steward;;Great Steward;;;;;;;;;x
+imperial_king_female_irish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+imperial_king_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+imperial_king_title_ruler_consort_female_irish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+imperial_king_title_ruler_consort_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+imperial_kingdom_irish;Ardrígdacht;Ardrígdacht;Ardrígdacht;;Ardrígdacht;;;;;;;;;x
+imperial_kingdom_of_irish;Ardrígdacht of;Ardrígdacht of;Ardrígdacht of;;Ardrígdacht of;;;;;;;;;x
+imperial_title_prince_female_irish;Banfhlaith;Banfhlaith;Banfhlaith;;Banfhlaith;;;;;;;;;x
+imperial_title_prince_irish;Flaith;Flaith;Flaith;;Flaith;;;;;;;;;x
+imperial_tribal_duchy_irish;Rígdacht of;Rígdacht of;Rígdacht of;;Rígdacht of;;;;;;;;;x
+imperial_tribal_duchy_of_irish;Rígdacht of;Rígdacht of;Rígdacht of;;Rígdacht of;;;;;;;;;x
+imperial_vice_royalty_duchy_irish;Rígdacht;Rígdacht;Rígdacht;;Rígdacht;;;;;;;;;x
+imperial_vice_royalty_duchy_of_irish;Rígdacht of;Rígdacht of;Rígdacht of;;Rígdacht of;;;;;;;;;x
+imperial_vice_royalty_duke_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_vice_royalty_duke_irish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+imperial_vice_royalty_king_female_irish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+imperial_vice_royalty_king_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+imperial_vice_royalty_kingdom_irish;Ardrígdacht;Ardrígdacht;Ardrígdacht;;Ardrígdacht;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_irish;Ardrígdacht of;Ardrígdacht of;Ardrígdacht of;;Ardrígdacht of;;;;;;;;;x
+
+job_chancellor_female_irish;Great Chamberlain;Great Chamberlain;Great Chamberlain;;Great Chamberlain;;;;;;;;;x
+job_chancellor_irish;Great Chamberlain;Great Chamberlain;Great Chamberlain;;Great Chamberlain;;;;;;;;;x
+job_marshal_irish;Marischal;Marischal;Marischal;;Marischal;;;;;;;;;x
+job_treasurer_female_irish;Great Steward;Great Steward;Great Steward;;Great Steward;;;;;;;;;x
+job_treasurer_irish;Great Steward;Great Steward;Great Steward;;Great Steward;;;;;;;;;x
+
+nomadic_emperor_female_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_emperor_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_king_female_irish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+nomadic_king_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_irish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+nomadic_king_title_ruler_consort_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+
+temple_king_female_irish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+temple_king_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+
+title_prince_baron_female_irish;Banfhlaith;Banfhlaith;Banfhlaith;;Banfhlaith;;;;;;;;;x
+title_prince_baron_irish;Flaith;Flaith;Flaith;;Flaith;;;;;;;;;x
+title_prince_female_irish;Banfhlaith;Banfhlaith;Banfhlaith;;Banfhlaith;;;;;;;;;x
+title_prince_irish;Flaith;Flaith;Flaith;;Flaith;;;;;;;;;x
+
+vice_royalty_baron_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+vice_royalty_baron_irish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+vice_royalty_barony_irish;Túath;Túath;Túath;;Túath;;;;;;;;;x
+vice_royalty_count_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+vice_royalty_count_irish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+vice_royalty_county_irish;Cóicid;Cóicid;Cóicid;;Cóicid;;;;;;;;;x
+vice_royalty_duchy_irish;Rígdacht;Rígdacht;Rígdacht;;Rígdacht;;;;;;;;;x
+vice_royalty_duchy_of_irish;Rígdacht of;Rígdacht of;Rígdacht of;;Rígdacht of;;;;;;;;;x
+vice_royalty_duke_female_irish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+vice_royalty_duke_irish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+vice_royalty_emperor_female_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+vice_royalty_emperor_irish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+vice_royalty_king_female_irish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+vice_royalty_king_irish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+vice_royalty_kingdom_irish;Ardrígdacht;Ardrígdacht;Ardrígdacht;;Ardrígdacht;;;;;;;;;x
+vice_royalty_kingdom_of_irish;Ardrígdacht of;Ardrígdacht of;Ardrígdacht of;;Ardrígdacht of;;;;;;;;;x
+
+job_chancellor_irish;Seansalair;;;;;;;;;;;;;x
+job_marshal_irish;Marasgal;;;;;;;;;;;;;x
+job_treasurer_irish;Ionmhasair;;;;;;;;;;;;;x
+job_spymaster_irish;Maighstir Spy;;;;;;;;;;;;;x
+
+
+tribal_empire_irish;Sgìre Ìmpireil;;;;;;;;;;;;;x
+tribal_kingdom_irish;Sgìre Rìoghail;;;;;;;;;;;;;x
+tribal_duchy_irish;Sgìre Àrd;;;;;;;;;;;;;x
+tribal_county_irish;Sgìre;;;;;;;;;;;;;x
+
+tribal_empire_of_irish;Sgìre Ìmpireil na;;;;;;;;;;;;;x
+tribal_kingdom_of_irish;Sgìre Rìoghail na;;;;;;;;;;;;;x
+tribal_duchy_of_irish;Sgìre Àrd na;;;;;;;;;;;;;x
+tribal_county_of_irish;Sgìre na;;;;;;;;;;;;;x
+
+tribal_emperor_irish;Ceannard ìmpireil;;;;;;;;;;;;;x
+tribal_king_irish;Ceannard Rìoghail;;;;;;;;;;;;;x
+tribal_duke_irish;Ard-cheannard;;;;;;;;;;;;;x
+tribal_count_irish;Ceann-cinnidh;;;;;;;;;;;;;x
+
+tribal_emperor_female_irish;Ceann-feadhna Ìmpireil;;;;;;;;;;;;;x
+tribal_king_female_irish;Ceann-feadhna Rìoghail;;;;;;;;;;;;;x
+tribal_duke_female_irish;Ard-cheannard;;;;;;;;;;;;;x
+tribal_count_female_irish;Ceann-feadhna;;;;;;;;;;;;;x
+
+###########################################
+############ Scottish #####################
+###########################################
+
+city_baron_female_scottish;Báille;Báille;Báille;;Báille;;;;;;;;;x # $I think it's ok but not sure
+city_baron_scottish;Báille;Báille;Báille;;Báille;;;;;;;;;x
+city_barony_of_scottish;Bhaile Mòr na;Bhaile Mòr na;Bhaile Mòr na;;Bhaile Mòr na;;;;;;;;;x
+city_barony_scottish;Bhaile Mòr;Bhaile Mòr;Bhaile Mòr;;Bhaile Mòr;;;;;;;;;x
+city_count_female_scottish;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_count_scottish;Provost;Provost;Provost;;Provost;;;;;;;;;x
+city_county_of_scottish;Siorrachd na;Siorrachd na;Siorrachd na;;Siorrachd na;;;;;;;;;x
+city_county_scottish;Siorrachd;Siorrachd;Siorrachd;;Siorrachd;;;;;;;;;x
+
+emperor_female_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+emperor_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+emperor_title_ruler_consort_female_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+emperor_title_ruler_consort_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+empire_of_scottish;Impireacht na;Impireacht na;Impireacht na;;Impireacht na;;;;;;;;;x
+empire_scottish;Impireacht;Impireacht;Impireacht;;Impireacht;;;;;;;;;x
+
+king_female_scottish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+king_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+king_title_ruler_consort_female_scottish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+king_title_ruler_consort_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+kingdom_of_scottish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+kingdom_scottish;Ard Rìochd;Ard Rìochd;Ard Rìochd;;Ard Rìochd;;;;;;;;;x
+
+duchy_of_scottish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+duchy_scottish;Rìochd;Rìochd;Rìochd;;Rìochd;;;;;;;;;x
+duke_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+duke_scottish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+duke_title_ruler_consort_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+duke_title_ruler_consort_scottish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+
+count_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+count_scottish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+count_title_ruler_consort_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+count_title_ruler_consort_scottish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+county_of_scottish;Cóicid na;Cóicid na;Cóicid na;;Cóicid na;;;;;;;;;x
+county_scottish;Cóicid;Cóicid;Cóicid;;Cóicid;;;;;;;;;x
+
+baron_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+baron_scottish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+baron_title_ruler_consort_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+baron_title_ruler_consort_scottish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+barony_of_scottish;Túath na;Túath na;Túath na;;Túath na;;;;;;;;;x
+barony_scottish;Túath;Túath;Túath;;Túath;;;;;;;;;x
+
+imperial_baron_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_baron_scottish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+imperial_barony_of_scottish;Túath na;Túath na;Túath na;;Túath na;;;;;;;;;x
+imperial_barony_scottish;Túath;Túath;Túath;;Túath;;;;;;;;;x
+imperial_city_baron_female_scottish;Báille;Báille;Báille;;Báille;;;;;;;;;x # $I think it's ok but not sure
+imperial_city_baron_scottish;Báille;Báille;Báille;;Báille;;;;;;;;;x
+imperial_city_barony_of_scottish;Bhaile Mòr na;Bhaile Mòr na;Bhaile Mòr na;;Bhaile Mòr na;;;;;;;;;x
+imperial_city_barony_scottish;Bhaile Mòr;Bhaile Mòr;Bhaile Mòr;;Bhaile Mòr;;;;;;;;;x
+imperial_city_county_of_scottish;Siorrachd na;Siorrachd na;Siorrachd na;;Siorrachd na;;;;;;;;;x
+imperial_city_county_scottish;Siorrachd;Siorrachd;Siorrachd;;Siorrachd;;;;;;;;;x
+imperial_count_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_count_scottish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+imperial_county_of_scottish;Cóicid na;Cóicid na;Cóicid na;;Cóicid na;;;;;;;;;x
+imperial_county_scottish;Cóicid;Cóicid;Cóicid;;Cóicid;;;;;;;;;x
+imperial_duchy_of_scottish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_duchy_scottish;Rìochd;Rìochd;Rìochd;;Rìochd;;;;;;;;;x
+imperial_duke_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_duke_scottish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+imperial_emperor_female_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+imperial_emperor_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+imperial_empire_of_scottish;Impireacht na;Impireacht na;Impireacht na;;Impireacht na;;;;;;;;;x
+imperial_empire_scottish;Impireacht;Impireacht;Impireacht;;Impireacht;;;;;;;;;x
+imperial_job_chancellor_scottish;Great Chamberlain;Great Chamberlain;Great Chamberlain;;Great Chamberlain;;;;;;;;;x
+imperial_job_marshal_scottish;Marischal;Marischal;Marischal;;Marischal;;;;;;;;;x
+imperial_job_treasurer_scottish;Great Steward;Great Steward;Great Steward;;Great Steward;;;;;;;;;x
+imperial_king_female_scottish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+imperial_king_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+imperial_king_title_ruler_consort_female_scottish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+imperial_king_title_ruler_consort_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+imperial_kingdom_of_scottish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+imperial_kingdom_scottish;Ard Rìochd;Ard Rìochd;Ard Rìochd;;Ard Rìochd;;;;;;;;;x
+imperial_title_prince_female_scottish;Banfhlaith;Banfhlaith;Banfhlaith;;Banfhlaith;;;;;;;;;x
+imperial_title_prince_scottish;Flaith;Flaith;Flaith;;Flaith;;;;;;;;;x
+imperial_tribal_duchy_of_scottish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_tribal_duchy_scottish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_vice_royalty_duchy_of_scottish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_vice_royalty_duchy_scottish;Rìochd;Rìochd;Rìochd;;Rìochd;;;;;;;;;x
+imperial_vice_royalty_duke_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_vice_royalty_duke_scottish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+imperial_vice_royalty_king_female_scottish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+imperial_vice_royalty_king_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_scottish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+imperial_vice_royalty_kingdom_scottish;Ard Rìochd;Ard Rìochd;Ard Rìochd;;Ard Rìochd;;;;;;;;;x
+
+nomadic_emperor_female_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_emperor_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+nomadic_empire_of_scottish;Impireacht na;Impireacht na;Impireacht na;;Impireacht na;;;;;;;;;x
+nomadic_empire_scottish;Impireacht;Impireacht;Impireacht;;Impireacht;;;;;;;;;x
+nomadic_king_female_scottish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+nomadic_king_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_scottish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+nomadic_king_title_ruler_consort_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+
+title_prince_baron_female_scottish;Banfhlaith;Banfhlaith;Banfhlaith;;Banfhlaith;;;;;;;;;x
+title_prince_baron_scottish;Flaith;Flaith;Flaith;;Flaith;;;;;;;;;x
+title_prince_female_scottish;Banfhlaith;Banfhlaith;Banfhlaith;;Banfhlaith;;;;;;;;;x
+title_prince_scottish;Flaith;Flaith;Flaith;;Flaith;;;;;;;;;x
+
+vice_royalty_baron_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+vice_royalty_baron_scottish;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+vice_royalty_barony_scottish;Túath;Túath;Túath;;Túath;;;;;;;;;x
+vice_royalty_count_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+vice_royalty_count_scottish;Ri Buiden;Ri Buiden;Ri Buiden;;Ri Buiden;;;;;;;;;x
+vice_royalty_county_scottish;Cóicid;Cóicid;Cóicid;;Cóicid;;;;;;;;;x
+vice_royalty_duchy_of_scottish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+vice_royalty_duchy_scottish;Rìochd;Rìochd;Rìochd;;Rìochd;;;;;;;;;x
+vice_royalty_duke_female_scottish;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+vice_royalty_duke_scottish;Ri Ruirech;Ri Ruirech;Ri Ruirech;;Ri Ruirech;;;;;;;;;x
+vice_royalty_emperor_female_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+vice_royalty_emperor_scottish;Ollamh Érenn;Ollamh Érenn;Ollamh Érenn;;Ollamh Érenn;;;;;;;;;x
+vice_royalty_empire_of_scottish;Impireacht na;Impireacht na;Impireacht na;;Impireacht na;;;;;;;;;x
+vice_royalty_empire_scottish;Impireacht;Impireacht;Impireacht;;Impireacht;;;;;;;;;x
+vice_royalty_king_female_scottish;Banríon;Banríon;Banríon;;Banríon;;;;;;;;;x
+vice_royalty_king_scottish;Ard Rí;Ard Rí;Ard Rí;;Ard Rí;;;;;;;;;x
+vice_royalty_kingdom_of_scottish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+vice_royalty_kingdom_scottish;Ard Rìochd;Ard Rìochd;Ard Rìochd;;Ard Rìochd;;;;;;;;;x
+
+
+job_chancellor_scottish;Seansalair;;;;;;;;;;;;;x
+job_marshal_scottish;Marasgal;;;;;;;;;;;;;x
+job_treasurer_scottish;Ionmhasair;;;;;;;;;;;;;x
+job_spymaster_scottish;Maighstir Spy;;;;;;;;;;;;;x
+
+
+tribal_empire_scottish;Sgìre Ìmpireil;;;;;;;;;;;;;x
+tribal_kingdom_scottish;Sgìre Rìoghail;;;;;;;;;;;;;x
+tribal_duchy_scottish;Sgìre Àrd;;;;;;;;;;;;;x
+tribal_county_scottish;Sgìre;;;;;;;;;;;;;x
+
+tribal_empire_of_scottish;Sgìre Ìmpireil na;;;;;;;;;;;;;x
+tribal_kingdom_of_scottish;Sgìre Rìoghail na;;;;;;;;;;;;;x
+tribal_duchy_of_scottish;Sgìre Àrd na;;;;;;;;;;;;;x
+tribal_county_of_scottish;Sgìre na;;;;;;;;;;;;;x
+
+tribal_emperor_scottish;Ceannard ìmpireil;;;;;;;;;;;;;x
+tribal_king_scottish;Ceannard Rìoghail;;;;;;;;;;;;;x
+tribal_duke_scottish;Ard-cheannard;;;;;;;;;;;;;x
+tribal_count_scottish;Ceann-cinnidh;;;;;;;;;;;;;x
+
+tribal_emperor_female_scottish;Ceann-feadhna Ìmpireil;;;;;;;;;;;;;x
+tribal_king_female_scottish;Ceann-feadhna Rìoghail;;;;;;;;;;;;;x
+tribal_duke_female_scottish;Ard-cheannard;;;;;;;;;;;;;x
+tribal_count_female_scottish;Ceann-feadhna;;;;;;;;;;;;;x
+
+###########################################################
+##################### Pictish #############################
+###########################################################
+
+
+city_baron_female_pictish;Báille;Báille;Báille;;Báille;;;;;;;;;x # $I think it's ok but not sure
+city_baron_pictish;Báille;Báille;Báille;;Báille;;;;;;;;;x
+city_barony_of_pictish;Bhaile Mòr na;Bhaile Mòr na;Bhaile Mòr na;;Bhaile Mòr na;;;;;;;;;x
+city_barony_pictish;Din;Din;Din;;Din;;;;;;;;;x
+city_count_female_pictish;Ukelfaires;Ukelfaires;Ukelfaires;;Ukelfaires;;;;;;;;;x
+city_count_pictish;Ukelfair;Ukelfair;Ukelfair;;Ukelfair;;;;;;;;;x
+city_county_of_pictish;Siorrachd na;Siorrachd na;Siorrachd na;;Siorrachd na;;;;;;;;;x
+city_county_pictish;Sir;Sir;Sir;;Sir;;;;;;;;;x
+
+
+emperor_female_pictish;Ambrodres;Ambrodres;Ambrodres;;Ambrodres;;;;;;;;;x
+emperor_pictish;Ambrodur;Ambrodur;Ambrodur;;Ambrodur;;;;;;;;;x
+emperor_title_ruler_consort_female_pictish;Ambrodres;Ambrodres;Ambrodres;;Ambrodres;;;;;;;;;x
+emperor_title_ruler_consort_pictish;Ambrodur;Ambrodur;Ambrodur;;Ambrodur;;;;;;;;;x
+empire_of_pictish;Impireacht na;Impireacht na;Impireacht na;;Impireacht na;;;;;;;;;x
+empire_pictish;Ambrodraith;Ambrodraith;Ambrodraith;;Ambrodraith;;;;;;;;;x
+
+king_female_pictish;Rigen;Rigen;Rigen;;Rigen;;;;;;;;;x
+king_pictish;Tiarn;Tiarn;Tiarn;;Tiarn;;;;;;;;;x
+king_title_ruler_consort_female_pictish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+king_title_ruler_consort_pictish;Tiarn;Tiarn;Tiarn;;Tiarn;;;;;;;;;x
+kingdom_of_pictish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+kingdom_pictish;Tiarnas;Tiarnas;Tiarnas;;Tiarnas;;;;;;;;;x
+
+duchy_of_pictish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+duchy_pictish;Tuwissokaith;Tuwissokaith;Tuwissokaith;;Tuwissokaith;;;;;;;;;x
+duke_female_pictish;Tuwissokes;Tuwissokes;Tuwissokes;;Tuwissokes;;;;;;;;;x
+duke_pictish;Tuwissok;Tuwissok;Tuwissok;;Tuwissok;;;;;;;;;x
+duke_title_ruler_consort_female_pictish;Tuwissokes;Tuwissokes;Tuwissokes;;Tuwissokes;;;;;;;;;x
+duke_title_ruler_consort_pictish;Tuwissok;Tuwissok;Tuwissok;;Tuwissok;;;;;;;;;x
+
+count_female_pictish;Pendevikes;Pendevikes;Pendevikes;;Pendevikes;;;;;;;;;x
+count_pictish;Pendevik;Pendevik;Pendevik;;Pendevik;;;;;;;;;x
+count_title_ruler_consort_female_pictish;Pendevikes;Pendevikes;Pendevikes;;Pendevikes;;;;;;;;;x
+count_title_ruler_consort_pictish;Pendevik;Pendevik;Pendevik;;Pendevik;;;;;;;;;x
+county_of_pictish;Cóicid na;Cóicid na;Cóicid na;;Cóicid na;;;;;;;;;x
+county_pictish;Kantrefod;Kantrefod;Kantrefod;;Kantrefod;;;;;;;;;x
+
+baron_female_pictish;Argotes;Argotes;Argotes;;Argotes;;;;;;;;;x
+baron_pictish;Argot;Argot;Argot;;Argot;;;;;;;;;x
+baron_title_ruler_consort_female_pictish;Argotes;Argotes;Argotes;;Argotes;;;;;;;;;x
+baron_title_ruler_consort_pictish;Argot;Argot;Argot;;Argot;;;;;;;;;x
+barony_of_pictish;Túath na;Túath na;Túath na;;Túath na;;;;;;;;;x
+barony_pictish;Kantref;Kantref;Kantref;;Kantref;;;;;;;;;x
+
+imperial_baron_female_pictish;Argotes;Argotes;Argotes;;Argotes;;;;;;;;;x
+imperial_baron_pictish;Argot;Argot;Argot;;Argot;;;;;;;;;x
+imperial_barony_of_pictish;Túath na;Túath na;Túath na;;Túath na;;;;;;;;;x
+imperial_barony_pictish;Kantref;Kantref;Kantref;;Kantref;;;;;;;;;x
+imperial_city_baron_female_pictish;Báille;Báille;Báille;;Báille;;;;;;;;;x # $I think it's ok but not sure
+imperial_city_baron_pictish;Báille;Báille;Báille;;Báille;;;;;;;;;x
+imperial_city_barony_of_pictish;Bhaile Mòr na;Bhaile Mòr na;Bhaile Mòr na;;Bhaile Mòr na;;;;;;;;;x
+imperial_city_barony_pictish;Din;Din;Din;;Din;;;;;;;;;x
+imperial_city_county_of_pictish;Siorrachd na;Siorrachd na;Siorrachd na;;Siorrachd na;;;;;;;;;x
+imperial_city_county_pictish;Sir;Sir;Sir;;Sir;;;;;;;;;x
+imperial_count_female_pictish;Pendevikes;Pendevikes;Pendevikes;;Pendevikes;;;;;;;;;x
+imperial_count_pictish;Pendevik;Pendevik;Pendevik;;Pendevik;;;;;;;;;x
+imperial_county_of_pictish;Cóicid na;Cóicid na;Cóicid na;;Cóicid na;;;;;;;;;x
+imperial_county_pictish;Kantrefod;Kantrefod;Kantrefod;;Kantrefod;;;;;;;;;x
+imperial_duchy_of_pictish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_duchy_pictish;Tuwissokaith;Tuwissokaith;Tuwissokaith;;Tuwissokaith;;;;;;;;;x
+imperial_duke_female_pictish;Tuwissokes;Tuwissokes;Tuwissokes;;Tuwissokes;;;;;;;;;x
+imperial_duke_pictish;Tuwissok;Tuwissok;Tuwissok;;Tuwissok;;;;;;;;;x
+imperial_emperor_female_pictish;Ambrodres;Ambrodres;Ambrodres;;Ambrodres;;;;;;;;;x
+imperial_emperor_pictish;Ambrodur;Ambrodur;Ambrodur;;Ambrodur;;;;;;;;;x
+imperial_empire_of_pictish;Impireacht na;Impireacht na;Impireacht na;;Impireacht na;;;;;;;;;x
+imperial_empire_pictish;Ambrodraith;Ambrodraith;Ambrodraith;;Ambrodraith;;;;;;;;;x
+imperial_job_chancellor_pictish;Great Chamberlain;Great Chamberlain;Great Chamberlain;;Great Chamberlain;;;;;;;;;x
+imperial_job_marshal_pictish;Marischal;Marischal;Marischal;;Marischal;;;;;;;;;x
+imperial_job_treasurer_pictish;Great Steward;Great Steward;Great Steward;;Great Steward;;;;;;;;;x
+imperial_king_female_pictish;Rigen;Rigen;Rigen;;Rigen;;;;;;;;;x
+imperial_king_pictish;Tiarn;Tiarn;Tiarn;;Tiarn;;;;;;;;;x
+imperial_king_title_ruler_consort_female_pictish;Banríon Chéile;Banríon Chéile;Banríon Chéile;;Banríon Chéile;;;;;;;;;x
+imperial_king_title_ruler_consort_pictish;Tiarn;Tiarn;Tiarn;;Tiarn;;;;;;;;;x
+imperial_kingdom_of_pictish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+imperial_kingdom_pictish;Tiarnas;Tiarnas;Tiarnas;;Tiarnas;;;;;;;;;x
+imperial_title_prince_female_pictish;Etivedes;Etivedes;Etivedes;;Etivedes;;;;;;;;;x
+imperial_title_prince_pictish;Etived;Etived;Etived;;Etived;;;;;;;;;x
+imperial_tribal_duchy_of_pictish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_tribal_duchy_pictish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_vice_royalty_duchy_of_pictish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+imperial_vice_royalty_duchy_pictish;Tuwissokaith;Tuwissokaith;Tuwissokaith;;Tuwissokaith;;;;;;;;;x
+imperial_vice_royalty_duke_female_pictish;Tuwissokes;Tuwissokes;Tuwissokes;;Tuwissokes;;;;;;;;;x
+imperial_vice_royalty_duke_pictish;Tuwissok;Tuwissok;Tuwissok;;Tuwissok;;;;;;;;;x
+imperial_vice_royalty_king_female_pictish;Rigen;Rigen;Rigen;;Rigen;;;;;;;;;x
+imperial_vice_royalty_king_pictish;Tiarn;Tiarn;Tiarn;;Tiarn;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_pictish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+imperial_vice_royalty_kingdom_pictish;Tiarnas;Tiarnas;Tiarnas;;Tiarnas;;;;;;;;;x
+
+vice_royalty_baron_female_pictish;Argotes;Argotes;Argotes;;Argotes;;;;;;;;;x
+vice_royalty_baron_pictish;Argot;Argot;Argot;;Argot;;;;;;;;;x
+vice_royalty_barony_pictish;Kantref;Kantref;Kantref;;Kantref;;;;;;;;;x
+vice_royalty_count_female_pictish;Pendevikes;Pendevikes;Pendevikes;;Pendevikes;;;;;;;;;x
+vice_royalty_count_pictish;Pendevik;Pendevik;Pendevik;;Pendevik;;;;;;;;;x
+vice_royalty_county_pictish;Kantrefod;Kantrefod;Kantrefod;;Kantrefod;;;;;;;;;x
+vice_royalty_duchy_of_pictish;Rìochd na;Rìochd na;Rìochd na;;Rìochd na;;;;;;;;;x
+vice_royalty_duchy_pictish;Tuwissokaith;Tuwissokaith;Tuwissokaith;;Tuwissokaith;;;;;;;;;x
+vice_royalty_duke_female_pictish;Tuwissokes;Tuwissokes;Tuwissokes;;Tuwissokes;;;;;;;;;x
+vice_royalty_duke_pictish;Tuwissok;Tuwissok;Tuwissok;;Tuwissok;;;;;;;;;x
+vice_royalty_emperor_female_pictish;Ambrodres;Ambrodres;Ambrodres;;Ambrodres;;;;;;;;;x
+vice_royalty_emperor_pictish;Ambrodur;Ambrodur;Ambrodur;;Ambrodur;;;;;;;;;x
+vice_royalty_empire_of_pictish;Impireacht na;Impireacht na;Impireacht na;;Impireacht na;;;;;;;;;x
+vice_royalty_empire_pictish;Ambrodraith;Ambrodraith;Ambrodraith;;Ambrodraith;;;;;;;;;x
+vice_royalty_king_female_pictish;Rigen;Rigen;Rigen;;Rigen;;;;;;;;;x
+vice_royalty_king_pictish;Tiarn;Tiarn;Tiarn;;Tiarn;;;;;;;;;x
+vice_royalty_kingdom_of_pictish;Ard Rìochd na;Ard Rìochd na;Ard Rìochd na;;Ard Rìochd na;;;;;;;;;x
+vice_royalty_kingdom_pictish;Tiarnas;Tiarnas;Tiarnas;;Tiarnas;;;;;;;;;x
+
+job_chancellor_pictish;Seansalair;;;;;;;;;;;;;x
+job_marshal_pictish;Marasgal;;;;;;;;;;;;;x
+job_treasurer_pictish;Ionmhasair;;;;;;;;;;;;;x
+job_spymaster_pictish;Maighstir Spy;;;;;;;;;;;;;x
+
+tribal_empire_pictish;Sgìre Ìmpireil;;;;;;;;;;;;;x
+tribal_kingdom_pictish;Sgìre Rìoghail;;;;;;;;;;;;;x
+tribal_duchy_pictish;Sgìre Àrd;;;;;;;;;;;;;x
+tribal_county_pictish;Sgìre;;;;;;;;;;;;;x
+
+tribal_empire_of_pictish;Sgìre Ìmpireil na;;;;;;;;;;;;;x
+tribal_kingdom_of_pictish;Sgìre Rìoghail na;;;;;;;;;;;;;x
+tribal_duchy_of_pictish;Sgìre Àrd na;;;;;;;;;;;;;x
+tribal_county_of_pictish;Sgìre na;;;;;;;;;;;;;x
+
+tribal_emperor_pictish;Ceannard ìmpireil;;;;;;;;;;;;;x
+tribal_king_pictish;Ceannard Rìoghail;;;;;;;;;;;;;x
+tribal_duke_pictish;Ard-cheannard;;;;;;;;;;;;;x
+tribal_count_pictish;Ceann-cinnidh;;;;;;;;;;;;;x
+
+tribal_emperor_female_pictish;Ceann-feadhna Ìmpireil;;;;;;;;;;;;;x
+tribal_king_female_pictish;Ceann-feadhna Rìoghail;;;;;;;;;;;;;x
+tribal_duke_female_pictish;Ard-cheannard;;;;;;;;;;;;;x
+tribal_count_female_pictish;Ceann-feadhna;;;;;;;;;;;;;x
+
+###########################################
+############### Welsh #####################
+###########################################
+
+city_baron_female_welsh;Maeres;Maeres;Maeres;;Maeres;;;;;;;;;x
+city_baron_welsh;Maer;Maer;Maer;;Maer;;;;;;;;;x
+city_barony_of_welsh;Dinas of;Dinas of;Dinas of;;Dinas of;;;;;;;;;x
+city_barony_welsh;Dinas;Dinas;Dinas;;Dinas;;;;;;;;;x
+city_count_female_welsh;Uchelfaeres;Uchelfaeres;Uchelfaeres;;Uchelfaeres;;;;;;;;;x
+city_count_welsh;Uchelfaer;Uchelfaer;Uchelfaer;;Uchelfaer;;;;;;;;;x
+city_county_of_welsh;Ucheldinas;Ucheldinas;Ucheldinas;;Ucheldinas;;;;;;;;;x
+city_county_welsh;Ucheldinas;Ucheldinas;Ucheldinas;;Ucheldinas;;;;;;;;;x
+city_duchy_of_welsh;Gwerinaeth;Gwerinaeth;Gwerinaeth;;Gwerinaeth;;;;;;;;;x
+city_duchy_welsh;Gwerinaeth;Gwerinaeth;Gwerinaeth;;Gwerinaeth;;;;;;;;;x
+city_duke_female_welsh;Llywtes;Llywtes;Llywtes;;Llywtes;;;;;;;;;x
+city_duke_welsh;Llywt;Llywt;Llywt;;Llywt;;;;;;;;;x
+city_emperor_female_welsh;Uchellwytes;Uchellwytes;Uchellwytes;;Uchellwytes;;;;;;;;;x
+city_emperor_welsh;Uchellwyt;Uchellwyt;Uchellwyt;;Uchellwyt;;;;;;;;;x
+city_empire_of_welsh;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+city_empire_welsh;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+city_king_female_welsh;Uchellwytes;Uchellwytes;Uchellwytes;;Uchellwytes;;;;;;;;;x
+city_king_welsh;Uchellwyt;Uchellwyt;Uchellwyt;;Uchellwyt;;;;;;;;;x
+city_kingdom_of_welsh;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+city_kingdom_welsh;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+
+emperor_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+emperor_title_ruler_consort_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+emperor_title_ruler_consort_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+emperor_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+empire_of_welsh;Amherodraeth o;Amherodraeth o;Amherodraeth o;;Amherodraeth o;;;;;;;;;x
+empire_welsh;Amherodraeth;Amherodraeth;Amherodraeth;;Amherodraeth;;;;;;;;;x
+
+king_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+king_title_ruler_consort_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+king_title_ruler_consort_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+king_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+kingdom_of_welsh;Teyrnas o;Teyrnas o;Teyrnas o;;Teyrnas o;;;;;;;;;x
+kingdom_welsh;Teyrnas;Teyrnas;Teyrnas;;Teyrnas;;;;;;;;;x
+
+duchy_of_welsh;Tywysogaeth o;Tywysogaeth o;Tywysogaeth o;;Tywysogaeth o;;;;;;;;;x
+duchy_welsh;Tywysogaeth;Tywysogaeth;Tywysogaeth;;Tywysogaeth;;;;;;;;;x
+duke_female_welsh;Tywysoges;Tywysoges;Tywysoges;;Tywysoges;;;;;;;;;x
+duke_title_ruler_consort_female_welsh;Tywysoges;Tywysoges;Tywysoges;;Tywysoges;;;;;;;;;x
+duke_title_ruler_consort_welsh;Tywysog;Tywysog;Tywysog;;Tywysog;;;;;;;;;x
+duke_welsh;Tywysog;Tywysog;Tywysog;;Tywysog;;;;;;;;;x
+
+count_female_welsh;Tywysauces;Tywysauces;Tywysauces;;Tywysauces;;;;;;;;;x
+count_title_ruler_consort_female_welsh;Tywysauces;Tywysauces;Tywysauces;;Tywysauces;;;;;;;;;x
+count_title_ruler_consort_welsh;Tywysauc;Tywysauc;Tywysauc;;Tywysauc;;;;;;;;;x
+count_welsh;Tywysauc;Tywysauc;Tywysauc;;Tywysauc;;;;;;;;;x
+county_of_welsh;Cantref o;Cantref o;Cantref o;;Cantref o;;;;;;;;;x
+county_welsh;Cantref;Cantref;Cantref;;Cantref;;;;;;;;;x
+
+baron_female_welsh;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+baron_title_ruler_consort_female_welsh;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+baron_title_ruler_consort_welsh;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+baron_welsh;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+barony_of_welsh;Cwmwd o;Cwmwd o;Cwmwd o;;Cwmwd o;;;;;;;;;x
+barony_welsh;Cwmwd;Cwmwd;Cwmwd;;Cwmwd;;;;;;;;;x
+
+imperial_baron_female_welsh;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+imperial_baron_welsh;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+imperial_barony_of_welsh;Cwmwd o;Cwmwd o;Cwmwd o;;Cwmwd o;;;;;;;;;x
+imperial_barony_welsh;Cwmwd;Cwmwd;Cwmwd;;Cwmwd;;;;;;;;;x
+imperial_city_baron_female_welsh;Maeres;Maeres;Maeres;;Maeres;;;;;;;;;x
+imperial_city_baron_welsh;Maer;Maer;Maer;;Maer;;;;;;;;;x
+imperial_city_barony_of_welsh;Dinas of;Dinas of;Dinas of;;Dinas of;;;;;;;;;x
+imperial_city_barony_welsh;Dinas;Dinas;Dinas;;Dinas;;;;;;;;;x
+imperial_city_county_of_welsh;Ucheldinas;Ucheldinas;Ucheldinas;;Ucheldinas;;;;;;;;;x
+imperial_city_county_welsh;Ucheldinas;Ucheldinas;Ucheldinas;;Ucheldinas;;;;;;;;;x
+imperial_count_female_welsh;Tywysauces;Tywysauces;Tywysauces;;Tywysauces;;;;;;;;;x
+imperial_count_welsh;Tywysauc;Tywysauc;Tywysauc;;Tywysauc;;;;;;;;;x
+imperial_county_of_welsh;Cantref o;Cantref o;Cantref o;;Cantref o;;;;;;;;;x
+imperial_county_welsh;Cantref;Cantref;Cantref;;Cantref;;;;;;;;;x
+imperial_duchy_of_welsh;Tywysogaeth o;Tywysogaeth o;Tywysogaeth o;;Tywysogaeth o;;;;;;;;;x
+imperial_duchy_welsh;Tywysogaeth;Tywysogaeth;Tywysogaeth;;Tywysogaeth;;;;;;;;;x
+imperial_duke_female_welsh;Tywysoges;Tywysoges;Tywysoges;;Tywysoges;;;;;;;;;x
+imperial_duke_welsh;Tywysog;Tywysog;Tywysog;;Tywysog;;;;;;;;;x
+imperial_emperor_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+imperial_emperor_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+imperial_empire_of_welsh;Amherodraeth o;Amherodraeth o;Amherodraeth o;;Amherodraeth o;;;;;;;;;x
+imperial_empire_welsh;Amherodraeth;Amherodraeth;Amherodraeth;;Amherodraeth;;;;;;;;;x
+imperial_job_chancellor_welsh;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+imperial_job_marshal_welsh;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
+imperial_job_spiritual_christian_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+imperial_job_spiritual_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+imperial_job_treasurer_welsh;Distain;Distain;Distain;;Distain;;;;;;;;;x
+imperial_king_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+imperial_king_title_ruler_consort_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+imperial_king_title_ruler_consort_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+imperial_king_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+imperial_kingdom_of_welsh;Teyrnas o;Teyrnas o;Teyrnas o;;Teyrnas o;;;;;;;;;x
+imperial_kingdom_welsh;Teyrnas;Teyrnas;Teyrnas;;Teyrnas;;;;;;;;;x
+imperial_title_prince_female_welsh;Etifeddes;Etifeddes;Etifeddes;;Etifeddes;;;;;;;;;x # $Not sure
+imperial_title_prince_welsh;Etifedd;Etifedd;Etifedd;;Etifedd;;;;;;;;;x
+
+imperial_tribal_duchy_of_welsh;Tywysogaeth o;Tywysogaeth o;Tywysogaeth o;;Tywysogaeth o;;;;;;;;;x
+imperial_tribal_duchy_welsh;Tywysogaeth o;Tywysogaeth o;Tywysogaeth o;;Tywysogaeth o;;;;;;;;;x
+
+imperial_vice_royalty_duchy_of_welsh;Tywysogaeth o;Tywysogaeth o;Tywysogaeth o;;Tywysogaeth o;;;;;;;;;x
+imperial_vice_royalty_duchy_welsh;Tywysogaeth;Tywysogaeth;Tywysogaeth;;Tywysogaeth;;;;;;;;;x
+imperial_vice_royalty_duke_female_welsh;Tywysoges;Tywysoges;Tywysoges;;Tywysoges;;;;;;;;;x
+imperial_vice_royalty_duke_welsh;Tywysog;Tywysog;Tywysog;;Tywysog;;;;;;;;;x
+imperial_vice_royalty_king_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+imperial_vice_royalty_king_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_welsh;Teyrnas o;Teyrnas o;Teyrnas o;;Teyrnas o;;;;;;;;;x
+imperial_vice_royalty_kingdom_welsh;Teyrnas;Teyrnas;Teyrnas;;Teyrnas;;;;;;;;;x
+
+job_chancellor_female_welsh;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+job_chancellor_welsh;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+job_marshal_welsh;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
+job_spiritual_christian_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+job_spiritual_orthodox_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+job_spiritual_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+job_treasurer_female_welsh;Distain;Distain;Distain;;Distain;;;;;;;;;x
+job_treasurer_welsh;Distain;Distain;Distain;;Distain;;;;;;;;;x
+
+nomadic_emperor_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+nomadic_emperor_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+nomadic_empire_of_welsh;Amherodraeth o;Amherodraeth o;Amherodraeth o;;Amherodraeth o;;;;;;;;;x
+nomadic_empire_welsh;Amherodraeth;Amherodraeth;Amherodraeth;;Amherodraeth;;;;;;;;;x
+nomadic_king_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+nomadic_king_title_ruler_consort_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+nomadic_king_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+
+temple_king_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+temple_king_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+
+title_prince_baron_female_welsh;Etifeddes;Etifeddes;Etifeddes;;Etifeddes;;;;;;;;;x # $Not sure
+title_prince_baron_welsh;Etifedd;Etifedd;Etifedd;;Etifedd;;;;;;;;;x
+title_prince_female_welsh;Etifeddes;Etifeddes;Etifeddes;;Etifeddes;;;;;;;;;x # $Not sure
+title_prince_welsh;Etifedd;Etifedd;Etifedd;;Etifedd;;;;;;;;;x
+
+tribal_baron_female_welsh;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+tribal_baron_welsh;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+tribal_city_barony_of_welsh;Dinas of;Dinas of;Dinas of;;Dinas of;;;;;;;;;x
+tribal_city_barony_welsh;Dinas;Dinas;Dinas;;Dinas;;;;;;;;;x
+tribal_city_county_of_welsh;Ucheldinas;Ucheldinas;Ucheldinas;;Ucheldinas;;;;;;;;;x
+tribal_city_county_welsh;Ucheldinas;Ucheldinas;Ucheldinas;;Ucheldinas;;;;;;;;;x
+tribal_count_female_welsh;Loides;Loides;Loides;;Loides;;;;;;;;;x
+tribal_count_welsh;Loid;Loid;Loid;;Loid;;;;;;;;;x
+tribal_duchy_of_welsh;Tywysogaeth o;Tywysogaeth o;Tywysogaeth o;;Tywysogaeth o;;;;;;;;;x
+tribal_duchy_welsh;Tywysogaeth;Tywysogaeth;Tywysogaeth;;Tywysogaeth;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_welsh;Tywysoges;Tywysoges;Tywysoges;;Tywysoges;;;;;;;;;x
+tribal_duke_title_ruler_consort_welsh;Tywysog;Tywysog;Tywysog;;Tywysog;;;;;;;;;x
+tribal_emperor_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+tribal_emperor_title_ruler_consort_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+tribal_emperor_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+tribal_empire_of_welsh;Amherodraeth o;Amherodraeth o;Amherodraeth o;;Amherodraeth o;;;;;;;;;x
+tribal_empire_welsh;Amherodraeth;Amherodraeth;Amherodraeth;;Amherodraeth;;;;;;;;;x
+tribal_job_chancellor_welsh;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+tribal_job_marshal_welsh;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
+tribal_job_spiritual_christian_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+tribal_job_spiritual_orthodox_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+tribal_job_spiritual_welsh;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+tribal_job_treasurer_welsh;Distain;Distain;Distain;;Distain;;;;;;;;;x
+tribal_king_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+tribal_king_title_ruler_consort_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+tribal_king_title_ruler_consort_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+tribal_king_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+tribal_kingdom_of_welsh;Teyrnas o;Teyrnas o;Teyrnas o;;Teyrnas o;;;;;;;;;x
+tribal_kingdom_welsh;Teyrnas;Teyrnas;Teyrnas;;Teyrnas;;;;;;;;;x
+
+vice_royalty_baron_female_welsh;Bantiarna;Bantiarna;Bantiarna;;Bantiarna;;;;;;;;;x
+vice_royalty_baron_welsh;Tiarna;Tiarna;Tiarna;;Tiarna;;;;;;;;;x
+vice_royalty_barony_welsh;Cwmwd;Cwmwd;Cwmwd;;Cwmwd;;;;;;;;;x
+vice_royalty_count_female_welsh;Tywysauces;Tywysauces;Tywysauces;;Tywysauces;;;;;;;;;x
+vice_royalty_count_welsh;Tywysauc;Tywysauc;Tywysauc;;Tywysauc;;;;;;;;;x
+vice_royalty_county_welsh;Cantref;Cantref;Cantref;;Cantref;;;;;;;;;x
+vice_royalty_duchy_of_welsh;Tywysogaeth o;Tywysogaeth o;Tywysogaeth o;;Tywysogaeth o;;;;;;;;;x
+vice_royalty_duchy_welsh;Tywysogaeth;Tywysogaeth;Tywysogaeth;;Tywysogaeth;;;;;;;;;x
+vice_royalty_duke_female_welsh;Tywysoges;Tywysoges;Tywysoges;;Tywysoges;;;;;;;;;x
+vice_royalty_duke_welsh;Tywysog;Tywysog;Tywysog;;Tywysog;;;;;;;;;x
+vice_royalty_emperor_female_welsh;Amheradres;Amheradres;Amheradres;;Amheradres;;;;;;;;;x
+vice_royalty_emperor_welsh;Amheraudyr;Amheraudyr;Amheraudyr;;Amheraudyr;;;;;;;;;x
+vice_royalty_empire_of_welsh;Amherodraeth o;Amherodraeth o;Amherodraeth o;;Amherodraeth o;;;;;;;;;x
+vice_royalty_empire_welsh;Amherodraeth;Amherodraeth;Amherodraeth;;Amherodraeth;;;;;;;;;x
+vice_royalty_king_female_welsh;Breninhes;Breninhes;Breninhes;;Breninhes;;;;;;;;;x
+vice_royalty_king_welsh;Brenin;Brenin;Brenin;;Brenin;;;;;;;;;x
+vice_royalty_kingdom_of_welsh;Teyrnas o;Teyrnas o;Teyrnas o;;Teyrnas o;;;;;;;;;x
+vice_royalty_kingdom_welsh;Teyrnas;Teyrnas;Teyrnas;;Teyrnas;;;;;;;;;x
+
+###########################################
+############### Breton ####################
+###########################################
+
+city_baron_breton;Mair;Mair;Mair;;Mair;;;;;;;;;x
+city_baron_female_breton;Maires;Maires;Maires;;Maires;;;;;;;;;x
+city_barony_breton;Dinas;Dinas;Dinas;;Dinas;;;;;;;;;x
+city_barony_of_breton;Dinas of;Dinas of;Dinas of;;Dinas of;;;;;;;;;x
+city_count_breton;Uchelfair;Uchelfair;Uchelfair;;Uchelfair;;;;;;;;;x
+city_count_female_breton;Uchelfaires;Uchelfaires;Uchelfaires;;Uchelfaires;;;;;;;;;x
+city_county_breton;Sir;Sir;Sir;;Sir;;;;;;;;;x
+city_county_of_breton;Sir;Sir;Sir;;Sir;;;;;;;;;x
+city_duchy_breton;Gwerinaeth;Gwerinaeth;Gwerinaeth;;Gwerinaeth;;;;;;;;;x
+city_duchy_of_breton;Gwerinaeth;Gwerinaeth;Gwerinaeth;;Gwerinaeth;;;;;;;;;x
+city_duke_breton;Leuuit;Leuuit;Leuuit;;Leuuit;;;;;;;;;x
+city_duke_female_breton;Leuuites;Leuuites;Leuuites;;Leuuites;;;;;;;;;x
+city_emperor_breton;Uchellwyt;Uchellwyt;Uchellwyt;;Uchellwyt;;;;;;;;;x
+city_emperor_female_breton;Uchellwytes;Uchellwytes;Uchellwytes;;Uchellwytes;;;;;;;;;x
+city_empire_breton;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+city_empire_of_breton;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+city_king_breton;Uchellwyt;Uchellwyt;Uchellwyt;;Uchellwyt;;;;;;;;;x
+city_king_female_breton;Uchellwytes;Uchellwytes;Uchellwytes;;Uchellwytes;;;;;;;;;x
+city_kingdom_breton;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+city_kingdom_of_breton;Uchelwerinaeth;Uchelwerinaeth;Uchelwerinaeth;;Uchelwerinaeth;;;;;;;;;x
+
+emperor_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+emperor_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+emperor_title_ruler_consort_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+emperor_title_ruler_consort_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+empire_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+empire_of_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+
+duchy_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+duchy_of_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+duke_breton;Dug;Dug;Dug;;Dug;;;;;;;;;x
+duke_female_breton;Dugez;Dugez;Dugez;;Dugez;;;;;;;;;x
+duke_title_ruler_consort_breton;Dug;Dug;Dug;;Dug;;;;;;;;;x
+duke_title_ruler_consort_female_breton;Dugez;Dugez;Dugez;;Dugez;;;;;;;;;x
+
+count_breton;Kont;Kont;Kont;;Kont;;;;;;;;;x
+count_female_breton;Kontez;Kontez;Kontez;;Kontez;;;;;;;;;x
+count_title_ruler_consort_breton;Kont;Kont;Kont;;Kont;;;;;;;;;x
+count_title_ruler_consort_female_breton;Kontez;Kontez;Kontez;;Kontez;;;;;;;;;x
+county_breton;Kontelezh;Kontelezh;Kontelezh;;Kontelezh;;;;;;;;;x
+county_of_breton;Kontelezh;Kontelezh;Kontelezh;;Kontelezh;;;;;;;;;x
+
+baron_breton;Autrou;Autrou;Autrou;;Autrou;;;;;;;;;x
+baron_female_breton;Itron;Itron;Itron;;Itron;;;;;;;;;x
+baron_title_ruler_consort_breton;Autrou;Autrou;Autrou;;Autrou;;;;;;;;;x
+baron_title_ruler_consort_female_breton;Itron;Itron;Itron;;Itron;;;;;;;;;x
+barony_breton;Autrouniez;Autrouniez;Autrouniez;;Autrouniez;;;;;;;;;x
+barony_of_breton;Autrouniez of;Autrouniez of;Autrouniez of;;Autrouniez of;;;;;;;;;x
+
+imperial_baron_breton;Autrou;Autrou;Autrou;;Autrou;;;;;;;;;x
+imperial_baron_female_breton;Itron;Itron;Itron;;Itron;;;;;;;;;x
+imperial_barony_breton;Autrouniez;Autrouniez;Autrouniez;;Autrouniez;;;;;;;;;x
+imperial_barony_of_breton;Autrouniez of;Autrouniez of;Autrouniez of;;Autrouniez of;;;;;;;;;x
+imperial_city_baron_breton;Mair;Mair;Mair;;Mair;;;;;;;;;x
+imperial_city_baron_female_breton;Maires;Maires;Maires;;Maires;;;;;;;;;x
+imperial_city_barony_breton;Dinas;Dinas;Dinas;;Dinas;;;;;;;;;x
+imperial_city_barony_of_breton;Dinas of;Dinas of;Dinas of;;Dinas of;;;;;;;;;x
+imperial_city_county_breton;Sir;Sir;Sir;;Sir;;;;;;;;;x
+imperial_city_county_of_breton;Sir;Sir;Sir;;Sir;;;;;;;;;x
+imperial_count_breton;Kont;Kont;Kont;;Kont;;;;;;;;;x
+imperial_count_female_breton;Kontez;Kontez;Kontez;;Kontez;;;;;;;;;x
+imperial_county_breton;Kontelezh;Kontelezh;Kontelezh;;Kontelezh;;;;;;;;;x
+imperial_county_of_breton;Kontelezh;Kontelezh;Kontelezh;;Kontelezh;;;;;;;;;x
+imperial_duchy_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+imperial_duchy_of_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+imperial_duke_breton;Dug;Dug;Dug;;Dug;;;;;;;;;x
+imperial_duke_female_breton;Dugez;Dugez;Dugez;;Dugez;;;;;;;;;x
+imperial_emperor_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+imperial_emperor_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+imperial_empire_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+imperial_empire_of_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+imperial_job_chancellor_breton;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+imperial_job_marshal_breton;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
+imperial_job_spiritual_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+imperial_job_spiritual_christian_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+imperial_job_treasurer_breton;Distain;Distain;Distain;;Distain;;;;;;;;;x
+imperial_king_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+imperial_king_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+imperial_king_title_ruler_consort_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+imperial_king_title_ruler_consort_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+imperial_kingdom_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+imperial_kingdom_of_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+imperial_title_prince_breton;Priñs;Priñs;Priñs;;Priñs;;;;;;;;;x
+imperial_title_prince_female_breton;Priñs;Priñs;Priñs;;Priñs;;;;;;;;;x
+imperial_tribal_duchy_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+imperial_tribal_duchy_of_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+imperial_vice_royalty_duchy_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+imperial_vice_royalty_duchy_of_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+imperial_vice_royalty_duke_breton;Dug;Dug;Dug;;Dug;;;;;;;;;x
+imperial_vice_royalty_duke_female_breton;Dugez;Dugez;Dugez;;Dugez;;;;;;;;;x
+imperial_vice_royalty_king_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+imperial_vice_royalty_king_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+imperial_vice_royalty_kingdom_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+
+job_chancellor_breton;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+job_chancellor_female_breton;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+job_marshal_breton;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
+job_spiritual_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+job_spiritual_christian_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+job_spiritual_orthodox_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+job_treasurer_breton;Distain;Distain;Distain;;Distain;;;;;;;;;x
+job_treasurer_female_breton;Distain;Distain;Distain;;Distain;;;;;;;;;x
+
+king_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+king_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+king_title_ruler_consort_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+king_title_ruler_consort_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+kingdom_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+kingdom_of_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+
+nomadic_emperor_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+nomadic_emperor_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+nomadic_empire_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+nomadic_empire_of_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+nomadic_king_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+nomadic_king_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+nomadic_king_title_ruler_consort_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+
+temple_king_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+temple_king_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+
+title_prince_baron_breton;Priñs;Priñs;Priñs;;Priñs;;;;;;;;;x
+title_prince_baron_female_breton;Priñs;Priñs;Priñs;;Priñs;;;;;;;;;x
+title_prince_breton;Priñs;Priñs;Priñs;;Priñs;;;;;;;;;x
+title_prince_female_breton;Priñs;Priñs;Priñs;;Priñs;;;;;;;;;x
+
+tribal_baron_breton;Autrou;Autrou;Autrou;;Autrou;;;;;;;;;x
+tribal_baron_female_breton;Itron;Itron;Itron;;Itron;;;;;;;;;x
+tribal_city_barony_breton;Dinas;Dinas;Dinas;;Dinas;;;;;;;;;x
+tribal_city_barony_of_breton;Dinas of;Dinas of;Dinas of;;Dinas of;;;;;;;;;x
+tribal_city_county_breton;Sir;Sir;Sir;;Sir;;;;;;;;;x
+tribal_city_county_of_breton;Sir;Sir;Sir;;Sir;;;;;;;;;x
+tribal_count_breton;Loid;Loid;Loid;;Loid;;;;;;;;;x
+tribal_count_female_breton;Loides;Loides;Loides;;Loides;;;;;;;;;x
+tribal_duchy_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+tribal_duchy_of_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+tribal_duke_title_ruler_consort_breton;Dug;Dug;Dug;;Dug;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_breton;Dugez;Dugez;Dugez;;Dugez;;;;;;;;;x
+tribal_emperor_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+tribal_emperor_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+tribal_emperor_title_ruler_consort_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+tribal_empire_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+tribal_empire_of_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+tribal_job_chancellor_breton;Gwas Ystafell;Gwas Ystafell;Gwas Ystafell;;Gwas Ystafell;;;;;;;;;x
+tribal_job_marshal_breton;Penteulu;Penteulu;Penteulu;;Penteulu;;;;;;;;;x
+tribal_job_spiritual_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+tribal_job_spiritual_christian_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+tribal_job_spiritual_orthodox_breton;Offeiriad Teulu;Offeiriad Teulu;Offeiriad Teulu;;Offeiriad Teulu;;;;;;;;;x
+tribal_job_treasurer_breton;Distain;Distain;Distain;;Distain;;;;;;;;;x
+tribal_king_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+tribal_king_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+tribal_king_title_ruler_consort_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+tribal_king_title_ruler_consort_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+tribal_kingdom_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+tribal_kingdom_of_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+
+vice_royalty_baron_breton;Autrou;Autrou;Autrou;;Autrou;;;;;;;;;x
+vice_royalty_baron_female_breton;Itron;Itron;Itron;;Itron;;;;;;;;;x
+vice_royalty_barony_breton;Autrouniez;Autrouniez;Autrouniez;;Autrouniez;;;;;;;;;x
+vice_royalty_count_breton;Kont;Kont;Kont;;Kont;;;;;;;;;x
+vice_royalty_count_female_breton;Kontez;Kontez;Kontez;;Kontez;;;;;;;;;x
+vice_royalty_county_breton;Kontelezh;Kontelezh;Kontelezh;;Kontelezh;;;;;;;;;x
+vice_royalty_duchy_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+vice_royalty_duchy_of_breton;Dugelezh;Dugelezh;Dugelezh;;Dugelezh;;;;;;;;;x
+vice_royalty_duke_breton;Dug;Dug;Dug;;Dug;;;;;;;;;x
+vice_royalty_duke_female_breton;Dugez;Dugez;Dugez;;Dugez;;;;;;;;;x
+vice_royalty_emperor_breton;Impalazr;Impalazr;Impalazr;;Impalazr;;;;;;;;;x
+vice_royalty_emperor_female_breton;Impalazrez;Impalazrez;Impalazrez;;Impalazrez;;;;;;;;;x
+vice_royalty_empire_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+vice_royalty_empire_of_breton;Impalazriezh;Impalazriezh;Impalazriezh;;Impalazriezh;;;;;;;;;x
+vice_royalty_king_breton;Roue;Roue;Roue;;Roue;;;;;;;;;x
+vice_royalty_king_female_breton;Rouanez;Rouanez;Rouanez;;Rouanez;;;;;;;;;x
+vice_royalty_kingdom_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x
+vice_royalty_kingdom_of_breton;Rouantelezh;Rouantelezh;Rouantelezh;;Rouantelezh;;;;;;;;;x

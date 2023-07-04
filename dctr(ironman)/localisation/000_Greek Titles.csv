@@ -1,0 +1,272 @@
+###########################################################
+################### Byzantine #############################
+###########################################################
+################ Byzantine is Greek #######################
+
+e_byzantium;Basileía Rhomaíon;;;;;;;;;;;;;x
+e_byzantium_adj;Rhomaíos;;;;;;;;;;;;;x
+kingdom_greek;Despotaton;;;;;;;;;;;;;x
+
+kingdom_of_byzantine;Despotate tou;;;;;;;;;;;;;x
+duchy_of_byzantine;Thema tou;;;;;;;;;;;;;x
+county_of_byzantine;Tourma tou;;;;;;;;;;;;;x
+barony_of_byzantine;Bandon tou;;;;;;;;;;;;;x
+city_barony_of_byzantine;Archonate tou;;;;;;;;;;;;;x
+
+duchy_byzantine;Thema;;;;;;;;;;;;;x
+county_byzantine;Tourma;;;;;;;;;;;;;x
+barony_byzantine;Bandon;;;;;;;;;;;;;x
+
+king_greek;Despotes;;;;;;;;;;;;;x
+duke_greek;Doúx;;;;;;;;;;;;;x
+count_greek;Tourmarches;;;;;;;;;;;;;x
+baron_greek;Kómes;;;;;;;;;;;;;x
+
+king_female_greek;Despotissa;;;;;;;;;;;;;x
+duke_female_greek;Doúkissa;;;;;;;;;;;;;x
+count_female_greek;Tourmarchissa;;;;;;;;;;;;;x
+baron_female_greek;Kómissa;;;;;;;;;;;;;x
+
+title_prince_greek;Prínkipas;;;;;;;;;;;;;x
+title_prince_female_greek;Prinkípissa;;;;;;;;;;;;;x
+
+city_baron_greek;Archon;;;;;;;;;;;;;x
+city_baron_female_greek;Archon;;;;;;;;;;;;;x
+
+city_count_byzantine;Megas Archon;;;;;;;;;;;;;x
+city_county_byzantine;Metropolis;;;;;;;;;;;;;x
+city_county_of_byzantine;Metropolis tou;;;;;;;;;;;;;x
+
+city_barony_byzantine;Polis;;;;;;;;;;;;;x
+city_baron_byzantine;Archon;;;;;;;;;;;;;x
+city_barony_of_byzantine;Polis tou;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_byzantine;Oikoumenikós Patriárches;;;;;;;;;;;;;x
+PATRIARCH_IN_THE_EAST_byzantine;Anatole Patriárkhes;;;;;;;;;;;;;x
+COPTIC_POPE_byzantine;Pappas Alexandreías;;;;;;;;;;;;;x
+POPE_byzantine;Pappas;;;;;;;;;;;;;x
+
+family_palace_baron_greek;Patríkios;;;;;;;;;;;;;x
+title_despot;Despotes;;;;;;;;;;;;;x
+title_caesar;Kaisar;;;;;;;;;;;;;x
+RETTYPE_CUL_BYZ;Kataphraktoi;;;;;;;;;;;;;x;;
+
+king_armenian;Ark'a;;;;;;;;;;;;;x
+king_alan;Ark'a;;;;;;;;;;;;;x
+king_georgian;Ark'a;;;;;;;;;;;;;x
+
+tribal_king_byzantine;Vasilikí Archigós;;;;;;;;;;;;;x
+tribal_duke_byzantine;Ypsilí Archigós;;;;;;;;;;;;;x
+tribal_count_byzantine;Archigós;;;;;;;;;;;;;x
+
+tribal_king_female_byzantine;Vasilikí Archigoúla;;;;;;;;;;;;;x
+tribal_duke_female_byzantine;Ypsilí Archigoúla;;;;;;;;;;;;;x
+tribal_count_female_byzantine;Archigoúla;;;;;;;;;;;;;x
+
+tribal_kingdom_byzantine;Vasilikí Archigía;;;;;;;;;;;;;x
+tribal_duchy_byzantine;Ypsilí Archigía;;;;;;;;;;;;;x
+tribal_county_byzantine;Archigía;;;;;;;;;;;;;x
+
+tribal_kingdom_of_byzantine;Vasilikí Archigía tou;;;;;;;;;;;;;x
+tribal_duchy_of_byzantine;Ypsilí Archigía tou;;;;;;;;;;;;;x
+tribal_barony_of_byzantine;Archigía tou;;;;;;;;;;;;;x
+
+###########################################
+############### Gothic ####################
+###########################################
+
+empire_of_crimean_gothic;Rike;;;;;;;;;;;;;x
+kingdom_of_crimean_gothic;Koningrike;;;;;;;;;;;;;x
+duchy_of_crimean_gothic;Haritogdom;;;;;;;;;;;;;x
+county_of_crimean_gothic;Gravskap;;;;;;;;;;;;;x
+
+emperor_crimean_gothic;Kesar;;;;;;;;;;;;;x
+emperor_female_crimean_gothic;Kesarini;;;;;;;;;;;;;x
+king_crimean_gothic;Theudan;;;;;;;;;;;;;x
+king_female_crimean_gothic;Theudano;;;;;;;;;;;;;x
+title_prince_crimean_gothic;Frymist;;;;;;;;;;;;;x
+title_prince_female_crimean_gothic;Frymisto;;;;;;;;;;;;;x
+duke_crimean_gothic;Heritoga;;;;;;;;;;;;;x
+duke_female_crimean_gothic;Heritogo;;;;;;;;;;;;;x
+count_crimean_gothic;Grifja;;;;;;;;;;;;;x
+count_female_crimean_gothic;Grifjo;;;;;;;;;;;;;x
+baron_crimean_gothic;Thegan;;;;;;;;;;;;;x
+baron_female_crimean_gothic;Thegno;;;;;;;;;;;;;x
+
+vice_royalty_emperor_crimean_gothic;Minniskesar;;;;;;;;;;;;;x
+vice_royalty_emperor_female_crimean_gothic;Minniskesarini;;;;;;;;;;;;;x
+vice_royalty_king_crimean_gothic;Minnistheudan;;;;;;;;;;;;;x
+vice_royalty_king_female_crimean_gothic;Minnistheudano;;;;;;;;;;;;;x
+vice_royalty_duke_crimean_gothic;Minnisheritoga;;;;;;;;;;;;;x
+vice_royalty_duke_female_crimean_gothic;Minnisheritogo;;;;;;;;;;;;;x
+
+tribal_duke_crimean_gothic;Hoha Hovodling;;;;;;;;;;;;;x
+tribal_duke_female_crimean_gothic;Hoh Hovodlingo;;;;;;;;;;;;;x
+tribal_count_crimean_gothic;Hovodling;;;;;;;;;;;;;x
+tribal_count_female_crimean_gothic;Hovodlingo;;;;;;;;;;;;;x
+
+
+###########################################
+############### Greek #####################
+###########################################
+
+kingdom_of_greek;Despotate tou;;;;;;;;;;;;;x
+duchy_of_greek;Thema tou;;;;;;;;;;;;;x
+county_of_greek;Tourma tou;;;;;;;;;;;;;x
+barony_of_greek;Bandon tou;;;;;;;;;;;;;x
+city_barony_of_greek;Archonate tou;;;;;;;;;;;;;x
+
+duchy_greek;Thema;;;;;;;;;;;;;x
+county_greek;Tourma;;;;;;;;;;;;;x
+barony_greek;Bandon;;;;;;;;;;;;;x
+
+king_greek;Despotes;;;;;;;;;;;;;x
+duke_greek;Doúx;;;;;;;;;;;;;x
+count_greek;Tourmarches;;;;;;;;;;;;;x
+baron_greek;Kómes;;;;;;;;;;;;;x
+
+king_female_greek;Despotissa;;;;;;;;;;;;;x
+duke_female_greek;Doúkissa;;;;;;;;;;;;;x
+count_female_greek;Tourmarchissa;;;;;;;;;;;;;x
+baron_female_greek;Kómissa;;;;;;;;;;;;;x
+
+title_prince_greek;Prínkipas;;;;;;;;;;;;;x
+title_prince_female_greek;Prinkípissa;;;;;;;;;;;;;x
+
+city_baron_greek;Archon;;;;;;;;;;;;;x
+city_baron_female_greek;Archon;;;;;;;;;;;;;x
+
+city_count_greek;Megas Archon;;;;;;;;;;;;;x
+city_county_greek;Metropolis;;;;;;;;;;;;;x
+city_county_of_greek;Metropolis of;;;;;;;;;;;;;x
+
+city_barony_greek;Polis;;;;;;;;;;;;;x
+city_baron_greek;Archon;;;;;;;;;;;;;x
+city_barony_of_greek;Polis of;;;;;;;;;;;;;x
+
+tribal_king_greek;Vasilikí Archigós;;;;;;;;;;;;;x
+tribal_duke_greek;Ypsilí Archigós;;;;;;;;;;;;;x
+tribal_count_greek;Archigós;;;;;;;;;;;;;x
+
+tribal_king_female_greek;Vasilikí Archigoúla;;;;;;;;;;;;;x
+tribal_duke_female_greek;Ypsilí Archigoúla;;;;;;;;;;;;;x
+tribal_count_female_greek;Archigoúla;;;;;;;;;;;;;x
+
+tribal_kingdom_greek;Vasilikí Archigía;;;;;;;;;;;;;x
+tribal_duchy_greek;Ypsilí Archigía;;;;;;;;;;;;;x
+tribal_county_greek;Archigía;;;;;;;;;;;;;x
+
+tribal_kingdom_of_greek;Vasilikí Archigía tou;;;;;;;;;;;;;x
+tribal_duchy_of_greek;Ypsilí Archigía tou;;;;;;;;;;;;;x
+tribal_barony_of_greek;Archigía tou;;;;;;;;;;;;;x
+
+###########################################
+############### Cuman #####################
+###########################################
+
+city_baron_cuman;Bori-Tarkan;Bori-Tarkan;Bori-Tarkan;;Bori-Tarkan;;;;;;;;;x
+city_baron_female_cuman;Bori-Tarkan;Bori-Tarkan;Bori-Tarkan;;Bori-Tarkan;;;;;;;;;x
+city_count_cuman;Bori-Tarkan;Bori-Tarkan;Bori-Tarkan;;Bori-Tarkan;;;;;;;;;x
+city_count_female_cuman;Bori-Tarkan;Bori-Tarkan;Bori-Tarkan;;Bori-Tarkan;;;;;;;;;x
+city_duke_cuman;Oglu-Tarkan;Oglu-Tarkan;Oglu-Tarkan;;Oglu-Tarkan;;;;;;;;;x
+city_duke_female_cuman;Oglu-Tarkan;Oglu-Tarkan;Oglu-Tarkan;;Oglu-Tarkan;;;;;;;;;x
+city_emperor_cuman;Oglu-Tarkan;Oglu-Tarkan;Oglu-Tarkan;;Oglu-Tarkan;;;;;;;;;x
+city_emperor_female_cuman;Oglu-Tarkan;Oglu-Tarkan;Oglu-Tarkan;;Oglu-Tarkan;;;;;;;;;x
+city_king_cuman;Oglu-Tarkan;Oglu-Tarkan;Oglu-Tarkan;;Oglu-Tarkan;;;;;;;;;x
+city_king_female_cuman;Oglu-Tarkan;Oglu-Tarkan;Oglu-Tarkan;;Oglu-Tarkan;;;;;;;;;x
+
+emperor_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+emperor_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+emperor_title_ruler_consort_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+emperor_title_ruler_consort_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+
+king_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+king_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+king_title_ruler_consort_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+king_title_ruler_consort_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+
+duke_cuman;Boila;Boila;Boila;;Boila;;;;;;;;;x
+duke_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+duke_title_ruler_consort_cuman;Boila;Boila;Boila;;Boila;;;;;;;;;x
+duke_title_ruler_consort_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+
+count_cuman;Komit;Komit;Komit;;Komit;;;;;;;;;x
+count_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+count_title_ruler_consort_cuman;Komit;Komit;Komit;;Komit;;;;;;;;;x
+count_title_ruler_consort_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+
+baron_cuman;Tarkan;Tarkan;Tarkan;;Tarkan;;;;;;;;;x
+baron_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+baron_title_ruler_consort_cuman;Tarkan;Tarkan;Tarkan;;Tarkan;;;;;;;;;x
+baron_title_ruler_consort_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+
+imperial_baron_cuman;Tarkan;Tarkan;Tarkan;;Tarkan;;;;;;;;;x
+imperial_baron_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+imperial_city_baron_cuman;Bori-Tarkan;Bori-Tarkan;Bori-Tarkan;;Bori-Tarkan;;;;;;;;;x
+imperial_city_baron_female_cuman;Bori-Tarkan;Bori-Tarkan;Bori-Tarkan;;Bori-Tarkan;;;;;;;;;x
+imperial_count_cuman;Komit;Komit;Komit;;Komit;;;;;;;;;x
+imperial_count_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+imperial_duke_cuman;Boila;Boila;Boila;;Boila;;;;;;;;;x
+imperial_duke_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+imperial_emperor_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+imperial_emperor_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+imperial_job_marshal_cuman;Ichirgu-boila;Ichirgu-boila;Ichirgu-boila;;Ichirgu-boila;;;;;;;;;x
+imperial_job_treasurer_cuman;Kavhan;Kavhan;Kavhan;;Kavhan;;;;;;;;;x
+imperial_king_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+imperial_king_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+imperial_king_title_ruler_consort_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+imperial_king_title_ruler_consort_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+imperial_title_master_of_horse_cuman;Minik;Minik;Minik;;Minik;;;;;;;;;x
+imperial_vice_royalty_duke_cuman;Boila;Boila;Boila;;Boila;;;;;;;;;x
+imperial_vice_royalty_duke_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+imperial_vice_royalty_king_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+imperial_vice_royalty_king_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+
+job_marshal_cuman;Ichirgu-boila;Ichirgu-boila;Ichirgu-boila;;Ichirgu-boila;;;;;;;;;x
+job_treasurer_cuman;Kavhan;Kavhan;Kavhan;;Kavhan;;;;;;;;;x
+job_treasurer_female_cuman;Kavhan;Kavhan;Kavhan;;Kavhan;;;;;;;;;x
+
+nomadic_emperor_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+nomadic_emperor_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+nomadic_king_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+nomadic_king_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+nomadic_king_title_ruler_consort_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+
+temple_king_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+temple_king_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+
+title_designated_heir_cuman;Kanartikin;Kanartikin;Kanartikin;;Kanartikin;;;;;;;;;x
+title_master_of_the_horse_cuman;Minik;Minik;Minik;;Minik;;;;;;;;;x
+title_prince_baron_cuman;Kanartikin;Kanartikin;Kanartikin;;Kanartikin;;;;;;;;;x
+
+tribal_baron_cuman;Tarkan;Tarkan;Tarkan;;Tarkan;;;;;;;;;x
+tribal_baron_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+tribal_duke_cuman;Boil;Boil;Boil;;Boil;;;;;;;;;x
+tribal_duke_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+tribal_duke_title_ruler_consort_cuman;Boil;Boil;Boil;;Boil;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+tribal_emperor_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+tribal_emperor_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+tribal_emperor_title_ruler_consort_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+tribal_job_marshal_cuman;Ichirgu-boila;Ichirgu-boila;Ichirgu-boila;;Ichirgu-boila;;;;;;;;;x
+tribal_job_treasurer_cuman;Kavhan;Kavhan;Kavhan;;Kavhan;;;;;;;;;x
+tribal_king_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+tribal_king_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+tribal_king_title_ruler_consort_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+tribal_king_title_ruler_consort_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x
+tribal_title_master_of_horse_cuman;Minik;Minik;Minik;;Minik;;;;;;;;;x
+
+vice_royalty_baron_cuman;Tarkan;Tarkan;Tarkan;;Tarkan;;;;;;;;;x
+vice_royalty_baron_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+vice_royalty_count_cuman;Komit;Komit;Komit;;Komit;;;;;;;;;x
+vice_royalty_count_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+vice_royalty_duke_cuman;Boila;Boila;Boila;;Boila;;;;;;;;;x
+vice_royalty_duke_female_cuman;Kali;Kali;Kali;;Kali;;;;;;;;;x
+vice_royalty_emperor_cuman;Khagan;Khagan;Khagan;;Khagan;;;;;;;;;x
+vice_royalty_emperor_female_cuman;Khatun;Khatun;Khatun;;Khatun;;;;;;;;;x
+vice_royalty_king_cuman;Kanasubigi;Kanasubigi;Kanasubigi;;Kanasubigi;;;;;;;;;x
+vice_royalty_king_female_cuman;Khanum;Khanum;Khanum;;Khanum;;;;;;;;;x

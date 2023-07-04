@@ -1,0 +1,254 @@
+
+###########################################################
+################ West Germanic	###########################
+###########################################################
+
+emperor_west_germanic;Bretwalda;;;;;;;;;;;;;x
+king_west_germanic;Cyning;;;;;;;;;;;;;x
+duke_west_germanic;Aldariman;;;;;;;;;;;;;x
+count_west_germanic;Walda;;;;;;;;;;;;;x
+
+tribal_king_west_germanic;Cyning;;;;;;;;;;;;;x
+tribal_duke_west_germanic;Aldariman;;;;;;;;;;;;;x
+
+job_marshal_west_germanic;Drohtin;;;;;;;;;;;;;x
+job_spymaster_west_germanic;Aþalrád;;;;;;;;;;;;;x
+job_spiritual_west_germanic;Godwine;;;;;;;;;;;;;x
+
+#######################################
+########### Old Saxon #################
+#######################################
+
+empire_of_old_saxon;Riki;;;;;;;;;;;;;x
+kingdom_of_old_saxon;Kiningriki;;;;;;;;;;;;;x
+duchy_of_old_saxon;Hertogdom;;;;;;;;;;;;;x
+county_of_old_saxon;Erlskepi;;;;;;;;;;;;;x
+
+empire_old_saxon;Riki;;;;;;;;;;;;;x
+kingdom_old_saxon;Kiningriki;;;;;;;;;;;;;x
+duchy_old_saxon;Hertogdom;;;;;;;;;;;;;x
+county_old_saxon;Erlskepi;;;;;;;;;;;;;x
+
+city_baron_female_old_saxon;Tiþingman;Tiþingman;Tiþingman;;Tiþingman;;;;;;;;;x # $Or Tithingman
+city_baron_old_saxon;Tiþingman;Tiþingman;Tiþingman;;Tiþingman;;;;;;;;;x # $Or Tithingman
+city_barony_of_old_saxon;Tiþing of;Tiþing of;Tiþing of;;Tiþing of;;;;;;;;;x # $Or Tithing of
+city_barony_old_saxon;Tiþing;Tiþing;Tiþing;;Tiþing;;;;;;;;;x # $Or Tithing
+city_count_female_old_saxon;Burhealdor;Burhealdor;Burhealdor;;Burhealdor;;;;;;;;;x
+city_count_old_saxon;Burhealdor;Burhealdor;Burhealdor;;Burhealdor;;;;;;;;;x
+city_county_of_old_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+city_county_old_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+
+emperor_female_old_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+emperor_old_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+emperor_title_ruler_consort_female_old_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+emperor_title_ruler_consort_old_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+
+king_female_old_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+king_old_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+king_title_ruler_consort_female_old_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+king_title_ruler_consort_old_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+
+duke_female_old_saxon;Eorlen;Eorlen;Eorlen;;Eorlen;;;;;;;;;x
+duke_old_saxon;Eorl;Eorl;Eorl;;Eorl;;;;;;;;;x
+duke_title_ruler_consort_female_old_saxon;Eorlen;Eorlen;Eorlen;;Eorlen;;;;;;;;;x
+duke_title_ruler_consort_old_saxon;Eorl;Eorl;Eorl;;Eorl;;;;;;;;;x
+
+count_female_old_saxon;Hlæfdige;Hlæfdige;Hlæfdige;;Hlæfdige;;;;;;;;;x
+count_old_saxon;Ealdorman;Ealdorman;Ealdorman;;Ealdorman;;;;;;;;;x
+count_title_ruler_consort_female_old_saxon;Hlæfdige;Hlæfdige;Hlæfdige;;Hlæfdige;;;;;;;;;x
+count_title_ruler_consort_old_saxon;Ealdorman;Ealdorman;Ealdorman;;Ealdorman;;;;;;;;;x
+
+baron_female_old_saxon;Frowe;Frowe;Frowe;;Frowe;;;;;;;;;x
+baron_old_saxon;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x # $Or Thegn
+baron_title_ruler_consort_female_old_saxon;Frowe;Frowe;Frowe;;Frowe;;;;;;;;;x
+baron_title_ruler_consort_old_saxon;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x # $Or Thegn
+
+nomadic_emperor_female_old_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+nomadic_emperor_old_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_old_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_old_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+nomadic_empire_of_old_saxon;Héafodríce of;Héafodríce of;Héafodríce of;;Héafodríce of;;;;;;;;;x
+nomadic_empire_old_saxon;Héafodríce;Héafodríce;Héafodríce;;Héafodríce;;;;;;;;;x
+nomadic_king_female_old_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+nomadic_king_old_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_old_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+nomadic_king_title_ruler_consort_old_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+
+title_prince_baron_female_old_saxon;Æþelingen;Æþelingen;Æþelingen;;Æþelingen;;;;;;;;;x
+title_prince_baron_old_saxon;Æþeling;Æþeling;Æþeling;;Æþeling;;;;;;;;;x
+title_prince_female_old_saxon;Æþelingen;Æþelingen;Æþelingen;;Æþelingen;;;;;;;;;x
+title_prince_old_saxon;Æþeling;Æþeling;Æþeling;;Æþeling;;;;;;;;;x
+
+tribal_baron_female_old_saxon;Frowe;Frowe;Frowe;;Frowe;;;;;;;;;x
+tribal_baron_old_saxon;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x # $Or Thegn
+tribal_city_barony_of_old_saxon;Tiþing of;Tiþing of;Tiþing of;;Tiþing of;;;;;;;;;x # $Or Tithing of
+tribal_city_barony_old_saxon;Tiþing;Tiþing;Tiþing;;Tiþing;;;;;;;;;x # $Or Tithing
+tribal_city_county_of_old_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+tribal_city_county_old_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+tribal_count_female_old_saxon;Heafodling;Heafodling;Heafodling;;Heafodling;;;;;;;;;x
+tribal_count_old_saxon;Heafodling;Heafodling;Heafodling;;Heafodling;;;;;;;;;x
+tribal_duchy_of_old_saxon;Eorldom of;Eorldom of;Eorldom of;;Eorldom of;;;;;;;;;x
+tribal_duchy_old_saxon;Eorldom;Eorldom;Eorldom;;Eorldom;;;;;;;;;x
+tribal_duke_female_old_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_duke_old_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_old_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_duke_title_ruler_consort_old_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_emperor_female_old_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+tribal_emperor_old_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_old_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+tribal_emperor_title_ruler_consort_old_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+tribal_empire_of_old_saxon;Héafodríce of;Héafodríce of;Héafodríce of;;Héafodríce of;;;;;;;;;x
+tribal_empire_old_saxon;Héafodríce;Héafodríce;Héafodríce;;Héafodríce;;;;;;;;;x
+tribal_job_spiritual_christian_old_saxon;Capellan;Capellan;Capellan;;Capellan;;;;;;;;;x
+tribal_job_spiritual_old_saxon;Burhbiscop;Burhbiscop;Burhbiscop;;Burhbiscop;;;;;;;;;x
+tribal_job_spiritual_orthodox_old_saxon;Capellan;Capellan;Capellan;;Capellan;;;;;;;;;x
+tribal_king_female_old_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+tribal_king_old_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+tribal_king_title_ruler_consort_female_old_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+tribal_king_title_ruler_consort_old_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+tribal_kingdom_of_old_saxon;Cyningríce of;Cyningríce of;Cyningríce of;;Cyningríce of;;;;;;;;;x
+tribal_kingdom_old_saxon;Cyningríce;Cyningríce;Cyningríce;;Cyningríce;;;;;;;;;x
+
+vice_royalty_king_old_saxon;Undarkuning;;;;;;;;;;;;;x
+vice_royalty_king_female_old_saxon;Undarkuningin;;;;;;;;;;;;;x
+vice_royalty_duke_old_saxon;Minniro Undarkuning;;;;;;;;;;;;;x
+vice_royalty_duke_female_old_saxon;Minniro Undarkuningin;;;;;;;;;;;;;x
+
+FYLKIR_old_saxon;Folkar;;;;;;;;;;;;;x
+FYLKJA_old_saxon;Folkarin;;;;;;;;;;;;;x
+
+#######################################
+############# Saxon ###################
+#######################################
+## Old Aenglish Titles by Kaiserkatze #
+
+empire_of_saxon;Rice;;;;;;;;;;;;;x
+kingdom_of_saxon;Cyningrice of;;;;;;;;;;;;;x
+duchy_of_saxon;Scir of;;;;;;;;;;;;;x
+county_of_saxon;Boldgetæl of;;;;;;;;;;;;;x
+barony_of_saxon;Hundred of;;;;;;;;;;;;;x
+
+emperor_saxon;Casere;;;;;;;;;;;;;x
+emperor_female_saxon;Cwen;;;;;;;;;;;;;x
+king_saxon;Cyning;;;;;;;;;;;;;x
+king_female_saxon;Cwen;;;;;;;;;;;;;x
+title_prince_saxon;Æðeling;;;;;;;;;;;;;x
+title_prince_female_saxon;Cwen;;;;;;;;;;;;;x
+duke_saxon;Eorl;;;;;;;;;;;;;x
+duke_female_saxon;Siþwif;;;;;;;;;;;;;x
+count_saxon;Ealdorman;Ealdorman;;;;;;;;;;;;;x
+count_female_saxon;Ealdorfreo;;;;;;;;;;;;;x
+baron_saxon;Hundredman;;;;;;;;;;;;;x
+baron_female_saxon;Freo;;;;;;;;;;;;;x
+city_barony_of_saxon;Burg of;;;;;;;;;;;;;x
+city_baron_saxon;Burgealdor;;;;;;;;;;;;;x
+
+imperial_baron_female_saxon;Frowe;Frowe;Frowe;;Frowe;;;;;;;;;x
+imperial_baron_saxon;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x # $Or Thegn
+imperial_city_baron_female_saxon;Tiþingman;Tiþingman;Tiþingman;;Tiþingman;;;;;;;;;x # $Or Tithingman
+imperial_city_baron_saxon;Tiþingman;Tiþingman;Tiþingman;;Tiþingman;;;;;;;;;x # $Or Tithingman
+imperial_city_barony_of_saxon;Tiþing of;Tiþing of;Tiþing of;;Tiþing of;;;;;;;;;x # $Or Tithing of
+imperial_city_barony_saxon;Tiþing;Tiþing;Tiþing;;Tiþing;;;;;;;;;x # $Or Tithing
+imperial_city_county_of_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+imperial_city_county_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+imperial_count_female_saxon;Hlæfdige;Hlæfdige;Hlæfdige;;Hlæfdige;;;;;;;;;x
+imperial_count_saxon;Ealdorman;Ealdorman;Ealdorman;;Ealdorman;;;;;;;;;x
+imperial_county_of_saxon;Scír of;Scír of;Scír of;;Scír of;;;;;;;;;x
+imperial_county_saxon;Scír;Scír;Scír;;Scír;;;;;;;;;x
+imperial_duchy_of_saxon;Eorldom of;Eorldom of;Eorldom of;;Eorldom of;;;;;;;;;x
+imperial_duchy_saxon;Eorldom;Eorldom;Eorldom;;Eorldom;;;;;;;;;x
+imperial_duke_female_saxon;Eorlen;Eorlen;Eorlen;;Eorlen;;;;;;;;;x
+imperial_duke_saxon;Eorl;Eorl;Eorl;;Eorl;;;;;;;;;x
+imperial_emperor_female_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+imperial_emperor_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+imperial_empire_of_saxon;Héafodríce of;Héafodríce of;Héafodríce of;;Héafodríce of;;;;;;;;;x
+imperial_empire_saxon;Héafodríce;Héafodríce;Héafodríce;;Héafodríce;;;;;;;;;x
+imperial_job_spiritual_christian_saxon;Capellan;Capellan;Capellan;;Capellan;;;;;;;;;x
+imperial_job_spiritual_saxon;Burhbiscop;Burhbiscop;Burhbiscop;;Burhbiscop;;;;;;;;;x
+imperial_king_female_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+imperial_king_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+imperial_king_title_ruler_consort_female_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+imperial_king_title_ruler_consort_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+imperial_kingdom_of_saxon;Cyningríce of;Cyningríce of;Cyningríce of;;Cyningríce of;;;;;;;;;x
+imperial_kingdom_saxon;Cyningríce;Cyningríce;Cyningríce;;Cyningríce;;;;;;;;;x
+imperial_title_prince_female_saxon;Æþelingen;Æþelingen;Æþelingen;;Æþelingen;;;;;;;;;x
+imperial_title_prince_saxon;Æþeling;Æþeling;Æþeling;;Æþeling;;;;;;;;;x
+imperial_tribal_duchy_of_saxon;Eorldom of;Eorldom of;Eorldom of;;Eorldom of;;;;;;;;;x
+imperial_tribal_duchy_saxon;Eorldom of;Eorldom of;Eorldom of;;Eorldom of;;;;;;;;;x
+imperial_vice_royalty_duchy_of_saxon;Eorldom of;Eorldom of;Eorldom of;;Eorldom of;;;;;;;;;x
+imperial_vice_royalty_duchy_saxon;Eorldom;Eorldom;Eorldom;;Eorldom;;;;;;;;;x
+imperial_vice_royalty_duke_female_saxon;Eorlen;Eorlen;Eorlen;;Eorlen;;;;;;;;;x
+imperial_vice_royalty_duke_saxon;Eorl;Eorl;Eorl;;Eorl;;;;;;;;;x
+imperial_vice_royalty_king_female_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+imperial_vice_royalty_king_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_saxon;Cyningríce of;Cyningríce of;Cyningríce of;;Cyningríce of;;;;;;;;;x
+imperial_vice_royalty_kingdom_saxon;Cyningríce;Cyningríce;Cyningríce;;Cyningríce;;;;;;;;;x
+
+title_prince_baron_female_saxon;Æþelingen;Æþelingen;Æþelingen;;Æþelingen;;;;;;;;;x
+title_prince_baron_saxon;Æþeling;Æþeling;Æþeling;;Æþeling;;;;;;;;;x
+title_prince_female_saxon;Æþelingen;Æþelingen;Æþelingen;;Æþelingen;;;;;;;;;x
+title_prince_saxon;Æþeling;Æþeling;Æþeling;;Æþeling;;;;;;;;;x
+
+tribal_baron_female_saxon;Frowe;Frowe;Frowe;;Frowe;;;;;;;;;x
+tribal_baron_saxon;Þegn;Þegn;Þegn;;Þegn;;;;;;;;;x # $Or Thegn
+tribal_city_barony_of_saxon;Tiþing of;Tiþing of;Tiþing of;;Tiþing of;;;;;;;;;x # $Or Tithing of
+tribal_city_barony_saxon;Tiþing;Tiþing;Tiþing;;Tiþing;;;;;;;;;x # $Or Tithing
+tribal_city_county_of_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+tribal_city_county_saxon;Burh;Burh;Burh;;Burh;;;;;;;;;x
+tribal_count_female_saxon;Heafodling;Heafodling;Heafodling;;Heafodling;;;;;;;;;x
+tribal_count_saxon;Heafodling;Heafodling;Heafodling;;Heafodling;;;;;;;;;x
+tribal_duchy_of_saxon;Eorldom of;Eorldom of;Eorldom of;;Eorldom of;;;;;;;;;x
+tribal_duchy_saxon;Eorldom;Eorldom;Eorldom;;Eorldom;;;;;;;;;x
+tribal_duke_female_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_duke_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_duke_title_ruler_consort_saxon;Heaga Heafodling;Heaga Heafodling;Heaga Heafodling;;Heaga Heafodling;;;;;;;;;x
+tribal_emperor_female_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+tribal_emperor_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_saxon;þéodcwén;þéodcwén;þéodcwén;;þéodcwén;;;;;;;;;x
+tribal_emperor_title_ruler_consort_saxon;Héahcásere;Héahcásere;Héahcásere;;Héahcásere;;;;;;;;;x
+tribal_empire_of_saxon;Héafodríce of;Héafodríce of;Héafodríce of;;Héafodríce of;;;;;;;;;x
+tribal_empire_saxon;Héafodríce;Héafodríce;Héafodríce;;Héafodríce;;;;;;;;;x
+tribal_job_spiritual_christian_saxon;Capellan;Capellan;Capellan;;Capellan;;;;;;;;;x
+tribal_job_spiritual_orthodox_saxon;Capellan;Capellan;Capellan;;Capellan;;;;;;;;;x
+tribal_job_spiritual_saxon;Burhbiscop;Burhbiscop;Burhbiscop;;Burhbiscop;;;;;;;;;x
+tribal_king_female_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+tribal_king_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+tribal_king_title_ruler_consort_female_saxon;Cwén;Cwén;Cwén;;Cwén;;;;;;;;;x
+tribal_king_title_ruler_consort_saxon;Cyning;Cyning;Cyning;;Cyning;;;;;;;;;x
+tribal_kingdom_of_saxon;Cyningríce of;Cyningríce of;Cyningríce of;;Cyningríce of;;;;;;;;;x
+tribal_kingdom_saxon;Cyningríce;Cyningríce;Cyningríce;;Cyningríce;;;;;;;;;x
+
+vice_royalty_king_saxon;Undercyning;;;;;;;;;;;;;x
+vice_royalty_king_female_saxon;Undercwen;;;;;;;;;;;;;x
+vice_royalty_duke_saxon;Minniro Undercyning;;;;;;;;;;;;;x
+vice_royalty_duke_female_saxon;Minniro Undercwen;;;;;;;;;;;;;x
+
+FYLKIR_saxon;Folcor;;;;;;;;;;;;;x
+FYLKJA_saxon;Folcorwif;;;;;;;;;;;;;x
+
+#########################################
+############# English ###################
+#########################################
+# Middle Aenglish Titles by Kaiserkatze #
+
+empire_of_english;Ricke of;;;;;;;;;;;;;x
+kingdom_of_english;Kingdom of;;;;;;;;;;;;;x
+duchy_of_english;Duche of;;;;;;;;;;;;;x
+county_of_english;Counte of;;;;;;;;;;;;;x
+barony_of_english;Barone of;;;;;;;;;;;;;x
+
+emperor_english;Kaiser;;;;;;;;;;;;;x
+emperor_female_english;Emperice;;;;;;;;;;;;;x
+king_english;King;;;;;;;;;;;;;x
+king_female_english;Quene;;;;;;;;;;;;;x
+title_prince_english;Pryns;;;;;;;;;;;;;x
+title_prince_female_english;Prynsesse;;;;;;;;;;;;;x
+duke_english;Duk;;;;;;;;;;;;;x
+duke_female_english;Duchesse;;;;;;;;;;;;;x
+count_english;Erl;;;;;;;;;;;;;x
+count_female_english;Countesse;;;;;;;;;;;;;x
+baron_english;Baroun;;;;;;;;;;;;;x
+baron_female_english;Barounesse;;;;;;;;;;;;;x
+city_barony_of_english;Burgh of;;;;;;;;;;;;;x
+city_baron_english;Mayre;;;;;;;;;;;;;x

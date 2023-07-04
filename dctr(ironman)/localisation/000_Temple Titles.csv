@@ -3,6 +3,9 @@
 ################## Slavic Pagan ###########################
 ###########################################################
 
+d_slavic_pagan_reformed;Cirky Slovensk;;;;;;;;;;;;;x
+d_slavic_pagan_reformed_adj;Slovensk;;;;;;;;;;;;;x
+
 slavic_pagan_reformed;Vera;;;;;;;;;;;;;x
 slavic_pagan;Vera;;;;;;;;;;;;;x
 
@@ -56,6 +59,23 @@ job_spiritual_female_slavic_pagan;Vedunya;;;;;;;;;;;;;x
 job_spiritual_slavic_pagan_reformed;Volkhv;;;;;;;;;;;;;x
 job_spiritual_female_slavic_pagan_reformed;Vedunya;;;;;;;;;;;;;x
 
+city_job_spiritual_slavic_pagan;Volkhv;;;;;;;;;;;;;x
+city_job_spiritual_female_slavic_pagan;Vedunya;;;;;;;;;;;;;x
+
+city_job_spiritual_slavic_pagan_reformed;Volkhv;;;;;;;;;;;;;x
+city_job_spiritual_female_slavic_pagan_reformed;Vedunya;;;;;;;;;;;;;x
+
+VOLHV;Zhrets;;;;;;;;;;;;;x
+VOLHV_female;Zhritsa;;;;;;;;;;;;;x
+
+GOD_PERUN;Perun';;;;;;;;;;;;;x
+GOD_JARILO;Jarílo;;;;;;;;;;;;;x
+GOD_SVAROG;Svaròg;;;;;;;;;;;;;x
+GOD_TRIGLAV;Triglav;;;;;;;;;;;;;x
+GOD_RADEGAST;Radogost';;;;;;;;;;;;;x
+
+GOD_VELES;Velesu;;;;;;;;;;;;;x
+CHERNOBOG;Zcerneboch;;;;;;;;;;;;;x
 
 ###########################################################
 ################## Norse Pagan ###########################
@@ -123,6 +143,8 @@ GOD_THOR;Þórr;;;;;;;;;;;;;x
 ###########################################################
 ################## Orthodox ###############################
 ###########################################################
+
+k_orthodox;Oikoumenikos Patriarchia;;;;;;;;;;;;;x
 
 temple_emperor_orthodox;Patriárchis;;;;;;;;;;;;;x
 temple_king_orthodox;Patriárchis;;;;;;;;;;;;;x

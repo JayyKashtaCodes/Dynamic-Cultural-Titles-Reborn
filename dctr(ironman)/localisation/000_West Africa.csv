@@ -1,0 +1,463 @@
+###########################################################
+################## West African ###########################
+###########################################################
+
+west_african_pagan_reformed;Voodoo;;;;;;;;;;;;;x
+west_african_pagan;Vodun;;;;;;;;;;;;;x
+
+emperor_west_african;Mansa;;;;;;;;;;;;;x
+king_west_african;Mansakewo;;;;;;;;;;;;;x
+duke_west_african;Kunto Kungo;;;;;;;;;;;;;x
+count_west_african;Kungo;;;;;;;;;;;;;x
+baron_west_african;Samatabaa;;;;;;;;;;;;;x
+
+emperor_female_west_african;Mansa;;;;;;;;;;;;;x
+king_female_west_african;Mansamusoo;;;;;;;;;;;;;x
+duke_female_west_african;Kunto Kungo;;;;;;;;;;;;;x
+count_female_west_african;Kungo;;;;;;;;;;;;;x
+baron_female_west_african;Samatabaa;;;;;;;;;;;;;x
+
+empire_of_west_african;Maraloo-Li ma;;;;;;;;;;;;;x
+kingdom_of_west_african;Mansabankoo ma;;;;;;;;;;;;;x
+duchy_of_west_african;Tundoo ma;;;;;;;;;;;;;x
+county_of_west_african;Kunda ma;;;;;;;;;;;;;x
+barony_of_west_african;Toloo ma;;;;;;;;;;;;;x
+
+empire_west_african;Maraloo-Li;;;;;;;;;;;;;x
+kingdom_west_african;Mansabankoo;;;;;;;;;;;;;x
+duchy_west_african;Tundoo;;;;;;;;;;;;;x
+county_west_african;Kunda;;;;;;;;;;;;;x
+barony_west_african;Toloo;;;;;;;;;;;;;x
+
+tribal_emperor_west_african;Mansa;;;;;;;;;;;;;x
+tribal_king_west_african;Mansakewo;;;;;;;;;;;;;x
+tribal_duke_west_african;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_west_african;Kungo;;;;;;;;;;;;;x
+tribal_baron_west_african;Samatabaa;;;;;;;;;;;;;x
+
+tribal_emperor_female_west_african;Mansa;;;;;;;;;;;;;x
+tribal_king_female_west_african;Mansamusoo;;;;;;;;;;;;;x
+tribal_duke_female_west_african;Kunto Kungo;;;;;;;;;;;;;x
+tribal_count_female_west_african;Kungo;;;;;;;;;;;;;x
+tribal_baron_female_west_african;Samatabaa;;;;;;;;;;;;;x
+
+tribal_empire_of_west_african;Maraloo-Li ma;;;;;;;;;;;;;x
+tribal_kingdom_of_west_african;Mansabankoo ma;;;;;;;;;;;;;x
+tribal_duchy_of_west_african;Tundoo ma;;;;;;;;;;;;;x
+tribal_county_of_west_african;Kunda ma;;;;;;;;;;;;;x
+
+tribal_empire_soninke;Maraloo-Li;;;;;;;;;;;;;x
+tribal_kingdom_soninke;Mansabankoo;;;;;;;;;;;;;x
+tribal_duchy_soninke;Tundoo;;;;;;;;;;;;;x
+tribal_county_soninke;Kunda;;;;;;;;;;;;;x
+
+
+###########################################################
+#################### Songhay ##############################
+###########################################################
+
+emperor_songhay;'Àskíyâ;;;;;;;;;;;;;x
+king_songhay;'Àmíír-û;;;;;;;;;;;;;x
+duke_songhay;Ban;;;;;;;;;;;;;x
+count_songhay;Han Alo;;;;;;;;;;;;;x
+baron_songhay;Woym;;;;;;;;;;;;;x
+
+emperor_songhay;Àskíyâ;;;;;;;;;;;;;x
+king_songhay;'Àsáld-û;;;;;;;;;;;;;x
+duke_songhay;Damakwa;;;;;;;;;;;;;x
+count_songhay;Woykwa;;;;;;;;;;;;;x
+baron_songhay;Woyay ru;;;;;;;;;;;;;x
+
+title_prince_songhay;Kòy-Háar-û;;;;;;;;;;;;;x
+title_prince_female_songhay;Kòy-wôy;;;;;;;;;;;;;x
+
+empire_of_songhay;Ni kwaa;;;;;;;;;;;;;x
+kingdom_of_songhay;De kwaa;;;;;;;;;;;;;x
+duchy_of_songhay;Damaga kwaa;;;;;;;;;;;;;x
+county_of_songhay;Kukkwaa;;;;;;;;;;;;;x
+barony_of_songhay;Woykukga kwaa;;;;;;;;;;;;;x
+
+empire_songhay;Ni;;;;;;;;;;;;;x
+kingdom_songhay;De;;;;;;;;;;;;;x
+duchy_songhay;Damaga;;;;;;;;;;;;;x
+county_songhay;Kuk;;;;;;;;;;;;;x
+barony_songhay;Woykukga;;;;;;;;;;;;;x
+
+
+tribal_emperor_songhay;Cckum;;;;;;;;;;;;;x
+tribal_king_songhay;Damakum;;;;;;;;;;;;;x
+tribal_duke_songhay;Zumkum;;;;;;;;;;;;;x
+tribal_count_songhay;Kum;;;;;;;;;;;;;x
+
+tribal_emperor_female_songhay;Ccda Ra Kwa;;;;;;;;;;;;;x
+tribal_king_female_songhay;Damada Ra Kwa;;;;;;;;;;;;;x
+tribal_duke_female_songhay;Zumda Ra Kwa;;;;;;;;;;;;;x
+tribal_count_female_songhay;Da Ra Kwa;;;;;;;;;;;;;x
+
+tribal_empire_of_songhay;Ccda Ra Yo kwaa;;;;;;;;;;;;;x
+tribal_kingdom_of_songhay;Damada Ra Yo kwaa;;;;;;;;;;;;;x
+tribal_duchy_of_songhay;Zumda Ra Yo kwaa;;;;;;;;;;;;;x
+tribal_county_of_songhay;Da Ra Yo kwaa;;;;;;;;;;;;;x
+
+tribal_empire_songhay;Ccda Ra Yo;;;;;;;;;;;;;x
+tribal_kingdom_songhay;Damada Ra Yo;;;;;;;;;;;;;x
+tribal_duchy_songhay;Zumda Ra Yo;;;;;;;;;;;;;x
+tribal_county_songhay;Da Ra Yo;;;;;;;;;;;;;x
+
+###########################################################
+#################### Mandé ################################
+###########################################################
+
+city_county_manden;Farinate;Farinate;Farinate;;Farinate;;;;;;;;;x
+city_county_of_manden;Farinate of;Farinate of;Farinate of;;Farinate of;;;;;;;;;x
+
+emperor_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+emperor_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+emperor_title_ruler_consort_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+emperor_title_ruler_consort_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+empire_manden;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+empire_of_manden;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+
+king_female_manden;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+king_manden;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+king_title_ruler_consort_female_manden;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+king_title_ruler_consort_manden;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+kingdom_manden;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+kingdom_of_manden;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+
+duchy_manden;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+duchy_of_manden;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+duke_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x
+duke_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+duke_title_ruler_consort_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x
+duke_title_ruler_consort_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+
+count_female_manden;Farina;Farina;Farina;;Farina;;;;;;;;;x
+count_manden;Farin;Farin;Farin;;Farin;;;;;;;;;x
+count_title_ruler_consort_female_manden;Farina;Farina;Farina;;Farina;;;;;;;;;x
+count_title_ruler_consort_manden;Farin;Farin;Farin;;Farin;;;;;;;;;x
+county_manden;Jamana;Jamana;Jamana;;Jamana;;;;;;;;;x
+county_of_manden;Jamana of;Jamana of;Jamana of;;Jamana of;;;;;;;;;x
+
+baron_female_manden;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+baron_manden;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+baron_title_ruler_consort_female_manden;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+baron_title_ruler_consort_manden;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+barony_manden;Kafu;Kafu;Kafu;;Kafu;;;;;;;;;x
+barony_of_manden;Kafu of;Kafu of;Kafu of;;Kafu of;;;;;;;;;x
+
+imperial_baron_female_manden;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+imperial_baron_manden;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+imperial_barony_manden;Kafu;Kafu;Kafu;;Kafu;;;;;;;;;x
+imperial_barony_of_manden;Kafu of;Kafu of;Kafu of;;Kafu of;;;;;;;;;x
+imperial_city_county_manden;Farinate;Farinate;Farinate;;Farinate;;;;;;;;;x
+imperial_city_county_of_manden;Farinate of;Farinate of;Farinate of;;Farinate of;;;;;;;;;x
+imperial_count_female_manden;Farina;Farina;Farina;;Farina;;;;;;;;;x
+imperial_count_manden;Farin;Farin;Farin;;Farin;;;;;;;;;x
+imperial_county_manden;Jamana;Jamana;Jamana;;Jamana;;;;;;;;;x
+imperial_county_of_manden;Jamana of;Jamana of;Jamana of;;Jamana of;;;;;;;;;x
+imperial_duchy_manden;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+imperial_duchy_of_manden;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_duke_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x
+imperial_duke_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+imperial_emperor_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+imperial_emperor_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+imperial_empire_manden;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+imperial_empire_of_manden;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+imperial_job_spiritual_christian_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+imperial_job_spiritual_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+imperial_king_female_manden;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+imperial_king_manden;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+imperial_king_title_ruler_consort_female_manden;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+imperial_king_title_ruler_consort_manden;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+imperial_kingdom_manden;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+imperial_kingdom_of_manden;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+imperial_title_prince_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x # $Or Farba
+imperial_title_prince_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x # $Or Farbas
+imperial_tribal_duchy_manden;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_tribal_duchy_of_manden;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_vice_royalty_duchy_manden;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+imperial_vice_royalty_duchy_of_manden;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_vice_royalty_duke_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x
+imperial_vice_royalty_duke_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+imperial_vice_royalty_king_female_manden;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+imperial_vice_royalty_king_manden;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+imperial_vice_royalty_kingdom_manden;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_manden;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+
+job_spiritual_christian_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+job_spiritual_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+job_spiritual_orthodox_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+
+nomadic_emperor_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+nomadic_emperor_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+nomadic_empire_manden;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+nomadic_empire_of_manden;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+nomadic_king_female_manden;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+nomadic_king_manden;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_manden;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+nomadic_king_title_ruler_consort_manden;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+
+temple_baron_christian_female_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_christian_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_female_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_female_slavic_pagan_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_female_slavic_pagan_reformed_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_orthodox_female_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_orthodox_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_pagan_female_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_pagan_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_slavic_pagan_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_slavic_pagan_reformed_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_count_christian_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_christian_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_pagan_group_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_slavic_pagan_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_pagan_group_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_slavic_pagan_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_slavic_pagan_reformed_manden;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_king_female_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_female_pagan_group_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_female_slavic_pagan_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_female_slavic_pagan_reformed_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_pagan_group_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_slavic_pagan_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_slavic_pagan_reformed_manden;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+
+title_prince_baron_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x # $Or Farba
+title_prince_baron_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x # $Or Farbas
+title_prince_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x # $Or Farba
+title_prince_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x # $Or Farbas
+
+tribal_baron_female_manden;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+tribal_baron_manden;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+tribal_city_county_manden;Farinate;Farinate;Farinate;;Farinate;;;;;;;;;x
+tribal_city_county_of_manden;Farinate of;Farinate of;Farinate of;;Farinate of;;;;;;;;;x
+tribal_duchy_manden;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+tribal_duchy_of_manden;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+tribal_duke_female_manden;Farba;Farba;Farba;;Farba;;;;;;;;;x
+tribal_duke_manden;Farbas;Farbas;Farbas;;Farbas;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_manden;Farba;Farba;Farba;;Farba;;;;;;;;;x
+tribal_duke_title_ruler_consort_manden;Farbas;Farbas;Farbas;;Farbas;;;;;;;;;x
+tribal_emperor_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+tribal_emperor_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+tribal_emperor_title_ruler_consort_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+tribal_empire_manden;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+tribal_empire_of_manden;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+tribal_job_spiritual_christian_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_job_spiritual_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_job_spiritual_orthodox_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_king_female_manden;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+tribal_king_manden;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+tribal_king_title_ruler_consort_female_manden;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+tribal_king_title_ruler_consort_manden;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+tribal_kingdom_manden;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+tribal_kingdom_of_manden;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+tribal_temple_baron_female_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_temple_baron_manden;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+
+vice_royalty_baron_female_manden;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+vice_royalty_baron_manden;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+vice_royalty_barony_manden;Kafu;Kafu;Kafu;;Kafu;;;;;;;;;x
+vice_royalty_count_female_manden;Farina;Farina;Farina;;Farina;;;;;;;;;x
+vice_royalty_count_manden;Farin;Farin;Farin;;Farin;;;;;;;;;x
+vice_royalty_county_manden;Jamana;Jamana;Jamana;;Jamana;;;;;;;;;x
+vice_royalty_duchy_manden;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+vice_royalty_duchy_of_manden;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+vice_royalty_duke_female_manden;Manga;Manga;Manga;;Manga;;;;;;;;;x
+vice_royalty_duke_manden;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+vice_royalty_emperor_female_manden;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+vice_royalty_emperor_manden;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+vice_royalty_empire_manden;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+vice_royalty_empire_of_manden;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+vice_royalty_king_female_manden;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+vice_royalty_king_manden;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+vice_royalty_kingdom_manden;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+vice_royalty_kingdom_of_manden;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+
+###########################################################
+#################### Soninke ##############################
+###########################################################
+
+city_county_of_soninke;Farinate of;Farinate of;Farinate of;;Farinate of;;;;;;;;;x
+city_county_soninke;Farinate;Farinate;Farinate;;Farinate;;;;;;;;;x
+
+emperor_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+emperor_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+emperor_title_ruler_consort_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+emperor_title_ruler_consort_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+empire_of_soninke;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+empire_soninke;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+
+king_female_soninke;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+king_soninke;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+king_title_ruler_consort_female_soninke;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+king_title_ruler_consort_soninke;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+kingdom_of_soninke;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+kingdom_soninke;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+
+duchy_of_soninke;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+duchy_soninke;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+duke_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x
+duke_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+duke_title_ruler_consort_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x
+duke_title_ruler_consort_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+
+count_female_soninke;Farina;Farina;Farina;;Farina;;;;;;;;;x
+count_soninke;Farin;Farin;Farin;;Farin;;;;;;;;;x
+count_title_ruler_consort_female_soninke;Farina;Farina;Farina;;Farina;;;;;;;;;x
+count_title_ruler_consort_soninke;Farin;Farin;Farin;;Farin;;;;;;;;;x
+county_of_soninke;Jamana of;Jamana of;Jamana of;;Jamana of;;;;;;;;;x
+county_soninke;Jamana;Jamana;Jamana;;Jamana;;;;;;;;;x
+
+baron_female_soninke;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+baron_soninke;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+baron_title_ruler_consort_female_soninke;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+baron_title_ruler_consort_soninke;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+barony_of_soninke;Kafu of;Kafu of;Kafu of;;Kafu of;;;;;;;;;x
+barony_soninke;Kafu;Kafu;Kafu;;Kafu;;;;;;;;;x
+
+imperial_baron_female_soninke;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+imperial_baron_soninke;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+imperial_barony_of_soninke;Kafu of;Kafu of;Kafu of;;Kafu of;;;;;;;;;x
+imperial_barony_soninke;Kafu;Kafu;Kafu;;Kafu;;;;;;;;;x
+imperial_city_county_of_soninke;Farinate of;Farinate of;Farinate of;;Farinate of;;;;;;;;;x
+imperial_city_county_soninke;Farinate;Farinate;Farinate;;Farinate;;;;;;;;;x
+imperial_count_female_soninke;Farina;Farina;Farina;;Farina;;;;;;;;;x
+imperial_count_soninke;Farin;Farin;Farin;;Farin;;;;;;;;;x
+imperial_county_of_soninke;Jamana of;Jamana of;Jamana of;;Jamana of;;;;;;;;;x
+imperial_county_soninke;Jamana;Jamana;Jamana;;Jamana;;;;;;;;;x
+imperial_duchy_of_soninke;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_duchy_soninke;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+imperial_duke_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x
+imperial_duke_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+imperial_emperor_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+imperial_emperor_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+imperial_empire_of_soninke;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+imperial_empire_soninke;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+imperial_job_spiritual_christian_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+imperial_job_spiritual_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+imperial_king_female_soninke;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+imperial_king_soninke;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+imperial_king_title_ruler_consort_female_soninke;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+imperial_king_title_ruler_consort_soninke;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+imperial_kingdom_of_soninke;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+imperial_kingdom_soninke;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+imperial_title_prince_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x # $Or Farba
+imperial_title_prince_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x # $Or Farbas
+imperial_tribal_duchy_of_soninke;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_tribal_duchy_soninke;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_vice_royalty_duchy_of_soninke;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+imperial_vice_royalty_duchy_soninke;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+imperial_vice_royalty_duke_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x
+imperial_vice_royalty_duke_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+imperial_vice_royalty_king_female_soninke;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+imperial_vice_royalty_king_soninke;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+imperial_vice_royalty_kingdom_of_soninke;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+imperial_vice_royalty_kingdom_soninke;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+
+job_spiritual_christian_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+job_spiritual_orthodox_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+job_spiritual_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+
+nomadic_emperor_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+nomadic_emperor_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+nomadic_empire_of_soninke;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+nomadic_empire_soninke;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+nomadic_king_female_soninke;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+nomadic_king_soninke;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_soninke;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+nomadic_king_title_ruler_consort_soninke;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+
+temple_baron_christian_female_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_christian_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_female_slavic_pagan_reformed_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_female_slavic_pagan_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_female_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_orthodox_female_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_orthodox_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_pagan_female_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_pagan_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_slavic_pagan_reformed_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_slavic_pagan_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_baron_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+temple_count_christian_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_christian_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_pagan_group_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_slavic_pagan_reformed_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_slavic_pagan_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_female_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_pagan_group_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_slavic_pagan_reformed_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_slavic_pagan_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_count_soninke;High Hogon;High Hogon;High Hogon;;High Hogon;;;;;;;;;x
+temple_king_female_pagan_group_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_female_slavic_pagan_reformed_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_female_slavic_pagan_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_female_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_pagan_group_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_slavic_pagan_reformed_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_slavic_pagan_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+temple_king_soninke;Grand Hogon;Grand Hogon;Grand Hogon;;Grand Hogon;;;;;;;;;x
+
+title_prince_baron_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x # $Or Farba
+title_prince_baron_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x # $Or Farbas
+title_prince_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x # $Or Farba
+title_prince_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x # $Or Farbas
+
+tribal_baron_female_soninke;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+tribal_baron_soninke;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+tribal_city_county_of_soninke;Farinate of;Farinate of;Farinate of;;Farinate of;;;;;;;;;x
+tribal_city_county_soninke;Farinate;Farinate;Farinate;;Farinate;;;;;;;;;x
+tribal_duchy_of_soninke;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+tribal_duchy_soninke;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+tribal_duke_female_soninke;Farba;Farba;Farba;;Farba;;;;;;;;;x
+tribal_duke_soninke;Farbas;Farbas;Farbas;;Farbas;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_soninke;Farba;Farba;Farba;;Farba;;;;;;;;;x
+tribal_duke_title_ruler_consort_soninke;Farbas;Farbas;Farbas;;Farbas;;;;;;;;;x
+tribal_emperor_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+tribal_emperor_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+tribal_emperor_title_ruler_consort_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+tribal_empire_of_soninke;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+tribal_empire_soninke;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+tribal_job_spiritual_christian_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_job_spiritual_orthodox_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_job_spiritual_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_king_female_soninke;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+tribal_king_soninke;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+tribal_king_title_ruler_consort_female_soninke;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+tribal_king_title_ruler_consort_soninke;Tunka;Tunka;Tunka;;Tunka;;;;;;;;;x
+tribal_kingdom_of_soninke;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+tribal_kingdom_soninke;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x
+tribal_temple_baron_female_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+tribal_temple_baron_soninke;Hogon;Hogon;Hogon;;Hogon;;;;;;;;;x
+
+vice_royalty_baron_female_soninke;Kafuna;Kafuna;Kafuna;;Kafuna;;;;;;;;;x # $Or Tigua
+vice_royalty_baron_soninke;Kafi;Kafi;Kafi;;Kafi;;;;;;;;;x # $Or Tigui
+vice_royalty_barony_soninke;Kafu;Kafu;Kafu;;Kafu;;;;;;;;;x
+vice_royalty_count_female_soninke;Farina;Farina;Farina;;Farina;;;;;;;;;x
+vice_royalty_count_soninke;Farin;Farin;Farin;;Farin;;;;;;;;;x
+vice_royalty_county_soninke;Jamana;Jamana;Jamana;;Jamana;;;;;;;;;x
+vice_royalty_duchy_of_soninke;Maghanate of;Maghanate of;Maghanate of;;Maghanate of;;;;;;;;;x
+vice_royalty_duchy_soninke;Maghanate;Maghanate;Maghanate;;Maghanate;;;;;;;;;x
+vice_royalty_duke_female_soninke;Manga;Manga;Manga;;Manga;;;;;;;;;x
+vice_royalty_duke_soninke;Maghan;Maghan;Maghan;;Maghan;;;;;;;;;x
+vice_royalty_emperor_female_soninke;Mansina;Mansina;Mansina;;Mansina;;;;;;;;;x
+vice_royalty_emperor_soninke;Mansa;Mansa;Mansa;;Mansa;;;;;;;;;x
+vice_royalty_empire_of_soninke;Kurufaba of;Kurufaba of;Kurufaba of;;Kurufaba of;;;;;;;;;x
+vice_royalty_empire_soninke;Kurufaba;Kurufaba;Kurufaba;;Kurufaba;;;;;;;;;x
+vice_royalty_king_female_soninke;Ghanina;Ghanina;Ghanina;;Ghanina;;;;;;;;;x # $Or Malika
+vice_royalty_king_soninke;Ghana;Ghana;Ghana;;Ghana;;;;;;;;;x # $Or Faama
+vice_royalty_kingdom_of_soninke;Ghanate of;Ghanate of;Ghanate of;;Ghanate of;;;;;;;;;x
+vice_royalty_kingdom_soninke;Ghanate;Ghanate;Ghanate;;Ghanate;;;;;;;;;x

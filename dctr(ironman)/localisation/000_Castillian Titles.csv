@@ -1,0 +1,220 @@
+###########################################################
+################### Iberian ###############################
+###########################################################
+############## Iberian is Castillan #######################
+
+empire_iberian;Imperio;;;;;;;;;;;;;x
+empire_of_iberian;Imperio de;;;;;;;;;;;;;x
+kingdom_iberian;Reino;;;;;;;;;;;;;x
+kingdom_of_iberian;Reino de;;;;;;;;;;;;;x
+duchy_iberian;Ducado;;;;;;;;;;;;;x
+duchy_of_iberian;Ducado de;;;;;;;;;;;;;x
+county_iberian;Condado;;;;;;;;;;;;;x
+county_of_iberian;Condado de;;;;;;;;;;;;;x
+
+city_kingdom_of_iberian;Serenísima República de;;;;;;;;;;;;;x
+
+emperor_iberian;Emperador;;;;;;;;;;;;;x
+emperor_iberian_female;Emperatriz;;;;;;;;;;;;;x
+king_iberian;Rey;;;;;;;;;;;;;x
+king_iberia_female;Reina;;;;;;;;;;;;;x
+title_prince_iberian;Príncipe;;;;;;;;;;;;;x
+title_prince_iberian;Princesa;;;;;;;;;;;;;x
+duke_iberian;Duque;;;;;;;;;;;;;x
+duke_iberian_female;Duquesa;;;;;;;;;;;;;x
+count_iberian;Conde;;;;;;;;;;;;;x
+count_iberian_female;Condesa;;;;;;;;;;;;;x
+baron_iberian;Barón;;;;;;;;;;;;;x
+baron_female_iberian;Baronesa;;;;;;;;;;;;;x
+
+tribal_count_iberian;Cabo;;;;;;;;;;;;;x
+
+job_chancellor_iberian;Canciller;;;;;;;;;;;;;x
+job_marshal_iberian;Mariscal;;;;;;;;;;;;;x
+job_treasurer_iberian;Tesorero;;;;;;;;;;;;;x
+job_spymaster_iberian;Maestro de espías;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_iberian;Patriarca Ecuménico;;;;;;;;;;;;;x
+COPTIC_POPE_iberian;Papa Copto;;;;;;;;;;;;;x
+POPE_iberian;Papa;;;;;;;;;;;;;x
+family_palace_baron_iberian;Patricio;;;;;;;;;;;;;x
+
+###########################################
+############### Catalan ###################
+###########################################
+
+emperor_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+emperor_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+emperor_title_ruler_consort_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+emperor_title_ruler_consort_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+empire_of_catalan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+
+king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+king_title_ruler_consort_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+king_title_ruler_consort_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+kingdom_catalan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+kingdom_of_catalan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+
+duchy_catalan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+duchy_of_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+duke_female_catalan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+duke_title_ruler_consort_female_catalan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+
+count_female_catalan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+count_title_ruler_consort_female_catalan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+county_catalan;Comtat;Comtat;Comtat;;Comtat;;;;;;;;;x
+county_of_catalan;Comtat de;Comtat de;Comtat de;;Comtat de;;;;;;;;;x
+
+baron_female_catalan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+baron_title_ruler_consort_female_catalan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+barony_catalan;Baronia;Baronia;Baronia;;Baronia;;;;;;;;;x
+barony_of_catalan;Baronia de;Baronia de;Baronia de;;Baronia de;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_catalan;Patriarcat Ecumènic;Patriarcat Ecumènic;Patriarcat Ecumènic;;Patriarcat Ecumènic;;;;;;;;;x
+
+imperial_baron_female_catalan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+imperial_barony_catalan;Baronia;Baronia;Baronia;;Baronia;;;;;;;;;x
+imperial_barony_of_catalan;Baronia de;Baronia de;Baronia de;;Baronia de;;;;;;;;;x
+imperial_count_female_catalan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+imperial_county_catalan;Comtat;Comtat;Comtat;;Comtat;;;;;;;;;x
+imperial_county_of_catalan;Comtat de;Comtat de;Comtat de;;Comtat de;;;;;;;;;x
+imperial_duchy_catalan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+imperial_duchy_of_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_duke_female_catalan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+imperial_emperor_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+imperial_emperor_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+imperial_empire_of_catalan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+imperial_king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+imperial_king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_king_title_ruler_consort_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+imperial_king_title_ruler_consort_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_kingdom_catalan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+imperial_kingdom_of_catalan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+imperial_title_prince_female_catalan;Princessa;Princessa;Princessa;;Princessa;;;;;;;;;x
+imperial_tribal_duchy_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_tribal_duchy_of_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_vice_royalty_duchy_catalan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+imperial_vice_royalty_duchy_of_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+imperial_vice_royalty_duke_female_catalan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+imperial_vice_royalty_king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+imperial_vice_royalty_king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+imperial_vice_royalty_kingdom_catalan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+imperial_vice_royalty_kingdom_of_catalan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+
+nomadic_emperor_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+nomadic_emperor_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+nomadic_emperor_title_ruler_consort_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+nomadic_empire_of_catalan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+nomadic_king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+nomadic_king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+nomadic_king_title_ruler_consort_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+nomadic_king_title_ruler_consort_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+
+PATRIARCH_CAP_catalan;Patriarcat;Patriarcat;Patriarcat;;Patriarcat;;;;;;;;;x
+
+temple_king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+temple_king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+
+title_prince_baron_female_catalan;Princessa;Princessa;Princessa;;Princessa;;;;;;;;;x
+title_prince_female_catalan;Princessa;Princessa;Princessa;;Princessa;;;;;;;;;x
+tribal_baron_female_catalan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+
+tribal_duchy_catalan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+tribal_duchy_of_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+tribal_duke_title_ruler_consort_female_catalan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+tribal_emperor_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+tribal_emperor_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+tribal_emperor_title_ruler_consort_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+tribal_emperor_title_ruler_consort_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+tribal_empire_of_catalan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+tribal_king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+tribal_king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+tribal_king_title_ruler_consort_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+tribal_king_title_ruler_consort_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+tribal_kingdom_catalan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+tribal_kingdom_of_catalan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+vice_royalty_baron_female_catalan;Baronessa;Baronessa;Baronessa;;Baronessa;;;;;;;;;x
+vice_royalty_barony_catalan;Baronia;Baronia;Baronia;;Baronia;;;;;;;;;x
+vice_royalty_count_female_catalan;Comtessa;Comtessa;Comtessa;;Comtessa;;;;;;;;;x
+vice_royalty_county_catalan;Comtat;Comtat;Comtat;;Comtat;;;;;;;;;x
+vice_royalty_duchy_catalan;Ducat;Ducat;Ducat;;Ducat;;;;;;;;;x
+vice_royalty_duchy_of_catalan;Ducat de;Ducat de;Ducat de;;Ducat de;;;;;;;;;x
+vice_royalty_duke_female_catalan;Duquessa;Duquessa;Duquessa;;Duquessa;;;;;;;;;x
+vice_royalty_emperor_catalan;Emperaire;Emperaire;Emperaire;;Emperaire;;;;;;;;;x
+vice_royalty_emperor_female_catalan;Emperairitz;Emperairitz;Emperairitz;;Emperairitz;;;;;;;;;x
+vice_royalty_empire_of_catalan;Empèri de;Empèri de;Empèri de;;Empèri de;;;;;;;;;x
+vice_royalty_king_catalan;Rei;Rei;Rei;;Rei;;;;;;;;;x
+vice_royalty_king_female_catalan;Reina;Reina;Reina;;Reina;;;;;;;;;x
+vice_royalty_kingdom_catalan;Reialme;Reialme;Reialme;;Reialme;;;;;;;;;x
+vice_royalty_kingdom_of_catalan;Reialme de;Reialme de;Reialme de;;Reialme de;;;;;;;;;x
+
+tribal_count_catalan;Cap;;;;;;;;;;;;;x
+
+family_palace_baron_catalan;Patrici;;;;;;;;;;;;;x
+
+###########################################
+############## Portugese ##################
+###########################################
+
+empire_portuguese;Império;;;;;;;;;;;;;x
+empire_of_portugese;Império de;;;;;;;;;;;;;x
+barony_of_portuguese;Baronia de;;;;;;;;;;;;;x
+city_of_portuguese;Cidade de;;;;;;;;;;;;;x
+
+baron_portuguese;Barão;;;;;;;;;;;;;x
+city_baron_portuguese;Prefeito;;;;;;;;;;;;;x
+
+job_chancellor_portuguese;Chanceler;;;;;;;;;;;;;x
+job_marshal_portuguese;Marechal;;;;;;;;;;;;;x
+job_treasurer_portuguese;Mordomo;;;;;;;;;;;;;x
+job_spymaster_portuguese;Espião-mor;;;;;;;;;;;;;x
+
+ECUMENICAL_PATRIARCH_portuguese;Patriarca Ecuménico;;;;;;;;;;;;;x
+COPTIC_POPE_portuguese;Papa Copto;;;;;;;;;;;;;x
+family_palace_baron_portuguese;Patrício;;;;;;;;;;;;;x
+
+
+###########################################
+############### Basque ####################
+###########################################
+
+emperor_basque;Enperadore;;;;;;;;;;;;;x
+emperor_basque_female;Enperatriza;;;;;;;;;;;;;x
+king_basque;Errege;;;;;;;;;;;;;x
+king_basque_female;Erregina;;;;;;;;;;;;;x
+title_prince_basque;Printze;;;;;;;;;;;;;x
+title_prince_female_basque;Printzesa;;;;;;;;;;;;;x
+duke_basque;Dukeak;;;;;;;;;;;;;x
+duke_female_basque;Dukesa;;;;;;;;;;;;;x
+count_basque;Konde;;;;;;;;;;;;;x
+count_female_basque;Kondesa;;;;;;;;;;;;;x
+baron_basque;Baroi;;;;;;;;;;;;;x
+baron_female_basque;Baronessa;;;;;;;;;;;;;x
+
+job_chancellor_portuguese;Kantziler;;;;;;;;;;;;;x
+job_marshal_portuguese;Mariskalaren;;;;;;;;;;;;;x
+job_treasurer_portuguese;Diruzaina;;;;;;;;;;;;;x
+job_spymaster_portuguese;Espioi maisua;;;;;;;;;;;;;x
+
+###########################################
+############## Assyrian ###################
+###########################################
+
+emperor_assyrian;Šar Šarrani;;;;;;;;;;;;;x
+king_assyrian;Malka;;;;;;;;;;;;;x
+king_female_assyrian;Malkta;;;;;;;;;;;;;x
+duke_assyrian;Ptahša;;;;;;;;;;;;;x
+duke_female_assyrian;Ptahšta;;;;;;;;;;;;;x
+count_assyrian;Amir;;;;;;;;;;;;;x
+count_female_assyrian;Amira;;;;;;;;;;;;;x
+baron_assyrian;Gelyar;;;;;;;;;;;;;x
+baron_female_assyrian;Gelyara;;;;;;;;;;;;;x
+
+vice_royalty_king_assyrian;Petšagar;;;;;;;;;;;;;x
+vice_royalty_king_female_assyrian;Petšagara;;;;;;;;;;;;;x
+vice_royalty_duke_assyrian;Padayata;;;;;;;;;;;;;x
+vice_royalty_duke_female_assyrian;Padayata;;;;;;;;;;;;;x
+
+PATRIARCH_IN_THE_EAST_assyrian;Patriarko d-Madenho;;;;;;;;;;;;;x

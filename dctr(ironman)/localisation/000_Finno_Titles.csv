@@ -3,7 +3,6 @@
 ################## Finno-Ugric ############################
 ###########################################################
 
-
 empire_of_finno_ugric;Imperiumi;;;;;;;;;;;;;x
 kingdom_of_finno_ugric;Kuningaskunta;;;;;;;;;;;;;x
 duchy_of_finno_ugric;Herttuakunta;;;;;;;;;;;;;x
@@ -73,9 +72,6 @@ job_spiritual_finno_ugric;Hovikappalainen;;;;;;;;;;;;;x
 ###########################################################
 ################## Finnish ################################
 ###########################################################
-
-k_finland;Finnland;;;;;;;;;;;;;x
-
 
 empire_finnish;Imperiumi;;;;;;;;;;;;;x
 empire_of_finnish;Imperiumi;;;;;;;;;;;;;x
@@ -167,9 +163,6 @@ job_spymaster_finnish;Vakoilija;;;;;;;;;;;;;x
 ###########################################################
 ################## Estonian ###############################
 ###########################################################
-
-k_estonia;Eesti;;;;;;;;;;;;;x
-d_esthonia;Eesti;;;;;;;;;;;;;x
 
 empire_ugricbaltic;Impeerium;;;;;;;;;;;;;x
 empire_of_ugricbaltic;Impeerium;;;;;;;;;;;;;x
